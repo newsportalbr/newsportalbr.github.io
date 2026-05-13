@@ -233,6 +233,9 @@ def generate_privacy_page():
         
         <div class="sidebar">
             <div class="ad-sidebar">
+                <div class="ad-label">
+                    <i class="fas fa-ad"></i> Publicidade
+                </div>
                 <div id="hpf-ad-sidebar">
                     <script>
                         atOptions = {{
@@ -248,6 +251,9 @@ def generate_privacy_page():
             </div>
             
             <div class="ad-sidebar">
+                <div class="ad-label">
+                    <i class="fas fa-ad"></i> Publicidade
+                </div>
                 <div id="hpf-ad-sidebar2">
                     <script>
                         atOptions = {{
@@ -473,6 +479,9 @@ def generate_terms_page():
         
         <div class="sidebar">
             <div class="ad-sidebar">
+                <div class="ad-label">
+                    <i class="fas fa-ad"></i> Publicidade
+                </div>
                 <div id="hpf-ad-sidebar">
                     <script>
                         atOptions = {{
@@ -488,6 +497,9 @@ def generate_terms_page():
             </div>
             
             <div class="ad-sidebar">
+                <div class="ad-label">
+                    <i class="fas fa-ad"></i> Publicidade
+                </div>
                 <div id="hpf-ad-sidebar2">
                     <script>
                         atOptions = {{
@@ -1041,6 +1053,9 @@ html = f"""<!DOCTYPE html>
 def generate_ad():
     return f"""
         <div class="card ad-card">
+            <div class="ad-label">
+                <i class="fas fa-ad"></i> Publicidade
+            </div>
             <div id="hpf-ad-{SITE_CONFIG['hpf_id']}">
                 <script>
                     atOptions = {{
