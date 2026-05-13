@@ -91,6 +91,7 @@ def generate_privacy_page():
         }};
     </script>
     <script src="https://www.highperformanceformat.com/{SITE_CONFIG['adsterra_display_key']}/invoke.js"></script>
+    <script src="https://quge5.com/88/tag.min.js" data-zone="238810" async data-cfasync="false"></script>
     
     <style>
         * {{ margin: 0; padding: 0; box-sizing: border-box; }}
