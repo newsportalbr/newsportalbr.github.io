@@ -4,56 +4,38 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
     
-    <!-- SEO Básico -->
     <title>NewsPortal - Últimas Notícias em Tempo Real</title>
     <meta name="description" content="Portal de notícias atualizado constantemente com as principais manchetes do Brasil e do mundo. Tecnologia, política, economia e entretenimento.">
     <meta name="keywords" content="notícias, portal, atualidades, Brasil, mundo, tecnologia, política, economia">
     <meta name="author" content="NewsPortal">
-    <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large">
-    <link rel="canonical" href="https://newsportalbr.github.io">
+    <meta name="robots" content="index, follow">
+    <link rel="canonical" href="https://seudominio.com">
     
-    <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://newsportalbr.github.io">
+    <meta property="og:url" content="https://seudominio.com">
     <meta property="og:title" content="NewsPortal - Últimas Notícias em Tempo Real">
     <meta property="og:description" content="Portal de notícias atualizado constantemente com as principais manchetes do Brasil e do mundo. Tecnologia, política, economia e entretenimento.">
     <meta property="og:image" content="https://via.placeholder.com/512x512?text=NP">
     <meta property="og:site_name" content="NewsPortal">
-    <meta property="og:locale" content="pt_BR">
     
-    <!-- Twitter Card -->
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:url" content="https://newsportalbr.github.io">
     <meta name="twitter:title" content="NewsPortal - Últimas Notícias em Tempo Real">
     <meta name="twitter:description" content="Portal de notícias atualizado constantemente com as principais manchetes do Brasil e do mundo. Tecnologia, política, economia e entretenimento.">
     <meta name="twitter:image" content="https://via.placeholder.com/512x512?text=NP">
-    <meta name="twitter:site" content="#">
     
-    <!-- Outros Metas -->
     <meta name="theme-color" content="#08111f">
-    <meta name="mobile-web-app-capable" content="yes">
-    <meta name="apple-mobile-web-app-capable" content="yes">
-    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     
-    <!-- Favicon -->
     <link rel="icon" type="image/x-icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📰</text></svg>">
     
-    <!-- Schema.org -->
     <script type="application/ld+json">
     {
         "@context": "https://schema.org",
         "@type": "NewsMediaOrganization",
         "name": "NewsPortal",
-        "url": "https://newsportalbr.github.io",
-        "logo": "https://via.placeholder.com/512x512?text=NP"
+        "url": "https://seudominio.com"
     }
     </script>
     
-    <script type="application/ld+json">
-    {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Início", "item": "https://newsportalbr.github.io"}]}
-    </script>
-    
-    <!-- Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-XXXXXXX-X"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
@@ -62,21 +44,18 @@
         gtag('config', 'UA-XXXXXXX-X');
     </script>
     
-    <!-- Adstera Network -->
-    <script type='text/javascript' src='//pl25455238.toprevenuegate.com/7a/7b/8f/7a7b8f6b3f8f8e8f8a8f8e8f8a8f8e8f.js'></script>
-    
-    <!-- Adsterra Popunder Code -->
-    <script type='text/javascript'>
-        var adsterra_ad = {
-            channel: '29331025',
-            client: '29331025',
-            format: 'popunder',
-            test: 1  // Remove this line when going live
+    <!-- HighPerformanceFormat -->
+    <script>
+        atOptions = {
+            'key' : '59b1a95083fc4642ac472862070573fb',
+            'format' : 'iframe',
+            'height' : 250,
+            'width' : 300,
+            'params' : {}
         };
     </script>
-    <script type='text/javascript' src='//pl25455238.toprevenuegate.com/popunder.js'></script>
+    <script src="https://www.highperformanceformat.com/59b1a95083fc4642ac472862070573fb/invoke.js"></script>
     
-    <!-- Font Awesome -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     
     <style>
@@ -107,11 +86,7 @@
             --shadow: rgba(0, 0, 0, 0.1);
         }
         
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
+        * { margin: 0; padding: 0; box-sizing: border-box; }
         
         body {
             background: var(--background);
@@ -121,21 +96,6 @@
             transition: var(--transition);
         }
         
-        /* Scrollbar */
-        ::-webkit-scrollbar {
-            width: 8px;
-        }
-        
-        ::-webkit-scrollbar-track {
-            background: var(--secondary);
-        }
-        
-        ::-webkit-scrollbar-thumb {
-            background: var(--primary);
-            border-radius: 5px;
-        }
-        
-        /* Header */
         .header {
             background: linear-gradient(135deg, var(--secondary) 0%, var(--card-bg) 100%);
             padding: 15px 20px;
@@ -144,7 +104,6 @@
             top: 0;
             z-index: 1000;
             backdrop-filter: blur(10px);
-            box-shadow: 0 2px 20px var(--shadow);
         }
         
         .header-content {
@@ -195,7 +154,6 @@
             transform: scale(1.05);
         }
         
-        /* Container */
         .container {
             max-width: 1400px;
             margin: 0 auto;
@@ -205,7 +163,6 @@
             gap: clamp(15px, 3vw, 30px);
         }
         
-        /* Cards */
         .card {
             background: var(--card-bg);
             border-radius: 16px;
@@ -271,7 +228,6 @@
             border-radius: 20px;
             font-size: clamp(10px, 3vw, 12px);
             font-weight: bold;
-            z-index: 1;
         }
         
         .reading-time {
@@ -295,7 +251,6 @@
             margin-bottom: 8px;
             font-weight: bold;
             text-transform: uppercase;
-            letter-spacing: 1px;
             display: flex;
             align-items: center;
             gap: 6px;
@@ -356,14 +311,13 @@
             transform: scale(1.1);
         }
         
-        /* Anúncio Adsterra */
         .ad-card {
             background: linear-gradient(135deg, var(--card-bg), var(--secondary));
             display: flex;
             flex-direction: column;
             justify-content: center;
             align-items: center;
-            min-height: 280px;
+            min-height: 300px;
             text-align: center;
             border: 2px dashed var(--primary);
             padding: 20px;
@@ -377,13 +331,6 @@
             margin-bottom: 15px;
         }
         
-        .adsterra-banner {
-            width: 100%;
-            max-width: 600px;
-            margin: 0 auto;
-        }
-        
-        /* Newsletter */
         .newsletter {
             background: linear-gradient(135deg, var(--primary), var(--accent));
             border-radius: 16px;
@@ -397,10 +344,6 @@
         .newsletter h3 {
             font-size: clamp(20px, 6vw, 28px);
             margin-bottom: 15px;
-        }
-        
-        .newsletter p {
-            font-size: clamp(12px, 4vw, 16px);
         }
         
         .newsletter-form {
@@ -429,15 +372,8 @@
             cursor: pointer;
             font-weight: bold;
             transition: var(--transition);
-            font-size: clamp(12px, 4vw, 14px);
         }
         
-        .newsletter-form button:hover {
-            transform: translateY(-2px);
-            box-shadow: 0 5px 15px rgba(0,0,0,0.2);
-        }
-        
-        /* Footer */
         .footer {
             background: var(--secondary);
             padding: 40px 20px 20px;
@@ -456,11 +392,6 @@
         .footer-section h4 {
             color: var(--primary);
             margin-bottom: 15px;
-            font-size: clamp(16px, 4vw, 18px);
-        }
-        
-        .footer-section p, .footer-section a {
-            font-size: clamp(12px, 3.5vw, 14px);
         }
         
         .footer-section a {
@@ -504,10 +435,8 @@
             padding-top: 30px;
             border-top: 1px solid rgba(73, 167, 255, 0.1);
             color: var(--text-secondary);
-            font-size: clamp(11px, 3vw, 14px);
         }
         
-        /* Back to top */
         .back-to-top {
             position: fixed;
             bottom: 20px;
@@ -532,12 +461,6 @@
             visibility: visible;
         }
         
-        .back-to-top:hover {
-            transform: translateY(-5px);
-            background: var(--accent);
-        }
-        
-        /* Responsive */
         @media (max-width: 768px) {
             .container {
                 grid-template-columns: 1fr;
@@ -545,35 +468,9 @@
             .footer-content {
                 grid-template-columns: 1fr;
                 text-align: center;
-                gap: 25px;
             }
             .social-links {
                 justify-content: center;
-            }
-            .footer-section a {
-                text-align: center;
-            }
-        }
-        
-        @media (max-width: 480px) {
-            .header-content {
-                flex-direction: row;
-            }
-            .newsletter-form input {
-                min-width: 100%;
-            }
-            .newsletter-form button {
-                width: 100%;
-            }
-        }
-        
-        /* Touch optimizations */
-        @media (hover: none) and (pointer: coarse) {
-            .card:hover {
-                transform: none;
-            }
-            .share-btn:hover {
-                transform: none;
             }
         }
         
@@ -644,7 +541,7 @@
                             <button class="share-btn" onclick="shareArticle('facebook', this)">
                                 <i class="fab fa-facebook"></i>
                             </button>
-                            <button class="share-btn" onclick="shareArticle('whatsapp', this)">
+                            <button class="share-btn" onclick="shareArticle('whatsapp", this)">
                                 <i class="fab fa-whatsapp"></i>
                             </button>
                         </div>
@@ -689,7 +586,7 @@
                             <button class="share-btn" onclick="shareArticle('facebook', this)">
                                 <i class="fab fa-facebook"></i>
                             </button>
-                            <button class="share-btn" onclick="shareArticle('whatsapp', this)">
+                            <button class="share-btn" onclick="shareArticle('whatsapp", this)">
                                 <i class="fab fa-whatsapp"></i>
                             </button>
                         </div>
@@ -698,12 +595,12 @@
             </a>
         </div>
     
-        <div class="card" data-url="https://www1.folha.uol.com.br/cotidiano/2026/05/nao-acho-que-essa-empresa-deva-ser-privatizada-diz-presidente-do-metro-de-sp.shtml" data-title="'Não acho que essa empresa deva ser privatizada', diz presidente do Metrô de SP">
-            <a href="https://www1.folha.uol.com.br/cotidiano/2026/05/nao-acho-que-essa-empresa-deva-ser-privatizada-diz-presidente-do-metro-de-sp.shtml" target="_blank">
+        <div class="card" data-url="https://www1.folha.uol.com.br/poder/2026/05/kassio-que-agora-preside-tse-foi-a-favor-de-manter-bolsonaro-elegivel-relembre-votos.shtml" data-title="Kassio, que agora preside TSE, foi a favor de manter Bolsonaro elegível; relembre votos">
+            <a href="https://www1.folha.uol.com.br/poder/2026/05/kassio-que-agora-preside-tse-foi-a-favor-de-manter-bolsonaro-elegivel-relembre-votos.shtml" target="_blank">
                 <div class="image-container">
                     <img class="thumb" 
-                         src="https://f.i.uol.com.br/fotografia/2025/12/08/1765220599693720f7a507b_1765220599_3x2_rt.jpg" 
-                         alt="'Não acho que essa empresa deva ser privatizada', diz presidente do Metrô de SP"
+                         src="https://f.i.uol.com.br/fotografia/2025/02/14/173954420067af568869f7d_1739544200_3x2_rt.jpg" 
+                         alt="Kassio, que agora preside TSE, foi a favor de manter Bolsonaro elegível; relembre votos"
                          loading="lazy"
                          onerror="this.src='https://via.placeholder.com/800x600?text=Imagem+Indisponível'">
                     <div class="badge">
@@ -718,10 +615,10 @@
                         <i class="fas fa-globe"></i> UOL
                     </div>
                     <div class="title">
-                        'Não acho que essa empresa deva ser privatizada', diz presidente do Metrô de SP
+                        Kassio, que agora preside TSE, foi a favor de manter Bolsonaro elegível; relembre votos
                     </div>
                     <div class="description">
-                        Leia as últimas notícias sobre 'Não acho que essa empresa deva ser privatizada', diz presidente do Metrô de SP....
+                        Leia as últimas notícias sobre Kassio, que agora preside TSE, foi a favor de manter Bolsonaro elegível; relembre votos....
                     </div>
                     <div class="meta">
                         <span>
@@ -734,7 +631,7 @@
                             <button class="share-btn" onclick="shareArticle('facebook', this)">
                                 <i class="fab fa-facebook"></i>
                             </button>
-                            <button class="share-btn" onclick="shareArticle('whatsapp', this)">
+                            <button class="share-btn" onclick="shareArticle('whatsapp", this)">
                                 <i class="fab fa-whatsapp"></i>
                             </button>
                         </div>
@@ -743,23 +640,30 @@
             </a>
         </div>
     
-        <div class="adsterra-banner">
-            <iframe
-                src="https://publishers.adsterra.com/offers/offers?pub_id=29331025&format=300x250"
-                width="100%"
-                height="250"
-                scrolling="no"
-                frameborder="0"
-                style="border:none; overflow:hidden;">
-            </iframe>
+        <div class="card ad-card">
+            <div class="ad-label">
+                <i class="fas fa-ad"></i> Publicidade
+            </div>
+            <div id="hpf-ad-29331025">
+                <script>
+                    atOptions = {
+                        'key' : '59b1a95083fc4642ac472862070573fb',
+                        'format' : 'iframe',
+                        'height' : 250,
+                        'width' : 300,
+                        'params' : {}
+                    };
+                </script>
+                <script src="https://www.highperformanceformat.com/59b1a95083fc4642ac472862070573fb/invoke.js"></script>
+            </div>
         </div>
     
-        <div class="card" data-url="https://www.cnnbrasil.com.br/politica/durigan-diz-que-trump-se-sensibilizou-com-historia-de-lula/" data-title="Durigan diz que Trump se sensibilizou com história de Lula">
-            <a href="https://www.cnnbrasil.com.br/politica/durigan-diz-que-trump-se-sensibilizou-com-historia-de-lula/" target="_blank">
+        <div class="card" data-url="https://www.cnnbrasil.com.br/politica/espero-que-todos-votem-com-liberdade-e-responsabilidade-diz-mendonca/" data-title="Espero que todos votem com liberdade e responsabilidade, diz Mendonça">
+            <a href="https://www.cnnbrasil.com.br/politica/espero-que-todos-votem-com-liberdade-e-responsabilidade-diz-mendonca/" target="_blank">
                 <div class="image-container">
                     <img class="thumb" 
-                         src="https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/05/WhatsApp-Image-2026-05-07-at-15.23.57-e1778262255674.jpeg?w=1200&h=630&crop=1" 
-                         alt="Durigan diz que Trump se sensibilizou com história de Lula"
+                         src="https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/05/andre-mendonca-stf.jpg?w=1200&h=630&crop=1" 
+                         alt="Espero que todos votem com liberdade e responsabilidade, diz Mendonça"
                          loading="lazy"
                          onerror="this.src='https://via.placeholder.com/800x600?text=Imagem+Indisponível'">
                     <div class="badge">
@@ -774,10 +678,10 @@
                         <i class="fas fa-globe"></i> CNN Brasil
                     </div>
                     <div class="title">
-                        Durigan diz que Trump se sensibilizou com história de Lula
+                        Espero que todos votem com liberdade e responsabilidade, diz Mendonça
                     </div>
                     <div class="description">
-                        Leia as últimas notícias sobre Durigan diz que Trump se sensibilizou com história de Lula....
+                        Leia as últimas notícias sobre Espero que todos votem com liberdade e responsabilidade, diz Mendonça....
                     </div>
                     <div class="meta">
                         <span>
@@ -790,7 +694,7 @@
                             <button class="share-btn" onclick="shareArticle('facebook', this)">
                                 <i class="fab fa-facebook"></i>
                             </button>
-                            <button class="share-btn" onclick="shareArticle('whatsapp', this)">
+                            <button class="share-btn" onclick="shareArticle('whatsapp", this)">
                                 <i class="fab fa-whatsapp"></i>
                             </button>
                         </div>
@@ -835,7 +739,7 @@
                             <button class="share-btn" onclick="shareArticle('facebook', this)">
                                 <i class="fab fa-facebook"></i>
                             </button>
-                            <button class="share-btn" onclick="shareArticle('whatsapp', this)">
+                            <button class="share-btn" onclick="shareArticle('whatsapp", this)">
                                 <i class="fab fa-whatsapp"></i>
                             </button>
                         </div>
@@ -880,7 +784,7 @@
                             <button class="share-btn" onclick="shareArticle('facebook', this)">
                                 <i class="fab fa-facebook"></i>
                             </button>
-                            <button class="share-btn" onclick="shareArticle('whatsapp', this)">
+                            <button class="share-btn" onclick="shareArticle('whatsapp", this)">
                                 <i class="fab fa-whatsapp"></i>
                             </button>
                         </div>
@@ -889,15 +793,22 @@
             </a>
         </div>
     
-        <div class="adsterra-banner">
-            <iframe
-                src="https://publishers.adsterra.com/offers/offers?pub_id=29331025&format=300x250"
-                width="100%"
-                height="250"
-                scrolling="no"
-                frameborder="0"
-                style="border:none; overflow:hidden;">
-            </iframe>
+        <div class="card ad-card">
+            <div class="ad-label">
+                <i class="fas fa-ad"></i> Publicidade
+            </div>
+            <div id="hpf-ad-29331025">
+                <script>
+                    atOptions = {
+                        'key' : '59b1a95083fc4642ac472862070573fb',
+                        'format' : 'iframe',
+                        'height' : 250,
+                        'width' : 300,
+                        'params' : {}
+                    };
+                </script>
+                <script src="https://www.highperformanceformat.com/59b1a95083fc4642ac472862070573fb/invoke.js"></script>
+            </div>
         </div>
     
         <div class="card" data-url="https://g1.globo.com/jornal-nacional/noticia/2026/05/12/nunes-marques-assume-a-presidencia-do-tse-ministro-vai-comandar-as-eleicoes-de-outubro.ghtml" data-title="Nunes Marques assume a presidência do TSE; ministro vai comandar as eleições de outubro">
@@ -936,7 +847,7 @@
                             <button class="share-btn" onclick="shareArticle('facebook', this)">
                                 <i class="fab fa-facebook"></i>
                             </button>
-                            <button class="share-btn" onclick="shareArticle('whatsapp', this)">
+                            <button class="share-btn" onclick="shareArticle('whatsapp", this)">
                                 <i class="fab fa-whatsapp"></i>
                             </button>
                         </div>
@@ -945,12 +856,12 @@
             </a>
         </div>
     
-        <div class="card" data-url="https://www1.folha.uol.com.br/colunas/marceloviana/2026/05/grothendieck-o-mais-complexo-dos-matematicos.shtml" data-title="Grothendieck, o mais complexo dos matemáticos">
-            <a href="https://www1.folha.uol.com.br/colunas/marceloviana/2026/05/grothendieck-o-mais-complexo-dos-matematicos.shtml" target="_blank">
+        <div class="card" data-url="https://www1.folha.uol.com.br/mercado/2026/05/disputa-entre-socios-da-azzas-2154-aprofunda-estresse-em-grupo-dono-de-hering-e-arezzo.shtml" data-title="Disputa entre sócios da Azzas 2154 aprofunda estresse em grupo dono de Hering e Arezzo">
+            <a href="https://www1.folha.uol.com.br/mercado/2026/05/disputa-entre-socios-da-azzas-2154-aprofunda-estresse-em-grupo-dono-de-hering-e-arezzo.shtml" target="_blank">
                 <div class="image-container">
                     <img class="thumb" 
-                         src="https://f.i.uol.com.br/fotografia/2026/05/12/17786150076a0382df147b6_1778615007_3x2_lg.jpg" 
-                         alt="Grothendieck, o mais complexo dos matemáticos"
+                         src="https://f.i.uol.com.br/fotografia/2026/05/12/17786339456a03ccd90e4b1_1778633945_3x2_rt.jpg" 
+                         alt="Disputa entre sócios da Azzas 2154 aprofunda estresse em grupo dono de Hering e Arezzo"
                          loading="lazy"
                          onerror="this.src='https://via.placeholder.com/800x600?text=Imagem+Indisponível'">
                     <div class="badge">
@@ -965,10 +876,10 @@
                         <i class="fas fa-globe"></i> UOL
                     </div>
                     <div class="title">
-                        Grothendieck, o mais complexo dos matemáticos
+                        Disputa entre sócios da Azzas 2154 aprofunda estresse em grupo dono de Hering e Arezzo
                     </div>
                     <div class="description">
-                        Leia as últimas notícias sobre Grothendieck, o mais complexo dos matemáticos....
+                        Leia as últimas notícias sobre Disputa entre sócios da Azzas 2154 aprofunda estresse em grupo dono de Hering e Arezzo....
                     </div>
                     <div class="meta">
                         <span>
@@ -981,7 +892,7 @@
                             <button class="share-btn" onclick="shareArticle('facebook', this)">
                                 <i class="fab fa-facebook"></i>
                             </button>
-                            <button class="share-btn" onclick="shareArticle('whatsapp', this)">
+                            <button class="share-btn" onclick="shareArticle('whatsapp", this)">
                                 <i class="fab fa-whatsapp"></i>
                             </button>
                         </div>
@@ -990,12 +901,12 @@
             </a>
         </div>
     
-        <div class="card" data-url="https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/campeonato-de-bafo-com-album-da-copa-tera-entrada-gratuita-na-paulista/" data-title="Campeonato de “bafo” com figurinhas da Copa será realizado na Paulista">
-            <a href="https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/campeonato-de-bafo-com-album-da-copa-tera-entrada-gratuita-na-paulista/" target="_blank">
+        <div class="card" data-url="https://www.cnnbrasil.com.br/esportes/futebol/selecao-brasileira/ancelotti-avalia-temporada-de-neymar-melhorou-bastante-nos-ultimos-jogos/" data-title="Ancelotti avalia temporada de Neymar: “Melhorou bastante nos últimos jogos”">
+            <a href="https://www.cnnbrasil.com.br/esportes/futebol/selecao-brasileira/ancelotti-avalia-temporada-de-neymar-melhorou-bastante-nos-ultimos-jogos/" target="_blank">
                 <div class="image-container">
                     <img class="thumb" 
-                         src="https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/04/WhatsApp-Image-2026-04-25-at-14.25.57-2-e1778635457386.jpeg?w=1200&h=630&crop=1" 
-                         alt="Campeonato de “bafo” com figurinhas da Copa será realizado na Paulista"
+                         src="https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/03/ancelotti-e1774568638558.jpg?w=1200&h=630&crop=1" 
+                         alt="Ancelotti avalia temporada de Neymar: “Melhorou bastante nos últimos jogos”"
                          loading="lazy"
                          onerror="this.src='https://via.placeholder.com/800x600?text=Imagem+Indisponível'">
                     <div class="badge">
@@ -1010,10 +921,10 @@
                         <i class="fas fa-globe"></i> CNN Brasil
                     </div>
                     <div class="title">
-                        Campeonato de “bafo” com figurinhas da Copa será realizado na Paulista
+                        Ancelotti avalia temporada de Neymar: “Melhorou bastante nos últimos jogos”
                     </div>
                     <div class="description">
-                        Leia as últimas notícias sobre Campeonato de “bafo” com figurinhas da Copa será realizado na Paulista....
+                        Leia as últimas notícias sobre Ancelotti avalia temporada de Neymar: “Melhorou bastante nos últimos jogos”....
                     </div>
                     <div class="meta">
                         <span>
@@ -1026,7 +937,7 @@
                             <button class="share-btn" onclick="shareArticle('facebook', this)">
                                 <i class="fab fa-facebook"></i>
                             </button>
-                            <button class="share-btn" onclick="shareArticle('whatsapp', this)">
+                            <button class="share-btn" onclick="shareArticle('whatsapp", this)">
                                 <i class="fab fa-whatsapp"></i>
                             </button>
                         </div>
@@ -1035,15 +946,22 @@
             </a>
         </div>
     
-        <div class="adsterra-banner">
-            <iframe
-                src="https://publishers.adsterra.com/offers/offers?pub_id=29331025&format=300x250"
-                width="100%"
-                height="250"
-                scrolling="no"
-                frameborder="0"
-                style="border:none; overflow:hidden;">
-            </iframe>
+        <div class="card ad-card">
+            <div class="ad-label">
+                <i class="fas fa-ad"></i> Publicidade
+            </div>
+            <div id="hpf-ad-29331025">
+                <script>
+                    atOptions = {
+                        'key' : '59b1a95083fc4642ac472862070573fb',
+                        'format' : 'iframe',
+                        'height' : 250,
+                        'width' : 300,
+                        'params' : {}
+                    };
+                </script>
+                <script src="https://www.highperformanceformat.com/59b1a95083fc4642ac472862070573fb/invoke.js"></script>
+            </div>
         </div>
     
         <div class="card" data-url="https://www.terra.com.br/esportes/futebol/copa-2026/copa-do-mundo-avenida-paulista-recebera-campeonato-de-bafo,8d4f9c6d77928387641803023e9e26076egad5kz.html" data-title="Copa do Mundo: Avenida Paulista receberá campeonato de bafo">
@@ -1082,7 +1000,7 @@
                             <button class="share-btn" onclick="shareArticle('facebook', this)">
                                 <i class="fab fa-facebook"></i>
                             </button>
-                            <button class="share-btn" onclick="shareArticle('whatsapp', this)">
+                            <button class="share-btn" onclick="shareArticle('whatsapp", this)">
                                 <i class="fab fa-whatsapp"></i>
                             </button>
                         </div>
@@ -1127,7 +1045,7 @@
                             <button class="share-btn" onclick="shareArticle('facebook', this)">
                                 <i class="fab fa-facebook"></i>
                             </button>
-                            <button class="share-btn" onclick="shareArticle('whatsapp', this)">
+                            <button class="share-btn" onclick="shareArticle('whatsapp", this)">
                                 <i class="fab fa-whatsapp"></i>
                             </button>
                         </div>
@@ -1172,7 +1090,7 @@
                             <button class="share-btn" onclick="shareArticle('facebook', this)">
                                 <i class="fab fa-facebook"></i>
                             </button>
-                            <button class="share-btn" onclick="shareArticle('whatsapp', this)">
+                            <button class="share-btn" onclick="shareArticle('whatsapp", this)">
                                 <i class="fab fa-whatsapp"></i>
                             </button>
                         </div>
@@ -1181,23 +1099,30 @@
             </a>
         </div>
     
-        <div class="adsterra-banner">
-            <iframe
-                src="https://publishers.adsterra.com/offers/offers?pub_id=29331025&format=300x250"
-                width="100%"
-                height="250"
-                scrolling="no"
-                frameborder="0"
-                style="border:none; overflow:hidden;">
-            </iframe>
+        <div class="card ad-card">
+            <div class="ad-label">
+                <i class="fas fa-ad"></i> Publicidade
+            </div>
+            <div id="hpf-ad-29331025">
+                <script>
+                    atOptions = {
+                        'key' : '59b1a95083fc4642ac472862070573fb',
+                        'format' : 'iframe',
+                        'height' : 250,
+                        'width' : 300,
+                        'params' : {}
+                    };
+                </script>
+                <script src="https://www.highperformanceformat.com/59b1a95083fc4642ac472862070573fb/invoke.js"></script>
+            </div>
         </div>
     
-        <div class="card" data-url="https://www1.folha.uol.com.br/cotidiano/2026/05/foto-inedita-de-missa-campal-apos-lei-aurea-e-encontrada-na-franca.shtml" data-title="Foto inédita de missa campal após Lei Áurea é encontrada na França">
-            <a href="https://www1.folha.uol.com.br/cotidiano/2026/05/foto-inedita-de-missa-campal-apos-lei-aurea-e-encontrada-na-franca.shtml" target="_blank">
+        <div class="card" data-url="https://www1.folha.uol.com.br/mercado/2026/05/ype-diz-que-mudou-tratamento-da-agua-apos-primeira-fiscalizacao-da-anvisa.shtml" data-title="Ypê diz que mudou tratamento da água após primeira fiscalização da Anvisa">
+            <a href="https://www1.folha.uol.com.br/mercado/2026/05/ype-diz-que-mudou-tratamento-da-agua-apos-primeira-fiscalizacao-da-anvisa.shtml" target="_blank">
                 <div class="image-container">
                     <img class="thumb" 
-                         src="https://f.i.uol.com.br/fotografia/2026/05/08/177821041369fd566d9bcab_1778210413_3x2_xl.jpg" 
-                         alt="Foto inédita de missa campal após Lei Áurea é encontrada na França"
+                         src="https://f.i.uol.com.br/fotografia/2026/05/12/17786309546a03c12adb750_1778630954_3x2_rt.jpg" 
+                         alt="Ypê diz que mudou tratamento da água após primeira fiscalização da Anvisa"
                          loading="lazy"
                          onerror="this.src='https://via.placeholder.com/800x600?text=Imagem+Indisponível'">
                     <div class="badge">
@@ -1212,10 +1137,10 @@
                         <i class="fas fa-globe"></i> UOL
                     </div>
                     <div class="title">
-                        Foto inédita de missa campal após Lei Áurea é encontrada na França
+                        Ypê diz que mudou tratamento da água após primeira fiscalização da Anvisa
                     </div>
                     <div class="description">
-                        Leia as últimas notícias sobre Foto inédita de missa campal após Lei Áurea é encontrada na França....
+                        Leia as últimas notícias sobre Ypê diz que mudou tratamento da água após primeira fiscalização da Anvisa....
                     </div>
                     <div class="meta">
                         <span>
@@ -1228,7 +1153,7 @@
                             <button class="share-btn" onclick="shareArticle('facebook', this)">
                                 <i class="fab fa-facebook"></i>
                             </button>
-                            <button class="share-btn" onclick="shareArticle('whatsapp', this)">
+                            <button class="share-btn" onclick="shareArticle('whatsapp", this)">
                                 <i class="fab fa-whatsapp"></i>
                             </button>
                         </div>
@@ -1237,12 +1162,12 @@
             </a>
         </div>
     
-        <div class="card" data-url="https://www.cnnbrasil.com.br/economia/macroeconomia/governo-perdera-quase-r-10-bi-em-tres-anos-com-fim-da-taxa-das-blusinhas/" data-title="Governo perderá quase R$ 10 bi em três anos com fim da “taxa das blusinhas”">
-            <a href="https://www.cnnbrasil.com.br/economia/macroeconomia/governo-perdera-quase-r-10-bi-em-tres-anos-com-fim-da-taxa-das-blusinhas/" target="_blank">
+        <div class="card" data-url="https://www.cnnbrasil.com.br/entretenimento/confira-os-looks-das-celebridades-na-abertura-do-festival-de-cannes-de-2026/" data-title="Confira os looks das celebridades na abertura do Festival de Cannes de 2026">
+            <a href="https://www.cnnbrasil.com.br/entretenimento/confira-os-looks-das-celebridades-na-abertura-do-festival-de-cannes-de-2026/" target="_blank">
                 <div class="image-container">
                     <img class="thumb" 
-                         src="https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/05/1-lula_taxa_blusinhas.jpeg?w=1060&h=596&crop=1" 
-                         alt="Governo perderá quase R$ 10 bi em três anos com fim da “taxa das blusinhas”"
+                         src="https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/05/cannes.png?w=1200&h=630&crop=1" 
+                         alt="Confira os looks das celebridades na abertura do Festival de Cannes de 2026"
                          loading="lazy"
                          onerror="this.src='https://via.placeholder.com/800x600?text=Imagem+Indisponível'">
                     <div class="badge">
@@ -1257,10 +1182,10 @@
                         <i class="fas fa-globe"></i> CNN Brasil
                     </div>
                     <div class="title">
-                        Governo perderá quase R$ 10 bi em três anos com fim da “taxa das blusinhas”
+                        Confira os looks das celebridades na abertura do Festival de Cannes de 2026
                     </div>
                     <div class="description">
-                        Leia as últimas notícias sobre Governo perderá quase R$ 10 bi em três anos com fim da “taxa das blusinhas”....
+                        Leia as últimas notícias sobre Confira os looks das celebridades na abertura do Festival de Cannes de 2026....
                     </div>
                     <div class="meta">
                         <span>
@@ -1273,7 +1198,7 @@
                             <button class="share-btn" onclick="shareArticle('facebook', this)">
                                 <i class="fab fa-facebook"></i>
                             </button>
-                            <button class="share-btn" onclick="shareArticle('whatsapp', this)">
+                            <button class="share-btn" onclick="shareArticle('whatsapp", this)">
                                 <i class="fab fa-whatsapp"></i>
                             </button>
                         </div>
@@ -1318,7 +1243,7 @@
                             <button class="share-btn" onclick="shareArticle('facebook', this)">
                                 <i class="fab fa-facebook"></i>
                             </button>
-                            <button class="share-btn" onclick="shareArticle('whatsapp', this)">
+                            <button class="share-btn" onclick="shareArticle('whatsapp", this)">
                                 <i class="fab fa-whatsapp"></i>
                             </button>
                         </div>
@@ -1327,15 +1252,22 @@
             </a>
         </div>
     
-        <div class="adsterra-banner">
-            <iframe
-                src="https://publishers.adsterra.com/offers/offers?pub_id=29331025&format=300x250"
-                width="100%"
-                height="250"
-                scrolling="no"
-                frameborder="0"
-                style="border:none; overflow:hidden;">
-            </iframe>
+        <div class="card ad-card">
+            <div class="ad-label">
+                <i class="fas fa-ad"></i> Publicidade
+            </div>
+            <div id="hpf-ad-29331025">
+                <script>
+                    atOptions = {
+                        'key' : '59b1a95083fc4642ac472862070573fb',
+                        'format' : 'iframe',
+                        'height' : 250,
+                        'width' : 300,
+                        'params' : {}
+                    };
+                </script>
+                <script src="https://www.highperformanceformat.com/59b1a95083fc4642ac472862070573fb/invoke.js"></script>
+            </div>
         </div>
     
         <div class="card" data-url="https://www.bbc.com/portuguese/articles/c4g4kx2v17ko?at_medium=RSS&at_campaign=rss" data-title="Como ditadura teria assassinado Juscelino Kubitschek, segundo comissão">
@@ -1374,7 +1306,7 @@
                             <button class="share-btn" onclick="shareArticle('facebook', this)">
                                 <i class="fab fa-facebook"></i>
                             </button>
-                            <button class="share-btn" onclick="shareArticle('whatsapp', this)">
+                            <button class="share-btn" onclick="shareArticle('whatsapp", this)">
                                 <i class="fab fa-whatsapp"></i>
                             </button>
                         </div>
@@ -1419,7 +1351,7 @@
                             <button class="share-btn" onclick="shareArticle('facebook', this)">
                                 <i class="fab fa-facebook"></i>
                             </button>
-                            <button class="share-btn" onclick="shareArticle('whatsapp', this)">
+                            <button class="share-btn" onclick="shareArticle('whatsapp", this)">
                                 <i class="fab fa-whatsapp"></i>
                             </button>
                         </div>
@@ -1428,12 +1360,12 @@
             </a>
         </div>
     
-        <div class="card" data-url="https://tnonline.uol.com.br/noticias/cotidiano/mega-sena-concurso-3007-acumula-e-premio-sobe-para-r-60-milhoes-1089070" data-title="Mega-Sena concurso 3007 acumula e prémio sobe para R$ 60 milhões">
-            <a href="https://tnonline.uol.com.br/noticias/cotidiano/mega-sena-concurso-3007-acumula-e-premio-sobe-para-r-60-milhoes-1089070" target="_blank">
+        <div class="card" data-url="https://www1.folha.uol.com.br/colunas/vaivem/2026/05/setor-de-hortalicas-discute-efeitos-do-clima-sobre-a-atividade.shtml" data-title="Setor de hortaliças discute efeitos do clima sobre a atividade">
+            <a href="https://www1.folha.uol.com.br/colunas/vaivem/2026/05/setor-de-hortalicas-discute-efeitos-do-clima-sobre-a-atividade.shtml" target="_blank">
                 <div class="image-container">
                     <img class="thumb" 
-                         src="https://cdn.tnonline.com.br/img/Instant-Article/1080000/1200x630/111-apostas-acertaram-cinco-dezenas-e-vao-receber--01083957-0-202604232300/ScaleProportionalFillBackground-1.jpg?fallback=https%3A%2F%2Fcdn.tnonline.com.br%2Fimg%2FInstant-Article%2F1080000%2F111-apostas-acertaram-cinco-dezenas-e-vao-receber--01083957-0-202604232300.png%3Fxid%3D1718739&xid=1718739" 
-                         alt="Mega-Sena concurso 3007 acumula e prémio sobe para R$ 60 milhões"
+                         src="https://f.i.uol.com.br/fotografia/2026/05/12/17786351096a03d1656920d_1778635109_3x2_rt.jpg" 
+                         alt="Setor de hortaliças discute efeitos do clima sobre a atividade"
                          loading="lazy"
                          onerror="this.src='https://via.placeholder.com/800x600?text=Imagem+Indisponível'">
                     <div class="badge">
@@ -1448,10 +1380,10 @@
                         <i class="fas fa-globe"></i> UOL
                     </div>
                     <div class="title">
-                        Mega-Sena concurso 3007 acumula e prémio sobe para R$ 60 milhões
+                        Setor de hortaliças discute efeitos do clima sobre a atividade
                     </div>
                     <div class="description">
-                        Leia as últimas notícias sobre Mega-Sena concurso 3007 acumula e prémio sobe para R$ 60 milhões....
+                        Leia as últimas notícias sobre Setor de hortaliças discute efeitos do clima sobre a atividade....
                     </div>
                     <div class="meta">
                         <span>
@@ -1464,7 +1396,7 @@
                             <button class="share-btn" onclick="shareArticle('facebook', this)">
                                 <i class="fab fa-facebook"></i>
                             </button>
-                            <button class="share-btn" onclick="shareArticle('whatsapp', this)">
+                            <button class="share-btn" onclick="shareArticle('whatsapp", this)">
                                 <i class="fab fa-whatsapp"></i>
                             </button>
                         </div>
@@ -1473,23 +1405,30 @@
             </a>
         </div>
     
-        <div class="adsterra-banner">
-            <iframe
-                src="https://publishers.adsterra.com/offers/offers?pub_id=29331025&format=300x250"
-                width="100%"
-                height="250"
-                scrolling="no"
-                frameborder="0"
-                style="border:none; overflow:hidden;">
-            </iframe>
+        <div class="card ad-card">
+            <div class="ad-label">
+                <i class="fas fa-ad"></i> Publicidade
+            </div>
+            <div id="hpf-ad-29331025">
+                <script>
+                    atOptions = {
+                        'key' : '59b1a95083fc4642ac472862070573fb',
+                        'format' : 'iframe',
+                        'height' : 250,
+                        'width' : 300,
+                        'params' : {}
+                    };
+                </script>
+                <script src="https://www.highperformanceformat.com/59b1a95083fc4642ac472862070573fb/invoke.js"></script>
+            </div>
         </div>
     
-        <div class="card" data-url="https://www.cnnbrasil.com.br/politica/waack-vale-tudo-de-lula-inclui-blusinhas-crime-e-gasolina/" data-title="Waack: Vale tudo de Lula inclui blusinhas, crime e gasolina">
-            <a href="https://www.cnnbrasil.com.br/politica/waack-vale-tudo-de-lula-inclui-blusinhas-crime-e-gasolina/" target="_blank">
+        <div class="card" data-url="https://www.cnnbrasil.com.br/entretenimento/shania-twain-fala-sobre-sua-primeira-vez-apresentando-o-acm-awards/" data-title="Shania Twain fala sobre sua primeira vez apresentando o ACM Awards">
+            <a href="https://www.cnnbrasil.com.br/entretenimento/shania-twain-fala-sobre-sua-primeira-vez-apresentando-o-acm-awards/" target="_blank">
                 <div class="image-container">
                     <img class="thumb" 
-                         src="https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/05/WhatsApp-Image-2026-05-12-at-13.36.50.jpeg?w=884&h=453&crop=1" 
-                         alt="Waack: Vale tudo de Lula inclui blusinhas, crime e gasolina"
+                         src="https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2024/07/shania.jpg?w=1200&h=630&crop=1" 
+                         alt="Shania Twain fala sobre sua primeira vez apresentando o ACM Awards"
                          loading="lazy"
                          onerror="this.src='https://via.placeholder.com/800x600?text=Imagem+Indisponível'">
                     <div class="badge">
@@ -1504,10 +1443,10 @@
                         <i class="fas fa-globe"></i> CNN Brasil
                     </div>
                     <div class="title">
-                        Waack: Vale tudo de Lula inclui blusinhas, crime e gasolina
+                        Shania Twain fala sobre sua primeira vez apresentando o ACM Awards
                     </div>
                     <div class="description">
-                        Leia as últimas notícias sobre Waack: Vale tudo de Lula inclui blusinhas, crime e gasolina....
+                        Leia as últimas notícias sobre Shania Twain fala sobre sua primeira vez apresentando o ACM Awards....
                     </div>
                     <div class="meta">
                         <span>
@@ -1520,7 +1459,7 @@
                             <button class="share-btn" onclick="shareArticle('facebook', this)">
                                 <i class="fab fa-facebook"></i>
                             </button>
-                            <button class="share-btn" onclick="shareArticle('whatsapp', this)">
+                            <button class="share-btn" onclick="shareArticle('whatsapp", this)">
                                 <i class="fab fa-whatsapp"></i>
                             </button>
                         </div>
@@ -1565,7 +1504,7 @@
                             <button class="share-btn" onclick="shareArticle('facebook', this)">
                                 <i class="fab fa-facebook"></i>
                             </button>
-                            <button class="share-btn" onclick="shareArticle('whatsapp', this)">
+                            <button class="share-btn" onclick="shareArticle('whatsapp", this)">
                                 <i class="fab fa-whatsapp"></i>
                             </button>
                         </div>
@@ -1610,7 +1549,7 @@
                             <button class="share-btn" onclick="shareArticle('facebook', this)">
                                 <i class="fab fa-facebook"></i>
                             </button>
-                            <button class="share-btn" onclick="shareArticle('whatsapp', this)">
+                            <button class="share-btn" onclick="shareArticle('whatsapp", this)">
                                 <i class="fab fa-whatsapp"></i>
                             </button>
                         </div>
@@ -1619,15 +1558,22 @@
             </a>
         </div>
     
-        <div class="adsterra-banner">
-            <iframe
-                src="https://publishers.adsterra.com/offers/offers?pub_id=29331025&format=300x250"
-                width="100%"
-                height="250"
-                scrolling="no"
-                frameborder="0"
-                style="border:none; overflow:hidden;">
-            </iframe>
+        <div class="card ad-card">
+            <div class="ad-label">
+                <i class="fas fa-ad"></i> Publicidade
+            </div>
+            <div id="hpf-ad-29331025">
+                <script>
+                    atOptions = {
+                        'key' : '59b1a95083fc4642ac472862070573fb',
+                        'format' : 'iframe',
+                        'height' : 250,
+                        'width' : 300,
+                        'params' : {}
+                    };
+                </script>
+                <script src="https://www.highperformanceformat.com/59b1a95083fc4642ac472862070573fb/invoke.js"></script>
+            </div>
         </div>
     
         <div class="card" data-url="https://g1.globo.com/jornal-nacional/noticia/2026/05/12/peritos-investigam-causas-da-explosao-de-gas-que-deixou-um-morto-e-destruiu-dezenas-de-casas-em-sao-paulo.ghtml" data-title="Peritos investigam causas da explosão de gás que deixou um morto e destruiu dezenas de casas em São Paulo">
@@ -1666,7 +1612,7 @@
                             <button class="share-btn" onclick="shareArticle('facebook', this)">
                                 <i class="fab fa-facebook"></i>
                             </button>
-                            <button class="share-btn" onclick="shareArticle('whatsapp', this)">
+                            <button class="share-btn" onclick="shareArticle('whatsapp", this)">
                                 <i class="fab fa-whatsapp"></i>
                             </button>
                         </div>
@@ -1675,12 +1621,12 @@
             </a>
         </div>
     
-        <div class="card" data-url="https://tnonline.uol.com.br/noticias/cotidiano/ex-funcionario-que-teria-matado-empresario-em-sc-ja-foi-condenado-por-sequestro-em-2024-1089069" data-title="Ex-funcionário que teria matado empresário em SC já foi condenado por sequestro em 2024">
-            <a href="https://tnonline.uol.com.br/noticias/cotidiano/ex-funcionario-que-teria-matado-empresario-em-sc-ja-foi-condenado-por-sequestro-em-2024-1089069" target="_blank">
+        <div class="card" data-url="https://www1.folha.uol.com.br/mercado/2026/05/governo-proibiu-antibioticos-vetados-por-ue-mas-liberou-uso-de-estoques-ate-outubro.shtml" data-title="Governo proibiu antibióticos vetados por UE, mas liberou uso de estoques até outubro">
+            <a href="https://www1.folha.uol.com.br/mercado/2026/05/governo-proibiu-antibioticos-vetados-por-ue-mas-liberou-uso-de-estoques-ate-outubro.shtml" target="_blank">
                 <div class="image-container">
                     <img class="thumb" 
-                         src="https://cdn.tnonline.com.br/img/Artigo-Destaque/1080000/1200x630/alfredo-fraga-dos-santos-53-anos-foi-sequestrado-e-01089069-0-202605122235/ScaleProportionalFillBackground-1.jpg?fallback=https%3A%2F%2Fcdn.tnonline.com.br%2Fimg%2FArtigo-Destaque%2F1080000%2Falfredo-fraga-dos-santos-53-anos-foi-sequestrado-e-01089069-0-202605122235.jpg%3Fxid%3D1718717&xid=1718717" 
-                         alt="Ex-funcionário que teria matado empresário em SC já foi condenado por sequestro em 2024"
+                         src="https://f.i.uol.com.br/fotografia/2023/08/24/169291075064e7c49e950f7_1692910750_3x2_xl.jpg" 
+                         alt="Governo proibiu antibióticos vetados por UE, mas liberou uso de estoques até outubro"
                          loading="lazy"
                          onerror="this.src='https://via.placeholder.com/800x600?text=Imagem+Indisponível'">
                     <div class="badge">
@@ -1695,10 +1641,10 @@
                         <i class="fas fa-globe"></i> UOL
                     </div>
                     <div class="title">
-                        Ex-funcionário que teria matado empresário em SC já foi condenado por sequestro em 2024
+                        Governo proibiu antibióticos vetados por UE, mas liberou uso de estoques até outubro
                     </div>
                     <div class="description">
-                        Leia as últimas notícias sobre Ex-funcionário que teria matado empresário em SC já foi condenado por sequestro em 2024....
+                        Leia as últimas notícias sobre Governo proibiu antibióticos vetados por UE, mas liberou uso de estoques até outubro....
                     </div>
                     <div class="meta">
                         <span>
@@ -1711,7 +1657,7 @@
                             <button class="share-btn" onclick="shareArticle('facebook', this)">
                                 <i class="fab fa-facebook"></i>
                             </button>
-                            <button class="share-btn" onclick="shareArticle('whatsapp', this)">
+                            <button class="share-btn" onclick="shareArticle('whatsapp", this)">
                                 <i class="fab fa-whatsapp"></i>
                             </button>
                         </div>
@@ -1720,12 +1666,12 @@
             </a>
         </div>
     
-        <div class="card" data-url="https://www.cnnbrasil.com.br/economia/negocios/pagbank-tem-lucro-recorrente-de-r-575-milhoes-no-1o-trimestre/" data-title="PagBank tem lucro recorrente de R$ 575 milhões no 1º trimestre">
-            <a href="https://www.cnnbrasil.com.br/economia/negocios/pagbank-tem-lucro-recorrente-de-r-575-milhoes-no-1o-trimestre/" target="_blank">
+        <div class="card" data-url="https://www.cnnbrasil.com.br/internacional/cia-intensifica-guerra-secreta-contra-carteis-com-operacoes-mexico/" data-title="CIA intensifica guerra secreta contra cartéis com operações no México">
+            <a href="https://www.cnnbrasil.com.br/internacional/cia-intensifica-guerra-secreta-contra-carteis-com-operacoes-mexico/" target="_blank">
                 <div class="image-container">
                     <img class="thumb" 
-                         src="https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/03/Sede-do-PagBank-Sao-Paulo_04-1-e1733158382154.webp?w=1200&h=630&crop=1" 
-                         alt="PagBank tem lucro recorrente de R$ 575 milhões no 1º trimestre"
+                         src="https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2022/07/CIA-EUA.jpg?w=1200&h=630&crop=1" 
+                         alt="CIA intensifica guerra secreta contra cartéis com operações no México"
                          loading="lazy"
                          onerror="this.src='https://via.placeholder.com/800x600?text=Imagem+Indisponível'">
                     <div class="badge">
@@ -1740,10 +1686,10 @@
                         <i class="fas fa-globe"></i> CNN Brasil
                     </div>
                     <div class="title">
-                        PagBank tem lucro recorrente de R$ 575 milhões no 1º trimestre
+                        CIA intensifica guerra secreta contra cartéis com operações no México
                     </div>
                     <div class="description">
-                        Leia as últimas notícias sobre PagBank tem lucro recorrente de R$ 575 milhões no 1º trimestre....
+                        Leia as últimas notícias sobre CIA intensifica guerra secreta contra cartéis com operações no México....
                     </div>
                     <div class="meta">
                         <span>
@@ -1756,7 +1702,7 @@
                             <button class="share-btn" onclick="shareArticle('facebook', this)">
                                 <i class="fab fa-facebook"></i>
                             </button>
-                            <button class="share-btn" onclick="shareArticle('whatsapp', this)">
+                            <button class="share-btn" onclick="shareArticle('whatsapp", this)">
                                 <i class="fab fa-whatsapp"></i>
                             </button>
                         </div>
@@ -1765,15 +1711,22 @@
             </a>
         </div>
     
-        <div class="adsterra-banner">
-            <iframe
-                src="https://publishers.adsterra.com/offers/offers?pub_id=29331025&format=300x250"
-                width="100%"
-                height="250"
-                scrolling="no"
-                frameborder="0"
-                style="border:none; overflow:hidden;">
-            </iframe>
+        <div class="card ad-card">
+            <div class="ad-label">
+                <i class="fas fa-ad"></i> Publicidade
+            </div>
+            <div id="hpf-ad-29331025">
+                <script>
+                    atOptions = {
+                        'key' : '59b1a95083fc4642ac472862070573fb',
+                        'format' : 'iframe',
+                        'height' : 250,
+                        'width' : 300,
+                        'params' : {}
+                    };
+                </script>
+                <script src="https://www.highperformanceformat.com/59b1a95083fc4642ac472862070573fb/invoke.js"></script>
+            </div>
         </div>
     
         <div class="card" data-url="https://www.terra.com.br/diversao/musica/shakira-emplaca-duas-musicas-na-hot-100-da-billboard-brasil-apos-show-em-copacabana,f6a041f5385188b7b1d24cb4b30dcc3buf2cn9kr.html" data-title="Shakira emplaca duas músicas na Hot 100 da Billboard Brasil após show em Copacabana">
@@ -1812,7 +1765,7 @@
                             <button class="share-btn" onclick="shareArticle('facebook', this)">
                                 <i class="fab fa-facebook"></i>
                             </button>
-                            <button class="share-btn" onclick="shareArticle('whatsapp', this)">
+                            <button class="share-btn" onclick="shareArticle('whatsapp", this)">
                                 <i class="fab fa-whatsapp"></i>
                             </button>
                         </div>
@@ -1857,7 +1810,7 @@
                             <button class="share-btn" onclick="shareArticle('facebook', this)">
                                 <i class="fab fa-facebook"></i>
                             </button>
-                            <button class="share-btn" onclick="shareArticle('whatsapp', this)">
+                            <button class="share-btn" onclick="shareArticle('whatsapp", this)">
                                 <i class="fab fa-whatsapp"></i>
                             </button>
                         </div>
@@ -1902,7 +1855,7 @@
                             <button class="share-btn" onclick="shareArticle('facebook', this)">
                                 <i class="fab fa-facebook"></i>
                             </button>
-                            <button class="share-btn" onclick="shareArticle('whatsapp', this)">
+                            <button class="share-btn" onclick="shareArticle('whatsapp", this)">
                                 <i class="fab fa-whatsapp"></i>
                             </button>
                         </div>
@@ -1911,23 +1864,30 @@
             </a>
         </div>
     
-        <div class="adsterra-banner">
-            <iframe
-                src="https://publishers.adsterra.com/offers/offers?pub_id=29331025&format=300x250"
-                width="100%"
-                height="250"
-                scrolling="no"
-                frameborder="0"
-                style="border:none; overflow:hidden;">
-            </iframe>
+        <div class="card ad-card">
+            <div class="ad-label">
+                <i class="fas fa-ad"></i> Publicidade
+            </div>
+            <div id="hpf-ad-29331025">
+                <script>
+                    atOptions = {
+                        'key' : '59b1a95083fc4642ac472862070573fb',
+                        'format' : 'iframe',
+                        'height' : 250,
+                        'width' : 300,
+                        'params' : {}
+                    };
+                </script>
+                <script src="https://www.highperformanceformat.com/59b1a95083fc4642ac472862070573fb/invoke.js"></script>
+            </div>
         </div>
     
-        <div class="card" data-url="https://tnonline.uol.com.br/empregos-e-concursos/nutridani-tem-vagas-para-marumbi-kalore-bom-sucesso-borrazopolis-e-novo-itacolomi-1089067" data-title="Nutridani tem vagas para Marumbi, Kaloré, Bom Sucesso, Borrazópolis e Novo Itacolomi">
-            <a href="https://tnonline.uol.com.br/empregos-e-concursos/nutridani-tem-vagas-para-marumbi-kalore-bom-sucesso-borrazopolis-e-novo-itacolomi-1089067" target="_blank">
+        <div class="card" data-url="https://www1.folha.uol.com.br/poder/2026/05/com-bolsonaro-isolado-aliados-resistem-em-acatar-indicacao-dos-filhos-para-o-senado.shtml" data-title="Com Bolsonaro isolado, aliados resistem em acatar indicação dos filhos para o Senado">
+            <a href="https://www1.folha.uol.com.br/poder/2026/05/com-bolsonaro-isolado-aliados-resistem-em-acatar-indicacao-dos-filhos-para-o-senado.shtml" target="_blank">
                 <div class="image-container">
                     <img class="thumb" 
-                         src="https://cdn.tnonline.com.br/img/Instant-Article/1080000/1200x630/a-empresa-se-apresenta-como-uma-das-principais-emp-01089067-0-202605122231/ScaleProportionalFillBackground-1.jpg?fallback=https%3A%2F%2Fcdn.tnonline.com.br%2Fimg%2FInstant-Article%2F1080000%2Fa-empresa-se-apresenta-como-uma-das-principais-emp-01089067-0-202605122231.jpg%3Fxid%3D1718721&xid=1718721" 
-                         alt="Nutridani tem vagas para Marumbi, Kaloré, Bom Sucesso, Borrazópolis e Novo Itacolomi"
+                         src="https://f.i.uol.com.br/fotografia/2026/03/27/177463019969c6b53793346_1774630199_3x2_rt.jpg" 
+                         alt="Com Bolsonaro isolado, aliados resistem em acatar indicação dos filhos para o Senado"
                          loading="lazy"
                          onerror="this.src='https://via.placeholder.com/800x600?text=Imagem+Indisponível'">
                     <div class="badge">
@@ -1942,10 +1902,10 @@
                         <i class="fas fa-globe"></i> UOL
                     </div>
                     <div class="title">
-                        Nutridani tem vagas para Marumbi, Kaloré, Bom Sucesso, Borrazópolis e Novo Itacolomi
+                        Com Bolsonaro isolado, aliados resistem em acatar indicação dos filhos para o Senado
                     </div>
                     <div class="description">
-                        Leia as últimas notícias sobre Nutridani tem vagas para Marumbi, Kaloré, Bom Sucesso, Borrazópolis e Novo Itacolomi....
+                        Leia as últimas notícias sobre Com Bolsonaro isolado, aliados resistem em acatar indicação dos filhos para o Senado....
                     </div>
                     <div class="meta">
                         <span>
@@ -1958,7 +1918,7 @@
                             <button class="share-btn" onclick="shareArticle('facebook', this)">
                                 <i class="fab fa-facebook"></i>
                             </button>
-                            <button class="share-btn" onclick="shareArticle('whatsapp', this)">
+                            <button class="share-btn" onclick="shareArticle('whatsapp", this)">
                                 <i class="fab fa-whatsapp"></i>
                             </button>
                         </div>
@@ -1967,12 +1927,12 @@
             </a>
         </div>
     
-        <div class="card" data-url="https://www.cnnbrasil.com.br/economia/macroeconomia/em-agenda-do-brics-durigan-buscara-saber-como-blindar-economia-da-guerra/" data-title="Em agenda do Brics, Durigan buscará saber como blindar economia da guerra">
-            <a href="https://www.cnnbrasil.com.br/economia/macroeconomia/em-agenda-do-brics-durigan-buscara-saber-como-blindar-economia-da-guerra/" target="_blank">
+        <div class="card" data-url="https://www.cnnbrasil.com.br/politica/durigan-diz-que-trump-se-sensibilizou-com-historia-de-lula/" data-title="Durigan diz que Trump se sensibilizou com história de Lula">
+            <a href="https://www.cnnbrasil.com.br/politica/durigan-diz-que-trump-se-sensibilizou-com-historia-de-lula/" target="_blank">
                 <div class="image-container">
                     <img class="thumb" 
-                         src="https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2023/09/53155192167_4b847ffa82_3k-e1742588543215.jpg?w=1200&h=630&crop=1" 
-                         alt="Em agenda do Brics, Durigan buscará saber como blindar economia da guerra"
+                         src="https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/05/WhatsApp-Image-2026-05-07-at-15.23.57-e1778262255674.jpeg?w=1200&h=630&crop=1" 
+                         alt="Durigan diz que Trump se sensibilizou com história de Lula"
                          loading="lazy"
                          onerror="this.src='https://via.placeholder.com/800x600?text=Imagem+Indisponível'">
                     <div class="badge">
@@ -1987,10 +1947,10 @@
                         <i class="fas fa-globe"></i> CNN Brasil
                     </div>
                     <div class="title">
-                        Em agenda do Brics, Durigan buscará saber como blindar economia da guerra
+                        Durigan diz que Trump se sensibilizou com história de Lula
                     </div>
                     <div class="description">
-                        Leia as últimas notícias sobre Em agenda do Brics, Durigan buscará saber como blindar economia da guerra....
+                        Leia as últimas notícias sobre Durigan diz que Trump se sensibilizou com história de Lula....
                     </div>
                     <div class="meta">
                         <span>
@@ -2003,7 +1963,7 @@
                             <button class="share-btn" onclick="shareArticle('facebook', this)">
                                 <i class="fab fa-facebook"></i>
                             </button>
-                            <button class="share-btn" onclick="shareArticle('whatsapp', this)">
+                            <button class="share-btn" onclick="shareArticle('whatsapp", this)">
                                 <i class="fab fa-whatsapp"></i>
                             </button>
                         </div>
@@ -2048,7 +2008,7 @@
                             <button class="share-btn" onclick="shareArticle('facebook', this)">
                                 <i class="fab fa-facebook"></i>
                             </button>
-                            <button class="share-btn" onclick="shareArticle('whatsapp', this)">
+                            <button class="share-btn" onclick="shareArticle('whatsapp", this)">
                                 <i class="fab fa-whatsapp"></i>
                             </button>
                         </div>
@@ -2057,15 +2017,22 @@
             </a>
         </div>
     
-        <div class="adsterra-banner">
-            <iframe
-                src="https://publishers.adsterra.com/offers/offers?pub_id=29331025&format=300x250"
-                width="100%"
-                height="250"
-                scrolling="no"
-                frameborder="0"
-                style="border:none; overflow:hidden;">
-            </iframe>
+        <div class="card ad-card">
+            <div class="ad-label">
+                <i class="fas fa-ad"></i> Publicidade
+            </div>
+            <div id="hpf-ad-29331025">
+                <script>
+                    atOptions = {
+                        'key' : '59b1a95083fc4642ac472862070573fb',
+                        'format' : 'iframe',
+                        'height' : 250,
+                        'width' : 300,
+                        'params' : {}
+                    };
+                </script>
+                <script src="https://www.highperformanceformat.com/59b1a95083fc4642ac472862070573fb/invoke.js"></script>
+            </div>
         </div>
     
         <div class="card" data-url="https://www.bbc.com/portuguese/articles/cn4py2eydp3o?at_medium=RSS&at_campaign=rss" data-title="Voos privados concentram metade dos acidentes no país">
@@ -2104,7 +2071,7 @@
                             <button class="share-btn" onclick="shareArticle('facebook', this)">
                                 <i class="fab fa-facebook"></i>
                             </button>
-                            <button class="share-btn" onclick="shareArticle('whatsapp', this)">
+                            <button class="share-btn" onclick="shareArticle('whatsapp", this)">
                                 <i class="fab fa-whatsapp"></i>
                             </button>
                         </div>
@@ -2149,7 +2116,7 @@
                             <button class="share-btn" onclick="shareArticle('facebook', this)">
                                 <i class="fab fa-facebook"></i>
                             </button>
-                            <button class="share-btn" onclick="shareArticle('whatsapp', this)">
+                            <button class="share-btn" onclick="shareArticle('whatsapp", this)">
                                 <i class="fab fa-whatsapp"></i>
                             </button>
                         </div>
@@ -2158,12 +2125,12 @@
             </a>
         </div>
     
-        <div class="card" data-url="https://noticias.uol.com.br/ultimas-noticias/afp/2026/05/12/china-pede-ao-paquistao-que-intensifique-mediacao-no-oriente-medio.htm" data-title="China pede ao Paquistão que 'intensifique' mediação no Oriente Médio">
-            <a href="https://noticias.uol.com.br/ultimas-noticias/afp/2026/05/12/china-pede-ao-paquistao-que-intensifique-mediacao-no-oriente-medio.htm" target="_blank">
+        <div class="card" data-url="https://www1.folha.uol.com.br/equilibrio/2026/05/posso-usar-fones-de-ouvido-ao-dormir-dispositivo-retem-umidade-mas-uso-no-geral-e-seguro.shtml" data-title="Posso usar fone de ouvido ao dormir? Dispositivo retém umidade, mas uso no geral é seguro">
+            <a href="https://www1.folha.uol.com.br/equilibrio/2026/05/posso-usar-fones-de-ouvido-ao-dormir-dispositivo-retem-umidade-mas-uso-no-geral-e-seguro.shtml" target="_blank">
                 <div class="image-container">
                     <img class="thumb" 
-                         src="https://via.placeholder.com/800x600?text=News+Image" 
-                         alt="China pede ao Paquistão que 'intensifique' mediação no Oriente Médio"
+                         src="https://f.i.uol.com.br/fotografia/2026/05/12/17786211816a039afd2c522_1778621181_3x2_rt.jpg" 
+                         alt="Posso usar fone de ouvido ao dormir? Dispositivo retém umidade, mas uso no geral é seguro"
                          loading="lazy"
                          onerror="this.src='https://via.placeholder.com/800x600?text=Imagem+Indisponível'">
                     <div class="badge">
@@ -2178,10 +2145,10 @@
                         <i class="fas fa-globe"></i> UOL
                     </div>
                     <div class="title">
-                        China pede ao Paquistão que 'intensifique' mediação no Oriente Médio
+                        Posso usar fone de ouvido ao dormir? Dispositivo retém umidade, mas uso no geral é seguro
                     </div>
                     <div class="description">
-                        Leia as últimas notícias sobre China pede ao Paquistão que 'intensifique' mediação no Oriente Médio....
+                        Leia as últimas notícias sobre Posso usar fone de ouvido ao dormir? Dispositivo retém umidade, mas uso no geral é seguro....
                     </div>
                     <div class="meta">
                         <span>
@@ -2194,7 +2161,7 @@
                             <button class="share-btn" onclick="shareArticle('facebook', this)">
                                 <i class="fab fa-facebook"></i>
                             </button>
-                            <button class="share-btn" onclick="shareArticle('whatsapp', this)">
+                            <button class="share-btn" onclick="shareArticle('whatsapp", this)">
                                 <i class="fab fa-whatsapp"></i>
                             </button>
                         </div>
@@ -2203,23 +2170,30 @@
             </a>
         </div>
     
-        <div class="adsterra-banner">
-            <iframe
-                src="https://publishers.adsterra.com/offers/offers?pub_id=29331025&format=300x250"
-                width="100%"
-                height="250"
-                scrolling="no"
-                frameborder="0"
-                style="border:none; overflow:hidden;">
-            </iframe>
+        <div class="card ad-card">
+            <div class="ad-label">
+                <i class="fas fa-ad"></i> Publicidade
+            </div>
+            <div id="hpf-ad-29331025">
+                <script>
+                    atOptions = {
+                        'key' : '59b1a95083fc4642ac472862070573fb',
+                        'format' : 'iframe',
+                        'height' : 250,
+                        'width' : 300,
+                        'params' : {}
+                    };
+                </script>
+                <script src="https://www.highperformanceformat.com/59b1a95083fc4642ac472862070573fb/invoke.js"></script>
+            </div>
         </div>
     
-        <div class="card" data-url="https://www.cnnbrasil.com.br/economia/negocios/dasa-reverte-prejuizo-e-tem-lucro-de-r-9-milhoes-no-1o-trimestre/" data-title="Dasa reverte prejuízo e tem lucro de R$ 9 milhões no 1º trimestre">
-            <a href="https://www.cnnbrasil.com.br/economia/negocios/dasa-reverte-prejuizo-e-tem-lucro-de-r-9-milhoes-no-1o-trimestre/" target="_blank">
+        <div class="card" data-url="https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/campeonato-de-bafo-com-album-da-copa-tera-entrada-gratuita-na-paulista/" data-title="Campeonato de “bafo” com figurinhas da Copa será realizado na Paulista">
+            <a href="https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/campeonato-de-bafo-com-album-da-copa-tera-entrada-gratuita-na-paulista/" target="_blank">
                 <div class="image-container">
                     <img class="thumb" 
-                         src="https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/09/WhatsApp-Image-2025-09-30-at-21.49.55.jpeg?w=1000&h=630&crop=1" 
-                         alt="Dasa reverte prejuízo e tem lucro de R$ 9 milhões no 1º trimestre"
+                         src="https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/04/WhatsApp-Image-2026-04-25-at-14.25.57-2-e1778635457386.jpeg?w=1200&h=630&crop=1" 
+                         alt="Campeonato de “bafo” com figurinhas da Copa será realizado na Paulista"
                          loading="lazy"
                          onerror="this.src='https://via.placeholder.com/800x600?text=Imagem+Indisponível'">
                     <div class="badge">
@@ -2234,10 +2208,10 @@
                         <i class="fas fa-globe"></i> CNN Brasil
                     </div>
                     <div class="title">
-                        Dasa reverte prejuízo e tem lucro de R$ 9 milhões no 1º trimestre
+                        Campeonato de “bafo” com figurinhas da Copa será realizado na Paulista
                     </div>
                     <div class="description">
-                        Leia as últimas notícias sobre Dasa reverte prejuízo e tem lucro de R$ 9 milhões no 1º trimestre....
+                        Leia as últimas notícias sobre Campeonato de “bafo” com figurinhas da Copa será realizado na Paulista....
                     </div>
                     <div class="meta">
                         <span>
@@ -2250,7 +2224,7 @@
                             <button class="share-btn" onclick="shareArticle('facebook', this)">
                                 <i class="fab fa-facebook"></i>
                             </button>
-                            <button class="share-btn" onclick="shareArticle('whatsapp', this)">
+                            <button class="share-btn" onclick="shareArticle('whatsapp", this)">
                                 <i class="fab fa-whatsapp"></i>
                             </button>
                         </div>
@@ -2295,7 +2269,7 @@
                             <button class="share-btn" onclick="shareArticle('facebook', this)">
                                 <i class="fab fa-facebook"></i>
                             </button>
-                            <button class="share-btn" onclick="shareArticle('whatsapp', this)">
+                            <button class="share-btn" onclick="shareArticle('whatsapp", this)">
                                 <i class="fab fa-whatsapp"></i>
                             </button>
                         </div>
@@ -2340,7 +2314,7 @@
                             <button class="share-btn" onclick="shareArticle('facebook', this)">
                                 <i class="fab fa-facebook"></i>
                             </button>
-                            <button class="share-btn" onclick="shareArticle('whatsapp', this)">
+                            <button class="share-btn" onclick="shareArticle('whatsapp", this)">
                                 <i class="fab fa-whatsapp"></i>
                             </button>
                         </div>
@@ -2349,15 +2323,22 @@
             </a>
         </div>
     
-        <div class="adsterra-banner">
-            <iframe
-                src="https://publishers.adsterra.com/offers/offers?pub_id=29331025&format=300x250"
-                width="100%"
-                height="250"
-                scrolling="no"
-                frameborder="0"
-                style="border:none; overflow:hidden;">
-            </iframe>
+        <div class="card ad-card">
+            <div class="ad-label">
+                <i class="fas fa-ad"></i> Publicidade
+            </div>
+            <div id="hpf-ad-29331025">
+                <script>
+                    atOptions = {
+                        'key' : '59b1a95083fc4642ac472862070573fb',
+                        'format' : 'iframe',
+                        'height' : 250,
+                        'width' : 300,
+                        'params' : {}
+                    };
+                </script>
+                <script src="https://www.highperformanceformat.com/59b1a95083fc4642ac472862070573fb/invoke.js"></script>
+            </div>
         </div>
     
         <div class="card" data-url="https://g1.globo.com/to/tocantins/noticia/2026/05/12/empresa-ligada-ao-jovem-aprendiz-que-mantem-contratos-com-o-governo-do-to-e-alvo-de-investigacao.ghtml" data-title="Empresa ligada ao 'Jovem Aprendiz' que mantém contratos com o governo do TO é alvo de investigação">
@@ -2396,7 +2377,7 @@
                             <button class="share-btn" onclick="shareArticle('facebook', this)">
                                 <i class="fab fa-facebook"></i>
                             </button>
-                            <button class="share-btn" onclick="shareArticle('whatsapp', this)">
+                            <button class="share-btn" onclick="shareArticle('whatsapp", this)">
                                 <i class="fab fa-whatsapp"></i>
                             </button>
                         </div>
@@ -2405,12 +2386,12 @@
             </a>
         </div>
     
-        <div class="card" data-url="https://www1.folha.uol.com.br/mundo/2026/05/peru-tera-2o-turno-entre-keiko-fujimori-e-ex-ministro-de-castillo.shtml" data-title="Peru terá 2º turno entre Keiko Fujimori e ex-ministro de Castillo">
-            <a href="https://www1.folha.uol.com.br/mundo/2026/05/peru-tera-2o-turno-entre-keiko-fujimori-e-ex-ministro-de-castillo.shtml" target="_blank">
+        <div class="card" data-url="https://www1.folha.uol.com.br/equilibrio/2026/05/olheiras-indicam-problema-de-saude-veja-o-que-dizem-medicos.shtml" data-title="Olheiras indicam problema de saúde? Veja o que dizem médicos">
+            <a href="https://www1.folha.uol.com.br/equilibrio/2026/05/olheiras-indicam-problema-de-saude-veja-o-que-dizem-medicos.shtml" target="_blank">
                 <div class="image-container">
                     <img class="thumb" 
-                         src="https://f.i.uol.com.br/fotografia/2026/05/12/17786289396a03b94bf0be8_1778628939_3x2_rt.jpg" 
-                         alt="Peru terá 2º turno entre Keiko Fujimori e ex-ministro de Castillo"
+                         src="https://f.i.uol.com.br/fotografia/2026/05/11/17785075646a01df2c45360_1778507564_3x2_rt.jpg" 
+                         alt="Olheiras indicam problema de saúde? Veja o que dizem médicos"
                          loading="lazy"
                          onerror="this.src='https://via.placeholder.com/800x600?text=Imagem+Indisponível'">
                     <div class="badge">
@@ -2425,10 +2406,10 @@
                         <i class="fas fa-globe"></i> UOL
                     </div>
                     <div class="title">
-                        Peru terá 2º turno entre Keiko Fujimori e ex-ministro de Castillo
+                        Olheiras indicam problema de saúde? Veja o que dizem médicos
                     </div>
                     <div class="description">
-                        Leia as últimas notícias sobre Peru terá 2º turno entre Keiko Fujimori e ex-ministro de Castillo....
+                        Leia as últimas notícias sobre Olheiras indicam problema de saúde? Veja o que dizem médicos....
                     </div>
                     <div class="meta">
                         <span>
@@ -2441,7 +2422,7 @@
                             <button class="share-btn" onclick="shareArticle('facebook', this)">
                                 <i class="fab fa-facebook"></i>
                             </button>
-                            <button class="share-btn" onclick="shareArticle('whatsapp', this)">
+                            <button class="share-btn" onclick="shareArticle('whatsapp", this)">
                                 <i class="fab fa-whatsapp"></i>
                             </button>
                         </div>
@@ -2450,12 +2431,12 @@
             </a>
         </div>
     
-        <div class="card" data-url="https://www.cnnbrasil.com.br/saude/caderneta-brasileira-da-gestante-ministerio-da-saude-lanca-versao-digital/" data-title="Caderneta Brasileira da Gestante: Ministério da Saúde lança versão digital">
-            <a href="https://www.cnnbrasil.com.br/saude/caderneta-brasileira-da-gestante-ministerio-da-saude-lanca-versao-digital/" target="_blank">
+        <div class="card" data-url="https://www.cnnbrasil.com.br/economia/macroeconomia/governo-perdera-quase-r-10-bi-em-tres-anos-com-fim-da-taxa-das-blusinhas/" data-title="Governo perderá quase R$ 10 bi em três anos com fim da “taxa das blusinhas”">
+            <a href="https://www.cnnbrasil.com.br/economia/macroeconomia/governo-perdera-quase-r-10-bi-em-tres-anos-com-fim-da-taxa-das-blusinhas/" target="_blank">
                 <div class="image-container">
                     <img class="thumb" 
-                         src="https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/05/78cc66a9-2e56-41ea-a94a-7236335d941e.jpeg?w=663&h=305&crop=1" 
-                         alt="Caderneta Brasileira da Gestante: Ministério da Saúde lança versão digital"
+                         src="https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/05/1-lula_taxa_blusinhas.jpeg?w=1060&h=596&crop=1" 
+                         alt="Governo perderá quase R$ 10 bi em três anos com fim da “taxa das blusinhas”"
                          loading="lazy"
                          onerror="this.src='https://via.placeholder.com/800x600?text=Imagem+Indisponível'">
                     <div class="badge">
@@ -2470,10 +2451,10 @@
                         <i class="fas fa-globe"></i> CNN Brasil
                     </div>
                     <div class="title">
-                        Caderneta Brasileira da Gestante: Ministério da Saúde lança versão digital
+                        Governo perderá quase R$ 10 bi em três anos com fim da “taxa das blusinhas”
                     </div>
                     <div class="description">
-                        Leia as últimas notícias sobre Caderneta Brasileira da Gestante: Ministério da Saúde lança versão digital....
+                        Leia as últimas notícias sobre Governo perderá quase R$ 10 bi em três anos com fim da “taxa das blusinhas”....
                     </div>
                     <div class="meta">
                         <span>
@@ -2486,7 +2467,7 @@
                             <button class="share-btn" onclick="shareArticle('facebook', this)">
                                 <i class="fab fa-facebook"></i>
                             </button>
-                            <button class="share-btn" onclick="shareArticle('whatsapp', this)">
+                            <button class="share-btn" onclick="shareArticle('whatsapp", this)">
                                 <i class="fab fa-whatsapp"></i>
                             </button>
                         </div>
@@ -2495,15 +2476,22 @@
             </a>
         </div>
     
-        <div class="adsterra-banner">
-            <iframe
-                src="https://publishers.adsterra.com/offers/offers?pub_id=29331025&format=300x250"
-                width="100%"
-                height="250"
-                scrolling="no"
-                frameborder="0"
-                style="border:none; overflow:hidden;">
-            </iframe>
+        <div class="card ad-card">
+            <div class="ad-label">
+                <i class="fas fa-ad"></i> Publicidade
+            </div>
+            <div id="hpf-ad-29331025">
+                <script>
+                    atOptions = {
+                        'key' : '59b1a95083fc4642ac472862070573fb',
+                        'format' : 'iframe',
+                        'height' : 250,
+                        'width' : 300,
+                        'params' : {}
+                    };
+                </script>
+                <script src="https://www.highperformanceformat.com/59b1a95083fc4642ac472862070573fb/invoke.js"></script>
+            </div>
         </div>
     
         <div class="card" data-url="https://www.terra.com.br/noticias/brasil/politica/monark-vai-ao-conselhao-contra-ex-chefe-do-mpsp-por-exclusao-de-promotor-que-o-isentou,d9663532a249f66c74cf309775b16b25a43clbaq.html" data-title="Monark vai ao Conselhão contra ex-chefe do MPSP por 'exclusão' de promotor que o isentou">
@@ -2542,7 +2530,7 @@
                             <button class="share-btn" onclick="shareArticle('facebook', this)">
                                 <i class="fab fa-facebook"></i>
                             </button>
-                            <button class="share-btn" onclick="shareArticle('whatsapp', this)">
+                            <button class="share-btn" onclick="shareArticle('whatsapp", this)">
                                 <i class="fab fa-whatsapp"></i>
                             </button>
                         </div>
@@ -2587,7 +2575,7 @@
                             <button class="share-btn" onclick="shareArticle('facebook', this)">
                                 <i class="fab fa-facebook"></i>
                             </button>
-                            <button class="share-btn" onclick="shareArticle('whatsapp', this)">
+                            <button class="share-btn" onclick="shareArticle('whatsapp", this)">
                                 <i class="fab fa-whatsapp"></i>
                             </button>
                         </div>
@@ -2632,7 +2620,7 @@
                             <button class="share-btn" onclick="shareArticle('facebook', this)">
                                 <i class="fab fa-facebook"></i>
                             </button>
-                            <button class="share-btn" onclick="shareArticle('whatsapp', this)">
+                            <button class="share-btn" onclick="shareArticle('whatsapp", this)">
                                 <i class="fab fa-whatsapp"></i>
                             </button>
                         </div>
@@ -2641,23 +2629,30 @@
             </a>
         </div>
     
-        <div class="adsterra-banner">
-            <iframe
-                src="https://publishers.adsterra.com/offers/offers?pub_id=29331025&format=300x250"
-                width="100%"
-                height="250"
-                scrolling="no"
-                frameborder="0"
-                style="border:none; overflow:hidden;">
-            </iframe>
+        <div class="card ad-card">
+            <div class="ad-label">
+                <i class="fas fa-ad"></i> Publicidade
+            </div>
+            <div id="hpf-ad-29331025">
+                <script>
+                    atOptions = {
+                        'key' : '59b1a95083fc4642ac472862070573fb',
+                        'format' : 'iframe',
+                        'height' : 250,
+                        'width' : 300,
+                        'params' : {}
+                    };
+                </script>
+                <script src="https://www.highperformanceformat.com/59b1a95083fc4642ac472862070573fb/invoke.js"></script>
+            </div>
         </div>
     
-        <div class="card" data-url="https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2026/05/12/justica-ve-risco-de-dano-irreparavel-e-manda-retomar-cameras-corporais-na-pm-de-sc.htm" data-title="Justiça vê 'risco de dano irreparável' e manda retomar câmeras corporais na PM de SC">
-            <a href="https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2026/05/12/justica-ve-risco-de-dano-irreparavel-e-manda-retomar-cameras-corporais-na-pm-de-sc.htm" target="_blank">
+        <div class="card" data-url="https://www1.folha.uol.com.br/colunas/rui-tavares/2026/05/crise-de-starmer-lembra-que-e-melhor-comprar-briga-e-perder-do-que-nao-comprar-e-ja-ter-perdido.shtml" data-title="Crise de Starmer lembra que é melhor comprar briga e perder do que não comprar e já ter perdido">
+            <a href="https://www1.folha.uol.com.br/colunas/rui-tavares/2026/05/crise-de-starmer-lembra-que-e-melhor-comprar-briga-e-perder-do-que-nao-comprar-e-ja-ter-perdido.shtml" target="_blank">
                 <div class="image-container">
                     <img class="thumb" 
-                         src="https://via.placeholder.com/800x600?text=News+Image" 
-                         alt="Justiça vê 'risco de dano irreparável' e manda retomar câmeras corporais na PM de SC"
+                         src="https://f.i.uol.com.br/fotografia/2026/05/12/17786309186a03c1064cb54_1778630918_3x2_rt.jpg" 
+                         alt="Crise de Starmer lembra que é melhor comprar briga e perder do que não comprar e já ter perdido"
                          loading="lazy"
                          onerror="this.src='https://via.placeholder.com/800x600?text=Imagem+Indisponível'">
                     <div class="badge">
@@ -2672,10 +2667,10 @@
                         <i class="fas fa-globe"></i> UOL
                     </div>
                     <div class="title">
-                        Justiça vê 'risco de dano irreparável' e manda retomar câmeras corporais na PM de SC
+                        Crise de Starmer lembra que é melhor comprar briga e perder do que não comprar e já ter perdido
                     </div>
                     <div class="description">
-                        Leia as últimas notícias sobre Justiça vê 'risco de dano irreparável' e manda retomar câmeras corporais na PM de SC....
+                        Leia as últimas notícias sobre Crise de Starmer lembra que é melhor comprar briga e perder do que não comprar e já ter perdido....
                     </div>
                     <div class="meta">
                         <span>
@@ -2688,7 +2683,7 @@
                             <button class="share-btn" onclick="shareArticle('facebook', this)">
                                 <i class="fab fa-facebook"></i>
                             </button>
-                            <button class="share-btn" onclick="shareArticle('whatsapp', this)">
+                            <button class="share-btn" onclick="shareArticle('whatsapp", this)">
                                 <i class="fab fa-whatsapp"></i>
                             </button>
                         </div>
@@ -2697,12 +2692,12 @@
             </a>
         </div>
     
-        <div class="card" data-url="https://www.cnnbrasil.com.br/economia/macroeconomia/governo-publica-mp-que-zera-taxa-das-blusinhas-para-compras-ate-us-50/" data-title="Governo publica MP que zera “taxa das blusinhas” para compras até US$ 50">
-            <a href="https://www.cnnbrasil.com.br/economia/macroeconomia/governo-publica-mp-que-zera-taxa-das-blusinhas-para-compras-ate-us-50/" target="_blank">
+        <div class="card" data-url="https://www.cnnbrasil.com.br/politica/waack-vale-tudo-de-lula-inclui-blusinhas-crime-e-gasolina/" data-title="Waack: Vale tudo de Lula inclui blusinhas, crime e gasolina">
+            <a href="https://www.cnnbrasil.com.br/politica/waack-vale-tudo-de-lula-inclui-blusinhas-crime-e-gasolina/" target="_blank">
                 <div class="image-container">
                     <img class="thumb" 
-                         src="https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/05/lula_taxa_blusinhas.jpeg?w=1200&h=630&crop=1" 
-                         alt="Governo publica MP que zera “taxa das blusinhas” para compras até US$ 50"
+                         src="https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/05/WhatsApp-Image-2026-05-12-at-13.36.50.jpeg?w=884&h=453&crop=1" 
+                         alt="Waack: Vale tudo de Lula inclui blusinhas, crime e gasolina"
                          loading="lazy"
                          onerror="this.src='https://via.placeholder.com/800x600?text=Imagem+Indisponível'">
                     <div class="badge">
@@ -2717,10 +2712,10 @@
                         <i class="fas fa-globe"></i> CNN Brasil
                     </div>
                     <div class="title">
-                        Governo publica MP que zera “taxa das blusinhas” para compras até US$ 50
+                        Waack: Vale tudo de Lula inclui blusinhas, crime e gasolina
                     </div>
                     <div class="description">
-                        Leia as últimas notícias sobre Governo publica MP que zera “taxa das blusinhas” para compras até US$ 50....
+                        Leia as últimas notícias sobre Waack: Vale tudo de Lula inclui blusinhas, crime e gasolina....
                     </div>
                     <div class="meta">
                         <span>
@@ -2733,7 +2728,7 @@
                             <button class="share-btn" onclick="shareArticle('facebook', this)">
                                 <i class="fab fa-facebook"></i>
                             </button>
-                            <button class="share-btn" onclick="shareArticle('whatsapp', this)">
+                            <button class="share-btn" onclick="shareArticle('whatsapp", this)">
                                 <i class="fab fa-whatsapp"></i>
                             </button>
                         </div>
@@ -2778,7 +2773,7 @@
                             <button class="share-btn" onclick="shareArticle('facebook', this)">
                                 <i class="fab fa-facebook"></i>
                             </button>
-                            <button class="share-btn" onclick="shareArticle('whatsapp', this)">
+                            <button class="share-btn" onclick="shareArticle('whatsapp", this)">
                                 <i class="fab fa-whatsapp"></i>
                             </button>
                         </div>
@@ -2787,15 +2782,22 @@
             </a>
         </div>
     
-        <div class="adsterra-banner">
-            <iframe
-                src="https://publishers.adsterra.com/offers/offers?pub_id=29331025&format=300x250"
-                width="100%"
-                height="250"
-                scrolling="no"
-                frameborder="0"
-                style="border:none; overflow:hidden;">
-            </iframe>
+        <div class="card ad-card">
+            <div class="ad-label">
+                <i class="fas fa-ad"></i> Publicidade
+            </div>
+            <div id="hpf-ad-29331025">
+                <script>
+                    atOptions = {
+                        'key' : '59b1a95083fc4642ac472862070573fb',
+                        'format' : 'iframe',
+                        'height' : 250,
+                        'width' : 300,
+                        'params' : {}
+                    };
+                </script>
+                <script src="https://www.highperformanceformat.com/59b1a95083fc4642ac472862070573fb/invoke.js"></script>
+            </div>
         </div>
     
         <div class="card" data-url="https://www.bbc.com/portuguese/articles/clyp28w80xlo?at_medium=RSS&at_campaign=rss" data-title="Hantavírus mata quase metade dos infectados no Brasil: onde há mais risco (e por que não tem a ver com surto em cruzeiro)">
@@ -2834,7 +2836,7 @@
                             <button class="share-btn" onclick="shareArticle('facebook', this)">
                                 <i class="fab fa-facebook"></i>
                             </button>
-                            <button class="share-btn" onclick="shareArticle('whatsapp', this)">
+                            <button class="share-btn" onclick="shareArticle('whatsapp", this)">
                                 <i class="fab fa-whatsapp"></i>
                             </button>
                         </div>
@@ -2879,7 +2881,7 @@
                             <button class="share-btn" onclick="shareArticle('facebook', this)">
                                 <i class="fab fa-facebook"></i>
                             </button>
-                            <button class="share-btn" onclick="shareArticle('whatsapp', this)">
+                            <button class="share-btn" onclick="shareArticle('whatsapp", this)">
                                 <i class="fab fa-whatsapp"></i>
                             </button>
                         </div>
@@ -2888,12 +2890,12 @@
             </a>
         </div>
     
-        <div class="card" data-url="https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2026/05/12/monark-vai-ao-conselhao-contra-ex-chefe-do-mpsp-por-exclusao-de-promotor-que-o-isentou.htm" data-title="Monark vai ao Conselhão contra ex-chefe do MPSP por 'exclusão' de promotor que o isentou">
-            <a href="https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2026/05/12/monark-vai-ao-conselhao-contra-ex-chefe-do-mpsp-por-exclusao-de-promotor-que-o-isentou.htm" target="_blank">
+        <div class="card" data-url="https://www1.folha.uol.com.br/mundo/2026/05/encontro-de-trump-e-xi-na-china-deve-ter-projecao-de-aparencia-de-estabilidade-como-principal-marca.shtml" data-title="Encontro de Trump e Xi na China deve ter projeção de aparência de estabilidade como principal marca">
+            <a href="https://www1.folha.uol.com.br/mundo/2026/05/encontro-de-trump-e-xi-na-china-deve-ter-projecao-de-aparencia-de-estabilidade-como-principal-marca.shtml" target="_blank">
                 <div class="image-container">
                     <img class="thumb" 
-                         src="https://via.placeholder.com/800x600?text=News+Image" 
-                         alt="Monark vai ao Conselhão contra ex-chefe do MPSP por 'exclusão' de promotor que o isentou"
+                         src="https://f.i.uol.com.br/fotografia/2026/03/15/177359942969b6fac5b37f8_1773599429_3x2_rt.jpg" 
+                         alt="Encontro de Trump e Xi na China deve ter projeção de aparência de estabilidade como principal marca"
                          loading="lazy"
                          onerror="this.src='https://via.placeholder.com/800x600?text=Imagem+Indisponível'">
                     <div class="badge">
@@ -2908,10 +2910,10 @@
                         <i class="fas fa-globe"></i> UOL
                     </div>
                     <div class="title">
-                        Monark vai ao Conselhão contra ex-chefe do MPSP por 'exclusão' de promotor que o isentou
+                        Encontro de Trump e Xi na China deve ter projeção de aparência de estabilidade como principal marca
                     </div>
                     <div class="description">
-                        Leia as últimas notícias sobre Monark vai ao Conselhão contra ex-chefe do MPSP por 'exclusão' de promotor que o isentou....
+                        Leia as últimas notícias sobre Encontro de Trump e Xi na China deve ter projeção de aparência de estabilidade como principal marca....
                     </div>
                     <div class="meta">
                         <span>
@@ -2924,7 +2926,7 @@
                             <button class="share-btn" onclick="shareArticle('facebook', this)">
                                 <i class="fab fa-facebook"></i>
                             </button>
-                            <button class="share-btn" onclick="shareArticle('whatsapp', this)">
+                            <button class="share-btn" onclick="shareArticle('whatsapp", this)">
                                 <i class="fab fa-whatsapp"></i>
                             </button>
                         </div>
@@ -2933,23 +2935,30 @@
             </a>
         </div>
     
-        <div class="adsterra-banner">
-            <iframe
-                src="https://publishers.adsterra.com/offers/offers?pub_id=29331025&format=300x250"
-                width="100%"
-                height="250"
-                scrolling="no"
-                frameborder="0"
-                style="border:none; overflow:hidden;">
-            </iframe>
+        <div class="card ad-card">
+            <div class="ad-label">
+                <i class="fas fa-ad"></i> Publicidade
+            </div>
+            <div id="hpf-ad-29331025">
+                <script>
+                    atOptions = {
+                        'key' : '59b1a95083fc4642ac472862070573fb',
+                        'format' : 'iframe',
+                        'height' : 250,
+                        'width' : 300,
+                        'params' : {}
+                    };
+                </script>
+                <script src="https://www.highperformanceformat.com/59b1a95083fc4642ac472862070573fb/invoke.js"></script>
+            </div>
         </div>
     
-        <div class="card" data-url="https://www.cnnbrasil.com.br/entretenimento/paul-mccartney-recusou-convite-para-participar-de-roast-na-netflix/" data-title="Paul McCartney recusou convite para participar de roast na Netflix">
-            <a href="https://www.cnnbrasil.com.br/entretenimento/paul-mccartney-recusou-convite-para-participar-de-roast-na-netflix/" target="_blank">
+        <div class="card" data-url="https://www.cnnbrasil.com.br/economia/negocios/pagbank-tem-lucro-recorrente-de-r-575-milhoes-no-1o-trimestre/" data-title="PagBank tem lucro recorrente de R$ 575 milhões no 1º trimestre">
+            <a href="https://www.cnnbrasil.com.br/economia/negocios/pagbank-tem-lucro-recorrente-de-r-575-milhoes-no-1o-trimestre/" target="_blank">
                 <div class="image-container">
                     <img class="thumb" 
-                         src="https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2024/10/Paul-McCartney-15.jpg?w=1200&h=630&crop=1" 
-                         alt="Paul McCartney recusou convite para participar de roast na Netflix"
+                         src="https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/03/Sede-do-PagBank-Sao-Paulo_04-1-e1733158382154.webp?w=1200&h=630&crop=1" 
+                         alt="PagBank tem lucro recorrente de R$ 575 milhões no 1º trimestre"
                          loading="lazy"
                          onerror="this.src='https://via.placeholder.com/800x600?text=Imagem+Indisponível'">
                     <div class="badge">
@@ -2964,10 +2973,10 @@
                         <i class="fas fa-globe"></i> CNN Brasil
                     </div>
                     <div class="title">
-                        Paul McCartney recusou convite para participar de roast na Netflix
+                        PagBank tem lucro recorrente de R$ 575 milhões no 1º trimestre
                     </div>
                     <div class="description">
-                        Leia as últimas notícias sobre Paul McCartney recusou convite para participar de roast na Netflix....
+                        Leia as últimas notícias sobre PagBank tem lucro recorrente de R$ 575 milhões no 1º trimestre....
                     </div>
                     <div class="meta">
                         <span>
@@ -2980,7 +2989,7 @@
                             <button class="share-btn" onclick="shareArticle('facebook', this)">
                                 <i class="fab fa-facebook"></i>
                             </button>
-                            <button class="share-btn" onclick="shareArticle('whatsapp', this)">
+                            <button class="share-btn" onclick="shareArticle('whatsapp", this)">
                                 <i class="fab fa-whatsapp"></i>
                             </button>
                         </div>
@@ -3025,7 +3034,7 @@
                             <button class="share-btn" onclick="shareArticle('facebook', this)">
                                 <i class="fab fa-facebook"></i>
                             </button>
-                            <button class="share-btn" onclick="shareArticle('whatsapp', this)">
+                            <button class="share-btn" onclick="shareArticle('whatsapp", this)">
                                 <i class="fab fa-whatsapp"></i>
                             </button>
                         </div>
@@ -3049,12 +3058,11 @@
         <div class="footer-content">
             <div class="footer-section">
                 <h4><i class="fas fa-newspaper"></i> Sobre Nós</h4>
-                <p>Portal de notícias comprometido com informações precisas e atualizadas do Brasil e mundo.</p>
+                <p>Portal de notícias comprometido com informações precisas.</p>
                 <div class="social-links">
                     <a href="#"><i class="fab fa-twitter"></i></a>
                     <a href="#"><i class="fab fa-facebook"></i></a>
                     <a href="#"><i class="fab fa-instagram"></i></a>
-                    <a href="#"><i class="fab fa-youtube"></i></a>
                 </div>
             </div>
             <div class="footer-section">
@@ -3065,11 +3073,10 @@
             <div class="footer-section">
                 <h4>Contato</h4>
                 <a href="#"><i class="fas fa-envelope"></i> contato@newsportal.com</a>
-                <a href="#"><i class="fas fa-phone"></i> (11) 99999-9999</a>
             </div>
         </div>
         <div class="copyright">
-            <p>&copy; 2024 NewsPortal - Todos os direitos reservados | Feito com <i class="fas fa-heart" style="color: #ff6b35;"></i> para você</p>
+            <p>&copy; 2024 NewsPortal - Todos os direitos reservados</p>
         </div>
     </div>
     
@@ -3078,7 +3085,6 @@
     </div>
     
     <script>
-        // Dark Mode
         const themeToggle = document.getElementById('themeToggle');
         const themeText = document.getElementById('themeText');
         const currentTheme = localStorage.getItem('theme') || 'dark';
@@ -3105,7 +3111,6 @@
             setTheme(newTheme);
         });
         
-        // Compartilhamento
         window.shareArticle = function(platform, element) {
             const card = element.closest('.card');
             const url = card.getAttribute('data-url');
@@ -3130,15 +3135,13 @@
             }
         };
         
-        // Newsletter
         window.subscribeNewsletter = function(event) {
             event.preventDefault();
             const email = event.target.querySelector('input[type="email"]').value;
-            alert(`Obrigado por se inscrever! 📧 ${email}\nEm breve você receberá nossas novidades.`);
+            alert(`Obrigado por se inscrever! 📧 ${email}`);
             event.target.reset();
         };
         
-        // Back to Top
         window.scrollToTop = function() {
             window.scrollTo({ top: 0, behavior: 'smooth' });
         };
@@ -3150,33 +3153,6 @@
             } else {
                 backToTop.classList.remove('show');
             }
-        });
-        
-        // Lazy loading
-        const imageObserver = new IntersectionObserver((entries) => {
-            entries.forEach(entry => {
-                if (entry.isIntersecting) {
-                    const img = entry.target;
-                    img.src = img.dataset.src || img.src;
-                    imageObserver.unobserve(img);
-                }
-            });
-        });
-        
-        document.querySelectorAll('.thumb').forEach(img => imageObserver.observe(img));
-        
-        // Analytics
-        document.querySelectorAll('.card').forEach(card => {
-            card.addEventListener('click', function(e) {
-                if (e.target.closest('.share-btn')) return;
-                const title = this.getAttribute('data-title');
-                if (typeof gtag !== 'undefined') {
-                    gtag('event', 'click_article', {
-                        'event_category': 'engagement',
-                        'event_label': title
-                    });
-                }
-            });
         });
     </script>
 </body>
