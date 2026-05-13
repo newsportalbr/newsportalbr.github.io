@@ -5,20 +5,27 @@ from datetime import datetime
 SITE_CONFIG = {
     "name": "NewsPortal",
     "title": "NewsPortal - Últimas Notícias em Tempo Real",
-    "description": "Portal de notícias atualizado constantemente com as principais manchetes do Brasil e do mundo. Tecnologia, política, economia e entretenimento.",
-    "keywords": "notícias, portal, atualidades, Brasil, mundo, tecnologia, política, economia",
+    "description": "Portal de notícias atualizado constantemente com as principais manchetes do Brasil e do mundo.",
+    "keywords": "notícias, portal, atualidades, Brasil, mundo",
     "author": "NewsPortal",
-    "language": "pt-br",
     "theme_color": "#08111f",
     "logo_url": "https://via.placeholder.com/512x512?text=NP",
-    "site_url": "https://newsportalbr.github.io",
+    "site_url": "https://newsportalbr.github.io/",
     "twitter_handle": "#",
     "facebook_page": "#",
     "instagram": "#",
     "analytics_id": "UA-XXXXXXX-X",
-    # Configuração HighPerformanceFormat
-    "hpf_key": "59b1a95083fc4642ac472862070573fb",  # Sua key
-    "hpf_id": "29331025",  # Seu ID
+    
+    # Adsterra - Múltiplos Formatos
+    "adsterra_display_key": "59b1a95083fc4642ac472862070573fb",
+    "adsterra_native_script": "https://pl29431522.profitablecpmratenetwork.com/3f11c2602609b7e16615caec1c58202c/invoke.js",
+    "adsterra_native_div": "container-3f11c2602609b7e16615caec1c58202c",
+    "adsterra_popunder": "https://pl29431520.profitablecpmratenetwork.com/2f/d6/1d/2fd61d919a93eebbd3c62ee7335040f7.js",
+    "adsterra_socialbar": "https://pl29431523.profitablecpmratenetwork.com/31/d8/66/31d8661dee905c0b02e59f1bb4fea352.js",
+    "adsterra_smartlink": "https://www.profitablecpmratenetwork.com/zjzqqe59f?key=6f6f1e33349a28bab842c78ae04fa617",
+    
+    # Monetag
+    "monetag_id": "bef2ac0b5aadbad6579cb5eb660e44f8",
 }
 
 # ===== CONFIGURAÇÕES VISUAIS =====
@@ -34,8 +41,10 @@ THEME_CONFIG = {
     "enable_dark_mode": True,
     "enable_reading_time": True,
     "enable_sharing": True,
-    "ads_frequency": 3,
-    "theme_color": "#08111f",
+    "ads_frequency": 3,  # Display ads a cada X notícias
+    "enable_popunder": True,  # Ativar popunder
+    "enable_socialbar": True,  # Ativar social bar
+    "enable_native": True,  # Ativar native banner
 }
 
 # ===== LEITURA DOS ARTIGOS =====
@@ -67,150 +76,47 @@ def generate_privacy_page():
 <html lang="pt-br">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Política de Privacidade - NewsPortal</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     
-    <!-- HighPerformanceFormat -->
+    <!-- Adsterra Display -->
     <script>
         atOptions = {{
-            'key' : '{SITE_CONFIG["hpf_key"]}',
+            'key' : '{SITE_CONFIG["adsterra_display_key"]}',
             'format' : 'iframe',
             'height' : 250,
             'width' : 300,
             'params' : {{}}
         }};
     </script>
-    <script src="https://www.highperformanceformat.com/{SITE_CONFIG['hpf_key']}/invoke.js"></script>
+    <script src="https://www.highperformanceformat.com/{SITE_CONFIG['adsterra_display_key']}/invoke.js"></script>
     
     <style>
         * {{ margin: 0; padding: 0; box-sizing: border-box; }}
-        body {{
-            font-family: 'Segoe UI', Arial, sans-serif;
-            background: #08111f;
-            color: #fff;
-            line-height: 1.6;
-        }}
-        .header {{
-            background: #0d1726;
-            padding: 15px 20px;
-            border-bottom: 3px solid #49a7ff;
-            position: sticky;
-            top: 0;
-            z-index: 1000;
-        }}
-        .header-content {{
-            max-width: 1400px;
-            margin: 0 auto;
-            display: flex;
-            align-items: center;
-            justify-content: space-between;
-            flex-wrap: wrap;
-            gap: 15px;
-        }}
-        .logo {{
-            font-size: 24px;
-            font-weight: bold;
-            color: #49a7ff;
-            text-decoration: none;
-            display: flex;
-            align-items: center;
-            gap: 10px;
-        }}
-        .logo i {{ font-size: 28px; }}
-        .theme-toggle {{
-            background: #0f1a2e;
-            border: 1px solid #49a7ff;
-            padding: 8px 15px;
-            border-radius: 25px;
-            cursor: pointer;
-            color: #fff;
-            font-size: 16px;
-            transition: 0.3s;
-        }}
-        .theme-toggle:hover {{
-            background: #49a7ff;
-            transform: scale(1.05);
-        }}
-        .main-container {{
-            max-width: 1200px;
-            margin: 40px auto;
-            padding: 0 20px;
-            display: grid;
-            grid-template-columns: 1fr 300px;
-            gap: 30px;
-        }}
-        .container {{
-            background: #0f1a2e;
-            border-radius: 16px;
-            padding: 30px;
-            box-shadow: 0 5px 20px rgba(0,0,0,0.3);
-        }}
-        .sidebar {{
-            position: sticky;
-            top: 100px;
-        }}
-        .ad-sidebar {{
-            background: linear-gradient(135deg, #0f1a2e, #0d1726);
-            border-radius: 16px;
-            padding: 20px;
-            text-align: center;
-            border: 2px dashed #49a7ff;
-            margin-bottom: 20px;
-        }}
-        .ad-label {{
-            font-size: 11px;
-            color: #49a7ff;
-            text-transform: uppercase;
-            letter-spacing: 2px;
-            margin-bottom: 15px;
-        }}
-        h1 {{ color: #49a7ff; margin-bottom: 20px; font-size: 28px; }}
-        h2 {{ color: #49a7ff; margin: 25px 0 15px; font-size: 22px; }}
+        body {{ font-family: 'Segoe UI', Arial, sans-serif; background: #08111f; color: #fff; line-height: 1.6; }}
+        .header {{ background: #0d1726; padding: 15px 20px; border-bottom: 3px solid #49a7ff; position: sticky; top: 0; z-index: 1000; }}
+        .header-content {{ max-width: 1400px; margin: 0 auto; display: flex; justify-content: space-between; align-items: center; gap: 15px; }}
+        .logo {{ font-size: 24px; font-weight: bold; color: #49a7ff; text-decoration: none; display: flex; align-items: center; gap: 10px; }}
+        .theme-toggle {{ background: #0f1a2e; border: 1px solid #49a7ff; padding: 8px 15px; border-radius: 25px; cursor: pointer; color: #fff; }}
+        .main-container {{ max-width: 1200px; margin: 40px auto; padding: 0 20px; display: grid; grid-template-columns: 1fr 300px; gap: 30px; }}
+        .container {{ background: #0f1a2e; border-radius: 16px; padding: 30px; }}
+        .sidebar {{ position: sticky; top: 100px; }}
+        .ad-sidebar {{ background: linear-gradient(135deg, #0f1a2e, #0d1726); border-radius: 16px; padding: 20px; text-align: center; border: 2px dashed #49a7ff; margin-bottom: 20px; }}
+        .ad-label {{ font-size: 11px; color: #49a7ff; text-transform: uppercase; letter-spacing: 2px; margin-bottom: 15px; }}
+        h1 {{ color: #49a7ff; margin-bottom: 20px; }}
+        h2 {{ color: #49a7ff; margin: 25px 0 15px; }}
         p {{ margin-bottom: 15px; color: #a0b3d9; }}
-        .back-button {{
-            display: inline-block;
-            margin-top: 30px;
-            padding: 10px 20px;
-            background: #49a7ff;
-            color: white;
-            text-decoration: none;
-            border-radius: 8px;
-            transition: 0.3s;
-        }}
-        .back-button:hover {{
-            background: #ff6b35;
-            transform: translateY(-2px);
-        }}
-        .footer {{
-            background: #0d1726;
-            padding: 30px 20px;
-            text-align: center;
-            margin-top: 50px;
-        }}
-        @media (max-width: 768px) {{
-            .main-container {{
-                grid-template-columns: 1fr;
-            }}
-            .sidebar {{
-                position: static;
-            }}
-            .container {{ margin: 20px; padding: 20px; }}
-            h1 {{ font-size: 24px; }}
-            h2 {{ font-size: 20px; }}
-        }}
+        .back-button {{ display: inline-block; margin-top: 30px; padding: 10px 20px; background: #49a7ff; color: white; text-decoration: none; border-radius: 8px; }}
+        .footer {{ background: #0d1726; padding: 30px 20px; text-align: center; margin-top: 50px; }}
+        @media (max-width: 768px) {{ .main-container {{ grid-template-columns: 1fr; }} .sidebar {{ position: static; }} }}
     </style>
 </head>
 <body>
     <div class="header">
         <div class="header-content">
-            <a href="index.html" class="logo">
-                <i class="fas fa-newspaper"></i>
-                <span>NewsPortal</span>
-            </a>
-            <button class="theme-toggle" onclick="toggleTheme()">
-                <i class="fas fa-moon"></i>
-            </button>
+            <a href="index.html" class="logo"><i class="fas fa-newspaper"></i><span>NewsPortal</span></a>
+            <button class="theme-toggle" onclick="toggleTheme()"><i class="fas fa-moon"></i></button>
         </div>
     </div>
     
@@ -218,91 +124,35 @@ def generate_privacy_page():
         <div class="container">
             <h1><i class="fas fa-shield-alt"></i> Política de Privacidade</h1>
             <p><strong>Última atualização:</strong> {datetime.now().strftime('%d/%m/%Y')}</p>
-            
-            <h2>1. Informações que Coletamos</h2>
-            <p>Coletamos informações que você nos fornece diretamente, como nome e e-mail ao se inscrever na newsletter.</p>
-            
-            <h2>2. Cookies e Anúncios</h2>
-            <p>Utilizamos a rede HighPerformanceFormat para exibir anúncios.</p>
-            
-            <h2>3. Seus Direitos</h2>
-            <p>Você tem direito a acessar, corrigir ou excluir seus dados pessoais.</p>
-            
+            <h2>Cookies e Anúncios</h2>
+            <p>Utilizamos a rede Adsterra e Monetag para exibir anúncios.</p>
             <a href="index.html" class="back-button"><i class="fas fa-arrow-left"></i> Voltar</a>
         </div>
         
         <div class="sidebar">
-            <div class="ad-sidebar">
-                <div class="ad-label">
-                    <i class="fas fa-ad"></i> Publicidade
-                </div>
-                <div id="hpf-ad-sidebar">
-                    <script>
-                        atOptions = {{
-                            'key' : '{SITE_CONFIG["hpf_key"]}',
-                            'format' : 'iframe',
-                            'height' : 250,
-                            'width' : 300,
-                            'params' : {{}}
-                        }};
-                    </script>
-                    <script src="https://www.highperformanceformat.com/{SITE_CONFIG['hpf_key']}/invoke.js"></script>
-                </div>
-            </div>
-            
-            <div class="ad-sidebar">
-                <div class="ad-label">
-                    <i class="fas fa-ad"></i> Publicidade
-                </div>
-                <div id="hpf-ad-sidebar2">
-                    <script>
-                        atOptions = {{
-                            'key' : '{SITE_CONFIG["hpf_key"]}',
-                            'format' : 'iframe',
-                            'height' : 250,
-                            'width' : 300,
-                            'params' : {{}}
-                        }};
-                    </script>
-                    <script src="https://www.highperformanceformat.com/{SITE_CONFIG['hpf_key']}/invoke.js"></script>
-                </div>
+            <div class="ad-sidebar"><div class="ad-label"><i class="fas fa-ad"></i> Publicidade</div>
+                <div><script>atOptions={{'key':'{SITE_CONFIG["adsterra_display_key"]}','format':'iframe','height':250,'width':300,'params':{{}}}};</script>
+                <script src="https://www.highperformanceformat.com/{SITE_CONFIG['adsterra_display_key']}/invoke.js"></script></div>
             </div>
         </div>
     </div>
     
-    <div class="footer">
-        <p>&copy; 2024 NewsPortal</p>
-    </div>
+    <div class="footer"><p>&copy; 2024 NewsPortal</p></div>
     
     <script>
         function toggleTheme() {{
             const html = document.documentElement;
-            const currentTheme = html.getAttribute('data-theme');
-            const newTheme = currentTheme === 'dark' ? 'light' : 'dark';
+            const newTheme = html.getAttribute('data-theme') === 'dark' ? 'light' : 'dark';
             html.setAttribute('data-theme', newTheme);
             localStorage.setItem('theme', newTheme);
-            const icon = document.querySelector('.theme-toggle i');
-            if (newTheme === 'dark') {{
-                icon.classList.remove('fa-sun');
-                icon.classList.add('fa-moon');
-            }} else {{
-                icon.classList.remove('fa-moon');
-                icon.classList.add('fa-sun');
-            }}
         }}
         const savedTheme = localStorage.getItem('theme') || 'dark';
         document.documentElement.setAttribute('data-theme', savedTheme);
-        const icon = document.querySelector('.theme-toggle i');
-        if (savedTheme === 'light') {{
-            icon.classList.remove('fa-moon');
-            icon.classList.add('fa-sun');
-        }}
     </script>
     <style>
         [data-theme="light"] body {{ background: #f5f7fa; }}
-        [data-theme="light"] .header {{ background: #ffffff; }}
-        [data-theme="light"] .container {{ background: #ffffff; }}
-        [data-theme="light"] .ad-sidebar {{ background: #ffffff; }}
+        [data-theme="light"] .header {{ background: #fff; }}
+        [data-theme="light"] .container {{ background: #fff; }}
         [data-theme="light"] p {{ color: #4a5a7a; }}
     </style>
 </body>
@@ -313,150 +163,47 @@ def generate_terms_page():
 <html lang="pt-br">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Termos de Uso - NewsPortal</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     
-    <!-- HighPerformanceFormat -->
+    <!-- Adsterra Display -->
     <script>
         atOptions = {{
-            'key' : '{SITE_CONFIG["hpf_key"]}',
+            'key' : '{SITE_CONFIG["adsterra_display_key"]}',
             'format' : 'iframe',
             'height' : 250,
             'width' : 300,
             'params' : {{}}
         }};
     </script>
-    <script src="https://www.highperformanceformat.com/{SITE_CONFIG['hpf_key']}/invoke.js"></script>
+    <script src="https://www.highperformanceformat.com/{SITE_CONFIG['adsterra_display_key']}/invoke.js"></script>
     
     <style>
         * {{ margin: 0; padding: 0; box-sizing: border-box; }}
-        body {{
-            font-family: 'Segoe UI', Arial, sans-serif;
-            background: #08111f;
-            color: #fff;
-            line-height: 1.6;
-        }}
-        .header {{
-            background: #0d1726;
-            padding: 15px 20px;
-            border-bottom: 3px solid #49a7ff;
-            position: sticky;
-            top: 0;
-            z-index: 1000;
-        }}
-        .header-content {{
-            max-width: 1400px;
-            margin: 0 auto;
-            display: flex;
-            align-items: center;
-            justify-content: space-between;
-            flex-wrap: wrap;
-            gap: 15px;
-        }}
-        .logo {{
-            font-size: 24px;
-            font-weight: bold;
-            color: #49a7ff;
-            text-decoration: none;
-            display: flex;
-            align-items: center;
-            gap: 10px;
-        }}
-        .logo i {{ font-size: 28px; }}
-        .theme-toggle {{
-            background: #0f1a2e;
-            border: 1px solid #49a7ff;
-            padding: 8px 15px;
-            border-radius: 25px;
-            cursor: pointer;
-            color: #fff;
-            font-size: 16px;
-            transition: 0.3s;
-        }}
-        .theme-toggle:hover {{
-            background: #49a7ff;
-            transform: scale(1.05);
-        }}
-        .main-container {{
-            max-width: 1200px;
-            margin: 40px auto;
-            padding: 0 20px;
-            display: grid;
-            grid-template-columns: 1fr 300px;
-            gap: 30px;
-        }}
-        .container {{
-            background: #0f1a2e;
-            border-radius: 16px;
-            padding: 30px;
-            box-shadow: 0 5px 20px rgba(0,0,0,0.3);
-        }}
-        .sidebar {{
-            position: sticky;
-            top: 100px;
-        }}
-        .ad-sidebar {{
-            background: linear-gradient(135deg, #0f1a2e, #0d1726);
-            border-radius: 16px;
-            padding: 20px;
-            text-align: center;
-            border: 2px dashed #49a7ff;
-            margin-bottom: 20px;
-        }}
-        .ad-label {{
-            font-size: 11px;
-            color: #49a7ff;
-            text-transform: uppercase;
-            letter-spacing: 2px;
-            margin-bottom: 15px;
-        }}
-        h1 {{ color: #49a7ff; margin-bottom: 20px; font-size: 28px; }}
-        h2 {{ color: #49a7ff; margin: 25px 0 15px; font-size: 22px; }}
+        body {{ font-family: 'Segoe UI', Arial, sans-serif; background: #08111f; color: #fff; line-height: 1.6; }}
+        .header {{ background: #0d1726; padding: 15px 20px; border-bottom: 3px solid #49a7ff; }}
+        .header-content {{ max-width: 1400px; margin: 0 auto; display: flex; justify-content: space-between; align-items: center; }}
+        .logo {{ font-size: 24px; font-weight: bold; color: #49a7ff; text-decoration: none; display: flex; align-items: center; gap: 10px; }}
+        .theme-toggle {{ background: #0f1a2e; border: 1px solid #49a7ff; padding: 8px 15px; border-radius: 25px; cursor: pointer; color: #fff; }}
+        .main-container {{ max-width: 1200px; margin: 40px auto; padding: 0 20px; display: grid; grid-template-columns: 1fr 300px; gap: 30px; }}
+        .container {{ background: #0f1a2e; border-radius: 16px; padding: 30px; }}
+        .sidebar {{ position: sticky; top: 100px; }}
+        .ad-sidebar {{ background: linear-gradient(135deg, #0f1a2e, #0d1726); border-radius: 16px; padding: 20px; text-align: center; border: 2px dashed #49a7ff; margin-bottom: 20px; }}
+        .ad-label {{ font-size: 11px; color: #49a7ff; text-transform: uppercase; letter-spacing: 2px; margin-bottom: 15px; }}
+        h1 {{ color: #49a7ff; margin-bottom: 20px; }}
+        h2 {{ color: #49a7ff; margin: 25px 0 15px; }}
         p {{ margin-bottom: 15px; color: #a0b3d9; }}
-        .back-button {{
-            display: inline-block;
-            margin-top: 30px;
-            padding: 10px 20px;
-            background: #49a7ff;
-            color: white;
-            text-decoration: none;
-            border-radius: 8px;
-            transition: 0.3s;
-        }}
-        .back-button:hover {{
-            background: #ff6b35;
-            transform: translateY(-2px);
-        }}
-        .footer {{
-            background: #0d1726;
-            padding: 30px 20px;
-            text-align: center;
-            margin-top: 50px;
-        }}
-        @media (max-width: 768px) {{
-            .main-container {{
-                grid-template-columns: 1fr;
-            }}
-            .sidebar {{
-                position: static;
-            }}
-            .container {{ margin: 20px; padding: 20px; }}
-            h1 {{ font-size: 24px; }}
-            h2 {{ font-size: 20px; }}
-        }}
+        .back-button {{ display: inline-block; margin-top: 30px; padding: 10px 20px; background: #49a7ff; color: white; text-decoration: none; border-radius: 8px; }}
+        .footer {{ background: #0d1726; padding: 30px 20px; text-align: center; margin-top: 50px; }}
+        @media (max-width: 768px) {{ .main-container {{ grid-template-columns: 1fr; }} .sidebar {{ position: static; }} }}
     </style>
 </head>
 <body>
     <div class="header">
         <div class="header-content">
-            <a href="index.html" class="logo">
-                <i class="fas fa-newspaper"></i>
-                <span>NewsPortal</span>
-            </a>
-            <button class="theme-toggle" onclick="toggleTheme()">
-                <i class="fas fa-moon"></i>
-            </button>
+            <a href="index.html" class="logo"><i class="fas fa-newspaper"></i><span>NewsPortal</span></a>
+            <button class="theme-toggle" onclick="toggleTheme()"><i class="fas fa-moon"></i></button>
         </div>
     </div>
     
@@ -464,82 +211,83 @@ def generate_terms_page():
         <div class="container">
             <h1><i class="fas fa-file-contract"></i> Termos de Uso</h1>
             <p><strong>Última atualização:</strong> {datetime.now().strftime('%d/%m/%Y')}</p>
-            
-            <h2>1. Aceitação dos Termos</h2>
-            <p>Ao acessar e usar o NewsPortal, você concorda com estes Termos de Uso.</p>
-            
-            <h2>2. Conteúdo do Site</h2>
-            <p>Todo o conteúdo é para fins informativos. Não garantimos precisão absoluta.</p>
-            
-            <h2>3. Anúncios</h2>
-            <p>Utilizamos a rede HighPerformanceFormat para exibir anúncios.</p>
-            
+            <h2>Uso do Site</h2>
+            <p>Ao acessar o NewsPortal, você concorda com estes termos.</p>
+            <h2>Anúncios</h2>
+            <p>Utilizamos a rede Adsterra para exibir anúncios.</p>
             <a href="index.html" class="back-button"><i class="fas fa-arrow-left"></i> Voltar</a>
         </div>
         
         <div class="sidebar">
-            <div class="ad-sidebar">
-                <div class="ad-label">
-                    <i class="fas fa-ad"></i> Publicidade
-                </div>
-                <div id="hpf-ad-sidebar">
-                    <script>
-                        atOptions = {{
-                            'key' : '{SITE_CONFIG["hpf_key"]}',
-                            'format' : 'iframe',
-                            'height' : 250,
-                            'width' : 300,
-                            'params' : {{}}
-                        }};
-                    </script>
-                    <script src="https://www.highperformanceformat.com/{SITE_CONFIG['hpf_key']}/invoke.js"></script>
-                </div>
-            </div>
-            
-            <div class="ad-sidebar">
-                <div class="ad-label">
-                    <i class="fas fa-ad"></i> Publicidade
-                </div>
-                <div id="hpf-ad-sidebar2">
-                    <script>
-                        atOptions = {{
-                            'key' : '{SITE_CONFIG["hpf_key"]}',
-                            'format' : 'iframe',
-                            'height' : 250,
-                            'width' : 300,
-                            'params' : {{}}
-                        }};
-                    </script>
-                    <script src="https://www.highperformanceformat.com/{SITE_CONFIG['hpf_key']}/invoke.js"></script>
-                </div>
+            <div class="ad-sidebar"><div class="ad-label"><i class="fas fa-ad"></i> Publicidade</div>
+                <div><script>atOptions={{'key':'{SITE_CONFIG["adsterra_display_key"]}','format':'iframe','height':250,'width':300,'params':{{}}}};</script>
+                <script src="https://www.highperformanceformat.com/{SITE_CONFIG['adsterra_display_key']}/invoke.js"></script></div>
             </div>
         </div>
     </div>
     
-    <div class="footer">
-        <p>&copy; 2024 NewsPortal</p>
-    </div>
+    <div class="footer"><p>&copy; 2024 NewsPortal</p></div>
     
     <script>
         function toggleTheme() {{
             const html = document.documentElement;
-            const currentTheme = html.getAttribute('data-theme');
-            const newTheme = currentTheme === 'dark' ? 'light' : 'dark';
+            const newTheme = html.getAttribute('data-theme') === 'dark' ? 'light' : 'dark';
             html.setAttribute('data-theme', newTheme);
             localStorage.setItem('theme', newTheme);
         }}
         const savedTheme = localStorage.getItem('theme') || 'dark';
         document.documentElement.setAttribute('data-theme', savedTheme);
     </script>
-    <style>
-        [data-theme="light"] body {{ background: #f5f7fa; }}
-        [data-theme="light"] .header {{ background: #ffffff; }}
-        [data-theme="light"] .container {{ background: #ffffff; }}
-        [data-theme="light"] .ad-sidebar {{ background: #ffffff; }}
-        [data-theme="light"] p {{ color: #4a5a7a; }}
-    </style>
 </body>
 </html>"""
+
+# ===== FUNÇÕES DE ANÚNCIOS ADSTERRA =====
+def generate_display_ad():
+    """Display 300x250 - Principal"""
+    return f"""
+    <div class="card ad-card">
+        <div class="ad-label"><i class="fas fa-ad"></i> Publicidade</div>
+        <div style="width:100%; max-width:300px; margin:0 auto;">
+            <script>
+                atOptions = {{
+                    'key' : '{SITE_CONFIG["adsterra_display_key"]}',
+                    'format' : 'iframe',
+                    'height' : 250,
+                    'width' : 300,
+                    'params' : {{}}
+                }};
+            </script>
+            <script src="https://www.highperformanceformat.com/{SITE_CONFIG['adsterra_display_key']}/invoke.js"></script>
+        </div>
+    </div>
+    """
+
+def generate_native_ad():
+    """Native Banner - Parece conteúdo natural"""
+    return f"""
+    <div class="ad-native">
+        <div class="ad-label" style="text-align:center; margin-bottom:10px;">
+            <i class="fas fa-star"></i> Conteúdo Patrocinado
+        </div>
+        <div id="{SITE_CONFIG['adsterra_native_div']}"></div>
+        <script async="async" data-cfasync="false" 
+                src="{SITE_CONFIG['adsterra_native_script']}"></script>
+    </div>
+    """
+
+def generate_popunder():
+    """Popunder - Abre atrás do site (1x por sessão)"""
+    return f"""
+    <script src="{SITE_CONFIG['adsterra_popunder']}"></script>
+    """
+
+def generate_socialbar():
+    """Social Bar - Barra social na parte inferior"""
+    return f"""
+    <div class="socialbar-container">
+        <script src="{SITE_CONFIG['adsterra_socialbar']}"></script>
+    </div>
+    """
 
 # ===== INÍCIO DO HTML PRINCIPAL =====
 html = f"""<!DOCTYPE html>
@@ -571,15 +319,7 @@ html = f"""<!DOCTYPE html>
     
     <link rel="icon" type="image/x-icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📰</text></svg>">
     
-    <script type="application/ld+json">
-    {{
-        "@context": "https://schema.org",
-        "@type": "NewsMediaOrganization",
-        "name": "{SITE_CONFIG['name']}",
-        "url": "{SITE_CONFIG['site_url']}"
-    }}
-    </script>
-    
+    <!-- Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id={SITE_CONFIG['analytics_id']}"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
@@ -588,17 +328,16 @@ html = f"""<!DOCTYPE html>
         gtag('config', '{SITE_CONFIG['analytics_id']}');
     </script>
     
-    <!-- HighPerformanceFormat -->
+    <!-- Adsterra Display (Global) -->
     <script>
         atOptions = {{
-            'key' : '{SITE_CONFIG["hpf_key"]}',
+            'key' : '{SITE_CONFIG["adsterra_display_key"]}',
             'format' : 'iframe',
             'height' : 250,
             'width' : 300,
             'params' : {{}}
         }};
     </script>
-    <script src="https://www.highperformanceformat.com/{SITE_CONFIG['hpf_key']}/invoke.js"></script>
     
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     
@@ -875,6 +614,14 @@ html = f"""<!DOCTYPE html>
             margin-bottom: 15px;
         }}
         
+        .ad-native {{
+            background: var(--card-bg);
+            border-radius: 16px;
+            padding: 20px;
+            margin: 20px auto;
+            border: 1px solid rgba(73, 167, 255, 0.2);
+        }}
+        
         .newsletter {{
             background: linear-gradient(135deg, var(--primary), var(--accent));
             border-radius: 16px;
@@ -1005,6 +752,14 @@ html = f"""<!DOCTYPE html>
             visibility: visible;
         }}
         
+        .socialbar-container {{
+            position: fixed;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            z-index: 999;
+        }}
+        
         @media (max-width: 768px) {{
             .container {{
                 grid-template-columns: 1fr;
@@ -1050,26 +805,9 @@ html = f"""<!DOCTYPE html>
     <div class="container">
 """
 
-def generate_ad():
-    return f"""
-        <div class="card ad-card">
-            <div class="ad-label">
-                <i class="fas fa-ad"></i> Publicidade
-            </div>
-            <div id="hpf-ad-{SITE_CONFIG['hpf_id']}">
-                <script>
-                    atOptions = {{
-                        'key' : '{SITE_CONFIG["hpf_key"]}',
-                        'format' : 'iframe',
-                        'height' : 250,
-                        'width' : 300,
-                        'params' : {{}}
-                    }};
-                </script>
-                <script src="https://www.highperformanceformat.com/{SITE_CONFIG['hpf_key']}/invoke.js"></script>
-            </div>
-        </div>
-    """
+# ===== GERAÇÕES DOS CARDS E ANÚNCIOS =====
+# Controle de popunder (apenas uma vez por sessão)
+popunder_added = False
 
 for i, article in enumerate(articles):
     description = article.get('description', f'Leia as últimas notícias sobre {article["title"]}.')
@@ -1122,8 +860,18 @@ for i, article in enumerate(articles):
         </div>
     """
     
+    # Adiciona Display Ads a cada X notícias
     if (i + 1) % THEME_CONFIG['ads_frequency'] == 0 and (i + 1) != len(articles):
-        html += generate_ad()
+        html += generate_display_ad()
+    
+    # Adiciona Popunder apenas uma vez (no primeiro anúncio)
+    if THEME_CONFIG['enable_popunder'] and not popunder_added and (i + 1) >= THEME_CONFIG['ads_frequency']:
+        html += generate_popunder()
+        popunder_added = True
+
+# Adiciona Native Banner no final do container
+if THEME_CONFIG['enable_native']:
+    html += generate_native_ad()
 
 html += """
     </div>
@@ -1155,7 +903,7 @@ html += """
             </div>
             <div class="footer-section">
                 <h4>Contato</h4>
-                <a href="#"><i class="fas fa-envelope"></i> contato@newsportal.com</a>
+                <a href="#"><i class="fas fa-envelope"></i> newsportalbr@outlook.com</a>
             </div>
         </div>
         <div class="copyright">
@@ -1166,7 +914,13 @@ html += """
     <div class="back-to-top" id="backToTop" onclick="scrollToTop()">
         <i class="fas fa-arrow-up"></i>
     </div>
-    
+"""
+
+# Adiciona Social Bar (se ativada)
+if THEME_CONFIG['enable_socialbar']:
+    html += generate_socialbar()
+
+html += """
     <script>
         const themeToggle = document.getElementById('themeToggle');
         const themeText = document.getElementById('themeText');
@@ -1237,6 +991,11 @@ html += """
                 backToTop.classList.remove('show');
             }
         });
+        
+        // Controle de popunder (apenas 1x por sessão)
+        if (!sessionStorage.getItem('popunder_shown')) {
+            sessionStorage.setItem('popunder_shown', 'true');
+        }
     </script>
 </body>
 </html>
