@@ -11,10 +11,10 @@ SITE_CONFIG = {
     "language": "pt-br",
     "theme_color": "#08111f",
     "logo_url": "https://via.placeholder.com/512x512?text=NP",
-    "site_url": "https://seudominio.com",
-    "twitter_handle": "@seudominio",
-    "facebook_page": "seudominio",
-    "instagram": "seudominio",
+    "site_url": "https://newsportalbr.github.io",
+    "twitter_handle": "#",
+    "facebook_page": "#",
+    "instagram": "#",
     "analytics_id": "UA-XXXXXXX-X",
     # Configuração HighPerformanceFormat
     "hpf_key": "59b1a95083fc4642ac472862070573fb",  # Sua key
@@ -61,7 +61,7 @@ def generate_breadcrumb_schema():
         }]
     }
 
-# ===== PÁGINAS LEGAIS =====
+# ===== PÁGINAS LEGAIS COM ANÚNCIOS =====
 def generate_privacy_page():
     return f"""<!DOCTYPE html>
 <html lang="pt-br">
@@ -70,6 +70,19 @@ def generate_privacy_page():
     <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
     <title>Política de Privacidade - NewsPortal</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    
+    <!-- HighPerformanceFormat -->
+    <script>
+        atOptions = {{
+            'key' : '{SITE_CONFIG["hpf_key"]}',
+            'format' : 'iframe',
+            'height' : 250,
+            'width' : 300,
+            'params' : {{}}
+        }};
+    </script>
+    <script src="https://www.highperformanceformat.com/{SITE_CONFIG['hpf_key']}/invoke.js"></script>
+    
     <style>
         * {{ margin: 0; padding: 0; box-sizing: border-box; }}
         body {{
@@ -119,13 +132,38 @@ def generate_privacy_page():
             background: #49a7ff;
             transform: scale(1.05);
         }}
-        .container {{
-            max-width: 900px;
+        .main-container {{
+            max-width: 1200px;
             margin: 40px auto;
-            padding: 30px;
+            padding: 0 20px;
+            display: grid;
+            grid-template-columns: 1fr 300px;
+            gap: 30px;
+        }}
+        .container {{
             background: #0f1a2e;
             border-radius: 16px;
+            padding: 30px;
             box-shadow: 0 5px 20px rgba(0,0,0,0.3);
+        }}
+        .sidebar {{
+            position: sticky;
+            top: 100px;
+        }}
+        .ad-sidebar {{
+            background: linear-gradient(135deg, #0f1a2e, #0d1726);
+            border-radius: 16px;
+            padding: 20px;
+            text-align: center;
+            border: 2px dashed #49a7ff;
+            margin-bottom: 20px;
+        }}
+        .ad-label {{
+            font-size: 11px;
+            color: #49a7ff;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            margin-bottom: 15px;
         }}
         h1 {{ color: #49a7ff; margin-bottom: 20px; font-size: 28px; }}
         h2 {{ color: #49a7ff; margin: 25px 0 15px; font-size: 22px; }}
@@ -151,6 +189,12 @@ def generate_privacy_page():
             margin-top: 50px;
         }}
         @media (max-width: 768px) {{
+            .main-container {{
+                grid-template-columns: 1fr;
+            }}
+            .sidebar {{
+                position: static;
+            }}
             .container {{ margin: 20px; padding: 20px; }}
             h1 {{ font-size: 24px; }}
             h2 {{ font-size: 20px; }}
@@ -169,24 +213,61 @@ def generate_privacy_page():
             </button>
         </div>
     </div>
-    <div class="container">
-        <h1><i class="fas fa-shield-alt"></i> Política de Privacidade</h1>
-        <p><strong>Última atualização:</strong> {datetime.now().strftime('%d/%m/%Y')}</p>
+    
+    <div class="main-container">
+        <div class="container">
+            <h1><i class="fas fa-shield-alt"></i> Política de Privacidade</h1>
+            <p><strong>Última atualização:</strong> {datetime.now().strftime('%d/%m/%Y')}</p>
+            
+            <h2>1. Informações que Coletamos</h2>
+            <p>Coletamos informações que você nos fornece diretamente, como nome e e-mail ao se inscrever na newsletter.</p>
+            
+            <h2>2. Cookies e Anúncios</h2>
+            <p>Utilizamos a rede HighPerformanceFormat para exibir anúncios.</p>
+            
+            <h2>3. Seus Direitos</h2>
+            <p>Você tem direito a acessar, corrigir ou excluir seus dados pessoais.</p>
+            
+            <a href="index.html" class="back-button"><i class="fas fa-arrow-left"></i> Voltar</a>
+        </div>
         
-        <h2>1. Informações que Coletamos</h2>
-        <p>Coletamos informações que você nos fornece diretamente, como nome e e-mail ao se inscrever na newsletter.</p>
-        
-        <h2>2. Cookies e Anúncios</h2>
-        <p>Utilizamos a rede HighPerformanceFormat para exibir anúncios.</p>
-        
-        <h2>3. Seus Direitos</h2>
-        <p>Você tem direito a acessar, corrigir ou excluir seus dados pessoais.</p>
-        
-        <a href="index.html" class="back-button"><i class="fas fa-arrow-left"></i> Voltar</a>
+        <div class="sidebar">
+            <div class="ad-sidebar">
+                <div id="hpf-ad-sidebar">
+                    <script>
+                        atOptions = {{
+                            'key' : '{SITE_CONFIG["hpf_key"]}',
+                            'format' : 'iframe',
+                            'height' : 250,
+                            'width' : 300,
+                            'params' : {{}}
+                        }};
+                    </script>
+                    <script src="https://www.highperformanceformat.com/{SITE_CONFIG['hpf_key']}/invoke.js"></script>
+                </div>
+            </div>
+            
+            <div class="ad-sidebar">
+                <div id="hpf-ad-sidebar2">
+                    <script>
+                        atOptions = {{
+                            'key' : '{SITE_CONFIG["hpf_key"]}',
+                            'format' : 'iframe',
+                            'height' : 250,
+                            'width' : 300,
+                            'params' : {{}}
+                        }};
+                    </script>
+                    <script src="https://www.highperformanceformat.com/{SITE_CONFIG['hpf_key']}/invoke.js"></script>
+                </div>
+            </div>
+        </div>
     </div>
+    
     <div class="footer">
         <p>&copy; 2024 NewsPortal</p>
     </div>
+    
     <script>
         function toggleTheme() {{
             const html = document.documentElement;
@@ -205,11 +286,17 @@ def generate_privacy_page():
         }}
         const savedTheme = localStorage.getItem('theme') || 'dark';
         document.documentElement.setAttribute('data-theme', savedTheme);
+        const icon = document.querySelector('.theme-toggle i');
+        if (savedTheme === 'light') {{
+            icon.classList.remove('fa-moon');
+            icon.classList.add('fa-sun');
+        }}
     </script>
     <style>
         [data-theme="light"] body {{ background: #f5f7fa; }}
         [data-theme="light"] .header {{ background: #ffffff; }}
         [data-theme="light"] .container {{ background: #ffffff; }}
+        [data-theme="light"] .ad-sidebar {{ background: #ffffff; }}
         [data-theme="light"] p {{ color: #4a5a7a; }}
     </style>
 </body>
@@ -223,6 +310,19 @@ def generate_terms_page():
     <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
     <title>Termos de Uso - NewsPortal</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    
+    <!-- HighPerformanceFormat -->
+    <script>
+        atOptions = {{
+            'key' : '{SITE_CONFIG["hpf_key"]}',
+            'format' : 'iframe',
+            'height' : 250,
+            'width' : 300,
+            'params' : {{}}
+        }};
+    </script>
+    <script src="https://www.highperformanceformat.com/{SITE_CONFIG['hpf_key']}/invoke.js"></script>
+    
     <style>
         * {{ margin: 0; padding: 0; box-sizing: border-box; }}
         body {{
@@ -272,13 +372,38 @@ def generate_terms_page():
             background: #49a7ff;
             transform: scale(1.05);
         }}
-        .container {{
-            max-width: 900px;
+        .main-container {{
+            max-width: 1200px;
             margin: 40px auto;
-            padding: 30px;
+            padding: 0 20px;
+            display: grid;
+            grid-template-columns: 1fr 300px;
+            gap: 30px;
+        }}
+        .container {{
             background: #0f1a2e;
             border-radius: 16px;
+            padding: 30px;
             box-shadow: 0 5px 20px rgba(0,0,0,0.3);
+        }}
+        .sidebar {{
+            position: sticky;
+            top: 100px;
+        }}
+        .ad-sidebar {{
+            background: linear-gradient(135deg, #0f1a2e, #0d1726);
+            border-radius: 16px;
+            padding: 20px;
+            text-align: center;
+            border: 2px dashed #49a7ff;
+            margin-bottom: 20px;
+        }}
+        .ad-label {{
+            font-size: 11px;
+            color: #49a7ff;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            margin-bottom: 15px;
         }}
         h1 {{ color: #49a7ff; margin-bottom: 20px; font-size: 28px; }}
         h2 {{ color: #49a7ff; margin: 25px 0 15px; font-size: 22px; }}
@@ -303,6 +428,17 @@ def generate_terms_page():
             text-align: center;
             margin-top: 50px;
         }}
+        @media (max-width: 768px) {{
+            .main-container {{
+                grid-template-columns: 1fr;
+            }}
+            .sidebar {{
+                position: static;
+            }}
+            .container {{ margin: 20px; padding: 20px; }}
+            h1 {{ font-size: 24px; }}
+            h2 {{ font-size: 20px; }}
+        }}
     </style>
 </head>
 <body>
@@ -317,24 +453,61 @@ def generate_terms_page():
             </button>
         </div>
     </div>
-    <div class="container">
-        <h1><i class="fas fa-file-contract"></i> Termos de Uso</h1>
-        <p><strong>Última atualização:</strong> {datetime.now().strftime('%d/%m/%Y')}</p>
+    
+    <div class="main-container">
+        <div class="container">
+            <h1><i class="fas fa-file-contract"></i> Termos de Uso</h1>
+            <p><strong>Última atualização:</strong> {datetime.now().strftime('%d/%m/%Y')}</p>
+            
+            <h2>1. Aceitação dos Termos</h2>
+            <p>Ao acessar e usar o NewsPortal, você concorda com estes Termos de Uso.</p>
+            
+            <h2>2. Conteúdo do Site</h2>
+            <p>Todo o conteúdo é para fins informativos. Não garantimos precisão absoluta.</p>
+            
+            <h2>3. Anúncios</h2>
+            <p>Utilizamos a rede HighPerformanceFormat para exibir anúncios.</p>
+            
+            <a href="index.html" class="back-button"><i class="fas fa-arrow-left"></i> Voltar</a>
+        </div>
         
-        <h2>1. Aceitação dos Termos</h2>
-        <p>Ao acessar e usar o NewsPortal, você concorda com estes Termos de Uso.</p>
-        
-        <h2>2. Conteúdo do Site</h2>
-        <p>Todo o conteúdo é para fins informativos. Não garantimos precisão absoluta.</p>
-        
-        <h2>3. Anúncios</h2>
-        <p>Utilizamos a rede HighPerformanceFormat para exibir anúncios.</p>
-        
-        <a href="index.html" class="back-button"><i class="fas fa-arrow-left"></i> Voltar</a>
+        <div class="sidebar">
+            <div class="ad-sidebar">
+                <div id="hpf-ad-sidebar">
+                    <script>
+                        atOptions = {{
+                            'key' : '{SITE_CONFIG["hpf_key"]}',
+                            'format' : 'iframe',
+                            'height' : 250,
+                            'width' : 300,
+                            'params' : {{}}
+                        }};
+                    </script>
+                    <script src="https://www.highperformanceformat.com/{SITE_CONFIG['hpf_key']}/invoke.js"></script>
+                </div>
+            </div>
+            
+            <div class="ad-sidebar">
+                <div id="hpf-ad-sidebar2">
+                    <script>
+                        atOptions = {{
+                            'key' : '{SITE_CONFIG["hpf_key"]}',
+                            'format' : 'iframe',
+                            'height' : 250,
+                            'width' : 300,
+                            'params' : {{}}
+                        }};
+                    </script>
+                    <script src="https://www.highperformanceformat.com/{SITE_CONFIG['hpf_key']}/invoke.js"></script>
+                </div>
+            </div>
+        </div>
     </div>
+    
     <div class="footer">
         <p>&copy; 2024 NewsPortal</p>
     </div>
+    
     <script>
         function toggleTheme() {{
             const html = document.documentElement;
@@ -346,6 +519,13 @@ def generate_terms_page():
         const savedTheme = localStorage.getItem('theme') || 'dark';
         document.documentElement.setAttribute('data-theme', savedTheme);
     </script>
+    <style>
+        [data-theme="light"] body {{ background: #f5f7fa; }}
+        [data-theme="light"] .header {{ background: #ffffff; }}
+        [data-theme="light"] .container {{ background: #ffffff; }}
+        [data-theme="light"] .ad-sidebar {{ background: #ffffff; }}
+        [data-theme="light"] p {{ color: #4a5a7a; }}
+    </style>
 </body>
 </html>"""
 
@@ -861,9 +1041,6 @@ html = f"""<!DOCTYPE html>
 def generate_ad():
     return f"""
         <div class="card ad-card">
-            <div class="ad-label">
-                <i class="fas fa-ad"></i> Publicidade
-            </div>
             <div id="hpf-ad-{SITE_CONFIG['hpf_id']}">
                 <script>
                     atOptions = {{
@@ -920,7 +1097,7 @@ for i, article in enumerate(articles):
                             <button class="share-btn" onclick="shareArticle('facebook', this)">
                                 <i class="fab fa-facebook"></i>
                             </button>
-                            <button class="share-btn" onclick="shareArticle('whatsapp", this)">
+                            <button class="share-btn" onclick="shareArticle('whatsapp', this)">
                                 <i class="fab fa-whatsapp"></i>
                             </button>
                         </div>
