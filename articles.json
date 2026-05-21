@@ -1,93 +1,213 @@
 [
   {
     "site": "BBC",
+    "title": "Air France e Airbus são condenadas em Paris por queda de avião que saiu do Rio e deixou 228 mortos em 2009",
+    "url": "https://www.bbc.com/portuguese/articles/cwy2wz97gjyo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/news/1024/branded_portuguese/4cfe/live/17727210-5510-11f1-89a3-d1f559421220.jpg"
+  },
+  {
+    "site": "G1",
+    "title": "Casal de idosos morre em incêndio na Região Central; polícia investiga se lareira acesa ou celular na tomada teriam causado chamas",
+    "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/05/21/casal-de-idosos-morre-em-incendio-na-regiao-central.ghtml",
+    "image": "https://s2-g1.glbimg.com/I3JrY8D0LD0h84hjOPJ4vrSgKvc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/E/QhnGGNSpa0YlzC5CgifA/g1-19-.png"
+  },
+  {
+    "site": "UOL",
+    "title": "Repescagem do Sisu terá inscrições entre 15 e 19 de junho",
+    "url": "https://www1.folha.uol.com.br/educacao/2026/05/repescagem-do-sisu-tera-inscricoes-entre-15-e-19-de-junho.shtml",
+    "image": "https://f.i.uol.com.br/fotografia/2026/01/20/1768921509696f99a5aa3f8_1768921509_3x2_rt.jpg"
+  },
+  {
+    "site": "CNN Brasil",
+    "title": "Durigan: Desenserola renegociou R$ 10 bi em 1,1 milhão de operações",
+    "url": "https://www.cnnbrasil.com.br/economia/macroeconomia/durigan-desenserola-renegociou-r-10-bi-em-11-milhao-de-operacoes/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/01/pexels-daniel-dan-47825192-7542641.jpg?w=1200&h=630&crop=1"
+  },
+  {
+    "site": "Terra",
+    "title": "F1: Bottas elogia evolução de Antonelli na Mercedes em 2026",
+    "url": "https://www.terra.com.br/esportes/automobilismo/formula1/f1-bottas-elogia-evolucao-de-antonelli-na-mercedes-em-2026,989b6f35cb2bbf0f93592686ba0e9dc8x3dj721q.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/05/21/bottas-antonelli-tru37b45v97l.jpg"
+  },
+  {
+    "site": "BBC",
+    "title": "Influenciadora, participante de reality e mais de R$ 65 milhões em imóveis: quem é Deolane Bezerra, presa em operação contra o PCC",
+    "url": "https://www.bbc.com/portuguese/articles/cvgz1027v7zo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/news/1024/branded_portuguese/25b5/live/8c7fee90-5513-11f1-9e5e-fb37d8c40e64.jpg"
+  },
+  {
+    "site": "G1",
+    "title": "Sisu 2026 terá seleção complementar no segundo semestre; veja datas e quem pode participar",
+    "url": "https://g1.globo.com/educacao/noticia/2026/05/21/sisu-2026-tera-selecao-complementar-no-segundo-semestre-veja-datas-e-quem-pode-participar.ghtml",
+    "image": "https://s2-g1.glbimg.com/4L9nA734ywXXIq9hRB81z9sJWWc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/c/A3VAqxQiywxeH6cqehmQ/consulta-de-vagas-do-sisu.jpg"
+  },
+  {
+    "site": "UOL",
+    "title": "Aneel oficializa megaleilão do governo Lula que contratou R$ 515 bi de energia",
+    "url": "https://www1.folha.uol.com.br/mercado/2026/05/aneel-oficializa-megaleilao-do-governo-lula-que-contratou-r-515-bi-de-energia.shtml",
+    "image": "https://f.i.uol.com.br/fotografia/2025/07/31/1753998598688be50620891_1753998598_3x2_rt.jpg"
+  },
+  {
+    "site": "CNN Brasil",
+    "title": "Mansões, carros e bolsas de luxo: veja patrimônio milionário de Deolane",
+    "url": "https://www.cnnbrasil.com.br/entretenimento/mansoes-carros-e-bolsas-de-luxo-veja-patrimonio-milionario-de-deolane/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2024/02/deolane-bezerra-e1708023700319.jpg?w=1080&h=607&crop=1"
+  },
+  {
+    "site": "Terra",
+    "title": "AMD planeja investir mais de US$10 bi no setor de IA de Taiwan",
+    "url": "https://www.terra.com.br/byte/amd-planeja-investir-mais-de-us10-bi-no-setor-de-ia-de-taiwan,9e197876b5704f541b5ec755e0bee7b65n8tbdsu.html",
+    "image": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png"
+  },
+  {
+    "site": "BBC",
     "title": "Perguntamos às IAs em quem votar — veja o que elas responderam, mesmo proibidas de se posicionar",
     "url": "https://www.bbc.com/portuguese/articles/c5y0kv55j11o?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/news/1024/branded_portuguese/1306/live/50f00c30-4f90-11f1-8b8c-6d33e1d5abb6.jpg"
   },
   {
     "site": "G1",
-    "title": "TV Integração de Juiz de Fora ao vivo: assista aos telejornais",
-    "url": "https://g1.globo.com/mg/zona-da-mata/ao-vivo/assista-ao-vivo-a-tv-integracao-de-juiz-de-fora.ghtml",
-    "image": "https://s2-g1.glbimg.com/R8hPlG_cZR-U2I5XFp04whn1n_w=/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/p/U/NQo77ZQaOKcQ5j2QFVeQ/img-facebook.jpg"
+    "title": "Homem suspeito de roubar celular de mulher em Conchas é preso na rodoviária de Campinas",
+    "url": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2026/05/21/homem-suspeito-de-roubar-celular-de-mulher-em-conchas-e-preso-na-rodoviaria-de-campinas.ghtml",
+    "image": "https://s2-g1.glbimg.com/LfZcsUEPUk7KY8OxIjZ5mSE3tSg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/X/YASTTlTKGedNZTAFsgrg/vlcsnap-2026-05-21-12h14m13s798.png"
   },
   {
     "site": "UOL",
-    "title": "Briga entre mãe e filha termina na polícia durante faxina em Apucarana",
-    "url": "https://tnonline.uol.com.br/noticias/apucarana/briga-entre-mae-e-filha-termina-na-policia-durante-faxina-em-apucarana-1091647",
-    "image": "https://cdn.tnonline.com.br/img/Artigo-Destaque/1090000/1200x630/briga-entre-mae-e-filha-termina-na-policia-durante-01091647-0-202605210848/ScaleProportionalFillBackground-1.jpg?fallback=https%3A%2F%2Fcdn.tnonline.com.br%2Fimg%2FArtigo-Destaque%2F1090000%2Fbriga-entre-mae-e-filha-termina-na-policia-durante-01091647-0-202605210848.webp%3Fxid%3D1725366&xid=1725366"
+    "title": "Drones e jatos militares dos EUA são observados perto de Cuba em meio ao aumento das tensões entre os dois países",
+    "url": "https://www1.folha.uol.com.br/mundo/2026/05/drones-e-jatos-militares-dos-eua-sao-observados-perto-de-cuba-em-meio-ao-aumento-das-tensoes-entre-os-dois-paises.shtml",
+    "image": "https://f.i.uol.com.br/fotografia/2026/05/21/17793866926a0f49446f4ab_1779386692_3x2_lg.jpg"
   },
   {
     "site": "CNN Brasil",
-    "title": "Intenção de Trump com Cuba é “preparar o terreno”, diz especialista",
-    "url": "https://www.cnnbrasil.com.br/internacional/intencao-de-trump-com-cuba-e-preparar-o-terreno-diz-especialista/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/05/Presidente-dos-EUA-Donald-Trump-em-Maryland-20-de-maio-de-2026.jpg?w=1200&h=630&crop=1"
+    "title": "Trump: Porta-aviões “de forma alguma” foi enviado para intimidar Cuba",
+    "url": "https://www.cnnbrasil.com.br/internacional/trump-porta-avioes-de-forma-alguma-foi-enviado-para-intimidar-cuba/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/04/GettyImages-2269290702-e1775497407254.jpg?w=1200&h=630&crop=1"
   },
   {
     "site": "Terra",
-    "title": "Casa de zagueiro campeão do mundo é alvo de invasão na França; suspeitos são presos",
-    "url": "https://www.terra.com.br/esportes/futebol/internacional/casa-de-zagueiro-campeao-do-mundo-e-alvo-de-invasao-na-franca-suspeitos-sao-presos,0898ae8da864a88f195deba4ad34938drgxjvjdb.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/05/21/1399853641-casa-benjamin-pavard-610x400.jpg"
+    "title": "Polícia de Portugal detém mulher francesa suspeita de abandonar duas crianças",
+    "url": "https://www.terra.com.br/noticias/mundo/policia-de-portugal-detem-mulher-francesa-suspeita-de-abandonar-duas-criancas,f8bc281b8d68116ce612734a31785e2chbvhl7u7.html",
+    "image": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png"
   },
   {
     "site": "BBC",
-    "title": "Lula chega a 47% de intenção de voto no 2º turno no Agregador de Pesquisas da BBC News Brasil após revelação do elo entre Flávio Bolsonaro e Vorcaro",
+    "title": "Drones e jatos militares dos EUA são observados perto de Cuba em meio ao aumento das tensões entre os dois países",
+    "url": "https://www.bbc.com/portuguese/articles/c4g8v2pdww5o?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/news/1024/branded_portuguese/732d/live/d5b58e90-546d-11f1-97ab-4b256b476233.jpg"
+  },
+  {
+    "site": "G1",
+    "title": "Drones e jatos militares dos EUA são observados perto de Cuba em meio ao aumento das tensões entre os dois países",
+    "url": "https://g1.globo.com/mundo/noticia/2026/05/21/drones-e-jatos-militares-dos-eua-sao-observados-perto-de-cuba-em-meio-ao-aumento-das-tensoes-entre-os-dois-paises.ghtml",
+    "image": "https://s2-g1.glbimg.com/8X-4p5II9QRE62-iGkaiXvlllIo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/7/ba89atRBA0S0O6WVPIdA/foto-upscaled-1200px.jpg"
+  },
+  {
+    "site": "UOL",
+    "title": "Aluna de 15 anos tem maxilar quebrado em agressão na porta de escola no Rio",
+    "url": "https://www1.folha.uol.com.br/cotidiano/2026/05/aluna-de-15-anos-tem-maxilar-quebrado-em-agressao-na-porta-de-escola-no-rio.shtml",
+    "image": "https://f.i.uol.com.br/fotografia/2026/05/21/17793831936a0f3b99a7e64_1779383193_3x2_lg.jpg"
+  },
+  {
+    "site": "CNN Brasil",
+    "title": "Rico Melquiades aponta perseguição a influenciadores após prisão de Deolane",
+    "url": "https://www.cnnbrasil.com.br/entretenimento/rico-melquiades-aponta-perseguicao-a-influenciadores-apos-prisao-de-deolane/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/05/rico-melquiades.jpg?w=1200&h=630&crop=1"
+  },
+  {
+    "site": "Terra",
+    "title": "Antes de ser presa, Deolane Bezerra ostentou bolsa avaliada em R$ 300 mil",
+    "url": "https://www.terra.com.br/diversao/antes-de-ser-presa-deolane-bezerra-ostentou-bolsa-avaliada-em-r-300-mil,0493003b7a9fa124af40130a6b43955bb1uff6gt.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/05/21/679023224-captura-de-tela-2026-05-21-143854.png"
+  },
+  {
+    "site": "BBC",
+    "title": "Lula chega a 47% de intenção de voto no 2º turno no Agregador de Pesquisas da BBC News Brasil",
     "url": "https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/news/1024/branded_portuguese/5379/live/8df8b7e0-485a-11f1-ac78-2112837ce2aa.jpg"
   },
   {
     "site": "G1",
-    "title": "VÍDEOS: Bom Dia Minas de quinta-feira, 21 de maio de 2026",
-    "url": "https://g1.globo.com/mg/minas-gerais/videos-bom-dia-minas/playlist/videos-bom-dia-minas-de-quinta-feira-21-de-maio-de-2026.ghtml",
-    "image": "https://s.glbimg.com/jo/g1/static/live/imagens/img_facebook.png?g1"
+    "title": "Polícia recaptura terceiro fugitivo da Penitenciária de Alcaçuz; dois seguem foragidos",
+    "url": "https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/05/21/policia-fugitivos-penitenciaria-alcacuz.ghtml",
+    "image": "https://s2-g1.glbimg.com/Zvyep1Dgj2p0t5mFnQe5Mh3BdxY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/v/b13RsARTijn4EPbrQRiQ/whatsapp-image-2026-05-21-at-13.58.55.jpeg"
   },
   {
     "site": "UOL",
-    "title": "PF investiga suspeitos de fraude bancária em São Paulo",
-    "url": "https://aovivo.folha.uol.com.br/mercado/2026/05/01/6447-dolar-empresas-e-bolsas-acompanhe-ao-vivo-o-mercado.shtml#post450784",
-    "image": "https://f.i.uol.com.br/hunting/folha/1/common/logo-folha-facebook-share.jpg"
+    "title": "MP diz que patrimônio de Deolane é incompatível e fruto de lavagem de dinheiro do PCC",
+    "url": "https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2026/05/21/mp-diz-que-patrimonio-de-deolane-e-incompativel-e-fruto-de-lavagem-de-dinheiro-do-pcc.htm",
+    "image": ""
   },
   {
     "site": "CNN Brasil",
-    "title": "Faustão celebra maioridade do caçula em registro raro; veja vídeo",
-    "url": "https://www.cnnbrasil.com.br/entretenimento/faustao-celebra-maioridade-do-cacula-em-registro-raro-veja-video/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/05/faustao-rodrigo.jpg?w=1200&h=630&crop=1"
+    "title": "Anápolis x Rio Branco-ES: horário e onde a assistir à Copa Centro-Oeste",
+    "url": "https://www.cnnbrasil.com.br/esportes/futebol/anapolis-x-rio-branco-es-horario-e-onde-a-assistir-a-copa-centro-oeste/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/05/estadio-jonas-duarte-e1779386432969.jpeg?w=1200&h=630&crop=1"
   },
   {
     "site": "Terra",
-    "title": "Papa Leão XIV critica egoísmo social e defende diplomacia em favor da paz",
-    "url": "https://www.terra.com.br/noticias/mundo/papa-leao-xiv-critica-egoismo-social-e-defende-diplomacia-em-favor-da-paz,8456a7b12bb4e66b9d1fa948d89de7aab4spuk2m.html",
-    "image": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png"
+    "title": "Dark Horse: empresa responsável por longa de Jair Bolsonaro nunca fez filme",
+    "url": "https://www.terra.com.br/diversao/dark-horse-empresa-responsavel-por-longa-de-jair-bolsonaro-nunca-fez-filme,d86749c755caf29327c72feeaba768b6akaw186a.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/05/21/381788137-1779384102.jpg"
   },
   {
     "site": "BBC",
-    "title": "A paulistana filha de faxineira e pintor de paredes que se tornou artista plástica mundialmente reconhecida: 'Não acredito em fazer dinheiro e sair do país'",
+    "title": "Rosana Paulino, a filha de faxineira que se tornou artista plástica mundialmente reconhecida: 'Não acredito em fazer dinheiro e sair do país'",
     "url": "https://www.bbc.com/portuguese/articles/cn4p3m80m1jo?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/news/1024/branded_portuguese/1f62/live/7c770430-5508-11f1-89a3-d1f559421220.jpg"
   },
   {
     "site": "G1",
-    "title": "Operação Vérnix: transportadora ligada ao PCC movimentou R$ 20 milhões em Presidente Venceslau, segundo investigação",
-    "url": "https://g1.globo.com/sp/presidente-prudente-e-regiao/noticia/2026/05/21/operacao-vernix-transportadora-ligada-ao-pcc-movimentou-r-20-milhoes-em-presidente-venceslau-segundo-investigacao.ghtml",
-    "image": "https://s2-g1.glbimg.com/qeUFkbz3XzXGRPyCpv2c-8qWxAQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/m/PmrAMJQoS3ULxpdvsTsw/ambiental-rosana-2-.png"
+    "title": "Suprema Corte dos EUA decide em favor de empresa americana que teve bens confiscados após Revolução Cubana, há mais de 65 anos",
+    "url": "https://g1.globo.com/mundo/noticia/2026/05/21/suprema-corte-dos-eua-decide-em-favor-de-empresa-americana-que-teve-bens-confiscados-apos-revolucao-cubana-ha-mais-de-65-anos.ghtml",
+    "image": "https://s2-g1.glbimg.com/BvG2RlCZI3iXa_2d9ge6_q2pZ-A=/s.glbimg.com/jo/g1/f/original/2014/12/26/2014-12-26t195442z_1682785439_gm1eacr0afn01_rtrmadp_3_cuba-usa-autos.jpg"
   },
   {
     "site": "UOL",
-    "title": "Lotomania acumula e prêmio vai a R$ 8 milhões",
-    "url": "https://tnonline.uol.com.br/noticias/cotidiano/lotomania-acumula-e-premio-vai-a-r-8-milhoes-1091646",
-    "image": "https://cdn.tnonline.com.br/img/Artigo-Destaque/1070000/1200x630/lotomania-2899-acumula-e-premio-vai-a-r-42-milhoes-01072614-0-202603132141/ScaleProportionalFillBackground-1.jpg?fallback=https%3A%2F%2Fcdn.tnonline.com.br%2Fimg%2FArtigo-Destaque%2F1070000%2Flotomania-2899-acumula-e-premio-vai-a-r-42-milhoes-01072614-0-202603132141.jpg%3Fxid%3D1725362&xid=1725362"
+    "title": "Família Delli Colli celebra centenário com grande encontro em Apucarana",
+    "url": "https://tnonline.uol.com.br/noticias/apucarana/familia-delli-colli-celebra-centenario-com-grande-encontro-em-apucarana-1091742",
+    "image": "https://cdn.tnonline.com.br/img/Artigo-Destaque/1090000/1200x630/integrantes-da-familia-delli-colli-se-reuniram-na--01091742-0-202605211507/ScaleProportionalFillBackground-1.jpg?fallback=https%3A%2F%2Fcdn.tnonline.com.br%2Fimg%2FArtigo-Destaque%2F1090000%2Fintegrantes-da-familia-delli-colli-se-reuniram-na--01091742-0-202605211507.jpg%3Fxid%3D1725550&xid=1725550"
   },
   {
     "site": "CNN Brasil",
-    "title": "Deolane e Marcola: quem são os alvos de operação contra PCC",
-    "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/deolane-e-marcola-quem-sao-os-alvos-de-operacao-contra-pcc/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/05/deolane-marcola.jpeg?w=1200&h=630&crop=1"
+    "title": "Liquidez diária: o que significa e por que importa",
+    "url": "https://www.cnnbrasil.com.br/economia/negocios/liquidez-diaria-o-que-significa-e-por-que-importa/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/05/liquidez-diaria-pressfoto.jpg?w=1200&h=630&crop=1"
   },
   {
     "site": "Terra",
-    "title": "Paula Fernandes assume namoro com comandante de jato executivo; saiba quem é o novo amor da cantora",
-    "url": "https://www.terra.com.br/diversao/gente/paula-fernandes-assume-namoro-com-comandante-de-jato-executivo-saiba-quem-e-o-novo-amor-da-cantora,cee2312d85f97d1354168f4053f10802o0vapf7t.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/05/21/265334310-b2gjt2adbjbujfq2m3b5yuvvcu.jpg"
+    "title": "A imersão em banheira de gelo faz bem à saúde?",
+    "url": "https://www.terra.com.br/noticias/a-imersao-em-banheira-de-gelo-faz-bem-a-saude,504cc4851e9e9005533f8eb4372bfdc4zbab63tu.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/05/21/149891711-banheira-de-gelo1753123395788.jpg"
+  },
+  {
+    "site": "BBC",
+    "title": "Como Elon Musk pode ficar trilionário com oferta de ações da SpaceX na bolsa",
+    "url": "https://www.bbc.com/portuguese/articles/c3e2dkvz49wo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/news/1024/branded_portuguese/a257/live/e755c9b0-5497-11f1-b691-3398bf815b45.jpg"
+  },
+  {
+    "site": "G1",
+    "title": "Acidente entre três carros deixa vítimas em rodovia entre Flora Rica e Santo Expedito",
+    "url": "https://g1.globo.com/sp/presidente-prudente-e-regiao/noticia/2026/05/21/acidente-entre-tres-carros-deixa-vitimas-em-rodovia-entre-flora-rica-e-santo-expedito.ghtml",
+    "image": "https://s2-g1.glbimg.com/Fnrz9gxACmWdnY3pmtWckDUQaFw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/H/csyhycQeOBLzrIDy892w/g1-2026-05-21t150545.870.png"
+  },
+  {
+    "site": "UOL",
+    "title": "Custo de vida no Paraguai é menor? O que muda no valor de aluguel e mercado",
+    "url": "https://noticias.uol.com.br/internacional/ultimas-noticias/2026/05/21/custo-de-vida-no-paraguai-e-menor-veja-o-que-muda-no-aluguel-e-mercado.ghtm",
+    "image": ""
+  },
+  {
+    "site": "CNN Brasil",
+    "title": "Cuba está pronta para negociar com os EUA, diz embaixador ao New York Times",
+    "url": "https://www.cnnbrasil.com.br/internacional/cuba-esta-pronta-para-negociar-com-os-eua-diz-embaixador-ao-new-york-times/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/05/ernesto-soberon-guzman-cuba.jpg?w=1200&h=630&crop=1"
+  },
+  {
+    "site": "Terra",
+    "title": "Mancha Verde pede saída de Abel Ferreira após derrota na Libertadores: 'Presente vergonhoso'",
+    "url": "https://www.terra.com.br/esportes/palmeiras/mancha-verde-pede-saida-de-abel-ferreira-apos-derrota-na-libertadores-presente-vergonhoso,976e5d3e7728fd3b22034414199696410hsazvko.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/04/15/178859210-tnkpyajsizgtvigdnorcipymrq.jpg"
   },
   {
     "site": "BBC",
@@ -97,27 +217,27 @@
   },
   {
     "site": "G1",
-    "title": "TV Integração de Uberaba ao vivo: assista aos telejornais",
-    "url": "https://g1.globo.com/mg/triangulo-mineiro/ao-vivo/assista-ao-vivo-a-tv-integracao-de-uberaba.ghtml",
-    "image": "https://s2-g1.glbimg.com/R8hPlG_cZR-U2I5XFp04whn1n_w=/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/p/U/NQo77ZQaOKcQ5j2QFVeQ/img-facebook.jpg"
+    "title": "Pneu gigante que destruiu casa no Ceará tem 4 metros de diâmetro e é usado em veículos de mineração",
+    "url": "https://g1.globo.com/ce/ceara/noticia/2026/05/21/pneu-gigante-que-destruiu-casa-no-ceara-tem-4-metros-de-diametro-e-e-usado-em-veiculos-de-mineracao.ghtml",
+    "image": "https://s2-g1.glbimg.com/__66Kjm9ODLvtnkWfdA5BslNDGM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/s/uKHcy5SiCkDStiABn5yA/pneu-gigante-itapaje-a.jpg"
   },
   {
     "site": "UOL",
-    "title": "Lotofácil confira os números sorteados e de onde são os ganhadores",
-    "url": "https://tnonline.uol.com.br/noticias/cotidiano/lotofacil-confira-os-numeros-sorteados-e-de-onde-sao-os-ganhadores-1091645",
-    "image": "https://cdn.tnonline.com.br/img/Instant-Article/1030000/1200x630/Houve-256-apostas-com-14-acertos-01036804-0-202510311129/ScaleProportionalFillBackground-1.jpg?fallback=https%3A%2F%2Fcdn.tnonline.com.br%2Fimg%2FInstant-Article%2F1030000%2FHouve-256-apostas-com-14-acertos-01036804-0-202510311129.jpg%3Fxid%3D1725358&xid=1725358"
+    "title": "Morre recém-nascido que foi encontrado em parede na Paraíba",
+    "url": "https://tnonline.uol.com.br/noticias/cotidiano/morre-recem-nascido-que-foi-encontrado-em-parede-na-paraiba-1091740",
+    "image": "https://cdn.tnonline.com.br/img/Artigo-Destaque/1090000/1200x630/morre-recem-nascido-que-foi-encontrado-em-parede-n-01091740-0-202605211504/ScaleProportionalFillBackground-1.jpg?fallback=https%3A%2F%2Fcdn.tnonline.com.br%2Fimg%2FArtigo-Destaque%2F1090000%2Fmorre-recem-nascido-que-foi-encontrado-em-parede-n-01091740-0-202605211504.webp%3Fxid%3D1725540&xid=1725540"
   },
   {
     "site": "CNN Brasil",
-    "title": "Surto de ebola muda preparação do RD Congo para Copa do Mundo",
-    "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/surto-de-ebola-muda-preparacao-do-rd-congo-para-copa-do-mundo/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/05/GettyImages-2254359131.jpg?w=1200&h=630&crop=1"
+    "title": "Mãe de Deolane Bezerra desabafa sobre prisão da filha; confira",
+    "url": "https://www.cnnbrasil.com.br/entretenimento/mae-de-deolane-bezerra-desabafa-sobre-prisao-da-filha-confira/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/05/solange-bezerra.png?w=1200&h=630&crop=1"
   },
   {
     "site": "Terra",
-    "title": "Caso de tentativa de homicídio contra suspeita de atirar na casa de Rihanna é suspenso para avaliação de sanidade mental",
-    "url": "https://www.terra.com.br/diversao/musica/caso-de-tentativa-de-homicidio-contra-suspeita-de-atirar-na-casa-de-rihanna-e-suspenso-para-avaliacao-de-sanidade-mental,1f66672efb5c5322137b00c9ef253c6dzqbmoh9i.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/05/21/2025768499-rocky-e-rihanna-xny-star-max-gc-images-foto-jornalistica-2256834493.jpg"
+    "title": "Santos prepara limpa no elenco após reunião da diretoria",
+    "url": "https://www.terra.com.br/esportes/santos/santos-prepara-limpa-no-elenco-apos-reuniao-da-diretoria,2643741f5fe0df1336dc536f1c1ec86but441kiz.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/05/21/1291072561-55157845927976b104f6do-610x400.jpg"
   },
   {
     "site": "BBC",
@@ -127,27 +247,27 @@
   },
   {
     "site": "G1",
-    "title": "TV Integração de Uberlândia ao vivo: assista aos telejornais",
-    "url": "https://g1.globo.com/mg/triangulo-mineiro/ao-vivo/assista-ao-vivo-a-tv-integracao-de-uberlandia.ghtml",
-    "image": "https://s2-g1.glbimg.com/R8hPlG_cZR-U2I5XFp04whn1n_w=/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/p/U/NQo77ZQaOKcQ5j2QFVeQ/img-facebook.jpg"
+    "title": "Alunos denunciam problemas estruturais na Cidade Universitária de Macaé e cobram investimentos",
+    "url": "https://g1.globo.com/rj/norte-fluminense/noticia/2026/05/21/alunos-denunciam-problemas-estruturais-na-cidade-universitaria-de-macae-e-cobram-investimentos.ghtml",
+    "image": "https://s2-g1.glbimg.com/rwmv1Zyl9VT2R8ERyo60iQu77dg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/S/qYdRcCR0uBGBXj86B7PQ/teto-ufrj.jpg"
   },
   {
     "site": "UOL",
-    "title": "Quina: confira os números sorteados e de onde são os ganhadores",
-    "url": "https://tnonline.uol.com.br/noticias/cotidiano/quina-confira-os-numeros-sorteados-e-de-onde-sao-os-ganhadores-1091644",
-    "image": "https://cdn.tnonline.com.br/img/Instant-Article/1020000/1200x630/Quem-acertar-todas-as-cinco-dezenas-levara-sozinho-01020530-0-202509041931/ScaleProportionalFillBackground-1.jpg?fallback=https%3A%2F%2Fcdn.tnonline.com.br%2Fimg%2FInstant-Article%2F1020000%2FQuem-acertar-todas-as-cinco-dezenas-levara-sozinho-01020530-0-202509041931.jpg%3Fxid%3D1725354&xid=1725354"
+    "title": "Motociclistas precisam ficar atentos para mudanças nos capacetes; veja quais",
+    "url": "https://tnonline.uol.com.br/noticias/cotidiano/motociclistas-precisam-ficar-atentos-para-mudancas-nos-capacetes-veja-quais-1091739",
+    "image": "https://cdn.tnonline.com.br/img/Artigo-Destaque/1090000/1200x630/a-mudanca-integra-o-programa-inmetro-na-palma-da-m-01091739-0-202605211503/ScaleProportionalFillBackground-1.jpg?fallback=https%3A%2F%2Fcdn.tnonline.com.br%2Fimg%2FArtigo-Destaque%2F1090000%2Fa-mudanca-integra-o-programa-inmetro-na-palma-da-m-01091739-0-202605211503.jpg%3Fxid%3D1725535&xid=1725535"
   },
   {
     "site": "CNN Brasil",
-    "title": "PF rejeita delação de Vorcaro: quais devem ser os próximos passos",
-    "url": "https://www.cnnbrasil.com.br/politica/pf-rejeita-delacao-de-vorcaro-quais-devem-ser-os-proximos-passos/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/02/Daniel-Vorcaro.png?w=1000&h=563&crop=1"
+    "title": "Big techs: Lula reforça decisão do STF sobre conteúdo",
+    "url": "https://www.cnnbrasil.com.br/politica/big-techs-lula-reforca-decisao-do-stf-sobre-conteudo/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2024/11/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbTNwc2QyazgwMDBrM2I2bTUwMzUzdnhs-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtM3BzOWV3NDAwMXQyNnFqNnNuejkycXE.jpg?w=1200&h=630&crop=1"
   },
   {
     "site": "Terra",
-    "title": "'Dangerous Woman' colocou o futuro do pop nas mãos de Ariana Grande",
-    "url": "https://www.terra.com.br/diversao/musica/dangerous-woman-colocou-o-futuro-do-pop-nas-maos-de-ariana-grande,224727176b5bdc65221c29b16d7ce93eg5kh9gsx.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/05/21/1595434494-ariana-grande-atriz-cantora-foto-dominik-bindl-getty-images.jpg"
+    "title": "Vini Jr curte foto de Virginia e reacende rumores sobre reconciliação",
+    "url": "https://www.terra.com.br/esportes/futebol/internacional/vini-jr-curte-foto-de-virginia-e-reacende-rumores-sobre-reconciliacao,a46b6f7e6388ca4e05c0e0147d83c049e5z9idg9.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/05/21/1338027039-saveclipapp574271409185559581500075633773143886259283668neasy-resizecom-610x400.jpg"
   },
   {
     "site": "BBC",
@@ -157,146 +277,26 @@
   },
   {
     "site": "G1",
-    "title": "Acidente entre dois carros deixa três feridos no Contorno Sul da Tamoios, em Caraguatatuba",
-    "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/05/21/acidente-entre-dois-carros-deixa-tres-feridos-no-contorno-sul-da-tamoios-em-caraguatatuba.ghtml",
-    "image": "https://s2-g1.glbimg.com/Ik3KEKvIy21OO5kpm7eBV34LJes=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/q/AaguoCTeynXWdfaEYh8A/whatsapp-image-2026-05-21-at-08.45.08.jpeg"
+    "title": "Caminhão tomba e espalha carga de macarrão instantâneo em rodovia de São Roque",
+    "url": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/05/21/acidente-rodovia-sao-roque.ghtml",
+    "image": "https://s2-g1.glbimg.com/-IXEik1MYbHv630Ri2qVX69uwQw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/U/3iZbolQk2TR18jSH5jeg/texto-do-seu-paragrafo-2026-05-21t134905.596.png"
   },
   {
     "site": "UOL",
-    "title": "Justiça francesa condena Airbus e Air France por homicídios culposos no acidente do voo Rio-París em 2009",
-    "url": "https://noticias.uol.com.br/ultimas-noticias/afp/2026/05/21/justica-francesa-condena-airbus-e-air-france-por-homicidios-culposos-no-acidente-do-voo-rio-paris-em-2009.htm",
+    "title": "É falso que Mendonça ordenou operação da PF contra Moraes; vídeo é IA",
+    "url": "https://noticias.uol.com.br/confere/ultimas-noticias/2026/05/21/falso-mendonca-ordenou-operacao-pf-moraes.ghtm",
     "image": ""
   },
   {
     "site": "CNN Brasil",
-    "title": "Timbaúba investe R$ 10 milhões em nova linha de refrescos à base de frutas",
-    "url": "https://www.cnnbrasil.com.br/agro/timbauba-investe-r-10-milhoes-em-nova-linha-de-bebidas/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/04/WhatsApp-Image-2026-04-09-at-10.40.46-4.jpeg?w=1200&h=630&crop=1"
+    "title": "STF torna três policiais réus por obstrução de justiça no caso Marielle",
+    "url": "https://www.cnnbrasil.com.br/politica/stf-torna-tres-policiais-reus-por-obstrucao-de-justica-no-caso-marielle/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/02/primeira-turma-stf-julgamento-marielle-luiz-silveira-stf-25-fev-2026.jpg?w=1200&h=630&crop=1"
   },
   {
     "site": "Terra",
-    "title": "Filipe Bragança revela lado intenso: \"Gosto de sofrer\", diz poeta romântico",
-    "url": "https://www.terra.com.br/diversao/filipe-braganca-revela-lado-intenso-gosto-de-sofrer-diz-poeta-romantico,3f7d84f83f554dd482fe3146f183dc7bo992o477.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/05/21/527390280-whatsapp-image-2026-05-20-at-17-56-47.jpg"
-  },
-  {
-    "site": "BBC",
-    "title": "Os paralelos entre o indiciamento de Raúl Castro nos EUA e o caso que levou à captura de Maduro na Venezuela",
-    "url": "https://www.bbc.com/portuguese/articles/c3924d3kmrko?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/news/1024/branded_portuguese/2513/live/e6cc93f0-5480-11f1-9e5e-41ceb78553de.jpg"
-  },
-  {
-    "site": "G1",
-    "title": "De foto ao nascer a indenização de R$ 1 milhão: veja cronologia do caso de bebês trocados em hospital de Goiás",
-    "url": "https://g1.globo.com/go/goias/noticia/2026/05/21/de-foto-ao-nascer-a-indenizacao-de-r-1-milhao-veja-cronologia-do-caso-de-bebes-trocados-em-hospital-de-goias.ghtml",
-    "image": "https://s2-g1.glbimg.com/TZQMg5Tz3qJQ-PsqZx8CaTA3T2k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/T/b/yqftAPSbW07AUaTD2qoQ/foto-galeria-1-4-.jpg"
-  },
-  {
-    "site": "UOL",
-    "title": "Conectividade aérea da Europa cresce apenas 1% em 2025",
-    "url": "https://aeromagazine.uol.com.br/artigo/iata-conectividade-aerea-europa-crescimento-2025.html?utm_source=Feed%20UOL&utm_medium=site&xid=0838",
-    "image": "https://aeromagazine.uol.com.br/media/_versions/schiphol-airport-amsterdam-divulgacao_widelg.jpg"
-  },
-  {
-    "site": "CNN Brasil",
-    "title": "Quem são os filhos de Deolane Bezerra, presa em operação da Polícia Civil",
-    "url": "https://www.cnnbrasil.com.br/entretenimento/quem-sao-os-filhos-de-deolane-bezerra-presa-em-operacao-da-policia-civil/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/05/deolane-bezerra-filhos.jpg?w=1200&h=630&crop=1"
-  },
-  {
-    "site": "Terra",
-    "title": "Santos vacila, empata com San Lorenzo e se complica na Sul-Americana",
-    "url": "https://www.terra.com.br/esportes/santos/santos-vacila-empata-com-san-lorenzo-e-se-complica-na-sul-americana,ab58af5428d0ebd4176b095b8f897c19t4i0ujac.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/05/21/1353412997-santos-v-san-lorenzo-copa-conmebol-sudamericana-2026-2048x1365.jpg"
-  },
-  {
-    "site": "BBC",
-    "title": "Gasolina de má qualidade e outros 3 motivos que explicam a onda de protestos na Bolívia",
-    "url": "https://www.bbc.com/portuguese/articles/c0421749913o?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/news/1024/branded_portuguese/4f83/live/bc6ba930-5399-11f1-960b-071e01d068d2.jpg"
-  },
-  {
-    "site": "G1",
-    "title": "Acidente entre carretas deixa um ferido e causa congestionamento de 10 km na Dutra, em Lorena",
-    "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/05/21/acidente-entre-carretas-deixa-um-ferido-e-causa-congestionamento-de-10-km-na-dutra-em-lorena.ghtml",
-    "image": "https://s2-g1.glbimg.com/O2MRRRAjV5p8HL8tzqkeJ_T7CQI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/G/jFWvEqRYKmGYX22QA3fA/texto-do-seu-paragrafo-2026-05-21t082847.564.png"
-  },
-  {
-    "site": "UOL",
-    "title": "Exposição em Londres revela o lado artístico de Winston Churchill",
-    "url": "https://noticias.uol.com.br/ultimas-noticias/afp/2026/05/21/exposicao-em-londres-revela-o-lado-artistico-de-winston-churchill.htm",
-    "image": ""
-  },
-  {
-    "site": "CNN Brasil",
-    "title": "Análise: Após falhar no Irã, Trump tenta mudar rumos de Cuba",
-    "url": "https://www.cnnbrasil.com.br/internacional/analise-apos-falhar-no-ira-trump-tenta-mudar-rumos-de-cuba/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/05/Trump-e-Raul-Castro.png?w=1057&h=588&crop=1"
-  },
-  {
-    "site": "Terra",
-    "title": "Lúcio Maia fala sobre seu novo álbum homônimo: 'Psicodelia é uma dissidência psicotrópica do surrealismo e do dadaísmo'",
-    "url": "https://www.terra.com.br/diversao/musica/lucio-maia-fala-sobre-seu-novo-album-homonimo-psicodelia-e-uma-dissidencia-psicotropica-do-surrealismo-e-do-dadaismo,4c6ae7ea1144e205ef64e8287b4a9683rcz6lp0a.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/05/21/596772523-lucio-maia-divulgacao-rolling-stone.jpg"
-  },
-  {
-    "site": "BBC",
-    "title": "Estrela pede recuperação judicial; relembre brinquedos históricos da marca",
-    "url": "https://www.bbc.com/portuguese/articles/clypewg4ylqo?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/news/1024/branded_portuguese/b316/live/35bff810-5456-11f1-bc99-1d37de959855.jpg"
-  },
-  {
-    "site": "G1",
-    "title": "Caminhão carregado com nove toneladas de abacaxi pega fogo após acidente na BR-251",
-    "url": "https://g1.globo.com/mg/grande-minas/noticia/2026/05/21/caminhao-carregado-com-nove-toneladas-de-abacaxi-pega-fogo-apos-acidente-na-br-251.ghtml",
-    "image": "https://s2-g1.glbimg.com/m3Yym-dLNSYpYTteoVdbccVvmso=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/8/vAeBPYSe2w1m9eLbY3Dg/caminhao2511-1-.jpeg"
-  },
-  {
-    "site": "UOL",
-    "title": "Dois acidentes mobilizam equipes de resgate na BR-376 em Apucarana",
-    "url": "https://tnonline.uol.com.br/noticias/apucarana/dois-acidentes-mobilizam-equipes-de-resgate-na-br-376-em-apucarana-1091642",
-    "image": "https://cdn.tnonline.com.br/img/Instant-Article/1090000/1200x630/dois-acidentes-mobilizam-equipes-de-resgate-na-br--01091642-0-202605210837/ScaleProportionalFillBackground-1.jpg?fallback=https%3A%2F%2Fcdn.tnonline.com.br%2Fimg%2FInstant-Article%2F1090000%2Fdois-acidentes-mobilizam-equipes-de-resgate-na-br--01091642-0-202605210837.jpg%3Fxid%3D1725340&xid=1725340"
-  },
-  {
-    "site": "CNN Brasil",
-    "title": "Flamengo: Léo Pereira abre o coração e revela sentimento após convocação",
-    "url": "https://www.cnnbrasil.com.br/esportes/futebol/flamengo/flamengo-leo-pereira-abre-o-coracao-e-revela-sentimento-apos-convocacao/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/03/gol-leo-pereira-botafogo-flamengo-2-e1773537457872.jpg?w=1200&h=630&crop=1"
-  },
-  {
-    "site": "Terra",
-    "title": "Confirmado; Fernando Alonso e Sergio Pérez combinaram de pilotar mais devagar do que o normal; o objetivo é tornar as corridas de F1 menos entediantes",
-    "url": "https://www.terra.com.br/mobilidade/confirmado-fernando-alonso-e-sergio-perez-combinaram-de-pilotar-mais-devagar-do-que-o-normal-o-objetivo-e-tornar-as-corridas-de-f1-menos-entediantes,cdd6fd9bc329d56712fed1e066b8de55wu0dkip2.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/05/21/1970124358-13662000.jpeg"
-  },
-  {
-    "site": "BBC",
-    "title": "Chapa com Michelle no lugar de Flávio 'ganharia muita adesão', diz ex-ministro de Bolsonaro",
-    "url": "https://www.bbc.com/portuguese/articles/cgkpe67le3xo?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/news/1024/branded_portuguese/2d60/live/7e24ccc0-546f-11f1-97ab-4b256b476233.jpg"
-  },
-  {
-    "site": "G1",
-    "title": "Com -3,2°C, RS tem terceiro dia consecutivo com mínimas negativas",
-    "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/05/21/apos-registrar-temperatura-mais-baixa-do-ano-rs-tem-terceiro-dia-consecutivo-com-minimas-negativas.ghtml",
-    "image": "https://s2-g1.glbimg.com/nc3rxFaJ6JiEPrfQOJOCknHceWY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/U/k2HGakQpm87qPVseFPHQ/g1-15-.jpg"
-  },
-  {
-    "site": "UOL",
-    "title": "Subsidiária da Embraer conclui testes de voo pairado de seu eVTOL",
-    "url": "https://aeromagazine.uol.com.br/artigo/eve-conclui-testes-hover-flight-evtol-transicao-2026.html?utm_source=Feed%20UOL&utm_medium=site&xid=0831",
-    "image": "https://aeromagazine.uol.com.br/media/_versions/voo-pairado-evtol-eve-embraer_widelg.jpg"
-  },
-  {
-    "site": "CNN Brasil",
-    "title": "Seleção do Irã inicia processo de vistos para a Copa do Mundo",
-    "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/selecao-do-ira-inicia-processo-de-vistos-para-a-copa-do-mundo/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/04/Ira-Copa-Mundo-e1777492792154.jpg?w=1200&h=630&crop=1"
-  },
-  {
-    "site": "Terra",
-    "title": "Vereador Mauro Pinheiro se desculpa por episódio envolvendo Juliana Souza",
-    "url": "https://www.terra.com.br/noticias/brasil/politica/vereador-mauro-pinheiro-se-desculpa-por-episodio-envolvendo-juliana-souza,21854d0ca088547713614599f02b5778dh0htdig.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/05/21/279418284-2-sirirics-kkkkk-2026-05-21t000221567.jpg"
+    "title": "Educação financeira impulsiona nova geração de empreendedoras",
+    "url": "https://www.terra.com.br/vida-e-estilo/comportamento/educacao-financeira-impulsiona-nova-geracao-de-empreendedoras,3ce67ae6ff254c19b6127901ee513d317at1yyoi.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/05/21/1269014572-whatsapp-image-2026-05-15-at-161621.jpeg"
   }
 ]
