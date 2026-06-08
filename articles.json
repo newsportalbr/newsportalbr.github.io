@@ -1,33 +1,123 @@
 [
   {
     "site": "BBC",
+    "title": "Como Trump tenta influenciar eleições em outros países — e por que seu apoio nem sempre tem o resultado esperado",
+    "url": "https://www.bbc.com/portuguese/articles/clyel89ld9zo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/news/1024/branded_portuguese/a285/live/12a57e20-635d-11f1-b1db-af71d47507d6.jpg"
+  },
+  {
+    "site": "G1",
+    "title": "Vereadora de cidade do Sul de Minas denuncia ataques transfóbicos nas redes sociais",
+    "url": "https://g1.globo.com/mg/sul-de-minas/noticia/2026/06/08/vereadora-de-cidade-do-sul-de-minas-denuncia-ataques-transfobicos-nas-redes-sociais.ghtml",
+    "image": "https://s2-g1.glbimg.com/xzDJbL8ZFVmmzdJFBaw3wYDcaRA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/e/j3OvMsQVSUiQyBhKzVFQ/camara.png"
+  },
+  {
+    "site": "UOL",
+    "title": "Empresas esperam homologação do LRCAP 2026, apesar de liminar no Ceará",
+    "url": "https://www1.folha.uol.com.br/colunas/painelsa/2026/06/empresas-esperam-homologacao-do-lrcap-2026-apesar-de-liminar-no-ceara.shtml",
+    "image": "https://f.i.uol.com.br/fotografia/2026/05/19/17791976776a0c66edea4ef_1779197677_3x2_rt.jpg"
+  },
+  {
+    "site": "Terra",
+    "title": "Frota se oferece para pagar multa de homem perseguido por Zambelli, mas não procurou defesa",
+    "url": "https://www.terra.com.br/noticias/brasil/politica/frota-se-oferece-para-pagar-multa-de-homem-perseguido-por-zambelli-mas-nao-procurou-defesa,1fdea5ce43eb92dc1a21d5558b401679ntii5oaj.html",
+    "image": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png"
+  },
+  {
+    "site": "BBC",
     "title": "PEC da Liberdade ou Escravidão? O que pode mudar no regime de trabalho por hora proposto por Flávio Bolsonaro para barrar fim da 6x1",
     "url": "https://www.bbc.com/portuguese/articles/clypyrjgjkro?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/news/1024/branded_portuguese/ee02/live/018c4250-613b-11f1-89a3-d1f559421220.jpg"
   },
   {
     "site": "G1",
-    "title": "TV Integração de Divinópolis ao vivo: assista aos telejornais",
-    "url": "https://g1.globo.com/mg/centro-oeste/ao-vivo/tv-integracao-de-divinopolis-ao-vivo-assista-aos-telejornais.ghtml",
-    "image": "https://s2-g1.glbimg.com/R8hPlG_cZR-U2I5XFp04whn1n_w=/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/p/U/NQo77ZQaOKcQ5j2QFVeQ/img-facebook.jpg"
+    "title": "VÍDEOS: EPTV 2 Sul de Minas de segunda-feira, 8 de junho de 2026",
+    "url": "https://g1.globo.com/mg/sul-de-minas/edicao/2026/06/08/videos-eptv-2-sul-de-minas-de-segunda-feira-8-de-junho-de-2026.ghtml",
+    "image": "https://s2-g1.glbimg.com/pea-FnyCMbGBLxuuHKl3qUUY68M=/s01.video.glbimg.com/deo/vi/33/33/14683333"
   },
   {
     "site": "UOL",
-    "title": "Kim diz que anuncia dia 20 sua decisão sobre se candidatar ao governo de SP",
-    "url": "https://www1.folha.uol.com.br/colunas/painel/2026/06/kim-diz-que-anuncia-dia-20-sua-decisao-sobre-se-candidatar-ao-governo-de-sp.shtml",
-    "image": "https://f.i.uol.com.br/fotografia/2026/05/04/177790701069f8b5425c2a7_1777907010_3x2_rt.jpg"
-  },
-  {
-    "site": "CNN Brasil",
-    "title": "Carlos Viana defende tempo de transição maior para fim da escala 6×1",
-    "url": "https://www.cnnbrasil.com.br/politica/carlos-viana-defende-tempo-de-transicao-maior-para-fim-da-escala-6x1/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/06/CARLOS-VIANA-18-03-26.jpg?w=1200&h=630&crop=1"
+    "title": "Receita cobra R$ 30,7 bi do setor de combustíveis pela Lei do Devedor Contumaz",
+    "url": "https://www1.folha.uol.com.br/blogs/que-imposto-e-esse/2026/06/receita-cobra-r-307-bi-do-setor-de-combustiveis-pela-lei-do-devedor-contumaz.shtml",
+    "image": "https://f.i.uol.com.br/fotografia/2025/09/08/175735321968bf150336a53_1757353219_3x2_rt.jpg"
   },
   {
     "site": "Terra",
-    "title": "Forte terremoto nas Filipinas deixa dezenas de mortos e gera alertas de tsunami",
-    "url": "https://www.terra.com.br/noticias/mundo/forte-terremoto-nas-filipinas-deixa-dezenas-de-mortos-e-gera-alertas-de-tsunami,d38e461f189ab989b6473c3345b54f2esr903f9v.html",
+    "title": "Vacina do Butantan contra a dengue é suspensa: o que acontece agora?",
+    "url": "https://www.terra.com.br/vida-e-estilo/saude/vacina-do-butantan-contra-a-dengue-e-suspensa-o-que-acontece-agora,69e2168bb81c67f12d24c31b0d8c81f2sipy8kxe.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/06/08/vacina-butantan-dengue-1hv2qdfkrikhd.jpg"
+  },
+  {
+    "site": "BBC",
+    "title": "Como age a pílula que dá esperança contra um dos cânceres mais letais que existem",
+    "url": "https://www.bbc.com/portuguese/articles/c9v2pek18zjo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/news/1024/branded_portuguese/0078/live/4feea0f0-6348-11f1-8e1d-bbbb1017d210.jpg"
+  },
+  {
+    "site": "G1",
+    "title": "Motociclista cai após se enroscar em fios soltos em Botucatu",
+    "url": "https://g1.globo.com/sp/bauru-marilia/noticia/2026/06/08/motociclista-cai-apos-se-enroscar-em-fios-soltos-em-botucatu.ghtml",
+    "image": "https://s2-g1.glbimg.com/fekbsZk_7eMFrVQ7H2jorCSgqxY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/m/QAwtjSQsmsWp8s4lpTng/novo-projeto.png"
+  },
+  {
+    "site": "UOL",
+    "title": "Brasileiro Wilton Pereira Sampaio apitará abertura da Copa do Mundo entre México e África do Sul",
+    "url": "https://www1.folha.uol.com.br/esporte/2026/06/brasileiro-wilton-pereira-sampaio-apitara-abertura-da-copa-do-mundo-entre-mexico-e-africa-do-sul.shtml",
+    "image": "https://f.i.uol.com.br/fotografia/2026/06/08/17809579936a27432945a1a_1780957993_3x2_rt.jpg"
+  },
+  {
+    "site": "Terra",
+    "title": "Lançado em 1921, o Chanel N° 5 era um dos perfumes favoritos de Marilyn Monroe, que teria 100 anos hoje; veja 3 opções nacionais similares que cabem no seu bolso para usar neste inverno",
+    "url": "https://www.terra.com.br/vida-e-estilo/autocuidado/moda/lancado-em-1921-o-chanel-n-5-era-um-dos-perfumes-favoritos-de-marilyn-monroe-que-teria-100-anos-hoje-veja-3-opcoes-nacionais-similares-que-cabem-no-seu-bolso-para-usar-neste-inverno,729062ec04b31c719ccd5a504d46f014yc0g42rg.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/06/08/504567733-9558984821e3f9f0-1400x823-1.png"
+  },
+  {
+    "site": "BBC",
+    "title": "Eleições no Peru: Roberto Sánchez ultrapassa Keiko Fujimori em disputa voto a voto para presidente",
+    "url": "https://www.bbc.com/portuguese/articles/cly7593p6nyo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/news/1024/branded_portuguese/87d4/live/6bff23e0-62bd-11f1-b682-cf91850925ea.jpg"
+  },
+  {
+    "site": "G1",
+    "title": "Motorista é preso após tentar atropelar policial durante blitz em RO",
+    "url": "https://g1.globo.com/ro/rondonia/noticia/2026/06/08/motorista-e-preso-suspeito-de-tentar-atropelar-policial-durante-blitz-em-ro.ghtml",
+    "image": "https://s2-g1.glbimg.com/rmUXDfXFbY3khiaOdXW6HTnjmm8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/a/GBBLSpTAu0Gb6tSMooRQ/g1-ro-2026-2026-06-08t175502.963.jpg"
+  },
+  {
+    "site": "UOL",
+    "title": "Após convocação surpresa e correria, Éderson faz primeiro treino com a seleção",
+    "url": "https://www1.folha.uol.com.br/esporte/2026/06/apos-convocacao-surpresa-e-correria-ederson-faz-primeiro-treino-com-a-selecao.shtml",
+    "image": "https://f.i.uol.com.br/fotografia/2026/06/08/17809559596a273b3774091_1780955959_3x2_lg.jpg"
+  },
+  {
+    "site": "Terra",
+    "title": "Brasileiro Wilton Pereira Sampaio é escolhido pela Fifa para apitar a abertura da Copa do Mundo",
+    "url": "https://www.terra.com.br/esportes/futebol/brasileiro-wilton-pereira-sampaio-e-escolhido-pela-fifa-para-apitar-a-abertura-da-copa-do-mundo,d44913cd7fbe0098ad9d06e20399871e82byh00x.html",
     "image": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png"
+  },
+  {
+    "site": "BBC",
+    "title": "Como medicina veterinária e ciência do comportamento animal ajudam consultora a entender 'enigmas felinos'",
+    "url": "https://www.bbc.com/portuguese/articles/cddpgjzeg1po?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/news/1024/branded_portuguese/484a/live/257a37c0-5ffc-11f1-a129-231866914bc9.jpg"
+  },
+  {
+    "site": "G1",
+    "title": "Brasileira procurada pela Interpol por envolvimento com tráfico internacional de drogas é presa ao desembarcar no Brasil",
+    "url": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/06/08/brasileira-procurada-pela-interpol-por-envolvimento-com-trafico-internacional-de-drogas-e-presa-ao-desembarcar-no-brasil.ghtml",
+    "image": "https://s2-g1.glbimg.com/XrNUG3Qz6_fqoY9Kz7YRDQSompw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/i/gCxotwTau9IAUO1HyhIA/aeroporto-guarulhos-02.jpg"
+  },
+  {
+    "site": "UOL",
+    "title": "Suspensão da vacina da dengue do Butantan: o que fazer se você tomou o imunizante",
+    "url": "https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2026/06/08/suspensao-da-vacina-da-dengue-do-butantan-o-que-fazer-se-voce-tomou-o-imunizante.htm",
+    "image": ""
+  },
+  {
+    "site": "Terra",
+    "title": "Antonio Fagundes, hoje aos 77 anos: 'A velhice é o melhor momento da vida de uma pessoa. A única alternativa a não envelhecer é morrer jovem'",
+    "url": "https://www.terra.com.br/diversao/tv/antonio-fagundes-hoje-aos-77-anos-a-velhice-e-o-melhor-momento-da-vida-de-uma-pessoa-a-unica-alternativa-a-nao-envelhecer-e-morrer-jovem,1d8f092390b55d1f0d4c0060092019bfdmr7zicn.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/06/08/312484221-c8d3189aa2328dba-1400x823-2.jpg"
   },
   {
     "site": "BBC",
@@ -37,27 +127,21 @@
   },
   {
     "site": "G1",
-    "title": "Incêndio destrói trailer de comidas típicas em Marabá, no PA, e deixa prejuízo de R$ 50 mil",
-    "url": "https://g1.globo.com/pa/para/noticia/2026/06/08/incendio-destroi-trailer-de-comidas-tipicas-em-maraba-no-pa-e-deixa-prejuizo-de-r-50-mil.ghtml",
-    "image": "https://s2-g1.glbimg.com/nPcf1CimYw7S4j2kSlGIVvjqQvg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/1/VXPG3uSmetfoew3uthnQ/bombeiros.png"
+    "title": "TV Integração de Divinópolis ao vivo: assista aos telejornais",
+    "url": "https://g1.globo.com/mg/centro-oeste/ao-vivo/tv-integracao-de-divinopolis-ao-vivo-assista-aos-telejornais.ghtml",
+    "image": "https://s2-g1.glbimg.com/R8hPlG_cZR-U2I5XFp04whn1n_w=/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/p/U/NQo77ZQaOKcQ5j2QFVeQ/img-facebook.jpg"
   },
   {
     "site": "UOL",
-    "title": "Eriksen deve deixar hospital 'em breve', anuncia Federação Dinamarquesa de Futebol",
-    "url": "https://noticias.uol.com.br/ultimas-noticias/afp/2026/06/08/eriksen-deve-deixar-hospital-em-breve-anuncia-federacao-dinamarquesa-de-futebol.htm",
-    "image": ""
-  },
-  {
-    "site": "CNN Brasil",
-    "title": "Idris Elba afirma que parte do p​úblico rejeitaria um James Bond negro",
-    "url": "https://www.cnnbrasil.com.br/pop/cinema/idris-elba-afirma-que-parte-do-publico-rejeitaria-um-james-bond-negro/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/06/idris-elba.jpg?w=1200&h=630&crop=1"
+    "title": "Grávida atropela a própria sogra após saírem de delegacia em Santa Catarina",
+    "url": "https://tnonline.uol.com.br/noticias/cotidiano/gravida-atropela-a-propria-sogra-apos-sairem-de-delegacia-em-santa-catarina-1096497",
+    "image": "https://cdn.tnonline.com.br/img/Artigo-Destaque/1090000/1200x630/caso-ocorreu-no-ultimo-sabado-6-01096497-0-202606081933/ScaleProportionalFillBackground-1.jpg?fallback=https%3A%2F%2Fcdn.tnonline.com.br%2Fimg%2FArtigo-Destaque%2F1090000%2Fcaso-ocorreu-no-ultimo-sabado-6-01096497-0-202606081933.jpg%3Fxid%3D1737427&xid=1737427"
   },
   {
     "site": "Terra",
-    "title": "Primeiro foi um brilho ultravioleta, depois vieram os raios X: assim desperta um buraco negro supermassivo",
-    "url": "https://www.terra.com.br/byte/ciencia/primeiro-foi-um-brilho-ultravioleta-depois-vieram-os-raios-x-assim-desperta-um-buraco-negro-supermassivo,af217e9db33c66d921e4f89229f190edl17v90l0.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/06/08/1386670377-13662000.jpeg"
+    "title": "Santos juninos: 8 orações para fortalecer a fé durante o mês de junho",
+    "url": "https://www.terra.com.br/especiais/terraia/santos-juninos-8-oracoes-para-fortalecer-a-fe-durante-o-mes-de-junho,4d0590481851ea802e933f1ee5f5f098wsjw4u3w.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/06/08/920493743-santos-juninos.jpg"
   },
   {
     "site": "BBC",
@@ -73,57 +157,21 @@
   },
   {
     "site": "UOL",
-    "title": "Nova sede do Itaú Cultural na Paulista será desenhada pelo Estúdio Módulo",
-    "url": "https://www1.folha.uol.com.br/ilustrada/2026/06/nova-sede-do-itau-cultural-na-paulista-sera-desenhada-pelo-estudio-modulo.shtml",
-    "image": "https://f.i.uol.com.br/fotografia/2026/06/08/17809285436a26d01f9bf78_1780928543_3x2_rt.jpg"
-  },
-  {
-    "site": "CNN Brasil",
-    "title": "Técnico do México faz testes e ainda tem dúvidas para estreia da Copa",
-    "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/tecnico-do-mexico-faz-testes-e-ainda-tem-duvidas-para-estreia-da-copa/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/06/mexico-serbia-e1780647059980.jpg?w=1200&h=630&crop=1"
-  },
-  {
-    "site": "Terra",
-    "title": "São Paulo pode perder sete jogadores de graça nos próximos meses",
-    "url": "https://www.terra.com.br/esportes/sao-paulo/sao-paulo-pode-perder-sete-jogadores-de-graca-nos-proximos-meses,a9aae7e8de7cf40d20324ed1fcc022b3zs0ujcfq.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/06/08/1335337718-sao-paulo-v-vitoria-brasileirao-2025-2048x1365.jpg"
-  },
-  {
-    "site": "BBC",
-    "title": "'Já basta': o temor de Trump de que nova troca de ataques entre Israel e Irã atrapalhe negociações entre EUA e iranianos para fim da guerra",
-    "url": "https://www.bbc.com/portuguese/articles/c9v2pmlzxp2o?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/news/1024/branded_portuguese/1194/live/dcfc1a30-630d-11f1-89a3-d1f559421220.png"
-  },
-  {
-    "site": "G1",
-    "title": "Presídio de Campo Grande recebe reforço inédito contra o crime organizado",
-    "url": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/06/08/presidio-de-seguranca-maxima-recebe-reforco-em-treinamento-e-tecnologia-para-combater-o-crime-organizado.ghtml",
-    "image": "https://s2-g1.glbimg.com/T5vRvb4yLx321XQ3P7Cgs-pzVJo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/T/JoRLnqQPykZWbLmjO88Q/canva-2026-06-08t101705.756.png"
-  },
-  {
-    "site": "UOL",
-    "title": "AgRural: safrinha está 4,4% colhida no Centro-Sul ante 2,4% na semana anterior",
-    "url": "https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2026/06/08/agrural-safrinha-esta-44-colhida-no-centro-sul-ante-24-na-semana-anterior.htm",
+    "title": "Frota se oferece para pagar multa de homem perseguido por Zambelli, mas não procurou defesa",
+    "url": "https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2026/06/08/frota-se-oferece-para-pagar-multa-de-homem-perseguido-por-zambelli-mas-nao-procurou-defesa.htm",
     "image": ""
   },
   {
-    "site": "CNN Brasil",
-    "title": "PoderData: 47% acham que corrupção aumentou no Brasil sob governo Lula",
-    "url": "https://www.cnnbrasil.com.br/politica/poderdata-47-acham-que-corrupcao-aumentou-no-brasil-sob-governo-lula/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/06/55304057335_99414168cf_o.jpg?w=1200&h=630&crop=1"
-  },
-  {
     "site": "Terra",
-    "title": "Crescer com um cachorro pode favorecer a saúde mental de crianças e adolescentes, indica estudo",
-    "url": "https://www.terra.com.br/vida-e-estilo/crescer-com-um-cachorro-pode-favorecer-a-saude-mental-de-criancas-e-adolescentes-indica-estudo,52ba03cbd52bbb6151b4552a5d85c51106dqvm9v.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/06/08/2053447179-capa-bons-fluidos-2025-12-05t151336450.png"
+    "title": "Richarlison rebate crítica ao nome do filho e responde internauta nas redes sociais",
+    "url": "https://www.terra.com.br/esportes/futebol/richarlison-rebate-critica-ao-nome-do-filho-e-responde-internauta-nas-redes-sociais,28bc6d6484c1e985d17d74480d0dce8c54s1y3h6.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/06/08/31237580-richarlison-jr-filho-de-richarlison-e-amanda-araujo.png"
   },
   {
     "site": "BBC",
-    "title": "Eleições no Peru: Keiko Fujimori lidera com pequena vantagem sobre Sánchez em contagem apertada com resultado ainda incerto",
-    "url": "https://www.bbc.com/portuguese/articles/cly7593p6nyo?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/news/1024/branded_portuguese/0d6d/live/4115d390-62b8-11f1-83d5-dfc939cd7c3e.jpg"
+    "title": "Novos ataques do Irã revelam mudança na estratégia de guerra?",
+    "url": "https://www.bbc.com/portuguese/articles/c621m6z6pggo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/news/1024/branded_portuguese/9613/live/fbc0c820-6368-11f1-9bf0-971f02746a64.jpg"
   },
   {
     "site": "G1",
@@ -133,111 +181,15 @@
   },
   {
     "site": "UOL",
-    "title": "Pashinyan vence eleição na Armênia, observadores alegam interferência russa",
-    "url": "https://noticias.uol.com.br/ultimas-noticias/reuters/2026/06/08/pashinyan-vence-eleicao-na-armenia-observadores-alegam-interferencia-russa.htm",
-    "image": ""
-  },
-  {
-    "site": "CNN Brasil",
-    "title": "Real Madrid: presidente promete “oferta jamais vista” para reforçar elenco",
-    "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-espanhol/real-madrid-presidente-promete-oferta-jamais-vista-para-reforcar-elenco/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/06/florentino-perez-e1780511734612.jpg?w=1200&h=630&crop=1"
+    "title": "Uber irá usar carros autônomos em Londres nos próximos meses",
+    "url": "https://www1.folha.uol.com.br/mercado/2026/06/uber-ira-usar-carros-autonomos-em-londres-nos-proximos-meses.shtml",
+    "image": "https://f.i.uol.com.br/fotografia/2026/06/08/17809455266a271276993c4_1780945526_3x2_rt.jpg"
   },
   {
     "site": "Terra",
-    "title": "Irã e Israel dizem que interromperam ataques um contra o outro por enquanto",
-    "url": "https://www.terra.com.br/noticias/mundo/ira-e-israel-dizem-que-interromperam-ataques-um-contra-o-outro-por-enquanto,576541b4cb21b5d2bbbcfbfcb4f5cecfwsxvvvd8.html",
-    "image": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png"
-  },
-  {
-    "site": "BBC",
-    "title": "Melhor que qualquer 'hacker' humano: o que é o novo modelo de inteligência artificial que assusta o sistema financeiro",
-    "url": "https://www.bbc.com/portuguese/articles/c3r2rjl1rpgo?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/news/1024/branded_portuguese/bb2a/live/84ae5370-3a5e-11f1-bab3-e3881342f552.jpg"
-  },
-  {
-    "site": "G1",
-    "title": "Assista ao Bahia Meio Dia",
-    "url": "https://g1.globo.com/ba/bahia/ao-vivo/assista-aos-telejornais-da-tv-bahia.ghtml",
-    "image": "https://s2-g1.glbimg.com/R8hPlG_cZR-U2I5XFp04whn1n_w=/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/p/U/NQo77ZQaOKcQ5j2QFVeQ/img-facebook.jpg"
-  },
-  {
-    "site": "UOL",
-    "title": "Irã disputará a Copa do Mundo sob rígida restrição de circulação nos EUA",
-    "url": "https://tnonline.uol.com.br/noticias/esportes/ira-disputara-a-copa-do-mundo-sob-rigida-restricao-de-circulacao-nos-eua-1096407",
-    "image": "https://cdn.tnonline.com.br/img/Artigo-Destaque/1090000/1200x630/selecao-do-ira-disputara-copa-do-mundo-nos-estados-01096407-0-202606081123/ScaleProportionalFillBackground-1.jpg?fallback=https%3A%2F%2Fcdn.tnonline.com.br%2Fimg%2FArtigo-Destaque%2F1090000%2Fselecao-do-ira-disputara-copa-do-mundo-nos-estados-01096407-0-202606081123.jpg%3Fxid%3D1737102&xid=1737102"
-  },
-  {
-    "site": "CNN Brasil",
-    "title": "Irã e Israel afirmam ter suspendido ataques em meio à pressão de Trump",
-    "url": "https://www.cnnbrasil.com.br/internacional/ira-e-israel-afirmam-ter-suspendido-ataques-em-meio-a-pressao-de-trump/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/03/GettyImages-2264730786-1.jpg?w=1200&h=630&crop=1"
-  },
-  {
-    "site": "Terra",
-    "title": "Empresas ampliam vagas e buscam talentos",
-    "url": "https://www.terra.com.br/noticias/empresas-ampliam-vagas-e-buscam-talentos,6ba83529370b7412d4e1d335efd82304dy0wbo6r.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/06/08/1091056565-1db4c4ac-bfed-4d3f-b26c-3a48e136f57a.jpg"
-  },
-  {
-    "site": "BBC",
-    "title": "O que se sabe sobre terremoto de magnitude 7,8 que atingiu as Filipinas e causou alerta de tsunami e destruição",
-    "url": "https://www.bbc.com/portuguese/articles/cy06gd4d15no?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/news/1024/branded_portuguese/88bd/live/f18cfa80-6314-11f1-b682-cf91850925ea.jpg"
-  },
-  {
-    "site": "G1",
-    "title": "TV Integração de Uberlândia ao vivo: assista aos telejornais",
-    "url": "https://g1.globo.com/mg/triangulo-mineiro/ao-vivo/assista-ao-vivo-a-tv-integracao-de-uberlandia.ghtml",
-    "image": "https://s2-g1.glbimg.com/R8hPlG_cZR-U2I5XFp04whn1n_w=/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/p/U/NQo77ZQaOKcQ5j2QFVeQ/img-facebook.jpg"
-  },
-  {
-    "site": "UOL",
-    "title": "Neymar faz exames para saber se poderá jogar na estreia do Brasil na Copa",
-    "url": "https://www1.folha.uol.com.br/esporte/2026/06/neymar-faz-exames-para-saber-se-podera-jogar-na-estreia-do-brasil-na-copa.shtml",
-    "image": "https://f.i.uol.com.br/fotografia/2026/05/31/17802712046a1cc864c7cc9_1780271204_3x2_rt.jpg"
-  },
-  {
-    "site": "CNN Brasil",
-    "title": "Peugeot 2008 GT hybrid: eletrificação deixou o SUV mais econômico",
-    "url": "https://www.cnnbrasil.com.br/auto/peugeot-2008-gt-hybrid-eletrificacao-deixou-o-suv-mais-economico/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/06/2008-GT-Hybrid-peugeot.jpeg?w=1200&h=630&crop=1"
-  },
-  {
-    "site": "Terra",
-    "title": "MC Livinho apaga vídeo com Virgínia e pede que respeitem seu relacionamento",
-    "url": "https://www.terra.com.br/diversao/musica/mc-livinho-apaga-video-com-virginia-e-pede-que-respeitem-seu-relacionamento,da14080350fd307cb4c142ea1b0957eegztb1v1s.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/06/08/1340648130-design-sem-nome-2026-02-25t132013871.jpg"
-  },
-  {
-    "site": "BBC",
-    "title": "Por que mulheres vivem mais do que os homens?",
-    "url": "https://www.bbc.com/portuguese/articles/clypp8l1l36o?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/news/1024/branded_portuguese/cfd1/live/8909cad0-55e8-11f1-b682-cf91850925ea.jpg"
-  },
-  {
-    "site": "G1",
-    "title": "Assista ao Bahia Meio Dia da TV Subaé",
-    "url": "https://g1.globo.com/ba/feira-de-santana-regiao/ao-vivo/assista-aos-telejornais-da-tv-subae.ghtml",
-    "image": "https://s2-g1.glbimg.com/R8hPlG_cZR-U2I5XFp04whn1n_w=/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/p/U/NQo77ZQaOKcQ5j2QFVeQ/img-facebook.jpg"
-  },
-  {
-    "site": "UOL",
-    "title": "PF faz buscas contra desembargador e deputado suspeitos de lavagem e venda de decisões no TJ-MT",
-    "url": "https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2026/06/08/pf-faz-buscas-contra-desembargador-e-deputado-suspeitos-de-lavagem-e-venda-de-decisoes-no-tj-mt.htm",
-    "image": ""
-  },
-  {
-    "site": "CNN Brasil",
-    "title": "Vigilante é encontrado morto em galpão da Subprefeitura da Mooca, em SP",
-    "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/vigilante-e-encontrado-morto-em-galpao-da-subprefeitura-da-mooca-em-sp/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/06/Captura-de-tela-2026-06-08-110116-e1780927376920.png?w=1062&h=597&crop=1"
-  },
-  {
-    "site": "Terra",
-    "title": "Psyllium: o que é a fibra natural e como ela ajuda a emagrecer",
-    "url": "https://www.terra.com.br/noticias/psyllium-o-que-e-a-fibra-natural-e-como-ela-ajuda-a-emagrecer,a9c7d424bd9679238c07b53c716d40d07g6i2kfx.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/11/05/gettyimages-560110967-1iyfgpqzbii5e.jpg"
+    "title": "Copa do Mundo: Pochettino recebe boas notícias sobre titulares dos Estados Unidos",
+    "url": "https://www.terra.com.br/esportes/estados-unidos/copa-do-mundo-pochettino-recebe-boas-noticias-sobre-titulares-dos-estados-unidos,ce64cb758d657235ad92632fbc06508cavtlsd1s.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/06/08/388493214-pochettino-tecnico-dos-eua-610x400.jpg"
   },
   {
     "site": "BBC",
@@ -247,56 +199,44 @@
   },
   {
     "site": "G1",
-    "title": "Delegado acusado de matar adolescente na saída de rodeio em Promissão é demitido do cargo",
-    "url": "https://g1.globo.com/sp/bauru-marilia/noticia/2026/06/08/delegado-acusado-de-matar-adolescente-na-saida-de-rodeio-em-promissao-e-demitido-do-cargo.ghtml",
-    "image": "https://s2-g1.glbimg.com/iwmes6C6S8c-T10G4DHbCGSyC_A=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/o/I57dDZRs6QwU8L5RgUYQ/novo-projeto-37-.png"
+    "title": "TV Integração de Uberlândia ao vivo: assista aos telejornais",
+    "url": "https://g1.globo.com/mg/triangulo-mineiro/ao-vivo/assista-ao-vivo-a-tv-integracao-de-uberlandia.ghtml",
+    "image": "https://s2-g1.glbimg.com/R8hPlG_cZR-U2I5XFp04whn1n_w=/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/p/U/NQo77ZQaOKcQ5j2QFVeQ/img-facebook.jpg"
   },
   {
     "site": "UOL",
-    "title": "Mulher é presa por atropelar a sogra após saída de delegacia em SC",
-    "url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/06/08/mulher-e-presa-por-atropelar-a-sogra-apos-saida-de-delegacia-em-sc.ghtm",
-    "image": ""
-  },
-  {
-    "site": "CNN Brasil",
-    "title": "Fim da 6×1 sem ouvir empresários é decisão populista, diz senador",
-    "url": "https://www.cnnbrasil.com.br/politica/fim-da-6x1-sem-ouvir-empresarios-e-decisao-populista-diz-senador/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/06/CARLOS-VIANA-26-03-2026.jpg?w=1200&h=630&crop=1"
+    "title": "Lula veste camiseta e apoia Bancada dos Trabalhadores no Congresso",
+    "url": "https://redir.folha.com.br/redir/online/colunas/monicabergamo/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/06/lula-veste-camiseta-e-apoia-bancada-dos-trabalhadores-no-congresso.shtml",
+    "image": "https://f.i.uol.com.br/fotografia/2026/06/08/17809515286a2729e82b853_1780951528_3x2_xl.jpg"
   },
   {
     "site": "Terra",
-    "title": "Gêmeos no amor: como conquistar o signo mais desapegado do zodíaco",
-    "url": "https://www.terra.com.br/diversao/gemeos-no-amor-como-conquistar-o-signo-mais-desapegado-do-zodiaco,28f848bbe876448d643ab5ba24ac7d87esp7cq6z.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/06/08/1164431344-veja-como-ganhar-o-coracao-de-um-geminiano.jpg"
+    "title": "Passou dos 60? Especialistas revelam o melhor horário para acordar e ter mais energia",
+    "url": "https://www.terra.com.br/vida-e-estilo/passou-dos-60-especialistas-revelam-o-melhor-horario-para-acordar-e-ter-mais-energia,d017d4ae0a797697052d227a2e208677jfy8npkc.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/06/08/1897933988-capa-bons-fluidos-10-2.jpg"
   },
   {
     "site": "BBC",
-    "title": "'As manhãs e as noites não existem mais': como é viver em um dos lugares mais quentes e úmidos do planeta",
-    "url": "https://www.bbc.com/portuguese/articles/cqj1l1y1r7ro?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/news/1024/branded_portuguese/d374/live/b286ba40-5d8a-11f1-9eb5-ab3a963c44d3.jpg"
+    "title": "Melhor que qualquer 'hacker' humano: o que é o novo modelo de inteligência artificial que assusta o sistema financeiro",
+    "url": "https://www.bbc.com/portuguese/articles/c3r2rjl1rpgo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/news/1024/branded_portuguese/bb2a/live/84ae5370-3a5e-11f1-bab3-e3881342f552.jpg"
   },
   {
     "site": "G1",
-    "title": "AO VIVO: Assista ao GR1",
-    "url": "https://g1.globo.com/pe/petrolina-regiao/ao-vivo/ao-vivo-assista-ao-gr1.ghtml",
-    "image": "https://s2-g1.glbimg.com/MkgzfprLIswHY3yCZKL1CdWoaFk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/g/nZWdhPTQes6WAXPpK9Tg/whatsapp-image-2026-06-08-at-11.24.20.jpeg"
+    "title": "Motorista é preso ao transportar 100 kg de maconha do Ceará para o RN",
+    "url": "https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/06/08/motorista-e-preso-ao-transportar-100-kg-de-drogas-do-ceara-para-o-rn.ghtml",
+    "image": "https://s2-g1.glbimg.com/wAdN8OcBL0ktfDHURQmmAPNRcYc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/y/sKJSlyRBe7QcKqQSDr4A/whatsapp-image-2026-06-08-at-16.56.05.jpeg"
   },
   {
     "site": "UOL",
-    "title": "Moradora é denunciada duas vezes por som alto perto de hospital em Grandes Rios",
-    "url": "https://tnonline.uol.com.br/noticias/vale-do-ivai/moradora-e-denunciada-duas-vezes-por-som-alto-perto-de-hospital-em-grandes-rios-1096405",
-    "image": "https://cdn.tnonline.com.br/img/Instant-Article/1060000/1200x630/caso-foi-registrado-no-jardim-alvorada-01067029-0-202602230944/ScaleProportionalFillBackground-1.jpg?fallback=https%3A%2F%2Fcdn.tnonline.com.br%2Fimg%2FInstant-Article%2F1060000%2Fcaso-foi-registrado-no-jardim-alvorada-01067029-0-202602230944.webp%3Fxid%3D1737098&xid=1737098"
-  },
-  {
-    "site": "CNN Brasil",
-    "title": "Jornal espanhol classifica Endrick como “terremoto” e faz pedido após gol",
-    "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/jornal-espanhol-classifica-endrick-como-terremoto-e-faz-pedido-apos-gol/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/06/brasil-x-egito-cleveland-profissional-06062026_bf5749-e1780797375871.jpg?w=1200&h=630&crop=1"
+    "title": "Países Baixos sofrem, mas vencem Uzbequistão (2-1) no último teste antes da Copa do Mundo",
+    "url": "https://noticias.uol.com.br/ultimas-noticias/afp/2026/06/08/paises-baixos-sofrem-mas-vencem-uzbequistao-2-1-no-ultimo-teste-antes-da-copa-do-mundo.htm",
+    "image": ""
   },
   {
     "site": "Terra",
-    "title": "Inimigos do fim: os signos que vão viver intensamente esta semana",
-    "url": "https://www.terra.com.br/diversao/inimigos-do-fim-os-signos-que-vao-viver-intensamente-esta-semana,3488019406754f0bbb1b0938fbcbd71cokymr91i.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/06/08/466688880-energia-diversao-e-intensidade-marcam-a-semana-de-alguns-signos-1780926473.jpg"
+    "title": "Irã enfrenta impasse com vistos e monta operação para a Copa",
+    "url": "https://www.terra.com.br/esportes/ira/ira-enfrenta-impasse-com-vistos-e-monta-operacao-para-a-copa,741965aaeaeefd2bbfe46daed566885eodupl4xl.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/06/08/2092526647-iranianos-se-reunem-em-teera-em-evento-de-despedida-da-sua-selecao-rumo-a-copa-6-610x400.jpg"
   }
 ]
