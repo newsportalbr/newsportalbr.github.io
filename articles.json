@@ -1,33 +1,63 @@
 [
   {
     "site": "BBC",
+    "title": "1x1: Vini Jr. salva Brasil de derrota contra o Marrocos na estreia da Copa 2026",
+    "url": "https://www.bbc.com/portuguese/live/c5yzw1xqv0lt?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/480/cpsprodpb/b827/live/d009d560-6786-11f1-b1db-af71d47507d6.jpg"
+  },
+  {
+    "site": "G1",
+    "title": "Torcedores unem paixão por sertanejo e futebol em transmissão de jogo do Brasil no rodeio de Americana",
+    "url": "https://g1.globo.com/sp/campinas-regiao/festa-do-peao-de-americana/noticia/2026/06/13/torcedores-unem-paixao-por-sertanejo-e-futebol-em-transmissao-de-jogo-do-brasil-no-rodeio-de-americana.ghtml",
+    "image": "https://s2-g1.glbimg.com/fDMPNfFwG4ETYAlNU9f19yzsh2U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/H/91IofzRMuTyAIzJ4zWmw/design-sem-nome.png"
+  },
+  {
+    "site": "UOL",
+    "title": "Vini Jr. deu só um chute, o do gol, contra Marrocos; veja animação do lance",
+    "url": "https://www1.folha.uol.com.br/esporte/2026/06/vini-jr-deu-so-um-chute-o-do-gol-contra-marrocos-veja-animacao-do-lance.shtml",
+    "image": "https://f.i.uol.com.br/fotografia/2026/06/13/17814009566a2e057c846d5_1781400956_3x2_xl.jpg"
+  },
+  {
+    "site": "CNN Brasil",
+    "title": "Brasil está invicto em estreias de Copa do Mundo há quase 100 anos",
+    "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/brasil-esta-invicto-em-estreias-de-copa-do-mundo-ha-quase-100-anos/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/06/1-GettyImages-2281445848.jpg?w=1200&h=630&crop=1"
+  },
+  {
+    "site": "Terra",
+    "title": "Ancelotti evita explicar ausência de Endrick na estreia da Copa: 'Falo da equipe'",
+    "url": "https://www.terra.com.br/esportes/futebol/copa-2026/ancelotti-evita-explicar-ausencia-de-endrick-na-estreia-da-copa-falo-da-equipe,7aa6368361d48300c2de0850caa2b1d0wbkwiq4j.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/06/14/enq20260613095-1iemn8cu8v7ld.jpg"
+  },
+  {
+    "site": "BBC",
     "title": "A aposta do Brasil nos 'coletes inteligentes' para voltar a brilhar na Copa do Mundo",
     "url": "https://www.bbc.com/portuguese/articles/cvgd9l23erwo?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/news/1024/branded_portuguese/3da1/live/e6fa20d0-668d-11f1-b1db-af71d47507d6.jpg"
   },
   {
     "site": "G1",
-    "title": "31ª Caminhada da Fraternidade acontece neste sábado (13) com telão para o primeiro jogo do Brasil na Copa",
-    "url": "https://g1.globo.com/pi/piaui/noticia/2026/06/13/31a-caminhada-da-fraternidade.ghtml",
-    "image": "https://s2-g1.glbimg.com/x-NFM2jjQxGSEI8YHNQ2nrrktWU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/7/qvIfhUShCXBYH45RqtOQ/edicao-imagens-g1-25-.png"
+    "title": "FOTOS: 6ª noite da Festa do Peão de Americana 2026",
+    "url": "https://g1.globo.com/sp/campinas-regiao/festa-do-peao-de-americana/noticia/2026/06/13/fotos-6a-noite-da-festa-do-peao-de-americana-2026.ghtml",
+    "image": "https://s2-g1.glbimg.com/fDMPNfFwG4ETYAlNU9f19yzsh2U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/H/91IofzRMuTyAIzJ4zWmw/design-sem-nome.png"
   },
   {
     "site": "UOL",
-    "title": "Mulher morre após ser lançada sem cordas em salto de 'rope jump' no interior de SP",
-    "url": "https://www1.folha.uol.com.br/cotidiano/2026/06/mulher-morre-apos-ser-lancada-sem-cordas-em-salto-de-rope-jump-no-interior-de-sp.shtml",
-    "image": "https://f.i.uol.com.br/fotografia/2026/06/13/17813763976a2da58d23357_1781376397_3x2_lg.jpg"
+    "title": "Com estreia do Brasil, Copa do Mundo invade Nova York enlouquecida pelos Knicks",
+    "url": "https://noticias.uol.com.br/ultimas-noticias/afp/2026/06/13/com-estreia-do-brasil-copa-do-mundo-invade-nova-york-enlouquecida-pelos-knicks.htm",
+    "image": ""
   },
   {
     "site": "CNN Brasil",
-    "title": "Análise: Apesar de entusiasmo, IPOs de gigantes da IA demandarão resultados",
-    "url": "https://www.cnnbrasil.com.br/economia/negocios/analise-apesar-de-entusiasmo-ipos-de-gigantes-da-ia-demandarao-resultados/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/03/bolsas-dos-estados-unidos-2.jpg?w=1200&h=630&crop=1"
+    "title": "Veja a tabela atualizada do grupo do Brasil na Copa do Mundo de 2026",
+    "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/veja-a-tabela-atualizada-do-grupo-do-brasil-na-copa-do-mundo-de-2026/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/06/GettyImages-2281445848-e1781401602118.jpg?w=1200&h=630&crop=1"
   },
   {
     "site": "Terra",
-    "title": "Palpite Haiti x Escócia - Copa do Mundo - 13/06/2026",
-    "url": "https://www.terra.com.br/apostas/palpites-e-odds/palpite-haiti-x-escocia-copa-do-mundo-13062026,76557bcc322934695ab9da3a086ee61e03q0fbfm.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/06/12/haiti-x-escocia-copa-do-mundo-alamy3emed0j-ezgif-com-resize-vbprlznvnhb8.jpg"
+    "title": "Técnico está confiante com o futuro de Marrocos após empate com o Brasil",
+    "url": "https://www.terra.com.br/esportes/tecnico-esta-confiante-com-o-futuro-de-marrocos-apos-empate-com-o-brasil,8d7b7c0427101d401abb59ab9188cfe2jikzunek.html",
+    "image": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png"
   },
   {
     "site": "BBC",
@@ -37,27 +67,27 @@
   },
   {
     "site": "G1",
-    "title": "Fundadora do Nubank admite erro 'bizarro' no envio de mensagem sobre liquidação do banco",
-    "url": "https://g1.globo.com/economia/noticia/2026/06/13/fundadora-do-nubank-admite-erro-bizarro-no-envio-de-mensagem-sobre-liquidacao-do-banco.ghtml",
-    "image": "https://s2-g1.glbimg.com/uBSkmNHoymXcEoTrvUxov58pyKY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/G/98UFTzRt2KRlAfmTqv0Q/nubank-1-.jpg"
+    "title": "Justiça suspende cobrança de pedágio na BR-153 em Jaraguá",
+    "url": "https://g1.globo.com/go/goias/transito/noticia/2026/06/13/justica-suspende-cobranca-de-pedagio-na-br-153-em-jaragua.ghtml",
+    "image": "https://s2-g1.glbimg.com/2cmbTSzcOcKDv5DMi0Ene44uBq8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/I/8ZZ1mSThmwvInAmECSrQ/copia-de-copia-de-padrao-foto-g1-goias-94-.jpg"
   },
   {
     "site": "UOL",
-    "title": "Mortes: Foi pai de 12 filhos e padre de uma infinidade de católicos",
-    "url": "https://www1.folha.uol.com.br/cotidiano/2026/06/mortes-foi-pai-de-12-filhos-e-padre-de-uma-infinidade-de-catolicos.shtml",
-    "image": "https://f.i.uol.com.br/fotografia/2026/06/08/17809594776a2748f54dc52_1780959477_3x2_lg.jpg"
+    "title": "Imprensa internacional elogia Marrocos e 'magia' de Vini Jr., com críticas à seleção brasileira",
+    "url": "https://www1.folha.uol.com.br/esporte/2026/06/imprensa-internacional-elogia-marrocos-e-magia-de-vini-jr-com-criticas-a-selecao-brasileira.shtml",
+    "image": "https://f.i.uol.com.br/fotografia/2026/06/13/17814029016a2e0d15daafa_1781402901_3x2_rt.jpg"
   },
   {
     "site": "CNN Brasil",
-    "title": "Saiba quando será o próximo jogo do Brasil na Copa após duelo com Marrocos",
-    "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/quando-sera-proximo-jogo-do-brasil-copa-apos-marrocos/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/06/treino-selecao-brasileira-masculino-12062026_66373e-e1781301985889.jpg?w=1200&h=630&crop=1"
+    "title": "No grupo do Brasil, Escócia sai na frente contra o Haiti na estreia da Copa",
+    "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/no-grupo-do-brasil-escocia-sai-na-frente-contra-o-haiti-na-estreia-da-copa/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/06/escocia_gol-e1781401077791.jpg?w=1200&h=630&crop=1"
   },
   {
     "site": "Terra",
-    "title": "Policiais peruanos usam fantasias de mascotes da Copa como disfarce em operação antidrogas",
-    "url": "https://www.terra.com.br/esportes/futebol/policiais-peruanos-usam-fantasias-de-mascotes-da-copa-como-disfarce-em-operacao-antidrogas,649f791bc87fa25f4b121dc39681a15edivhoets.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/06/13/45990442-hb5ah77bkncfpe4kxwwzr5dop4.jpg"
+    "title": "Técnico da Suíça se irrita e cita falta de malícia no empate com o Catar",
+    "url": "https://www.terra.com.br/esportes/suica/tecnico-da-suica-se-irrita-e-cita-falta-de-malicia-no-empate-com-o-catar,4ff89cd5cc3f254457a1171fac303765iohgwjgy.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/06/14/1796151592-qatar-v-switzerland-group-b-fifa-world-cup-2026-2-1-1-610x400.jpg"
   },
   {
     "site": "BBC",
@@ -67,27 +97,27 @@
   },
   {
     "site": "G1",
-    "title": "Mulher é encontrada morta com marcas de tiro em Buri; ex-marido é procurado pela polícia",
-    "url": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2026/06/13/mulher-e-encontrada-morta-com-marcas-de-tiro-em-buri-ex-marido-e-procurado-pela-policia.ghtml",
-    "image": "https://s2-g1.glbimg.com/sbLqscDPgF6DLGaaYGT8e7wPfQM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/x/WvllWtRvAJInBwJE1DAQ/whatsapp-image-2026-06-13-at-15.28.29.jpeg"
+    "title": "Menino viraliza ao cantar forró nas redes sociais e ganha reconhecimento de artistas",
+    "url": "https://g1.globo.com/pb/paraiba/noticia/2026/06/13/menino-viraliza-ao-cantar-forro-nas-redes-sociais-e-ganha-reconhecimento-de-artistas.ghtml",
+    "image": "https://s2-g1.glbimg.com/I_UcGcCK5-gKXqpUPr7cP6qEbRs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/2/YWBoqpSWCD93dXzZtgIg/miguel-com-sanfona.png"
   },
   {
     "site": "UOL",
-    "title": "Copa de todo o mundo",
-    "url": "https://www1.folha.uol.com.br/colunas/ricardo-araujo-pereira/2026/06/copa-de-todo-o-mundo.shtml",
-    "image": "https://f.i.uol.com.br/fotografia/2026/06/12/17813048396a2c8e07f132d_1781304839_3x2_rt.jpg"
+    "title": "'Vermelho é perigo', defesa de Neymar; veja o que presidenciáveis falaram sobre estreia do Brasil",
+    "url": "https://www1.folha.uol.com.br/poder/2026/06/vermelho-e-perigo-defesa-de-neymar-veja-o-que-presidenciaveis-falaram-sobre-estreia-do-brasil.shtml",
+    "image": "https://f.i.uol.com.br/fotografia/2026/06/13/17814029816a2e0d653e77c_1781402981_3x2_lg.jpg"
   },
   {
     "site": "CNN Brasil",
-    "title": "Governo publica MP que cria nova linha de financiamento para motociclistas",
-    "url": "https://www.cnnbrasil.com.br/economia/macroeconomia/governo-publica-mp-que-cria-nova-linha-de-financiamento-para-motociclistas/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/04/entregador-andando-de-moto-1.jpg?w=860&h=484&crop=1"
+    "title": "Polícia investiga agressão a idoso militante de esquerda no RJ",
+    "url": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/policia-investiga-agressao-a-idoso-militante-de-esquerda-no-rj/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/06/APURACAO-CNN-2.jpg?w=1200&h=630&crop=1"
   },
   {
     "site": "Terra",
-    "title": "Vai ter novela hoje? Saiba como fica a programação da Globo com a estreia do Brasil na Copa",
-    "url": "https://www.terra.com.br/esportes/futebol/copa-2026/vai-ter-novela-hoje-saiba-como-fica-a-programacao-da-globo-com-a-estreia-do-brasil-na-copa,2c23e0f2f3d14d9aaffad54fe36362b76aqtp1d7.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/06/13/design-sem-nome-2026-06-13t155253-970-rhaj0p72xkqf.png"
+    "title": "Virgínia e Vini Jr. vão voltar? Após reação a buquê de flores, influenciadora abre o coração sobre relação com o jogador do Brasil na Copa: 'A gente é...'",
+    "url": "https://www.terra.com.br/esportes/futebol/copa-2026/virginia-e-vini-jr-vao-voltar-apos-reacao-a-buque-de-flores-influenciadora-abre-o-coracao-sobre-relacao-com-o-jogador-do-brasil-na-copa-a-gente-e,4d83921d133950cde99140375a6a99c10r0mo326.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/06/14/1183920159-d6b27f96eecaacb9-1400x823-1.jpg"
   },
   {
     "site": "BBC",
@@ -97,27 +127,27 @@
   },
   {
     "site": "G1",
-    "title": "Postes de iluminação pública caem e atingem veículos na BR-458, em Ipatinga",
-    "url": "https://g1.globo.com/mg/vales-mg/noticia/2026/06/13/postes-de-iluminacao-publica-caem-e-atingem-veiculos-na-br-458-em-ipatinga.ghtml",
-    "image": "https://s2-g1.glbimg.com/MzwzyNjD17Q4uyaA3lazo0XBI8w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/F/VgWBL5QsSuSCWUX4rCZw/postes1.jpeg"
+    "title": "Parque do Povo reúne torcedores para estreia do Brasil na Copa do Mundo durante São João de Campina Grande",
+    "url": "https://g1.globo.com/pb/paraiba/sao-joao/noticia/2026/06/13/parque-do-povo-reune-torcedores-para-estreia-do-brasil-na-copa-do-mundo-durante-sao-joao-de-campina-grande.ghtml",
+    "image": "https://s2-g1.glbimg.com/b79D32EDQyrR7NBwNMnMnhVEobc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/a/uFddQyQAAnlThHCcsDfg/img-7486.jpg.jpeg"
   },
   {
     "site": "UOL",
-    "title": "Jovem morre após ser jogada sem corda durante salto de rope jump em SP",
-    "url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/06/13/jovem-morre-apos-ser-jogada-sem-corda-durante-salto-de-rope-jump-em-sp.ghtm",
-    "image": ""
+    "title": "Treinador de Marrocos celebra ousadia contra Brasil: 'Exercemos pressão'",
+    "url": "https://www1.folha.uol.com.br/esporte/2026/06/treinador-de-marrocos-celebra-ousadia-contra-brasil-exercemos-pressao.shtml",
+    "image": "https://f.i.uol.com.br/fotografia/2026/06/13/17814029626a2e0d5266891_1781402962_3x2_rt.jpg"
   },
   {
     "site": "CNN Brasil",
-    "title": "“Nobreza do Amor”: qual é o mistério de Ritinha?",
-    "url": "https://www.cnnbrasil.com.br/pop/tv/nobreza-do-amor-qual-e-o-misterio-de-ritinha/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/06/1-WhatsApp-Image-2026-06-12-at-21.53.14.jpeg?w=471&h=264&crop=1"
+    "title": "Veja momento da prisão de suspeitos da morte de jovem em salto sem corda",
+    "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/veja-momento-da-prisao-de-suspeitos-da-morte-de-jovem-em-salto-sem-corda/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/06/jovem-morta-em-rope-jump-em-SP.jpg?w=1200&h=630&crop=1"
   },
   {
     "site": "Terra",
-    "title": "Starmer diz a Rutte que Reino Unido divulgará plano de defesa antes da cúpula da Otan em julho",
-    "url": "https://www.terra.com.br/noticias/mundo/starmer-diz-a-rutte-que-reino-unido-divulgara-plano-de-defesa-antes-da-cupula-da-otan-em-julho,a286012f3e30191840cfa49ab446c91441tom62y.html",
-    "image": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png"
+    "title": "Após empate decepcionante, Vinícius Júnior e Ancelotti falam sobre a estreia do Brasil",
+    "url": "https://www.terra.com.br/esportes/brasil/apos-empate-decepcionante-vinicius-junior-e-ancelotti-falam-sobre-a-estreia-do-brasil,513b2a7f43de13d17771c63879e11bf7wh7wfg44.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/06/14/281157787-brazil-v-morocco-group-c-fifa-world-cup-2026-1-1-2048x1365.jpg"
   },
   {
     "site": "BBC",
@@ -127,27 +157,27 @@
   },
   {
     "site": "G1",
-    "title": "Idoso de 80 anos morre atropelado por trem em Caucaia",
-    "url": "https://g1.globo.com/ce/ceara/noticia/2026/06/13/idoso-morre-trem-caucaia.ghtml",
-    "image": "https://s2-g1.glbimg.com/G-9gMCtaHhtmh0cffrcr8EDC0-I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/h/cR16u5TTOwgs5GTCKGFw/trem-acidente-caucaia.jpg"
+    "title": "FOTOS: milhares de torcedores se reúnem em Manaus para estreia do Brasil na Copa do Mundo",
+    "url": "https://g1.globo.com/am/amazonas/noticia/2026/06/13/fotos-milhares-de-torcedores-se-reunem-em-manaus-para-estreia-do-brasil-na-copa-do-mundo.ghtml",
+    "image": "https://s2-g1.glbimg.com/-REMZMv-4P0WyrMFgwtg0doicdQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/A/rK5ihyTtCRFLjohAadFg/img-2311.jpg"
   },
   {
     "site": "UOL",
-    "title": "Astro da NBA James Harden é preso em Houston por porte ilegal de arma",
-    "url": "https://noticias.uol.com.br/ultimas-noticias/afp/2026/06/13/astro-da-nba-james-harden-e-preso-em-houston-por-porte-ilegal-de-arma.htm",
-    "image": ""
+    "title": "Gigante Alemanha encara menor país da história das Copas para apagar vexames",
+    "url": "https://www1.folha.uol.com.br/esporte/2026/06/gigante-alemanha-encara-menor-pais-da-historia-das-copas-para-apagar-vexames.shtml",
+    "image": "https://f.i.uol.com.br/fotografia/2026/06/12/17813030246a2c86f0a354e_1781303024_3x2_rt.jpg"
   },
   {
     "site": "CNN Brasil",
-    "title": "El Niño pode mudar cenário da produção de leite e pressionar preços em 2027",
-    "url": "https://www.cnnbrasil.com.br/agro/el-nino-pode-mudar-cenario-da-producao-de-leite-e-pressionar-precos-em-2027/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/05/pecuaria-leiteira-leite-6.jpg?w=1200&h=630&crop=1"
+    "title": "Conheça Bouaddi, meio-campista do Marrocos que foi destaque contra o Brasil",
+    "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/conheca-bouaddi-meio-campista-do-marrocos-que-foi-destaque-contra-o-brasil/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/06/bouaddi_marrocos-e1781399257946.jpg?w=1200&h=630&crop=1"
   },
   {
     "site": "Terra",
-    "title": "\"ICONIC BY MISTAKE\": Parceria de LE SSERAFIM, ILLIT e KATSEYE estreia no Top 30 do Spotify Global",
-    "url": "https://www.terra.com.br/diversao/musica/iconic-by-mistake-parceria-de-le-sserafim-illit-e-katseye-estreia-no-top-30-do-spotify-global,61a0c4d973eb09c408ee7ccce4c68f0a4fh5so29.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/06/13/1081800570-1200-900-1-15.png"
+    "title": "Festa junina ou Copa? Em SP, o público decidiu ficar com os dois; Largo da Batata registra confusão",
+    "url": "https://www.terra.com.br/esportes/futebol/festa-junina-ou-copa-em-sp-o-publico-decidiu-ficar-com-os-dois-largo-da-batata-registra-confusao,5af2075ca69d998bbfa98b6525ef5a5awg13pcho.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/06/14/1381594651-prdnv4u535amplrc5kuah7kply.jpeg"
   },
   {
     "site": "BBC",
@@ -157,27 +187,27 @@
   },
   {
     "site": "G1",
-    "title": "Homem morre após ser atropelado por ônibus escolar em Castilho",
-    "url": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/06/13/homem-morre-apos-ser-atropelado-por-onibus-escolar-em-castilho.ghtml",
-    "image": "https://s2-g1.glbimg.com/qOkGGQRygn6X7tiMHSHwHUyjfLA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/w/3psS5qRlencxVqBQfUAQ/formato-padrao-imagens-g1-2026-06-13t122644.279.png"
+    "title": "Chefe da facção Tren de Arágua é morto em ataque dos EUA na Venezuela",
+    "url": "https://g1.globo.com/jornal-nacional/noticia/2026/06/13/chefe-da-faccao-tren-de-aragua-e-morto-em-ataque-dos-eua-na-venezuela.ghtml",
+    "image": "https://s2-g1.glbimg.com/2PZTo0LrYMWCamE-AdRQjqAdyiE=/1280x0/filters:format(jpeg)/https://thumbor.globoi.com/unsafe/fit-in/1280x720/s03.video.glbimg.com/deo/vi/54/96/14699654"
   },
   {
     "site": "UOL",
-    "title": "Starmer diz a Rutte que Reino Unido divulgará plano de defesa antes da cúpula da Otan em julho",
-    "url": "https://noticias.uol.com.br/ultimas-noticias/reuters/2026/06/13/starmer-diz-a-rutte-que-reino-unido-divulgara-plano-de-defesa-antes-da-cupula-da-otan-em-julho.htm",
-    "image": ""
+    "title": "Holanda e Japão estreiam no Grupo F da Copa em jogo vigiado pelo Brasil",
+    "url": "https://www1.folha.uol.com.br/esporte/2026/06/holanda-e-japao-estreiam-no-grupo-f-da-copa-em-jogo-vigiado-pelo-brasil.shtml",
+    "image": "https://f.i.uol.com.br/fotografia/2026/06/13/17813869756a2dcedf2fea0_1781386975_3x2_rt.jpg"
   },
   {
     "site": "CNN Brasil",
-    "title": "Cristiano Ronaldo rebate pergunta sobre físico: “Não tem visto os jogos?”",
-    "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/cristiano-ronaldo-rebate-pergunta-sobre-fisico-nao-tem-visto-os-jogos/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/06/cristiano-ronaldo-gol-perdido-portugal-nigeria-e1781189497201.jpg?w=1200&h=630&crop=1"
+    "title": "“É bem claro o que precisamos melhorar”, diz Ancelotti",
+    "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-brasil/e-bem-claro-o-que-precisamos-melhorar-diz-ancelotti/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/06/GettyImages-2281458747.jpg?w=1200&h=630&crop=1"
   },
   {
     "site": "Terra",
-    "title": "Por que as chuteiras rosas dominaram a Copa do Mundo? Entenda tendência entre os jogadores",
-    "url": "https://www.terra.com.br/esportes/futebol/copa-2026/por-que-as-chuteiras-rosas-dominaram-a-copa-do-mundo-entenda-tendencia-entre-os-jogadores,4841efb934fcf91a525c99de9b4a894fzjc92ki3.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/06/13/gettyimages-2280609161-s507x26pa7oh.jpg"
+    "title": "Virginia Fonseca comemora gol de Vini Jr. na estreia do Brasil na Copa do Mundo",
+    "url": "https://www.terra.com.br/esportes/futebol/virginia-fonseca-comemora-gol-de-vini-jr-na-estreia-do-brasil-na-copa-do-mundo,60d4838ddc1df46f87d3eea71fd1b1598vf5914f.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/06/14/1356005364-design-sem-nome-4.png"
   },
   {
     "site": "BBC",
@@ -187,27 +217,27 @@
   },
   {
     "site": "G1",
-    "title": "Prefeitura de Santo Antônio da Barra abre concurso com mais de 70 vagas e salário de até R$ 4,2 mil",
-    "url": "https://g1.globo.com/go/goias/noticia/2026/06/13/prefeitura-de-santo-antonio-da-barra-abre-concurso-com-mais-de-70-vagas-e-salario-de-ate-r-42-mil.ghtml",
-    "image": "https://s2-g1.glbimg.com/d6xfZlPmfiqtS5h5wnbc82Y7Q-A=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/M/8oFWD9QFAw2i6BY0tkUA/padrao-g1cbn-foto-28-.jpg"
+    "title": "Trump afirma que acordo de paz será assinado neste domingo, mas Irã nega prazo",
+    "url": "https://g1.globo.com/jornal-nacional/noticia/2026/06/13/trump-afirma-que-acordo-de-paz-sera-assinado-neste-domingo-mas-ira-nega-prazo.ghtml",
+    "image": "https://s2-g1.glbimg.com/XudeHT76zE85-AzRXVDZIYnxTbc=/1280x0/filters:format(jpeg)/https://thumbor.globoi.com/unsafe/fit-in/1280x720/s02.video.glbimg.com/deo/vi/53/96/14699653"
   },
   {
     "site": "UOL",
-    "title": "Funcionário do Nubank acionou por erro sistema ligado a avisos de liquidação de bancos para clientes",
-    "url": "https://www1.folha.uol.com.br/mercado/2026/06/funcionario-do-nubank-acionou-por-erro-sistema-ligado-a-avisos-de-liquidacao-de-bancos-para-clientes.shtml",
-    "image": "https://f.i.uol.com.br/fotografia/2026/06/13/17813609756a2d694f70a47_1781360975_3x2_rt.jpg"
+    "title": "Como entender as pautas-bomba do Senado",
+    "url": "https://www1.folha.uol.com.br/colunas/samuelpessoa/2026/06/como-entender-as-pautas-bomba-do-senado.shtml",
+    "image": "https://f.i.uol.com.br/fotografia/2026/06/12/17813147756a2cb4d78fbee_1781314775_3x2_rt.jpg"
   },
   {
     "site": "CNN Brasil",
-    "title": "EUA x Irã: Saiba por que acordo provisório deverá ser assinado virtualmente",
-    "url": "https://www.cnnbrasil.com.br/internacional/eua-x-ira-saiba-por-que-acordo-provisorio-devera-ser-assinado-virtualmente/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/09/Donald-Trump-presidente-dos-EUA-no-Salao-Oval-da-Casa-Branca-e1758905918555.jpg?w=1200&h=630&crop=1"
+    "title": "No banco, Neymar orienta Vini Jr. e Bruno Guimarães durante jogo; veja",
+    "url": "https://www.cnnbrasil.com.br/esportes/futebol/selecao-brasileira/no-banco-neymar-orienta-vini-jr-e-bruno-guimaraes-durante-jogo-veja/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/06/Captura-de-tela-2026-06-13-220642-e1781399233878.png?w=1023&h=555&crop=1"
   },
   {
     "site": "Terra",
-    "title": "Chimaev 'pede' ao UFC para fazer revanche com Strickland: \"Estou esperando\"",
-    "url": "https://www.terra.com.br/esportes/lutas/chimaev-pede-ao-ufc-para-fazer-revanche-com-strickland-estou-esperando,1ead6640a52df48452bcb5cc3150dd4cxm8ezezy.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/06/13/230689021-chimaevpesagemufc328-2048x1152.jpeg"
+    "title": "Ancelotti evita explicar ausência de Endrick na estreia do Brasil na Copa do Mundo",
+    "url": "https://www.terra.com.br/esportes/brasil/ancelotti-evita-explicar-ausencia-de-endrick-na-estreia-do-brasil-na-copa-do-mundo,dd3c76bd6a452499577ad6b0c621143d6520nj5r.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/06/14/620066383-brazil-v-morocco-group-c-fifa-wo-1-2-610x400.jpg"
   },
   {
     "site": "BBC",
@@ -217,57 +247,27 @@
   },
   {
     "site": "G1",
-    "title": "Moradores de bairro mais antigo de Arapiraca decoram praça para estreia do Brasil na Copa",
-    "url": "https://g1.globo.com/al/alagoas/noticia/2026/06/13/moradores-de-bairro-mais-antigo-de-arapiraca-decoram-praca-para-estreia-do-brasil-na-copa.ghtml",
-    "image": "https://s2-g1.glbimg.com/FlW76qXEMN55LRhO3hCXM3uic4k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/q/ONvRukSZ2K7HolOtqptw/printaracitycanafistula.png"
+    "title": "Nubank diz que 'desenvolvedor acionou por engano' comando que enviou mensagem sobre liquidação extrajudicial",
+    "url": "https://g1.globo.com/economia/noticia/2026/06/13/nubank-diz-que-mensagem-sobre-liquidacao-extrajudicial-enviada-a-clientes-foi-erro-tecnico-pontual.ghtml",
+    "image": "https://s2-g1.glbimg.com/9mAg8EviWZ_bPjWF0iy_jIjEhwY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/2/W/qfdTV3QeKNUvtCiJ5nBw/2025-08-20t141547z-1-lynxmpel7j0mz-rtroptp-4-bancos-nubank-analistas.jpg"
   },
   {
     "site": "UOL",
-    "title": "Matemático do Impa é preso na Armênia e instituto pede sua libertação",
-    "url": "https://www1.folha.uol.com.br/ciencia/2026/06/matematico-do-impa-e-preso-na-armenia-e-instituto-pede-sua-libertacao.shtml",
-    "image": "https://f.i.uol.com.br/fotografia/2026/06/13/17813761846a2da4b81f7f7_1781376184_3x2_lg.jpg"
+    "title": "BYD admite que volta do imposto de importação pode ter efeito nos preços de alguns carros da marca",
+    "url": "https://www1.folha.uol.com.br/mercado/2026/06/byd-admite-que-volta-do-imposto-de-importacao-pode-ter-efeito-nos-precos-de-alguns-carros-da-marca.shtml",
+    "image": "https://f.i.uol.com.br/fotografia/2026/06/12/17812819586a2c34a646185_1781281958_3x2_rt.jpg"
   },
   {
     "site": "CNN Brasil",
-    "title": "Mulher que morreu em rope jump: empresa responsável tinha 80 mil seguidores",
-    "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/mulher-que-morreu-em-rope-jump-empresa-responsavel-tinha-80-mil-seguidores/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/06/morre-rope-jump-10.png?w=1200&h=630&crop=1"
+    "title": "Fim da 6×1: Abisolo diz que PEC dificulta flexibilidade e prejudica o agro",
+    "url": "https://www.cnnbrasil.com.br/economia/macroeconomia/fim-da-6x1-abisolo-diz-que-pec-dificulta-flexibilidade-e-prejudica-o-agro/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/Reuters_Direct_Media/BrazilOnlineReportAgribusinessNews/tagreuters.com2025binary_LYNXMPEL6N0WR-BASEIMAGE.jpg?w=800&h=533&crop=1"
   },
   {
     "site": "Terra",
-    "title": "Livas Damazio é campeão de duplas em Bamberg, na Alemanha",
-    "url": "https://www.terra.com.br/esportes/tenis/livas-damazio-e-campeao-de-duplas-em-bamberg-na-alemanha,620016d18fecdde349da0411fca2a9668p2c98ce.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/06/13/301052292-livasdamaziobamberg26cam.jpg"
-  },
-  {
-    "site": "BBC",
-    "title": "Por que a Suíça pode ser o primeio país do mundo a limitar sua população",
-    "url": "https://www.bbc.com/portuguese/articles/c1lyvjnnr64o?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/news/1024/branded_portuguese/7a38/live/7d8c7ac0-663e-11f1-8ff0-0decefcc55ec.jpg"
-  },
-  {
-    "site": "G1",
-    "title": "Tiroteio mata pai e deixa dois filhos feridos em Gravataí, no RS",
-    "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/06/13/tiroteio-mata-pai-e-deixa-dois-filhos-feriados-em-gravatai-no-rs.ghtml",
-    "image": "https://s2-g1.glbimg.com/-Thea3NZpzSuBc9yn4M2FFamlDg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/8/9A7YAxSOiJ6zVw6Cg0aw/g1-2026-06-13t154252.692.jpg"
-  },
-  {
-    "site": "UOL",
-    "title": "Ancelotti diz priorizar organização defensiva do Brasil para a Copa",
-    "url": "https://www1.folha.uol.com.br/esporte/2026/06/ancelotti-diz-priorizar-organizacao-defensiva-do-brasil-para-a-copa.shtml",
-    "image": "https://f.i.uol.com.br/fotografia/2026/06/13/17813709746a2d905e65470_1781370974_3x2_rt.jpg"
-  },
-  {
-    "site": "CNN Brasil",
-    "title": "Funcionário do Aeroporto de Guarulhos é preso com 70 kg de cocaína",
-    "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/funcionario-do-aeroporto-de-guarulhos-e-preso-com-70-kg-de-cocaina/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/06/WhatsApp-Image-2026-06-13-at-13.33.02.jpeg?w=1200&h=630&crop=1"
-  },
-  {
-    "site": "Terra",
-    "title": "Aura ou carma: de onde vêm a veneração e o temor inspirados pelo número da camiseta na Seleção",
-    "url": "https://www.terra.com.br/noticias/brasil/aura-ou-carma-de-onde-vem-a-veneracao-e-o-temor-inspirados-pelo-numero-da-camiseta-na-selecao,0a08425249a2f94dd323198f55d480b6u7hkaga2.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/06/13/215510431-5649ce20-6753-11f1-856b-1f3e7240ecf2.jpg"
+    "title": "Apesar de eleito melhor em campo na estreia da Copa, Vini Jr ressalta: ‘Posso melhorar muito’",
+    "url": "https://www.terra.com.br/esportes/futebol/copa-2026/apesar-de-eleito-melhor-em-campo-na-estreia-da-copa-vini-jr-ressalta-posso-melhorar-muito,79d0d925f6050f242cbd85fc174fe4e38fffsrv9.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/06/13/vinicius-junior-comemora-gol-de-empate-do-brasil-contra-marrocos-dan-mullan-getty-images-1hrj76ptyhdmh.jpg"
   },
   {
     "site": "BBC",
@@ -277,26 +277,26 @@
   },
   {
     "site": "G1",
-    "title": "Polícia investiga agressão a idoso em Copacabana; homem diz que foi alvo de ofensas políticas e religiosas durante ataque",
-    "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/06/13/policia-investiga-agressao-a-idoso-em-copacabana.ghtml",
-    "image": "https://s2-g1.glbimg.com/3N0GcrpGqvADn-aZl1Vq-I7gMqo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/V/JPjOngQBOuQfp0FAdGZw/militante.jpg"
+    "title": "Estudante de 21 anos morre após ser lançada sem corda de segurança em salto no interior de SP",
+    "url": "https://g1.globo.com/jornal-nacional/noticia/2026/06/13/estudante-de-21-anos-morre-apos-ser-lancada-sem-corda-de-seguranca-em-salto-no-interior-de-sp.ghtml",
+    "image": "https://s2-g1.glbimg.com/vhgjKyRu6IBY5OeqweCGiVyHOmo=/1280x0/filters:format(jpeg)/https://thumbor.globoi.com/unsafe/fit-in/1280x720/s01.video.glbimg.com/deo/vi/60/96/14699660"
   },
   {
     "site": "UOL",
-    "title": "Ex-goleiro da seleção brasileira se emociona ao ser entrevistado pela filha na CNN Brasil",
-    "url": "https://f5.folha.uol.com.br/televisao/2026/06/ex-goleiro-da-selecao-brasileira-se-emociona-ao-ser-entrevistado-pela-filha-na-cnn-brasil.shtml",
-    "image": "https://f.i.uol.com.br/fotografia/2026/06/13/17813770106a2da7f2956e6_1781377010_3x2_xl.jpg"
+    "title": "Das 10 companhias que mais receberam do Master, 4 têm sinais de empresa fachada; veja ranking",
+    "url": "https://www1.folha.uol.com.br/mercado/2026/06/das-10-companhias-que-mais-receberam-do-master-4-tem-sinais-de-empresa-fachada-veja-ranking.shtml",
+    "image": "https://f.i.uol.com.br/fotografia/2026/05/14/17787911516a0632ef2f56f_1778791151_3x2_xl.jpg"
   },
   {
     "site": "CNN Brasil",
-    "title": "Camisa da Seleção Brasileira conta com patch dourado para a Copa; entenda",
-    "url": "https://www.cnnbrasil.com.br/esportes/futebol/selecao-brasileira/camisa-da-selecao-brasileira-conta-com-patch-dourado-para-a-copa-entenda/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/06/patch-selecao-e1781375866645.jpeg?w=970&h=547&crop=1"
+    "title": "“A Copa mais cara”: torcedores em Nova York sofrem com altos custo",
+    "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/copa-mais-cara-torcedores-em-nova-york-sofrem-com-altos-custos/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/06/GettyImages-2281314927-e1781398344466.jpg?w=1200&h=630&crop=1"
   },
   {
     "site": "Terra",
-    "title": "Onça-pintada do zoológico de Gramado prevê resultado da estreia do Brasil na Copa do Mundo",
-    "url": "https://www.terra.com.br/esportes/futebol/copa-2026/onca-pintada-do-zoologico-de-gramado-preve-resultado-da-estreia-do-brasil-na-copa-do-mundo,2082eebfaf2532b56ea762b3fc1329bdl76cucm2.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/06/13/onca-pintada-do-zoologico-de-gramado-foi-para-a-caixa-com-a-bandeira-do-marrocos-reproducao-rbs-1hr8nyyml4m78.JPG"
+    "title": "MetLife tem 80 mil em jogo do Brasil, congestionamento e problemas de organização",
+    "url": "https://www.terra.com.br/esportes/futebol/metlife-tem-80-mil-em-jogo-do-brasil-congestionamento-e-problemas-de-organizacao,4eabe6d02063ceaf3daf26b521f53a8ak3z23ux2.html",
+    "image": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png"
   }
 ]
