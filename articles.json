@@ -1,33 +1,63 @@
 [
   {
     "site": "BBC",
+    "title": "Que tipo de Colômbia representam De la Espriella e Cepeda, adversários no 2º turno da eleição deste domingo",
+    "url": "https://www.bbc.com/portuguese/articles/c4gyeyp739qo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/news/1024/branded_portuguese/30f3/live/e8532fd0-69bc-11f1-8e1d-bbbb1017d210.png"
+  },
+  {
+    "site": "G1",
+    "title": "Vice-prefeita acusada de desviar R$ 41 mil para mãe de santo também responde por servidora fantasma",
+    "url": "https://g1.globo.com/sp/santos-regiao/noticia/2026/06/21/vice-prefeita-acusada-de-desviar-r-41-mil-para-mae-de-santo-tambem-responde-por-servidora-fantasma.ghtml",
+    "image": "https://s2-g1.glbimg.com/RfM7GMfEV6BLhAyEsESnQPLh84w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/C/0/G5DkdgS46CRgsxcdkj3g/g1-1042-.png"
+  },
+  {
+    "site": "UOL",
+    "title": "Em meio ao calor extremo, França proíbe álcool em festival de música",
+    "url": "https://noticias.uol.com.br/ultimas-noticias/deutschewelle/2026/06/21/em-meio-ao-calor-extremo-franca-proibe-alcool-em-festival-de-musica.htm",
+    "image": ""
+  },
+  {
+    "site": "CNN Brasil",
+    "title": "Cientistas encontram antidepressivo em cérebro de tubarões-martelo no RJ",
+    "url": "https://www.cnnbrasil.com.br/ciencia/cientistas-encontram-antidepressivo-em-cerebro-de-tubaroes-martelo-no-rj/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/06/tubarao-martelo.png?w=504&h=280&crop=1"
+  },
+  {
+    "site": "Terra",
+    "title": "Ibope da TV: Messi estreia na Copa e Cazé TV rende a segunda maior audiência da sua história",
+    "url": "https://www.terra.com.br/diversao/tv/ibope-da-tv-messi-estreia-na-copa-e-caze-tv-rende-a-segunda-maior-audiencia-da-sua-historia,7bfb0386285b68885c459602bc18acb0m1thacyj.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/06/21/711119285-6079fbb9messi-e-cazetv.png"
+  },
+  {
+    "site": "BBC",
     "title": "O que aconteceu com país que prometeu R$ 170 mil para quem tivesse dois filhos",
     "url": "https://www.bbc.com/portuguese/articles/c862p6e6329o?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/news/1024/branded_portuguese/3448/live/2d4d6740-699f-11f1-938e-83ab58a2163c.jpg"
   },
   {
     "site": "G1",
-    "title": "Velório da jornalista Elaine Oliveira Lopes será no cemitério Parque Memorial",
-    "url": "https://g1.globo.com/go/goias/noticia/2026/06/20/velorio-da-jornalista-elaine-oliveira-lopes-sera-no-cemiterio-parque-memorial.ghtml",
-    "image": "https://s2-g1.glbimg.com/z6F1w6W-HigxpiW4hLSneBE5ePE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/X/lqhxUmRU2ADQkaa147pw/elaine-homenagem.png"
+    "title": "Influenciador viraliza com X-Tudo gigante em praia no litoral de SP: 'Dá um coro em várias de alta gastronomia'",
+    "url": "https://g1.globo.com/sp/santos-regiao/noticia/2026/06/21/influenciador-viraliza-com-x-tudo-gigante-em-praia-no-litoral-de-sp-da-um-coro-em-varias-de-alta-gastronomia.ghtml",
+    "image": "https://s2-g1.glbimg.com/u6KIwX5qmLYwOlSz2CIjvEbKeDI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/G/dGp23ORBGU70glsrBVsw/gaba-cpe.jpg"
   },
   {
     "site": "UOL",
-    "title": "Irã enfrenta a Bélgica na Copa em meio a queixas por tratamento recebido nos EUA",
-    "url": "https://www1.folha.uol.com.br/esporte/2026/06/ira-enfrenta-a-belgica-na-copa-em-meio-a-queixas-por-tratamento-recebido-nos-eua.shtml",
-    "image": "https://f.i.uol.com.br/fotografia/2026/06/20/17819603626a368eaa98438_1781960362_3x2_rt.jpg"
+    "title": "Previsão do tempo para Ivaiporã: confira o panorama deste domingo",
+    "url": "https://tnonline.uol.com.br/noticias/vale-do-ivai/previsao-do-tempo-para-ivaipora-confira-o-panorama-deste-domingo-1101538",
+    "image": "https://cdn.tnonline.com.br/img/Instant-Article/1100000/1200x630/a-temperatura-minima-prevista-e-de-8c-nas-primeira-01100733-0-202606180439/ScaleProportionalFillBackground-1.jpg?fallback=https%3A%2F%2Fcdn.tnonline.com.br%2Fimg%2FInstant-Article%2F1100000%2Fa-temperatura-minima-prevista-e-de-8c-nas-primeira-01100733-0-202606180439.webp%3Fxid%3D1749152&xid=1749152"
   },
   {
     "site": "CNN Brasil",
-    "title": "Prefeita decreta emergência após incêndio em armazém em Los Angeles",
-    "url": "https://www.cnnbrasil.com.br/internacional/prefeita-decreta-emergencia-apos-incendio-em-armazem-em-los-angeles/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/06/Incendio-em-armazem-nos-EUA.jpg?w=960&h=540&crop=1"
+    "title": "Espanha busca reação contra Arábia Saudita após tropeço na estreia da Copa",
+    "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/espanha-busca-reacao-contra-arabia-saudita-apos-tropeco-na-estreia-da-copa/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/06/esp-cbv4-e1781884843694.jpg?w=1200&h=630&crop=1"
   },
   {
     "site": "Terra",
-    "title": "Equador pressiona, mas para em Eloy Room e fica no empate com Curaçao pela Copa do Mundo",
-    "url": "https://www.terra.com.br/esportes/futebol/equador-pressiona-mas-para-em-eloy-room-e-fica-no-empate-com-curacao-pela-copa-do-mundo,8f4c16cb2bc3d315d4cb9128c1c63343zimxmspi.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/06/21/1098105115-ecuador-v-curacao-group-e-fifa-world-cup-2026-2-2048x1365.jpg"
+    "title": "Anticoncepcional aumenta a vontade de comer?",
+    "url": "https://www.terra.com.br/vida-e-estilo/saude/anticoncepcional-aumenta-a-vontade-de-comer,03237205fa29df04e886a7b20abd7522h2zj1f17.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/06/21/289800285-anticoncepcional-aumenta-a-vontade-de-comer.jpg"
   },
   {
     "site": "BBC",
@@ -37,27 +67,27 @@
   },
   {
     "site": "G1",
-    "title": "Resultados das Loterias Caixa",
-    "url": "https://g1.globo.com/loterias/sorteios-caixa/ao-vivo/resultado-loterias-caixa.ghtml",
-    "image": "https://s2-g1.glbimg.com/jSxj3I3l-_9A_yX-C63zoFS7EfI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/e/HOxCZpTEOcnOumJ4V1RQ/captura-de-tela-2026-04-30-205329.png"
+    "title": "Polícia identifica grupo que derrubou casal de moto e agrediu vítimas em SP",
+    "url": "https://g1.globo.com/sp/santos-regiao/noticia/2026/06/21/policia-identifica-grupo-que-derrubou-casal-de-moto-e-agrediu-vitimas-em-sp.ghtml",
+    "image": "https://s2-g1.glbimg.com/qpqeZM3wEn6Nu69Fl1zPnZZUWFo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/w/EEdFbKRcGpBOdvfiB9Ng/motociclista-paulada.gif"
   },
   {
     "site": "UOL",
-    "title": "Espanha lida com cobrança e prevê mais tempo para Yamal no 2º jogo na Copa",
-    "url": "https://www1.folha.uol.com.br/esporte/2026/06/espanha-lida-com-cobranca-e-preve-mais-tempo-para-yamal-no-2o-jogo-na-copa.shtml",
-    "image": "https://f.i.uol.com.br/fotografia/2026/06/20/17819860756a36f31b3a652_1781986075_3x2_rt.jpg"
+    "title": "Após incentivar, empresas já freiam uso de IA diante do aumento de custos",
+    "url": "https://www1.folha.uol.com.br/tec/2026/06/apos-incentivar-empresas-ja-freiam-uso-de-ia-diante-do-aumento-de-custos.shtml",
+    "image": "https://f.i.uol.com.br/fotografia/2026/06/20/17819635526a369b2056526_1781963552_3x2_rt.jpg"
   },
   {
     "site": "CNN Brasil",
-    "title": "Conheça Eloy Room, herói de Curaçao no empate com Equador na Copa do Mundo",
-    "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/conheca-eloy-room-heroi-de-curacao-no-empate-com-equador-na-copa-do-mundo/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/06/room_curacao-e1782007188452.jpg?w=1200&h=630&crop=1"
+    "title": "Autismo possui três níveis: especialistas descrevem diferenças a Dr. Kalil",
+    "url": "https://www.cnnbrasil.com.br/saude/autismo-possui-tres-niveis-especialistas-descrevem-diferencas-a-dr-kalil/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2023/12/ai-generated-8356501_1280.png?w=1200&h=630&crop=1"
   },
   {
     "site": "Terra",
-    "title": "O paredão de Curaçao: goleiro que levou 7 gols vira destaque com 15 defesas contra Equador",
-    "url": "https://www.terra.com.br/esportes/futebol/copa-2026/o-paredao-de-curacao-goleiro-que-levou-7-gols-vira-destaque-com-15-defesas-contra-equador,6c27345462b34afe46a6d381fd1d12e3xfdsr4sn.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/06/21/gettyimages-2282560297-qec5eqs46ib4.jpg"
+    "title": "Inimigo do ponto final? Linguista explica entonação de Vini Jr.",
+    "url": "https://www.terra.com.br/esportes/futebol/copa-2026/inimigo-do-ponto-final-linguista-explica-entonacao-de-vini-jr,720fc5e3c120164e399ff8b36a788faa2g29zkrj.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/06/16/vini3-s4p4fhsryd7o.jpeg"
   },
   {
     "site": "BBC",
@@ -67,27 +97,27 @@
   },
   {
     "site": "G1",
-    "title": "Gigantes no gol: altura dos goleiros bate recorde e muda a Copa de 2026",
-    "url": "https://g1.globo.com/jornal-nacional/noticia/2026/06/20/gigantes-no-gol-altura-dos-goleiros-bate-recorde-e-muda-a-copa-de-2026.ghtml",
-    "image": "https://s2-g1.glbimg.com/CH-GUYrbHRLkEY6M5X0Vq_IBTYQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/o/KqBBAbR9myhGjObD9HVg/goleiros-gigantes.png"
+    "title": "RJ tem uma das populações inadimplentes mais envelhecidas do país, aponta estudo",
+    "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/06/21/rj-tem-uma-das-populacoes-inadimplentes-mais-envelhecidas-do-pais-aponta-estudo.ghtml",
+    "image": "https://s2-g1.glbimg.com/rHMmCQpG3kKU_bkLKe4AX8eGAR4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/7/U9n9TRQsq8ACTJTAAXWw/fotos-materias-2026-06-15t121026.541.jpg"
   },
   {
     "site": "UOL",
-    "title": "Estreante Curaçao empata com Equador e conquista primeiro ponto em Copa",
-    "url": "https://www1.folha.uol.com.br/esporte/2026/06/estreante-curacao-empata-com-equador-e-conquista-primeiro-ponto-em-copa.shtml",
-    "image": "https://f.i.uol.com.br/fotografia/2026/06/20/17820066436a374373df0a0_1782006643_3x2_rt.jpg"
+    "title": "Passado socialista da Alemanha explica ascensão da extrema direita, diz político de extrema direita",
+    "url": "https://www1.folha.uol.com.br/mundo/2026/06/passado-socialista-da-alemanha-explica-ascensao-da-extrema-direita-diz-politico-de-extrema-direita.shtml",
+    "image": "https://f.i.uol.com.br/fotografia/2026/06/03/17805130916a20794303758_1780513091_3x2_rt.jpg"
   },
   {
     "site": "CNN Brasil",
-    "title": "Equador pressiona, mas tropeça contra Curaçao e se complica na Copa",
-    "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/equador-pressiona-mas-tropeca-contra-curacao-e-se-complica-na-copa/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/06/equador_x_curacao_copa-e1782005576372.jpg?w=1200&h=630&crop=1"
+    "title": "Eleição na Colômbia: O que você precisa saber sobre o segundo turno",
+    "url": "https://www.cnnbrasil.com.br/internacional/eleicao-na-colombia-o-que-voce-precisa-saber-sobre-o-segundo-turno/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/06/eleicao-colombia-2026_7e1dd9.jpg?w=1200&h=630&crop=1"
   },
   {
     "site": "Terra",
-    "title": "Goleiro brilha no empate histórico de Curaçao com o Equador na Copa do Mundo",
-    "url": "https://www.terra.com.br/esportes/goleiro-brilha-no-empate-historico-de-curacao-com-o-equador-na-copa-do-mundo,fbed78ead729a3d1befbe6d8ddc2a04911ftglvn.html",
-    "image": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png"
+    "title": "Vozinha fechará o gol contra o Uruguai? Veja as odds para a partida",
+    "url": "https://www.terra.com.br/apostas/palpites-e-odds/vozinha-fechara-o-gol-contra-o-uruguai-veja-as-odds-para-a-partida,443b6270abd94df0f623ec1942fa92ff2lojrc73.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/06/20/vozinha-cabo-verde-1hux59reraixu.jpg"
   },
   {
     "site": "BBC",
@@ -97,26 +127,26 @@
   },
   {
     "site": "G1",
-    "title": "+Milionária hoje: resultado do concurso 365 e números sorteados",
-    "url": "https://g1.globo.com/loterias/milionaria/noticia/2026/06/20/milionaria-hoje-resultado-do-concurso-365-e-numeros-sorteados.ghtml",
-    "image": "https://s2-g1.glbimg.com/eaxqE_cJ0RI8KQOfQQysD1srfec=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/W/R5urAsTbezOzmyuXNcfg/maismilionaria-365-ixqrg.jpeg"
+    "title": "Pai de Vozinha diz que Copa do Mundo era 'sonho de criança' do goleiro de Cabo Verde",
+    "url": "https://g1.globo.com/mundo/noticia/2026/06/21/pai-vozinha-copa-do-mundo-sonho-de-crianca-goleiro-cabo-verde.ghtml",
+    "image": "https://s2-g1.glbimg.com/VAA5WqPZE46fq30Xvb1LoM5Z-i4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/X/yhBeVPTaehSalBphAsuw/pai-vozinha.png"
   },
   {
     "site": "UOL",
-    "title": "Ciclista de 75 anos morre em acidente com carro em Santa Catarina",
-    "url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/06/20/idosa-bicicleta-carro-morte-sc.ghtm",
-    "image": ""
+    "title": "Campanha de Lula aciona TSE mais de 60 vezes, e IA representa quase um terço",
+    "url": "https://www1.folha.uol.com.br/colunas/painel/2026/06/campanha-de-lula-aciona-tse-mais-de-60-vezes-e-ia-representa-quase-um-terco.shtml",
+    "image": "https://f.i.uol.com.br/fotografia/2026/06/19/17819085746a35c45e6c0c2_1781908574_3x2_xl.jpg"
   },
   {
     "site": "CNN Brasil",
-    "title": "Zeca Pagodinho, Alcione e Jorge Aragão animam SP em noite de samba",
-    "url": "https://www.cnnbrasil.com.br/pop/musica/zeca-pagodinho-alcione-e-jorge-aragao-animam-sp-em-noite-de-samba/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/06/Zeca-Alcione-e-Jorge-Aragao-25.jpg?w=1200&h=630&crop=1"
+    "title": "Bélgica enfrenta a resiliência do Irã pressionada para assumir protagonismo",
+    "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/belgica-enfrenta-a-resiliencia-do-ira-pressionada-para-assumir-protagonismo/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/06/belgica_ira.png?w=1200&h=630&crop=1"
   },
   {
     "site": "Terra",
-    "title": "Curaçao breca Equador com paredão Room em empate sem gols heroico e frenético na Copa 2026",
-    "url": "https://www.terra.com.br/esportes/futebol/curacao-breca-equador-com-paredao-room-em-empate-sem-gols-heroico-e-frenetico-na-copa-2026,b514b0f8a9678a1df257acb2cf4d374auza4mwnb.html",
+    "title": "JD Vance chega à Suíça para negociações com o Irã em meio a crise no Estreito de Ormuz",
+    "url": "https://www.terra.com.br/noticias/mundo/europa/jd-vance-chega-a-suica-para-negociacoes-com-o-ira-em-meio-a-crise-no-estreito-de-ormuz,f85628c60f94f86e3f81181708a45efe9eh7tsqv.html",
     "image": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png"
   },
   {
@@ -127,27 +157,27 @@
   },
   {
     "site": "G1",
-    "title": "Dia de Sorte hoje: resultado do concurso 1228 e números sorteados",
-    "url": "https://g1.globo.com/loterias/dia-de-sorte/noticia/2026/06/20/dia-de-sorte-hoje-resultado-do-concurso-1228-e-numeros-sorteados.ghtml",
-    "image": "https://s2-g1.glbimg.com/kE4ZDHlgnJ6D3qaz6n9b1ix45Eo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/6/lIGBXkTNW2pZEMz7Qzaw/diadesorte-1228-dzsah.jpeg"
+    "title": "Verde, amarelo e azul: estudantes mineiros criam queijo com as cores do Brasil",
+    "url": "https://g1.globo.com/mg/zona-da-mata/noticia/2026/06/21/verde-amarelo-e-azul-estudantes-mineiros-criam-queijo-com-as-cores-do-brasil.ghtml",
+    "image": "https://s2-g1.glbimg.com/ksajwFOgAygGpAdQ2KkIQKGxc5A=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/p/p7AEvPR3il4fBPsVzAag/queijo-cores-do-brasil-by-marcelo-ribeiro-4-.jpg"
   },
   {
     "site": "UOL",
-    "title": "Está perdido em 'A Casa do Dragão'? Leia resumo e saiba onde ver as séries da saga 'Game of Thrones'",
-    "url": "https://guia.folha.uol.com.br/streaming/2026/06/esta-perdido-em-a-casa-do-dragao-leia-resumo-e-saiba-onde-ver-as-series-da-saga-game-of-thrones.shtml",
-    "image": "https://f.i.uol.com.br/fotografia/2026/06/19/17818896526a357a74c1667_1781889652_3x2_xl.jpg"
+    "title": "Signos: confira seu horóscopo desta domingo (21)",
+    "url": "https://tnonline.uol.com.br/noticias/revista-uau/signos-confira-seu-horoscopo-desta-domingo-21-1101111",
+    "image": "https://cdn.tnonline.com.br/img/Instant-Article/990000/1200x630/Os-cancerianos-passam-o-dia-no-alerta-00998664-0-202506241446/ScaleProportionalFillBackground-1.jpg?fallback=https%3A%2F%2Fcdn.tnonline.com.br%2Fimg%2FInstant-Article%2F990000%2FOs-cancerianos-passam-o-dia-no-alerta-00998664-0-202506241446.png%3Fxid%3D1747875&xid=1747875"
   },
   {
     "site": "CNN Brasil",
-    "title": "Virginia mostra detalhes de suíte de luxo em Nova York; veja fotos",
-    "url": "https://www.cnnbrasil.com.br/pop/celebridades/virginia-mostra-detalhes-de-suite-de-luxo-em-nova-york-veja-fotos/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/06/virginia-look-copa-1.png?w=1200&h=630&crop=1"
+    "title": "Quebra de safra no Brasil ameaça oferta global de soja",
+    "url": "https://www.cnnbrasil.com.br/agro/quebra-de-safra-no-brasil-ameaca-oferta-global-de-soja/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/05/indicativo-el-nino-e1778847099403.png?w=449&h=253&crop=1"
   },
   {
     "site": "Terra",
-    "title": "Vestido de noiva minimalista com decote profundo e laço gigantesco nas costas: esposa de Eike Duarte, Natália Vivacqua aposta em moda elegante para casamento com o ator; veja fotos!",
-    "url": "https://www.terra.com.br/vida-e-estilo/autocuidado/moda/vestido-de-noiva-minimalista-com-decote-profundo-e-laco-gigantesco-nas-costas-esposa-de-eike-duarte-natalia-vivacqua-aposta-em-moda-elegante-para-casamento-com-o-ator-veja-fotos,f143d9d55bb9990195eb8c2ece354604v26jyt2j.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/06/21/744525990-5f9925188621a4fa-1400x823-1.jpg"
+    "title": "Ataque uruguaio tenta se reinventar contra Vozinha, paredão de Cabo Verde, por respiro na Copa",
+    "url": "https://www.terra.com.br/esportes/futebol/ataque-uruguaio-tenta-se-reinventar-contra-vozinha-paredao-de-cabo-verde-por-respiro-na-copa,8256e8a98ef08ebf0bcbe61f7d7c8d0avmnuz3re.html",
+    "image": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png"
   },
   {
     "site": "BBC",
@@ -157,27 +187,27 @@
   },
   {
     "site": "G1",
-    "title": "Timemania hoje: resultado do concurso 2406 e números sorteados",
-    "url": "https://g1.globo.com/loterias/timemania/noticia/2026/06/20/timemania-hoje-resultado-do-concurso-2406-e-numeros-sorteados.ghtml",
-    "image": "https://s2-g1.glbimg.com/FZ_eRlAdUq9AcugA4fwAks-aBZo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/4/BTQopHQXeqia3XHRpjGQ/timemania-2406-rpjvg.jpeg"
+    "title": "Ataques da Ucrânia matam cinco e ferem 28 na Crimeia e no sul da Rússia",
+    "url": "https://g1.globo.com/mundo/noticia/2026/06/21/ataques-da-ucrania-matam-cinco-e-ferem-28-na-crimeia-e-no-sul-da-russia.ghtml",
+    "image": "https://s2-g1.glbimg.com/0DF8JvbZYk2dFXopn_3FZQ5R65w=/1280x0/filters:format(jpeg)/https://thumbor.globoi.com/unsafe/fit-in/1280x720/s04.video.glbimg.com/deo/vi/55/20/992055"
   },
   {
     "site": "UOL",
-    "title": "Mooca ganha parque com áreas de lazer, academia ao ar livre e árvore centenária",
-    "url": "https://guia.folha.uol.com.br/passeios/2026/06/mooca-ganha-parque-com-areas-de-lazer-academia-ao-ar-livre-e-arvore-centenaria.shtml",
-    "image": "https://f.i.uol.com.br/fotografia/2026/06/17/17817243446a32f4b8ed733_1781724344_3x2_rt.jpg"
+    "title": "Ataques de drones da Ucrânia matam 5 pessoas e ferem 28 em áreas da Rússia",
+    "url": "https://noticias.uol.com.br/internacional/ultimas-noticias/2026/06/21/ataque-drone-crimeia-mortos-feridos.ghtm",
+    "image": ""
   },
   {
     "site": "CNN Brasil",
-    "title": "Delegação do Irã chega à Suíça para negociações com EUA",
-    "url": "https://www.cnnbrasil.com.br/internacional/delegacao-do-ira-chega-a-suica-para-negociacoes-com-eua/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/06/delegacao-ira-desembaca-na-suica-e1782000791144.webp?w=1200&h=630&crop=1"
+    "title": "Eleições na Colômbia: População vai às urnas para definir novo presidente",
+    "url": "https://www.cnnbrasil.com.br/internacional/eleicoes-na-colombia-populacao-vai-as-urnas-para-definir-novo-presidente/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/05/votacao-colombia-3-e1779919426760.jpg?w=1024&h=577&crop=1"
   },
   {
     "site": "Terra",
-    "title": "Equador perde um caminhão de gols, para em goleiro de Curaçao e se complica na Copa",
-    "url": "https://www.terra.com.br/esportes/equador/equador-perde-um-caminhao-de-gols-para-em-goleiro-de-curacao-e-se-complica-na-copa,c9823bcb39d184a92a2bb043d85e62325jxpu1hb.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/06/21/434952343-ecuador-v-curacao-group-e-fifa-world-cup-2026easy-resizecom-610x400.jpg"
+    "title": "Salah e Just lideram Egito e Nova Zelândia por vitória na Copa do Mundo",
+    "url": "https://www.terra.com.br/esportes/futebol/salah-e-just-lideram-egito-e-nova-zelandia-por-vitoria-na-copa-do-mundo,e41fd4279432a4f248ead357e57e25361uv46l2h.html",
+    "image": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png"
   },
   {
     "site": "BBC",
@@ -187,27 +217,27 @@
   },
   {
     "site": "G1",
-    "title": "Polícia Federal investiga alerta falso em sistema da Defesa Civil que acordou milhões de brasileiros",
-    "url": "https://g1.globo.com/jornal-nacional/noticia/2026/06/20/policia-federal-investiga-alerta-falso-em-sistema-da-defesa-civil-que-acordou-milhoes-de-brasileiros.ghtml",
-    "image": "https://s2-g1.glbimg.com/m_hNKTsknI6YHZJFqaNCZ_iiDW0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/B/zA2eADQb6NDbhWwDyYYA/ataque-hacker-misantropia-2.png"
+    "title": "Menos frio e mais chuva na Serra de SC: como o El Niño vai afetar o inverno em uma das regiões mais frias do Brasil",
+    "url": "https://g1.globo.com/sc/santa-catarina/noticia/2026/06/21/el-nino-chuva-neve-o-que-esperar-inverno-serra-catarinense.ghtml",
+    "image": "https://s2-g1.glbimg.com/w9ugK1SfDfVwXv1xUeehDb08V3Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/Q/4/6gA6kDTwatWkSC8NZU9A/imagens1.jpg"
   },
   {
     "site": "UOL",
-    "title": "Em novo teste para Vozinha, Cabo Verde enfrenta Uruguai",
-    "url": "https://www1.folha.uol.com.br/esporte/2026/06/em-novo-teste-para-vozinha-cabo-verde-enfrenta-uruguai.shtml",
-    "image": "https://f.i.uol.com.br/fotografia/2026/06/15/17815463836a303d8f86630_1781546383_3x2_xl.jpg"
+    "title": "JD Vance chega à Suíça para negociações com o Irã em meio a crise no Estreito de Ormuz",
+    "url": "https://noticias.uol.com.br/ultimas-noticias/rfi/2026/06/21/jd-vance-chega-a-suica-para-negociacoes-com-o-ira-em-meio-a-crise-no-estreito-de-ormuz.htm",
+    "image": ""
   },
   {
     "site": "CNN Brasil",
-    "title": "Técnico da Costa do Marfim ameniza derrota na Copa: “Perdemos com honra”",
-    "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/tecnico-da-costa-do-marfim-ameniza-derrota-na-copa-perdemos-com-honra/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/06/tecnico_costa_do_marfim-e1782000512339.jpg?w=1200&h=630&crop=1"
+    "title": "Acordo em Ormuz alivia mercados, mas especialistas precificam perfeição",
+    "url": "https://www.cnnbrasil.com.br/economia/mercado/acordo-em-ormuz-alivia-mercados-mas-especialistas-precificam-perfeicao/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/05/dolar_variacao.jpg?w=1200&h=630&crop=1"
   },
   {
     "site": "Terra",
-    "title": "Rock in Rio Lisboa: transmissão ao vivo dos shows do Linkin Park, Sepultura e mais",
-    "url": "https://www.terra.com.br/diversao/musica/rock-in-rio/rock-in-rio-lisboa-transmissao-ao-vivo-dos-shows-do-linkin-park-sepultura-e-mais,7ed478fc6391375539757793d45bdadd8a1w3v47.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/06/21/1843071477-linkin-park-sepultura-transmissao-ao-vivo-rock-in-rio-lisboa.jpg"
+    "title": "Bélgica enfrenta a resiliência do Irã pressionada para assumir protagonismo na Copa",
+    "url": "https://www.terra.com.br/esportes/futebol/belgica-enfrenta-a-resiliencia-do-ira-pressionada-para-assumir-protagonismo-na-copa,f7083a5ae72c37941856ca2802fdd2e3oxnksf81.html",
+    "image": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png"
   },
   {
     "site": "BBC",
@@ -217,57 +247,27 @@
   },
   {
     "site": "G1",
-    "title": "VÍDEOS: Jornal Anhanguera 2ª Edição-TO de sábado, 20 de junho de 2026",
-    "url": "https://g1.globo.com/to/tocantins/playlist/videos-jornal-anhanguera-2-edicao-to-de-sabado-20-de-junho-de-2026.ghtml",
-    "image": "https://s2-g1.glbimg.com/9vCwBNJ15F1u0BMgbwVsTIrLXAw=/s01.video.glbimg.com/deo/vi/40/85/14718540"
+    "title": "Prefeitura do Rio sanciona lei que cria programa de educação financeira nas escolas municipais",
+    "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/06/21/prefeitura-do-rio-sanciona-lei-que-cria-programa-de-educacao-financeira-nas-escolas-municipais.ghtml",
+    "image": "https://s2-g1.glbimg.com/J5bpJTeRhZ8sI4qwDXcEULZOjoA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/H/2vvXQvTg22tW5Pp76sEQ/whatsapp-image-2026-06-18-at-18.40.29-4-.jpeg"
   },
   {
     "site": "UOL",
-    "title": "Governo aposta em súmula de Gilmar contra pautas-bomba para limitar gastos aprovados pelo Congresso",
-    "url": "https://www1.folha.uol.com.br/colunas/painel/2026/06/governo-aposta-em-sumula-de-gilmar-contra-pautas-bomba-para-limitar-gastos-aprovados-pelo-congresso.shtml",
-    "image": "https://f.i.uol.com.br/fotografia/2026/06/12/17813147756a2cb4d78fbee_1781314775_3x2_rt.jpg"
+    "title": "Advogado sugeriu a Mendonça delação selecionada poupando ministros do STF",
+    "url": "https://noticias.uol.com.br/colunas/carla-araujo/2026/06/21/advogado-sugeriu-a-mendonca-delacao-selecionada-poupando-ministros-do-stf.htm",
+    "image": ""
   },
   {
     "site": "CNN Brasil",
-    "title": "Entenda regulamento que levou à eliminação de Haiti e Turquia na Copa",
-    "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/entenda-regulamento-que-levou-a-eliminacao-de-haiti-e-turquia-na-copa/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/06/Turquia-Copa-e1782000243871.jpg?w=1200&h=630&crop=1"
+    "title": "Projeto brasileiro inédito com IA devolve autonomia a pacientes com ELA",
+    "url": "https://www.cnnbrasil.com.br/saude/projeto-brasileiro-inedito-com-ia-devolve-autonomia-a-pacientes-com-ela/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/02/cerevro.jpg?w=1200&h=630&crop=1"
   },
   {
     "site": "Terra",
-    "title": "Goleiro da Áustria provoca Messi antes de confronto: \"Sou mais Cristiano\"",
-    "url": "https://www.terra.com.br/esportes/futebol/internacional/goleiro-da-austria-provoca-messi-antes-de-confronto-sou-mais-cristiano,be731964e17d1882807284df95970d39tiy69oy5.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/06/21/1496959010-austria-v-jordan-group-j-fifa-world-cup-2026easy-resizecom-610x400.jpg"
-  },
-  {
-    "site": "BBC",
-    "title": "Brasil x Escócia: qual resultado a Seleção precisa para se classificar na liderança do grupo?",
-    "url": "https://www.bbc.com/portuguese/articles/cp8l6xvj6jno?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/news/1024/branded_portuguese/3e6a/live/e0638890-6c57-11f1-8e1d-bbbb1017d210.jpg"
-  },
-  {
-    "site": "G1",
-    "title": "Quase uma tonelada de maconha é apreendida escondida sob carga de ração na BR-386",
-    "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/06/20/uma-tonelada-maconha-apreendida-escondida-carga-racao-br-386.ghtml",
-    "image": "https://s2-g1.glbimg.com/fuwvhUEmpH-Wf5XSbiNoTzej-rI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/7/yxiVTOQUuEjRYMP8LjOw/whatsapp-video-2026-06-20-at-20.36.24-frame-at-0m1s3.jpg"
-  },
-  {
-    "site": "UOL",
-    "title": "Roraima tem eleição neste domingo em meio a ação no STF e confusão sobre candidaturas",
-    "url": "https://www1.folha.uol.com.br/poder/2026/06/roraima-tem-eleicao-neste-domingo-em-meio-a-acao-no-stf-e-confusao-sobre-candidaturas.shtml",
-    "image": "https://f.i.uol.com.br/fotografia/2026/06/19/17819072986a35bf6269e5b_1781907298_3x2_xl.jpg"
-  },
-  {
-    "site": "CNN Brasil",
-    "title": "Confira famosas internacionais que torcem para o Brasil na Copa do Mundo",
-    "url": "https://www.cnnbrasil.com.br/pop/celebridades/confira-famosas-internacionais-que-torcem-para-brasil-na-copa-do-mundo/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/06/famosas-torcedoras-brasil.jpg?w=1200&h=630&crop=1"
-  },
-  {
-    "site": "Terra",
-    "title": "Influenciadora morre após parto domiciliar sem assistência médica na Austrália",
-    "url": "https://www.terra.com.br/noticias/influenciadora-morre-apos-parto-domiciliar-sem-assistencia-medica-na-australia,ee8a7aa301839caa601e2e27b102ec40ea7sodec.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/06/21/stacey-u7xdmy8k5p41.jpg"
+    "title": "Arábia Saudita prepara muralha após ver que é possível parar a Espanha",
+    "url": "https://www.terra.com.br/esportes/futebol/arabia-saudita-prepara-muralha-apos-ver-que-e-possivel-parar-a-espanha,b2cb70ded0cc070439928cb156fca5b6a5t78ocv.html",
+    "image": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png"
   },
   {
     "site": "BBC",
@@ -277,26 +277,20 @@
   },
   {
     "site": "G1",
-    "title": "Mega-Sena, concurso 3021: confira os números sorteados",
-    "url": "https://g1.globo.com/loterias/mega-sena/noticia/2026/06/20/mega-sena-concurso-3021-confira-os-numeros-sorteados.ghtml",
-    "image": "https://s2-g1.glbimg.com/qy4fKjxagQL_B-wFUYEdO2hUGeg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/j/P/SWmVpCSYe2ZiGlHFWwmQ/mega.jpeg"
-  },
-  {
-    "site": "UOL",
-    "title": "Primeiras-damas deixam bastidores e disputam eleições ancoradas em clãs familiares",
-    "url": "https://www1.folha.uol.com.br/poder/2026/06/primeiras-damas-deixam-bastidores-e-disputam-eleicoes-ancoradas-em-clas-familiares.shtml",
-    "image": "https://f.i.uol.com.br/fotografia/2026/06/11/17812324706a2b7356788d8_1781232470_3x2_xl.jpg"
+    "title": "Renda maior, emprego forte e dívida crescente: por que o consumo segue forte mesmo com juros altos?",
+    "url": "https://g1.globo.com/economia/noticia/2026/06/21/por-que-o-consumo-segue-forte-mesmo-com-juros-altos.ghtml",
+    "image": "https://s2-g1.glbimg.com/BWEIwdDJgyLBw8GBrsUxH__07Cs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/m/k/9C8jxRTQSQQQLQzY3c7g/servicos.jpg"
   },
   {
     "site": "CNN Brasil",
-    "title": "Fim da escala 6×1 pode impactar produtividade brasileira, diz especialista",
-    "url": "https://www.cnnbrasil.com.br/economia/macroeconomia/fim-da-escala-6x1-pode-impactar-produtividade-brasileira-diz-especialista/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/04/flat-lay-people-working-together-office.jpg?w=1200&h=630&crop=1"
+    "title": "Senado pode votar PEC que custaria ao menos R$ 28 bi aos cofres da União",
+    "url": "https://www.cnnbrasil.com.br/politica/senado-pode-votar-pec-que-custaria-ao-menos-r-28-bi-aos-cofres-da-uniao/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/06/DAVI-ALCOLUMBRE-PLENARIO-09-06-26.jpg?w=1200&h=630&crop=1"
   },
   {
     "site": "Terra",
-    "title": "Resultado da +Milionária 365 acumula de novo e prêmio principal sobe para R$ 66 milhões",
-    "url": "https://www.terra.com.br/noticias/resultado-da-milionaria-365-acumula-de-novo-e-premio-principal-sobe-para-r-66-milhoes,db3a7f6ce1bb4c4932ce1a8363b31513bfvg0udt.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/06/21/1228381205-oportunidade-58.jpg"
+    "title": "Primeiras impressões: Jetour S06 Premium é confortável, econômico e joga pelo 1 a 0",
+    "url": "https://www.terra.com.br/mobilidade/carros/primeiras-impressoes-jetour-s06-premium-e-confortavel-economico-e-joga-pelo-1-a-0,3bf5df00b4a1ac09b4a8437f214c8944hgmz4mq4.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/06/21/1855721252-2g2fg5ulbbaplfofk6ygivasim.jpg"
   }
 ]
