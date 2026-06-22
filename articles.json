@@ -1,63 +1,183 @@
 [
   {
     "site": "BBC",
+    "title": "Primeiro-ministro do Reino Unido, Keir Starmer, renuncia ao cargo",
+    "url": "https://www.bbc.com/portuguese/articles/cwy055l0g29o?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/news/1024/branded_portuguese/2a81/live/ed679340-6e16-11f1-8546-8f19e4fe30f4.png"
+  },
+  {
+    "site": "G1",
+    "title": "Bom Dia Cidade - Ribeirão e Franca",
+    "url": "https://g1.globo.com/sp/ribeirao-preto-franca/ao-vivo/bom-dia-cidade-ribeirao-preto.ghtml",
+    "image": "https://s2-g1.glbimg.com/5Db3pzqHzeCD6vSqEpxOFb9UvEc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/a/v/FMd4ZuT8uJLkmIab6LLw/still0208-00000.jpg"
+  },
+  {
+    "site": "UOL",
+    "title": "Starmer, o político que quis transformar o Reino Unido e perdeu o apoio do partido",
+    "url": "https://noticias.uol.com.br/ultimas-noticias/afp/2026/06/22/starmer-o-politico-que-quis-transformar-o-reino-unido-e-perdeu-o-apoio-do-partido.htm",
+    "image": ""
+  },
+  {
+    "site": "CNN Brasil",
+    "title": "Incorporadora Trisul troca comando pela 1ª vez em 4 décadas",
+    "url": "https://www.cnnbrasil.com.br/economia/negocios/incorporadora-trisul-troca-comando-pela-1a-vez-em-4-decadas/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2021/10/construcao_civil_obras_canteiro_de_obras_construcao_trabalhadores190220142533_0.jpeg?w=1170&h=630&crop=1"
+  },
+  {
+    "site": "Terra",
+    "title": "Mordida de macaco na Tailândia entra em investigação sobre morte de atriz de 'Coração de Mãe'",
+    "url": "https://www.terra.com.br/diversao/gente/mordida-de-macaco-na-tailandia-entra-em-investigacao-sobre-morte-de-atriz-de-coracao-de-mae,5f1c910d1c5cca140c336ca2cd19660eofmaekeo.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/06/22/1991311355-jnctakwmivhsblcht6y3oi4xhu.jpg"
+  },
+  {
+    "site": "BBC",
+    "title": "Como a economia dos EUA continua superando seus rivais apesar de toda turbulência do governo Trump",
+    "url": "https://www.bbc.com/portuguese/articles/c0my9w0nlzdo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/news/1024/branded_portuguese/e0cd/live/4877abc0-6599-11f1-99b8-5530f29d65f4.jpg"
+  },
+  {
+    "site": "G1",
+    "title": "Garis fazem paralisação em seis cidades do RN nesta segunda-feira (22)",
+    "url": "https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/06/22/garis-paralisacao-cidades-rn.ghtml",
+    "image": "https://s2-g1.glbimg.com/017kFVfbjeCMDsZsRsh034NPEoE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/X/AAwu2JSfScP2ZSrvTOHA/whatsapp-image-2026-06-22-at-08.00.50.jpeg"
+  },
+  {
+    "site": "UOL",
+    "title": "Ex-ministro espanhol próximo de Pedro Sánchez é condenado a 24 anos de prisão",
+    "url": "https://noticias.uol.com.br/ultimas-noticias/afp/2026/06/22/ex-ministro-espanhol-proximo-de-pedro-sanchez-e-condenado-a-24-anos-de-prisao.htm",
+    "image": ""
+  },
+  {
+    "site": "CNN Brasil",
+    "title": "Jogadores pendurados? Argentina tem boa notícia para duelo com a Áustria",
+    "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/jogadores-pendurados-argentina-tem-boa-noticia-para-duelo-com-a-austria/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/06/argentina-argelia-arbitro-e1782126403159.jpg?w=1200&h=630&crop=1"
+  },
+  {
+    "site": "Terra",
+    "title": "Inverno agrava queda nas doações de sangue e alerta para conscientização",
+    "url": "https://www.terra.com.br/vida-e-estilo/saude/inverno-agrava-queda-nas-doacoes-de-sangue-e-alerta-para-conscientizacao,84d3942da49adeeddc396e556299d211bd8q58tk.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/06/22/1195027508-aman-chaturvedi-0zzo5o00o80-unsplash-scaled.jpg"
+  },
+  {
+    "site": "BBC",
+    "title": "Reino Unido terá 7º primeiro-ministro em 10 anos: país está se tornando ingovernável?",
+    "url": "https://www.bbc.com/portuguese/articles/ckgplry65j2o?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/news/1024/branded_portuguese/9b08/live/6cae65d0-6e25-11f1-8e1d-bbbb1017d210.jpg"
+  },
+  {
+    "site": "G1",
+    "title": "Loteca hoje: resultado do concurso 1256 e números sorteados",
+    "url": "https://g1.globo.com/loterias/loteca/noticia/2026/06/22/loteca-hoje-resultado-do-concurso-1256-e-numeros-sorteados.ghtml",
+    "image": "https://s2-g1.glbimg.com/KamjCnYp56vQY-_h5gqZlXFQQ5M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/J/o/ulGBSvTzq3mGozukh1oA/volantes-loteca.jpg"
+  },
+  {
+    "site": "UOL",
+    "title": "Explosão em complexo de GNL do Catar deixa dezenas de feridos e 18 desaparecidos",
+    "url": "https://noticias.uol.com.br/ultimas-noticias/reuters/2026/06/22/explosao-em-complexo-de-gnl-do-catar-deixa-dezenas-de-feridos-e-18-desaparecidos.htm",
+    "image": ""
+  },
+  {
+    "site": "CNN Brasil",
+    "title": "Bielsa mostra perplexidade com situação do Uruguai na Copa do Mundo",
+    "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/bielsa-mostra-perplexidade-com-situacao-do-uruguai-na-copa-do-mundo/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/06/bielsa-e1782126715194.jpg?w=1200&h=630&crop=1"
+  },
+  {
+    "site": "Terra",
+    "title": "Anvisa libera parte dos produtos Ypê suspensos e diz que empresa fará recolhimento de lava-roupas; veja lista",
+    "url": "https://www.terra.com.br/vida-e-estilo/saude/anvisa-libera-parte-dos-produtos-ype-suspensos-e-diz-que-empresa-fara-recolhimento-de-lava-roupas-veja-lista,aedd5afe8f24b0520e3097f96029f57bmhnuehlg.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/05/11/detergente-ype-(2)-1hrmjm24z5m5f.jpg"
+  },
+  {
+    "site": "BBC",
     "title": "Candidato pró-Trump ganha na Colômbia por pequena margem na apuração preliminar, mas presidente Petro pede para aguardar contagem",
     "url": "https://www.bbc.com/portuguese/articles/cgl3nykn3d9o?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/news/1024/branded_portuguese/afbc/live/5255c8c0-6dc3-11f1-99a1-adc31e23373a.jpg"
   },
   {
     "site": "G1",
-    "title": "'Grande vitória', diz Trump após resultado preliminar apontar Espriella como novo presidente da Colômbia",
-    "url": "https://g1.globo.com/mundo/noticia/2026/06/21/grande-vitoria-diz-trump-espriella-eleicao-colombia.ghtml",
-    "image": "https://s2-g1.glbimg.com/M4fprVg5UHA0qas1qHNFWr2oE6Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/p/tIpIATQfWHWQHPyiwL4A/design-sem-nome-20-.jpg"
+    "title": "Festa de São João reúne tradição e música em Carmo do Cajuru; veja programação",
+    "url": "https://g1.globo.com/mg/centro-oeste/noticia/2026/06/22/festa-de-sao-joao-reune-tradicao-e-musica-em-carmo-do-cajuru-veja-programacao.ghtml",
+    "image": "https://s2-g1.glbimg.com/KdcwCZLevkt8FlXWk1h5n0E5ZqA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/n/LBo0KcRUqjn1MioKWhxA/festa-de-sao-joao-de-carmo-do-cajuru-1.jpg"
   },
   {
     "site": "UOL",
-    "title": "EUA e Irã concluem rodada de negociações na Suíça, dizem mediadores",
-    "url": "https://www1.folha.uol.com.br/mundo/2026/06/eua-e-ira-concluem-rodada-de-negociacoes-na-suica-dizem-mediadores.shtml",
-    "image": "https://f.i.uol.com.br/fotografia/2026/06/21/17820954576a389e6128cf8_1782095457_3x2_rt.jpg"
+    "title": "Museu do 'soccer' nos EUA tem camisas de Pelé e Messi, mas não cita Marta",
+    "url": "https://www1.folha.uol.com.br/esporte/2026/06/museu-do-soccer-nos-eua-tem-camisas-de-pele-e-messi-mas-nao-cita-marta.shtml",
+    "image": "https://f.i.uol.com.br/fotografia/2026/06/20/17820057696a3740091d624_1782005769_3x2_xl.jpg"
   },
   {
     "site": "CNN Brasil",
-    "title": "Erro de comunicação? Scaloni responde Ancelotti sobre intensidade argentina",
-    "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-brasil/erro-de-comunicacao-scaloni-responde-ancelotti-sobre-intensidade-argentina/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/06/scaloni-entrevista-copa.jpg?w=1200&h=630&crop=1"
+    "title": "Virginia rebate críticas sobre maternidade: “Culpa”",
+    "url": "https://www.cnnbrasil.com.br/pop/celebridades/virginia-rebate-criticas-sobre-maternidade-culpa/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/03/virginia-filhos-e1774811393596.jpg?w=1080&h=630&crop=1"
   },
   {
     "site": "Terra",
-    "title": "China amplia retaliação aos EUA e restringe exportações a 10 empresas após lista negra do Pentágono",
-    "url": "https://www.terra.com.br/economia/china-amplia-retaliacao-aos-eua-e-restringe-exportacoes-a-10-empresas-apos-lista-negra-do-pentagono,cc66e94b6cab1eacf3b1180473d2efa1hic9j1ti.html",
-    "image": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png"
+    "title": "Irã e EUA relatam 'avanços' nas negociações para acabar com o conflito",
+    "url": "https://www.terra.com.br/noticias/mundo/ira-e-eua-relatam-avancos-nas-negociacoes-para-acabar-com-o-conflito,736a1991a5cdbad9bc47864c5d7b663f1h41c7ha.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/06/22/1594297657-2qg2vmxe6nhkpopf7xlcd7trjy.jpg"
   },
   {
     "site": "BBC",
-    "title": "Como é viver nos 5 países mais seguros do mundo em 2026",
-    "url": "https://www.bbc.com/portuguese/articles/cnv9jr3216vo?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/news/1024/branded_portuguese/56bc/live/d751b680-6d94-11f1-bb4a-cbaa8225a98f.jpg"
+    "title": "Quem é Abelardo de la Espriella, candidato inspirado em Bukele e Milei que ganhou eleição na Colômbia em apuração preliminar",
+    "url": "https://www.bbc.com/portuguese/articles/cy8wjg4ylzjo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/news/1024/branded_portuguese/bffa/live/03f4b360-6e0b-11f1-b1db-af71d47507d6.jpg"
   },
   {
     "site": "G1",
-    "title": "Arthur Henrique é o mais votado para governador em eleição suplementar de Roraima",
-    "url": "https://g1.globo.com/rr/roraima/ao-vivo/roraimenses-escolhem-governador-e-vice-de-roraima-na-eleicao-suplementar-deste-domingo.ghtml",
-    "image": "https://s2-g1.glbimg.com/lwEc3KnySkXabHdSPVHTp8zT0Fk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/a/94vJNCQHGFftZ9Jdjzrg/arthur-henrique-vota.jpeg"
+    "title": "Assista ao Bom Dia ES",
+    "url": "https://g1.globo.com/es/espirito-santo/ao-vivo/assista-bdes.ghtml",
+    "image": "https://s2-g1.glbimg.com/p52HGVD-xkjwB7z6xe4cOXJNloY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/J/v/P7i6mXTvCF4AixgYlRIg/gap5fe6wkaaqgfp.jfif"
   },
   {
     "site": "UOL",
-    "title": "'Um livro não seria suficiente para escrever tudo que aprendi com ele', diz Enzo Fernández sobre Messi",
-    "url": "https://www1.folha.uol.com.br/esporte/2026/06/um-livro-nao-seria-suficiente-para-escrever-tudo-que-aprendi-com-ele-diz-enzo-fernandez-sobre-messi.shtml",
-    "image": "https://f.i.uol.com.br/fotografia/2026/06/21/17820912926a388e1c4199a_1782091292_3x2_rt.jpg"
+    "title": "Em aposta no Brasil, UE se diferencia ao estimular refino local de minerais críticos, diz comissário",
+    "url": "https://noticias.uol.com.br/ultimas-noticias/reuters/2026/06/22/em-aposta-no-brasil-ue-se-diferencia-ao-estimular-refino-local-de-minerais-criticos-diz-comissario.htm",
+    "image": ""
   },
   {
     "site": "CNN Brasil",
-    "title": "Arrascaeta joga? Bielsa fala sobre expectativa para Uruguai x Espanha",
-    "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/arrascaeta-joga-marcelo-bielsa-esclarece-expectativa-sobre-meia-para-copa/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/06/GettyImages-2268883801-e1780505525877.jpg?w=1200&h=630&crop=1"
+    "title": "Ex-paquitos: com morte de Robson Barros, por onde andam assistentes de Xuxa",
+    "url": "https://www.cnnbrasil.com.br/pop/tv/ex-paquitos-com-morte-de-robson-barros-por-onde-andam-assistentes-de-xuxa/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2024/10/paquitos.jpg?w=1200&h=630&crop=1"
   },
   {
     "site": "Terra",
-    "title": "Técnico de Cabo Verde sonha alto após começo impressionante na Copa do Mundo",
-    "url": "https://www.terra.com.br/esportes/tecnico-de-cabo-verde-sonha-alto-apos-comeco-impressionante-na-copa-do-mundo,cf0aa6b005b9bf9dac1d6cc03f89c7dd45ph5lkn.html",
-    "image": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png"
+    "title": "Argentina e Áustria se enfrentam pela liderança da chave",
+    "url": "https://www.terra.com.br/esportes/futebol/argentina-e-austria-se-enfrentam-pela-lideranca-da-chave,8c3bdba6c51ad649dbc810c26e38f1e1yqh2tkrn.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/06/22/1880681726-argentina-v-algeria-group-j-fifa-world-cup-2026-9-2048x1365.jpg"
+  },
+  {
+    "site": "BBC",
+    "title": "As propostas de De la Espriella para a Colômbia, e como elas se comparam com as da direita tradicional",
+    "url": "https://www.bbc.com/portuguese/articles/crelvnyw532o?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/news/1024/branded_portuguese/d27b/live/4a648cb0-5d4b-11f1-89a3-d1f559421220.jpg"
+  },
+  {
+    "site": "G1",
+    "title": "Assista aos telejornais da TV Bahia",
+    "url": "https://g1.globo.com/ba/bahia/ao-vivo/assista-aos-telejornais-da-tv-bahia.ghtml",
+    "image": "https://s2-g1.glbimg.com/R8hPlG_cZR-U2I5XFp04whn1n_w=/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/p/U/NQo77ZQaOKcQ5j2QFVeQ/img-facebook.jpg"
+  },
+  {
+    "site": "UOL",
+    "title": "Com três partidas, rodada desta segunda tem confrontos da Argentina, França e Noruega",
+    "url": "https://tnonline.uol.com.br/noticias/esportes/com-tres-partidas-rodada-desta-segunda-tem-confrontos-da-argentina-franca-e-noruega-1101631",
+    "image": "https://cdn.tnonline.com.br/img/Artigo-Destaque/1100000/1200x630/com-tres-partidas-rodada-desta-segunda-tem-confron-01101631-0-202606220823/ScaleProportionalFillBackground-1.jpg?fallback=https%3A%2F%2Fcdn.tnonline.com.br%2Fimg%2FArtigo-Destaque%2F1100000%2Fcom-tres-partidas-rodada-desta-segunda-tem-confron-01101631-0-202606220823.jpg%3Fxid%3D1749619&xid=1749619"
+  },
+  {
+    "site": "CNN Brasil",
+    "title": "Zico, do Egito, aproveita sua chance na Copa do Mundo após adiar as férias",
+    "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/zico-do-egito-aproveita-sua-chance-na-copa-do-mundo-apos-adiar-as-ferias/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/06/zico-salah-egito-nova-zelandia-e1782097060545.jpg?w=1200&h=630&crop=1"
+  },
+  {
+    "site": "Terra",
+    "title": "MotoGP: Marc Márquez fala sobre seu momento atual: \"Não sei como me encontro 40 pontos atrás\"",
+    "url": "https://www.terra.com.br/esportes/motociclismo/motogp-marc-marquez-fala-sobre-seu-momento-atual-nao-sei-como-me-encontro-40-pontos-atras,bc7d860d09f4b7106f16f7318a27ff9fqq3im5ba.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/06/22/unnamed-(8)-1jeffkggiumuq.jpg"
   },
   {
     "site": "BBC",
@@ -67,177 +187,27 @@
   },
   {
     "site": "G1",
-    "title": "Kevinho passa mal durante show em Portugal por conta do calor: 'Não devo ter me hidratado o suficiente'",
-    "url": "https://g1.globo.com/pop-arte/musica/noticia/2026/06/21/kevinho-passa-mal-durante-show-em-portugal.ghtml",
-    "image": "https://s2-g1.glbimg.com/wegs1ra7ED2SEzEhCx-xnbIoTXg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/U/XjRkasSDquvotSAFWlZA/fotojet-19-.jpg"
+    "title": "Mercado sobe de novo estimativa de inflação em 2026 e passa a projetar só mais um corte no juro, para 14% ao ano em agosto",
+    "url": "https://g1.globo.com/economia/noticia/2026/06/22/mercado-sobe-de-novo-estimativa-de-inflacao-em-2026-e-passa-a-projetar-so-mais-um-corte-no-juro-para-14percent-ao-ano-em-agosto.ghtml",
+    "image": "https://s2-g1.glbimg.com/0DF8JvbZYk2dFXopn_3FZQ5R65w=/1280x0/filters:format(jpeg)/https://thumbor.globoi.com/unsafe/fit-in/1280x720/s04.video.glbimg.com/deo/vi/55/20/992055"
   },
   {
     "site": "UOL",
-    "title": "Herói de Cabo Verde contra Uruguai na Copa pediu dispensa da seleção em 2024",
-    "url": "https://www1.folha.uol.com.br/esporte/2026/06/heroi-de-cabo-verde-contra-uruguai-na-copa-pediu-dispensa-da-selecao-em-2024.shtml",
-    "image": "https://f.i.uol.com.br/fotografia/2026/06/21/17820928456a38942d58e23_1782092845_3x2_rt.jpg"
-  },
-  {
-    "site": "CNN Brasil",
-    "title": "Irã anuncia suspensão de sanções ao petróleo após negociações",
-    "url": "https://www.cnnbrasil.com.br/internacional/ira-anuncia-suspensao-de-sancoes-ao-petroleo-apos-negociacoes/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/06/image-15.png?w=1200&h=630&crop=1"
-  },
-  {
-    "site": "Terra",
-    "title": "Mauro Beting se perde a caminho da transmissão de Espanha e Arábia Saudita",
-    "url": "https://www.terra.com.br/esportes/mauro-beting-se-perde-a-caminho-da-transmissao-de-espanha-e-arabia-saudita,90e7b3e9508ed0b1f0984ffc2032637279aisljv.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/06/22/mauro_beting-u7u4e5b4z52e.jpeg"
-  },
-  {
-    "site": "BBC",
-    "title": "O fenômeno Vozinha, o herói de Cabo Verde na Copa do Mundo que, aos 40 anos, se tornou sensação do futebol",
-    "url": "https://www.bbc.com/portuguese/articles/c0ly052wd42o?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/news/1024/branded_portuguese/f3a6/live/56256a40-6a95-11f1-8ba3-cbc529f467e2.jpg"
-  },
-  {
-    "site": "G1",
-    "title": "Tumulto após confusão assusta clientes no Shopping Market Place, em São Paulo",
-    "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/06/21/tumulto-apos-confusao-assusta-clientes-no-shopping-market-place-em-sao-paulo.ghtml",
-    "image": "None"
-  },
-  {
-    "site": "UOL",
-    "title": "Ativista colombiano é preso nos EUA após criticar Espriella, aliado de Trump",
-    "url": "https://www1.folha.uol.com.br/mundo/2026/06/ativista-colombiano-e-preso-nos-eua-apos-criticar-espriella-aliado-de-trump.shtml",
-    "image": "https://f.i.uol.com.br/fotografia/2026/06/21/17820790236a385e2fc8714_1782079023_3x2_rt.jpg"
-  },
-  {
-    "site": "CNN Brasil",
-    "title": "Uruguai: Imprensa critica seleção ‘à beira do abismo’ após empate",
-    "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/uruguai-imprensa-critica-selecao-a-beira-do-abismo-apos-empate/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/06/Uruguai-empate-Cabo-Verde-COpa-2026.jpg?w=1200&h=630&crop=1"
-  },
-  {
-    "site": "Terra",
-    "title": "Copa do Mundo: onde assistir aos jogos desta segunda-feira, 22 de junho",
-    "url": "https://www.terra.com.br/esportes/futebol/internacional/argentina/copa-do-mundo-onde-assistir-aos-jogos-desta-segunda-feira-22-de-junho,bff399a99ba5766591f76701f857f542hajrkffu.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/06/22/848107691-2x1messi-x-mbappe-610x400.jpg"
-  },
-  {
-    "site": "BBC",
-    "title": "Quem é Eloy Room, o goleiro que igualou recorde e ajudou seleção de menor país a participar da Copa em feito histórico",
-    "url": "https://www.bbc.com/portuguese/articles/cp9l03kem99o?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/news/1024/branded_portuguese/6da1/live/cc8be0e0-6d26-11f1-8546-8f19e4fe30f4.jpg"
-  },
-  {
-    "site": "G1",
-    "title": "Arthur Henrique é mais votado para governador em eleição sub judice em Roraima",
-    "url": "https://g1.globo.com/rr/roraima/noticia/2026/06/21/arthur-henrique-e-o-mais-votado-para-governador-em-eleicao-suplementar-de-roraima.ghtml",
-    "image": "https://s2-g1.glbimg.com/lwEc3KnySkXabHdSPVHTp8zT0Fk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/a/94vJNCQHGFftZ9Jdjzrg/arthur-henrique-vota.jpeg"
-  },
-  {
-    "site": "UOL",
-    "title": "Uma nação dividida assiste com desconfiança ao empate do Irã",
-    "url": "https://noticias.uol.com.br/ultimas-noticias/afp/2026/06/21/uma-nacao-dividida-assiste-com-desconfianca-ao-empate-do-ira.htm",
+    "title": "Embrapa: custos de produção de frangos de corte e suínos voltam a cair em maio",
+    "url": "https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2026/06/22/embrapa-custos-de-producao-de-frangos-de-corte-e-suinos-voltam-a-cair-em-maio.htm",
     "image": ""
   },
   {
     "site": "CNN Brasil",
-    "title": "EUA e Irã discutem bases para cessar-fogo permanente",
-    "url": "https://www.cnnbrasil.com.br/internacional/eua-e-ira-discutem-bases-para-cessar-fogo-permanente/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/03/Equipes-de-emergencia-atuam-em-area-residencial-apos-ataque-em-Teera.jpg?w=1200&h=630&crop=1"
+    "title": "Anvisa revoga parte da suspensão de produtos da Ypê; veja quais",
+    "url": "https://www.cnnbrasil.com.br/nacional/brasil/anvisa-revoga-parte-da-suspensaode-produtos-da-ype-veja-quais/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/05/FTA20260507091.jpg?w=1200&h=630&crop=1"
   },
   {
     "site": "Terra",
-    "title": "Arrascaeta vai jogar contra a Espanha? Veja o que técnico do Uruguai disse sobre presença de craque do Flamengo",
-    "url": "https://www.terra.com.br/esportes/futebol/copa-2026/arrascaeta-vai-jogar-contra-a-espanha-veja-o-que-tecnico-do-uruguai-disse-sobre-presenca-de-craque-do-flamengo,090033adbe81d7be3a1aeed142c2a5dcqbsp40jf.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/06/22/gettyimages-2282665332-1iv6kmys4e8ft.jpg"
-  },
-  {
-    "site": "BBC",
-    "title": "O país europeu que nunca teve exército e agora tem que reavaliar sua defesa",
-    "url": "https://www.bbc.com/portuguese/articles/c75y46y1x1qo?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/news/1024/branded_portuguese/b388/live/c877d2a0-643b-11f1-a936-d75187a800c2.jpg"
-  },
-  {
-    "site": "G1",
-    "title": "'Convocadas': esposas e familiares são a base emocional dos craques na Copa",
-    "url": "https://g1.globo.com/fantastico/noticia/2026/06/21/convocadas-esposas-e-familia-formam-a-base-emocional-dos-craques-na-copa.ghtml",
-    "image": "https://s2-g1.glbimg.com/I-_auBrlgNPQTTW3bt_IBFqugNM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/6/4pQ1JmRzWiEBUz7FVQ6g/captura-de-tela-2026-06-21-212405.png"
-  },
-  {
-    "site": "UOL",
-    "title": "Fatores biológicos podem explicar menor incidência de autismo em meninas?",
-    "url": "https://www1.folha.uol.com.br/equilibrioesaude/2026/06/fatores-biologicos-podem-explicar-menor-incidencia-de-autismo-em-meninas.shtml",
-    "image": "https://f.i.uol.com.br/fotografia/2025/08/05/175441701068924772074a6_1754417010_3x2_rt.jpg"
-  },
-  {
-    "site": "CNN Brasil",
-    "title": "EUA e Irã têm avanços em 1ª rodada de negociações, dizem mediadores",
-    "url": "https://www.cnnbrasil.com.br/internacional/eua-e-ira-tem-avancos-em-1a-rodada-de-negociacoes-dizem-mediadores/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/06/Autoridades-se-reunem-na-Suica-para-negociacoes-entre-EUA-e-Ira.jpg?w=960&h=540&crop=1"
-  },
-  {
-    "site": "Terra",
-    "title": "Neymar? Sem problemas, diz zagueiro escocês",
-    "url": "https://www.terra.com.br/esportes/neymar-sem-problemas-diz-zagueiro-escoces,9a744c0cbe26ace7276156d48866aaa64r284rug.html",
-    "image": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png"
-  },
-  {
-    "site": "BBC",
-    "title": "O primeiro passo para controlar seu tempo de tela (e se manter no controle), segundo especialistas",
-    "url": "https://www.bbc.com/portuguese/articles/c1e2edvjy91o?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/news/1024/branded_portuguese/2b7a/live/181beb80-5f63-11f1-b682-cf91850925ea.jpg"
-  },
-  {
-    "site": "G1",
-    "title": "Quem é Vozinha? Conheça o goleiro de Cabo Verde que virou fenômeno na Copa",
-    "url": "https://g1.globo.com/fantastico/noticia/2026/06/21/quem-e-vozinha-conheca-o-goleiro-de-cabo-verde-que-virou-fenomeno-na-copa.ghtml",
-    "image": "https://s2-g1.glbimg.com/W_a6RqJjOXd4dt5jvpwG_C3ieY4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/h/dhPztjSAmAdgFolicPiA/captura-de-tela-2026-06-21-212029.png"
-  },
-  {
-    "site": "UOL",
-    "title": "Confusão entre clientes gera pânico e correria em shopping de São Paulo",
-    "url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/06/21/shopping-market-place-ocorrencia-junho-2026.ghtm",
-    "image": ""
-  },
-  {
-    "site": "CNN Brasil",
-    "title": "Neymar retorna aos treinos da Seleção e celebra: “Feliz demais!!”",
-    "url": "https://www.cnnbrasil.com.br/esportes/futebol/selecao-brasileira/neymar-retorna-aos-treinos-da-selecao-e-celebra-feliz-demais/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/06/20JUNHO26_TREINO_44.jpg?w=1200&h=630&crop=1"
-  },
-  {
-    "site": "Terra",
-    "title": "Vasco se aproxima de Deossa, volante do Betis (ESP)",
-    "url": "https://www.terra.com.br/esportes/vasco/vasco-se-aproxima-de-deossa-volante-do-betis-esp,1bd256d151de83524e8d10a81599a54fsqiqd77i.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/06/22/1822185865-rcd-mallorca-v-real-betis-balompie-laliga-ea-sportseasy-resizecom-610x400.jpg"
-  },
-  {
-    "site": "BBC",
-    "title": "Copa tem os primeiros 100 gols mais rápidos da competição desde 1958 - o que pode explicar isso?",
-    "url": "https://www.bbc.com/portuguese/articles/cn4d79z0w2go?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/news/1024/branded_portuguese/fbca/live/6f5805b0-6ceb-11f1-8fed-b71bf98a91c0.jpg"
-  },
-  {
-    "site": "G1",
-    "title": "Elisberto da Retro é eleito prefeito de Joviânia",
-    "url": "https://g1.globo.com/go/goias/noticia/2026/06/21/elisberto-da-retro-e-eleito-prefeito-de-joviania.ghtml",
-    "image": "https://s2-g1.glbimg.com/ugb8gaGQEBQ3x6HH1VWt479RO5A=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/L/PqiyeiQB6wIteaPqzOrQ/relatorio-parcial-13062026-5-.jpg"
-  },
-  {
-    "site": "UOL",
-    "title": "Messi, Mbappé e Haaland: segunda é dia de embate de artilheiros na Copa",
-    "url": "https://www1.folha.uol.com.br/esporte/2026/06/messi-mbappe-e-haaland-segunda-e-dia-de-embate-de-artilheiros-na-copa.shtml",
-    "image": "https://f.i.uol.com.br/fotografia/2026/06/21/17820851196a3875ff70fed_1782085119_3x2_rt.jpg"
-  },
-  {
-    "site": "CNN Brasil",
-    "title": "Xodó da Copa, Cabo Verde segurou campeões e pode liderar grupo; saiba mais",
-    "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/xodo-da-copa-cabo-verde-segurou-campeoes-e-pode-liderar-grupo-saiba-mais/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/06/titulares-cabo-verde-uruguai-e1782092412844.jpg?w=1200&h=630&crop=1"
-  },
-  {
-    "site": "Terra",
-    "title": "Copa do Mundo: o que as campeãs precisam fazer para avançar ao mata-mata",
-    "url": "https://www.terra.com.br/esportes/futebol/copa-2026/copa-do-mundo-o-que-as-campeas-precisam-fazer-para-avancar-ao-mata-mata,36e252b2a244b33fb14960e2b491d21f0t53ck3m.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/06/20/gettyimages-2281864900-1jicqtyrlr50z.jpg"
+    "title": "Britney Spears espera \"um dia poder ter outro bebê\"",
+    "url": "https://www.terra.com.br/diversao/musica/meu-sonora/pop-internacional/britney-spears-espera-um-dia-poder-ter-outro-bebe,c7b4dff2bbb79dfbf29478eb3d2544b4wv4i6bk6.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/06/22/1219964179-1782092194495-933i5j.jpg"
   },
   {
     "site": "BBC",
@@ -247,27 +217,57 @@
   },
   {
     "site": "G1",
-    "title": "Espriella celebra vitória após apuração preliminar; Cepeda diz que resultado não é oficial",
-    "url": "https://g1.globo.com/mundo/noticia/2026/06/21/espriella-apuracao-preliminar-cepeda.ghtml",
-    "image": "https://s2-g1.glbimg.com/EI-YI2NwF75bS5OAQKq2sJMlK3M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/m/1Ar6RtSFmSVFPfswvSmA/meow-meow-meow-meow-.jpg"
+    "title": "Morre cadela policial atropelada durante fuga de suspeitos em moto roubada em Vila Velha",
+    "url": "https://g1.globo.com/es/espirito-santo/noticia/2026/06/22/morre-cadela-policial-atropelada-durante-fuga-de-suspeitos-em-moto-roubada-em-vila-velha.ghtml",
+    "image": "https://s2-g1.glbimg.com/wYxInEa60Yda256tz1twjoQpY4U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/u/L3hdA4QBAuwKMJTgvtPQ/thumb-fotos-2026-06-05t174631.652.jpg"
   },
   {
     "site": "UOL",
-    "title": "Cepeda, aliado de Petro, não declara derrota em eleição na Colômbia e diz esperar resultado final",
-    "url": "https://www1.folha.uol.com.br/mundo/2026/06/cepeda-aliado-de-petro-nao-declara-derrota-em-eleicao-na-colombia-e-diz-esperar-resultado-final.shtml",
-    "image": "https://f.i.uol.com.br/fotografia/2026/06/21/17820919886a3890d4750fc_1782091988_3x2_rt.jpg"
+    "title": "'4x4': ciência explica pintinho que nasceu quadrúpede no Rio Grande do Sul",
+    "url": "https://noticias.uol.com.br/meio-ambiente/ultimas-noticias/redacao/2026/06/22/pintinho-quadrupede-nasce-no-rio-grande-do-sul-e-desafia-a-ciencia.ghtm",
+    "image": ""
   },
   {
     "site": "CNN Brasil",
-    "title": "Eleição na Colômbia: líderes e autoridades parabenizam De la Espriella",
-    "url": "https://www.cnnbrasil.com.br/internacional/eleicao-na-colombia-lideres-e-autoridades-parabenizam-de-la-espriella/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/05/abelardo-de-la-espriella-e1780449333687.jpg?w=1200&h=630&crop=1"
+    "title": "Flávio parabeniza De la Espriella após resultado preliminar na Colômbia",
+    "url": "https://www.cnnbrasil.com.br/politica/flavio-parabeniza-de-la-espriella-apos-resultado-preliminar-na-colombia/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/06/Renata-6.png?w=1200&h=630&crop=1"
   },
   {
     "site": "Terra",
-    "title": "'Olha a barriguinha': Larissa Manoela abre o jogo sobre gravidez após seguidores notarem detalhe em fotos",
-    "url": "https://www.terra.com.br/diversao/gente/olha-a-barriguinha-larissa-manoela-abre-o-jogo-sobre-gravidez-apos-seguidores-notarem-detalhe-em-fotos,7670799787868434a7d7f9c23d07d14dvog938r8.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/06/22/144581674-bcdf644590c81c92-1400x823-2.jpg"
+    "title": "O que é grunge? Conheça origens e bandas",
+    "url": "https://www.terra.com.br/diversao/musica/o-que-e-grunge-conheca-origens-e-bandas,528e3d91e897cf2e1370a43ea389f1edg2dvzd3v.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/06/22/1044531886-kurt-cobain-nirvana-grunge-1993-foto-frank-micelotta-getty-images-2225147.jpg"
+  },
+  {
+    "site": "BBC",
+    "title": "Quem está à frente nas pesquisas para presidente? Veja no agregador da BBC News Brasil",
+    "url": "https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/news/1024/branded_portuguese/5379/live/8df8b7e0-485a-11f1-ac78-2112837ce2aa.jpg"
+  },
+  {
+    "site": "G1",
+    "title": "Uber atualiza lista de carros aceitos no Black e Comfort; veja mudanças para 2027",
+    "url": "https://g1.globo.com/carros/noticia/2026/06/22/uber-atualiza-lista-de-carros-aceitos-no-black-e-comfort-veja-mudancas-para-2027.ghtml",
+    "image": "https://s2-g1.glbimg.com/wuIrwZmEKLIQpuTJqDS1xdTjXqI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/R/E/dAPd4gTRqMqXDXvX1xtg/ap22191718152243.jpg"
+  },
+  {
+    "site": "UOL",
+    "title": "Gato vesgo: quando estrabismo é apenas aparência e quando exige atenção",
+    "url": "https://noticias.uol.com.br/meio-ambiente/ultimas-noticias/redacao/2026/06/22/gato-vesgo-quando-estrabismo-e-apenas-aparencia-e-quando-exige-atencao.ghtm",
+    "image": ""
+  },
+  {
+    "site": "CNN Brasil",
+    "title": "Zagueiro de Senegal diz saber como parar Haaland: “Não pode saltar”",
+    "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/zagueiro-de-senegal-revela-qual-sera-sua-estrategia-para-conter-haaland/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/06/Design-sem-nome-33.png?w=1200&h=630&crop=1"
+  },
+  {
+    "site": "Terra",
+    "title": "F1: Damon Hill diz que Ferrari seria “tola” se não ouvisse Hamilton",
+    "url": "https://www.terra.com.br/esportes/automobilismo/formula1/f1-damon-hill-diz-que-ferrari-seria-tola-se-nao-ouvisse-hamilton,16e02e8fad655ad1a449d52d690a967f2zs7x9kl.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/06/22/9897592b-f9e9-41e2-adfe-be6d296e66b6-u7u4pt6mgchl.jpg"
   },
   {
     "site": "BBC",
@@ -277,26 +277,26 @@
   },
   {
     "site": "G1",
-    "title": "Milei, Flávio Bolsonaro e Marco Rubio parabenizam Espriella após resultado preliminar que o aponta como vencedor das eleições na Colômbia; veja repercussão",
-    "url": "https://g1.globo.com/mundo/noticia/2026/06/21/espriella-eleicoes-colombia-repercussao.ghtml",
-    "image": "https://s2-g1.glbimg.com/qalZMnERNAqDdJLb96GeWellahQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/D/qijifYTbCi4y2sxNQGGg/2026-06-21t143336z-795229641-rc28ylaytxf3-rtrmadp-3-colombia-election.jpg"
+    "title": "Colisão entre carro e caminhonete termina com capotamento no Centro de Montes Claros",
+    "url": "https://g1.globo.com/mg/grande-minas/noticia/2026/06/22/colisao-entre-carro-e-caminhonete-termina-com-capotamento-no-centro-de-montes-claros.ghtml",
+    "image": "https://s2-g1.glbimg.com/lPUr1yYvM3O14XC9qe8pJkL5OiE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/H/BI0ZunRAO93AHpeYJ3jA/carromoc.jpeg"
   },
   {
     "site": "UOL",
-    "title": "Artilharia histórica e saúde do pai dividem atenções na segunda partida de Messi na Copa",
-    "url": "https://www1.folha.uol.com.br/esporte/2026/06/artilharia-historica-e-saude-do-pai-dividem-atencoes-na-segunda-partida-de-messi-na-copa.shtml",
-    "image": "https://f.i.uol.com.br/fotografia/2026/06/21/17820150376a37643db39fd_1782015037_3x2_rt.jpg"
+    "title": "Aos 194 anos, tartaruga mais velha do mundo recebe homenagem do Guinness",
+    "url": "https://noticias.uol.com.br/meio-ambiente/ultimas-noticias/redacao/2026/06/22/aos-194-anos-tartaruga-mais-velha-do-mundo-recebe-homenagem-do-guinness.ghtm",
+    "image": ""
   },
   {
     "site": "CNN Brasil",
-    "title": "Atriz de “Coração Acelerado” é vista em clima de romance com atleta",
-    "url": "https://www.cnnbrasil.com.br/pop/celebridades/atriz-de-coracao-acelerado-e-vista-em-clima-de-romance-com-atleta/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/06/isadora-cruz-e-lucas-braathen-6.jpg?w=1200&h=630&crop=1"
+    "title": "Quem é Keir Starmer, premiê do Reino Unido que renunciou ao cargo",
+    "url": "https://www.cnnbrasil.com.br/internacional/quem-e-keir-starmer/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/05/Primeiro-ministro-britanico-Keir-Starmer-faz-declaracao-a-imprensa-em-Londres-e1778620778575.jpg?w=1200&h=630&crop=1"
   },
   {
     "site": "Terra",
-    "title": "Família de jovem morta em salto em Limeira pede justiça e diz que sonhos de Maria Eduarda foram interrompidos",
-    "url": "https://www.terra.com.br/noticias/brasil/cidades/familia-de-jovem-morta-em-salto-em-limeira-pede-justica-e-diz-que-sonhos-de-maria-eduarda-foram-interrompidos,085f4c487a5d26e51a50e4aa2fa4090c7xo7ruhc.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/06/15/78619315-22tg4kwninaijjd2lzznt3px4u.png"
+    "title": "MotoGP: Acosta avalia retorno de Marc Márquez e declara: “Não é uma surpresa”",
+    "url": "https://www.terra.com.br/esportes/motociclismo/motogp-acosta-avalia-retorno-de-marc-marquez-e-declara-nao-e-uma-surpresa,05bb2b20c28ebc6e27b6d4da439a59ec0a0jurro.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/06/22/_ds_3849-t842l7iknbcj.jpg"
   }
 ]
