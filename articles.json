@@ -1,33 +1,123 @@
 [
   {
     "site": "BBC",
+    "title": "A economista que tenta entender a insatisfação dos brasileiros sob Lula: 'Redes sociais criam desejos de consumo para além do crescimento da renda'",
+    "url": "https://www.bbc.com/portuguese/articles/cjdgzzj25nro?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/b3f8/live/b6eabe40-6b4c-11f1-bc34-19faf070d2ff.jpg"
+  },
+  {
+    "site": "G1",
+    "title": "STF restabelece prisão de 'Mancha'; traficante segue detido por duas decisões judiciais",
+    "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/07/06/stf-restabelece-prisao-de-mancha-traficante-segue-detido-por-duas-decisoes-judiciais.ghtml",
+    "image": "https://s2-g1.glbimg.com/x7UFJNxQJvwdqUSEDr2OoemYbTk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/0/vjbsMAQTWAKuNSraGQ2Q/preso-bolivia.jpg"
+  },
+  {
+    "site": "UOL",
+    "title": "Apucarana começa a semana com tempo estável, sol e máxima de 23 °C",
+    "url": "https://tnonline.uol.com.br/noticias/apucarana/apucarana-comeca-a-semana-com-tempo-estavel-sol-e-maxima-de-23-c-1115426",
+    "image": "https://cdn.tnonline.com.br/img/Instant-Article/1020000/1200x630/Nao-ha-previsao-de-chuva-para-a-cidade-01027612-0-202509301405/ScaleProportionalFillBackground-1.jpg?fallback=https%3A%2F%2Fcdn.tnonline.com.br%2Fimg%2FInstant-Article%2F1020000%2FNao-ha-previsao-de-chuva-para-a-cidade-01027612-0-202509301405.jpg%3Fxid%3D1769250&xid=1769250"
+  },
+  {
+    "site": "CNN Brasil",
+    "title": "Ansiedade climática: psiquiatras explicam o tema com Dr. Kalil",
+    "url": "https://www.cnnbrasil.com.br/saude/ansiedade-climatica-psiquiatras-explicam-o-tema-com-dr-kalil/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/01/avc-na-infancia.jpg?w=1200&h=630&crop=1"
+  },
+  {
+    "site": "Terra",
+    "title": "Bati romance e magia no liquidificador: o dorama impecável da Netflix que me fez devorar 30 episódios em um único fim de semana",
+    "url": "https://www.terra.com.br/diversao/gente/bati-romance-e-magia-no-liquidificador-o-dorama-impecavel-da-netflix-que-me-fez-devorar-30-episodios-em-um-unico-fim-de-semana,33fc45a76334c0279d251f83740e0100ii1cr0s5.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/07/06/1071289712-194953229d389577-1400x823-1.jpg"
+  },
+  {
+    "site": "BBC",
+    "title": "Brasil eliminado: o que o maior jejum em Copas desde 1958 diz sobre nosso futebol — e o futuro da amarelinha",
+    "url": "https://www.bbc.com/portuguese/articles/ce37e5n5853o?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/67b2/live/4f50e750-73d0-11f1-8546-8f19e4fe30f4.jpg"
+  },
+  {
+    "site": "G1",
+    "title": "Ponte é incendiada e moradores de assentamento rural correm risco de isolamento em Goiás",
+    "url": "https://g1.globo.com/go/goias/noticia/2026/07/06/ponte-e-incendiada-e-moradores-de-assentamento-rural-correm-risco-de-isolamento-em-goias.ghtml",
+    "image": "https://s2-g1.glbimg.com/YwG71z1fYpKS7vbGhK6bTdkmRO0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/z/o3eB0PRMKjoexCg6VIaw/ponte-queimada-niquelandia.jpg"
+  },
+  {
+    "site": "UOL",
+    "title": "Confronto em prisão no Sri Lanka deixa ao menos 19 mortos e 100 feridos",
+    "url": "https://noticias.uol.com.br/internacional/ultimas-noticias/2026/07/06/confronto-em-prisao-no-sri-lanka-deixa-ao-menos-19-mortos-e-mais-de-100-feridos.ghtm",
+    "image": ""
+  },
+  {
+    "site": "CNN Brasil",
+    "title": "Quem Ama Cuida”: veja o que muda para os personagens após 6 anos",
+    "url": "https://www.cnnbrasil.com.br/pop/tv/quem-ama-cuida-veja-o-que-muda-para-os-personagens-apos-6-anos/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/07/20260618-Quem-ama-cuida-MM-043.jpg.jpeg?w=1200&h=630&crop=1"
+  },
+  {
+    "site": "Terra",
+    "title": "Jogadores do Cabo Verde são recebidos como heróis ao retornar da Copa",
+    "url": "https://www.terra.com.br/esportes/jogadores-do-cabo-verde-sao-recebidos-como-herois-ao-retornar-da-copa,d19e46f84ccefcc6fa3ad2f83af303f4uia92lge.html",
+    "image": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png"
+  },
+  {
+    "site": "BBC",
+    "title": "'Com ketchup e queijo': menina conta como sobreviveu por 32h à espera de resgate após terremotos na Venezuela",
+    "url": "https://www.bbc.com/portuguese/articles/cze998k4dj8o?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/13aa/live/5063fad0-78fb-11f1-9510-1546718f668b.jpg"
+  },
+  {
+    "site": "G1",
+    "title": "'Com ketchup e queijo': menina conta como sobreviveu por 32h à espera de resgate após terremotos na Venezuela",
+    "url": "https://g1.globo.com/mundo/noticia/2026/07/06/com-ketchup-e-queijo-menina-conta-como-sobreviveu-por-32h-a-espera-de-resgate-apos-terremotos-na-venezuela.ghtml",
+    "image": "https://s2-g1.glbimg.com/AWUgxMDpzzbMxv9DtVtUm45E09s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/k/a0taK2TcmqSWwebRnMRA/novo-projeto-13-.jpg"
+  },
+  {
+    "site": "UOL",
+    "title": "Bombardeio contra Kiev mata 14 pessoas antes da reunião de cúpula da Otan",
+    "url": "https://noticias.uol.com.br/ultimas-noticias/afp/2026/07/06/bombardeio-contra-kiev-mata-14-pessoas-antes-da-reuniao-de-cupula-da-otan.htm",
+    "image": ""
+  },
+  {
+    "site": "CNN Brasil",
+    "title": "BYD Dolphin Mini é o carro mais procurado do Move Brasil; veja lista",
+    "url": "https://www.cnnbrasil.com.br/auto/byd-dolphin-mini-e-o-carro-mais-procurado-do-move-brasil-veja-lista/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/07/dolphin-mini-26-1.jpeg?w=1200&h=630&crop=1"
+  },
+  {
+    "site": "Terra",
+    "title": "Brasil eliminado: o que o maior jejum em Copas desde 1958 diz sobre nosso futebol — e o futuro da amarelinha",
+    "url": "https://www.terra.com.br/noticias/brasil/brasil-eliminado-o-que-o-maior-jejum-em-copas-desde-1958-diz-sobre-nosso-futebol-e-o-futuro-da-amarelinha,a3b9475bf4988c914155e6c49a0424f19w3t2uy5.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/07/06/1626225345-4f50e750-73d0-11f1-8546-8f19e4fe30f4.jpg"
+  },
+  {
+    "site": "BBC",
     "title": "Eliminado pela Noruega de Haaland, Brasil vê futuro de Ancelotti como incerto",
     "url": "https://www.bbc.com/portuguese/articles/czx55ydj0pvo?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/e5ec/live/add99b90-78d6-11f1-ac60-69739bc76c93.jpg"
   },
   {
     "site": "G1",
-    "title": "Ataques a rostos de mulheres revelam intenção de apagar identidade das vítimas em casos de violência de gênero, dizem pesquisadores",
-    "url": "https://g1.globo.com/fantastico/noticia/2026/07/05/agressoes-a-rostos-de-mulheres-revelam-intencao-de-tentar-apagar-identidade-de-vitimas-de-violencia-de-genero.ghtml",
-    "image": "https://s2-g1.glbimg.com/uwUVE8U2a4N1RdYmYlwqbd-5DGM=/1280x0/filters:format(jpeg)/https://thumbor.globoi.com/unsafe/fit-in/1280x720/s04.video.glbimg.com/deo/vi/27/51/14755127"
+    "title": "Morre Tiago Pitthan, que organizou festa para o próprio velório após diagnóstico terminal: 'Tudo valeu a pena'",
+    "url": "https://g1.globo.com/saude/noticia/2026/07/06/morre-tiago-pitthan-que-organizou-festa-para-o-proprio-velorio-apos-diagnostico-de-cancer-terminal-la-em-cima-nao-tem-cancer.ghtml",
+    "image": "https://s2-g1.glbimg.com/7VXG0kkaJvu06U0WbRd7XE3r0qM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/M/0zAUJeSxSOLaNNAD5ZWw/whatsapp-image-2026-05-30-at-19.06.45-2-.jpeg"
   },
   {
     "site": "UOL",
-    "title": "Trocas do Brasil contra Noruega não acordam equipe apática e lenta",
-    "url": "https://www1.folha.uol.com.br/esporte/2026/07/trocas-do-brasil-contra-noruega-nao-acordam-equipe-apatica-e-lenta.shtml",
-    "image": "https://f.i.uol.com.br/fotografia/2026/07/05/17833014936a4b0575898a8_1783301493_3x2_rt.jpg"
+    "title": "Motociclista fica ferida após bater na traseira de carro na PR-466 em Jardim Alegre",
+    "url": "https://tnonline.uol.com.br/noticias/vale-do-ivai/motociclista-fica-ferida-apos-bater-na-traseira-de-carro-na-pr-466-em-jardim-alegre-1115423",
+    "image": "https://cdn.tnonline.com.br/img/Instant-Article/1110000/1200x630/a-colisao-ocorreu-por-volta-das-20h30-na-av-brasil-01114606-0-202607021048/ScaleProportionalFillBackground-1.jpg?fallback=https%3A%2F%2Fcdn.tnonline.com.br%2Fimg%2FInstant-Article%2F1110000%2Fa-colisao-ocorreu-por-volta-das-20h30-na-av-brasil-01114606-0-202607021048.webp%3Fxid%3D1769241&xid=1769241"
   },
   {
     "site": "CNN Brasil",
-    "title": "Quem chega em 2030? Veja idade dos jogadores da Seleção na próxima Copa",
-    "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/quem-chega-em-2030-veja-idade-dos-jogadores-da-selecao-na-proxima-copa/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/07/2026-06-29T000000Z_2070393416_MT1AFL336350567_RTRMADP_3_SOC-SOC-SOC-SOC-e1783301270277.jpg?w=1200&h=630&crop=1"
+    "title": "Análise: Apesar de esforços de Trump, mercado cripto segue espiral de queda",
+    "url": "https://www.cnnbrasil.com.br/economia/macroeconomia/analise-apesar-de-esforcos-de-trump-mercado-cripto-segue-espiral-de-queda/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/07/bitcoin-trump-cripto-IA.png?w=1200&h=630&crop=1"
   },
   {
     "site": "Terra",
-    "title": "Zagueiro volta da aposentadoria para jogar nona divisão alemã em time de amigos",
-    "url": "https://www.terra.com.br/esportes/futebol/internacional/equipes/borussia-dortmund/zagueiro-volta-da-aposentadoria-para-jogar-nona-divisao-alema-em-time-de-amigos,9f094980c02ae424780383377eadf8a7yjpzy16v.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/07/06/1435488168-videoframe206781-610x400.jpg"
+    "title": "Decepção e início de um novo ciclo: torcida e jogadores lamentam eliminação do Brasil",
+    "url": "https://www.terra.com.br/esportes/decepcao-e-inicio-de-um-novo-ciclo-torcida-e-jogadores-lamentam-eliminacao-do-brasil,e35f93975e386899d32f00ddf6f75408cguvit3e.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/07/06/2084886868-2026-07-05t225044z-483878304-up1em751prcty-rtrmadp-3-soccer-worldcup-bra-nor.jpg"
   },
   {
     "site": "BBC",
@@ -37,87 +127,57 @@
   },
   {
     "site": "G1",
-    "title": "Imagem de satélite mostra supertufão se aproximando de ilha americana no Pacífico",
-    "url": "https://g1.globo.com/mundo/noticia/2026/07/05/imagem-de-satelite-mostra-supertufao-se-aproximando-de-ilha-americana-no-pacifico.ghtml",
-    "image": "https://s2-g1.glbimg.com/_WCkd90XGLD5Y3apmC0BOVUbenE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/o/AAcXUnSja5P9iKdBnbAw/ap26186710141611.jpg"
+    "title": "Inscrições para sorteio de vagas em cursos técnicos da rede estadual da Bahia são abertas; veja como participar",
+    "url": "https://g1.globo.com/ba/bahia/blogdoemprego/noticia/2026/07/06/inscricoes-para-sorteio-de-vagas-em-cursos-tecnicos-da-rede-estadual-da-bahia-sao-abertas.ghtml",
+    "image": "https://s2-g1.glbimg.com/V_TvS-meuM5x0ODJWGC6gGZFS28=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/E/6PwQAGRv265GzOjblhzw/pexels-fotografomontevideo-37627847.jpg"
   },
   {
     "site": "UOL",
-    "title": "Vinícius Jr se defende por não ter cobrado pênalti contra Noruega",
-    "url": "https://noticias.uol.com.br/ultimas-noticias/afp/2026/07/05/vinicius-jr-se-defende-por-nao-ter-cobrado-penalti-contra-noruega.htm",
+    "title": "Sem regulamentação, mercados de predições viram desafio no Brasil",
+    "url": "https://noticias.uol.com.br/ultimas-noticias/deutschewelle/2026/07/06/sem-regulamentacao-mercados-de-predicoes-viram-desafio-no-brasil.htm",
     "image": ""
   },
   {
     "site": "CNN Brasil",
-    "title": "Pela primeira vez, quartas da Copa ficam sem Brasil, Alemanha e Itália",
-    "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/pela-primeira-vez-quartas-da-copa-ficam-sem-brasil-alemanha-e-italia/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/07/neymar-eliminacao-brasil-noruega-copa-do-mundo-e1783297091307.avif?w=800&h=451&crop=1"
+    "title": "Mercado de carros cresce 20% no primeiro semestre; veja os 20 mais vendidos",
+    "url": "https://www.cnnbrasil.com.br/auto/mercado-de-carros-cresce-20-no-primeiro-semestre-veja-os-20-mais-vendidos/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/06/fiat-strada-2.jpeg?w=1200&h=630&crop=1"
   },
   {
     "site": "Terra",
-    "title": "Após vitória, norueguês Oscar Bobb diz em português que Brasil teve \"azar\"",
-    "url": "https://www.terra.com.br/esportes/brasil/apos-vitoria-noruegues-oscar-bobb-diz-em-portugues-que-brasil-teve-azar,1acbcd72fc92f55fb263af086befff06ig50pmwu.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/07/06/559042710-brazil-v-norway-round-of-16-fifa-world-cup-2026-12-1-610x400.jpg"
+    "title": "A Seleção caiu, mas o brasileiro tem a melhor cobertura de Copa de todos os tempos",
+    "url": "https://www.terra.com.br/diversao/tv/a-selecao-caiu-mas-o-brasileiro-tem-a-melhor-cobertura-de-copa-de-todos-os-tempos,a322239f44e97ef59f334fc7fdea2c577ihr3m72.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/07/06/imprensacopa2026-1jeiqrgxb8ylt.jpg"
   },
   {
     "site": "BBC",
-    "title": "Análise: Brasil agora pode pensar futuro sem Neymar, diz Tim Vickery",
-    "url": "https://www.bbc.com/portuguese/articles/c20yyn8yje0o?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/abd3/live/f2344030-78cf-11f1-a627-714adb4eed6e.jpg"
+    "title": "Quartas de final da Copa do Mundo 2026: os confrontos definidos e os horários dos próximos jogos",
+    "url": "https://www.bbc.com/portuguese/articles/cg4w3xwy0w0o?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/24ea/live/97033870-7919-11f1-a627-714adb4eed6e.jpg"
   },
   {
     "site": "G1",
-    "title": "Bilhete danificado da Mega-Sena gera disputa por prêmio de R$ 29 milhões e vira caso de polícia em MT",
-    "url": "https://g1.globo.com/fantastico/noticia/2026/07/05/bilhete-danificado-da-mega-sena-gera-disputa-por-premio-de-r-29-milhoes-e-vira-caso-de-policia-em-mt.ghtml",
-    "image": "https://s2-g1.glbimg.com/z-g0ntO0newc8VKaYvCv12L6hSo=/1280x0/filters:format(jpeg)/https://thumbor.globoi.com/unsafe/fit-in/1280x720/s04.video.glbimg.com/deo/vi/51/52/14755251"
+    "title": "VÍDEO: Três pessoas morrem após carro pegar fogo e explodir em acidente na Rodovia Castello Branco, em Osasco",
+    "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/07/06/tres-pessoas-morrem-apos-carro-pegar-fogo-e-explodir-em-acidente-na-rodovia-castello-branco-em-osasco.ghtml",
+    "image": "https://s2-g1.glbimg.com/pVKto95KZMTELBq41tJcXpdCrGA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/v/qCTKAnQYWzAfgFTy8Y1g/acervo-bdsp-limpo-20260706-0540-frame-60791-1-.jpeg"
   },
   {
     "site": "UOL",
-    "title": "Vinicius Júnior diz que não bateu pênalti por definição de Ancelotti: 'Não fugi da responsabilidade'",
-    "url": "https://www1.folha.uol.com.br/esporte/2026/07/vinicius-junior-diz-que-nao-bateu-penalti-por-definicao-de-ancelotti-nao-fugi-da-responsabilidade.shtml",
-    "image": "https://f.i.uol.com.br/fotografia/2026/07/05/17833014856a4b056d53b06_1783301485_3x2_rt.jpg"
+    "title": "Confira os falecimentos desta segunda-feira (06) em Apucarana",
+    "url": "https://tnonline.uol.com.br/noticias/apucarana/confira-os-falecimentos-desta-segunda-feira-06-em-apucarana-1115424",
+    "image": "https://cdn.tnonline.com.br/img/Instant-Article/1000000/1200x630/O-velorio-em-Apucarana-acontece-na-capela-do-Jardi-01003320-0-202507090638/ScaleProportionalFillBackground-1.jpg?fallback=https%3A%2F%2Fcdn.tnonline.com.br%2Fimg%2FInstant-Article%2F1000000%2FO-velorio-em-Apucarana-acontece-na-capela-do-Jardi-01003320-0-202507090638.jpg%3Fxid%3D1769243&xid=1769243"
   },
   {
     "site": "CNN Brasil",
-    "title": "Goleiro da Noruega passa por exame antidoping após eliminar o Brasil",
-    "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/goleiro-da-noruega-passa-por-exame-antidoping-apos-eliminar-o-brasil/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/07/bruno-guimaraes-penalti-brasil-noruega-1-e1783283171750.jpg?w=1200&h=630&crop=1"
+    "title": "Último terço da compra de fertilizantes concentra risco para safra de soja",
+    "url": "https://www.cnnbrasil.com.br/agro/ultimo-terco-da-compra-de-fertilizantes-concentra-risco-para-safra-de-soja/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/Reuters_Direct_Media/BrazilOnlineReportBusinessNews/tagreuters.com2023binary_LYNXMPEJ2S0I8-FILEDIMAGE.jpg?w=1200&h=630&crop=1"
   },
   {
     "site": "Terra",
-    "title": "Fogos de artifício e festa popular marcam comemoração da Noruega após vitória sobre o Brasil",
-    "url": "https://www.terra.com.br/esportes/fogos-de-artificio-e-festa-popular-marcam-comemoracao-da-noruega-apos-vitoria-sobre-o-brasil,df19a6bccbdd8c47632907078cccba08763mqobu.html",
-    "image": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png"
-  },
-  {
-    "site": "BBC",
-    "title": "A polêmica decisão da Fifa de anular suspensão de artilheiro americano após cartão vermelho",
-    "url": "https://www.bbc.com/portuguese/articles/cz0jj9ejk8po?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/4fff/live/e010d940-78cf-11f1-99f6-757fc101c54a.jpg"
-  },
-  {
-    "site": "G1",
-    "title": "Trump conversou com presidente da Fifa para contestar expulsão de atacante dos EUA; cartão vermelho foi revogado",
-    "url": "https://g1.globo.com/mundo/noticia/2026/07/05/trump-conversou-com-presidente-da-fifa-para-contestar-expulsao-de-atacante-dos-eua-cartao-vermelho-foi-revogado.ghtml",
-    "image": "https://s2-g1.glbimg.com/QqFChUtGzfuLmauLTgLnfDHqOEc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/6/Nbp7SmRVqB6AQZcBcdIA/gy-g279wwaavfez.jpg"
-  },
-  {
-    "site": "UOL",
-    "title": "Análise: Brasil agora pode pensar futuro sem Neymar, diz Tim Vickery",
-    "url": "https://www1.folha.uol.com.br/esporte/2026/07/analise-brasil-agora-pode-pensar-futuro-sem-neymar-diz-tim-vickery.shtml",
-    "image": "https://f.i.uol.com.br/fotografia/2026/07/05/17833029246a4b0b0cef667_1783302924_3x2_xl.jpg"
-  },
-  {
-    "site": "CNN Brasil",
-    "title": "“Não fugi da responsabilidade”, diz Vini Jr após eliminação do Brasil",
-    "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/nao-fugi-da-responsabilidade-diz-vini-jr-apos-eliminacao-do-brasil/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/06/Vini-Jr-Brasil_3a3770-e1782758838439.jpg?w=1189&h=630&crop=1"
-  },
-  {
-    "site": "Terra",
-    "title": "Seleção Brasileira libera jogadores e define data de retorno ao país",
-    "url": "https://www.terra.com.br/esportes/futebol/copa-2026/selecao-brasileira-libera-jogadores-e-define-data-de-retorno-ao-pais,1e3f3395e38fd40bfbe96975df99b55f4ttxed2p.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/07/06/agf20260705094-(1)-1hrm0zbkf0qpc.jpg"
+    "title": "Zelensky pede 'decisões firmes' da Otan após novos bombardeios em Kiev",
+    "url": "https://www.terra.com.br/noticias/mundo/zelensky-pede-decisoes-firmes-da-otan-apos-novos-bombardeios-em-kiev,b6db19a693c165bbd72af5c07010f5475cxcfejy.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/07/06/1044367054-2026-07-06t035643z-1114178240-rc228ma6gk0w-rtrmadp-3-ukraine-crisis-attack-kyiv.jpg"
   },
   {
     "site": "BBC",
@@ -127,57 +187,27 @@
   },
   {
     "site": "G1",
-    "title": "Funeral de ex-líder supremo do Irã reúne multidão em demonstração de força do regime",
-    "url": "https://g1.globo.com/fantastico/noticia/2026/07/05/funeral-de-ex-lider-supremo-do-ira-reune-multidao-em-demonstracao-de-forca-do-regime.ghtml",
-    "image": "https://s2-g1.glbimg.com/NVbBJJqUg9xVpOlozwMelq4wrFk=/1280x0/filters:format(jpeg)/https://thumbor.globoi.com/unsafe/fit-in/1280x720/s03.video.glbimg.com/deo/vi/82/53/14755382"
+    "title": "Clarão no céu: meteoro com brilho intenso cruza o RS; VÍDEO",
+    "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/07/06/clarao-no-ceu-meteoro-com-brilho-intenso-cruza-o-rs-video.ghtml",
+    "image": "https://s2-g1.glbimg.com/DOtFMDtlUBWAL1VnsDjtNONpUtI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/5/ykNaN5RyK6pApafFZOLA/g1.jpg"
   },
   {
     "site": "UOL",
-    "title": "Ex-funcionário relata ordem de dona de grupo de rope jump: 'Apagar o vídeo'",
-    "url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/07/05/ex-funcionario-relata-ordem-de-dona-de-grupo-de-rope-jump-apagar-o-video.ghtm",
+    "title": "Acidente com 3 mortos causa trânsito de 5 km na Castello Branco em SP",
+    "url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/07/06/acidente-com-tres-mortos-carbonizados-causa-lentidao-na-castello-branco.ghtm",
     "image": ""
   },
   {
     "site": "CNN Brasil",
-    "title": "Enquete “Casa do Patrão”: parcial aperta e eliminação fica indefinida",
-    "url": "https://www.cnnbrasil.com.br/pop/realities/enquete-casa-do-patrao-parcial-aperta-e-eliminacao-fica-indefinida/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/07/casa-do-patrao-10.png?w=1200&h=630&crop=1"
+    "title": "Orgasmo feminino: por que o tema virou alvo de debates nas redes",
+    "url": "https://www.cnnbrasil.com.br/lifestyle/orgasmo-feminino-por-que-o-tema-virou-alvo-de-debates-nas-redes/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2024/07/orgasmo.jpg?w=1200&h=630&crop=1"
   },
   {
     "site": "Terra",
-    "title": "Choro, decepção, surpresa: veja reações de torcedores após eliminação do Brasil na Copa do Mundo",
-    "url": "https://www.terra.com.br/esportes/futebol/copa-2026/choro-decepcao-surpresa-veja-reacoes-de-torcedores-apos-eliminacao-do-brasil-na-copa-do-mundo,59baecdb04c7de1aa51d5fc43b67e443ilqx915q.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/07/06/oft20260705012-1h822y8z257p0.jpg"
-  },
-  {
-    "site": "BBC",
-    "title": "A força de Haaland, o astro da Noruega que eliminou o Brasil com 2 gols na Copa do Mundo",
-    "url": "https://www.bbc.com/portuguese/articles/cly8xrndxy5o?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/5605/live/de3d1df0-78bf-11f1-ac61-45c6714bd652.jpg"
-  },
-  {
-    "site": "G1",
-    "title": "Operação prende dez advogados que atuavam como mensageiros de facções em presídio de segurança máxima",
-    "url": "https://g1.globo.com/fantastico/noticia/2026/07/05/operacao-prende-dez-advogados-que-atuavam-como-mensageiros-de-faccoes-em-presidio-de-seguranca-maxima.ghtml",
-    "image": "https://s2-g1.glbimg.com/3sBn8aATSkY7Cm-6VaGnPavtWhI=/1280x0/filters:format(jpeg)/https://thumbor.globoi.com/unsafe/fit-in/1280x720/s02.video.glbimg.com/deo/vi/21/54/14755421"
-  },
-  {
-    "site": "UOL",
-    "title": "Contra Portugal, Espanha tenta atingir sua melhor campanha desde único título de Copa, em 2010",
-    "url": "https://www1.folha.uol.com.br/esporte/2026/07/contra-portugal-espanha-tenta-atingir-sua-melhor-campanha-desde-unico-titulo-de-copa-em-2010.shtml",
-    "image": "https://f.i.uol.com.br/fotografia/2026/07/04/17832111426a49a48619971_1783211142_3x2_xl.jpg"
-  },
-  {
-    "site": "CNN Brasil",
-    "title": "Como a fraqueza do iene impacta investimentos ao redor do mundo",
-    "url": "https://www.cnnbrasil.com.br/economia/mercado/como-a-fraqueza-do-iene-impacta-investimentos-ao-redor-do-mundo/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/07/iene-mercado-financeiro-IA.png?w=1200&h=630&crop=1"
-  },
-  {
-    "site": "Terra",
-    "title": "Luxemburgo diz que Ancelotti errou muito e dispara: 'Se fosse brasileiro, estava f...'",
-    "url": "https://www.terra.com.br/esportes/futebol/luxemburgo-diz-que-ancelotti-errou-muito-e-dispara-se-fosse-brasileiro-estava-f,980687b43491058bcdf266afe0c04c9ey9wy6zgt.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/07/06/72913949-bejnqyjyxfexbbx3xnni32clw4.webp"
+    "title": "MotoGP: Álex Márquez é oficializado como piloto da KTM para 2027",
+    "url": "https://www.terra.com.br/esportes/motociclismo/motogp-alex-marquez-e-oficializado-como-piloto-da-ktm-para-2027,832f1a7116dde638b759a212db04bb1cdo5vb5eu.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/03/24/alex-1hrayla4bb0x1.jpg"
   },
   {
     "site": "BBC",
@@ -187,56 +217,26 @@
   },
   {
     "site": "G1",
-    "title": "Criança de 9 anos sofreu acidente com mesma equipe 3 meses antes de queda fatal de jovem sem corda em SP",
-    "url": "https://g1.globo.com/fantastico/noticia/2026/07/05/crianca-de-9-anos-sofreu-acidente-com-mesma-equipe-3-meses-antes-de-queda-fatal-de-jovem-sem-corda-em-sp.ghtml",
-    "image": "https://s2-g1.glbimg.com/myQleDScQfnBRTraG-RIepuvn6k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/j/BBdY2JSEe6IriMLrnbrw/menino.jpg"
+    "title": "Corpo de adolescente é encontrado no mar da praia de Barra de Gramame, em João Pessoa",
+    "url": "https://g1.globo.com/pb/paraiba/noticia/2026/07/06/corpo-de-adolescente-e-encontrado-no-mar-da-praia-de-barra-de-gramame-em-joao-pessoa.ghtml",
+    "image": "https://s2-g1.glbimg.com/vcDWkMpkTdElhHy2MIfv71XA-XM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/A/MtObXpQdu6iTrD3sCU1Q/tvcbpraia.jpg"
   },
   {
     "site": "UOL",
-    "title": "Com Balogun, EUA jogam revanche contra Bélgica por ida às quartas da Copa",
-    "url": "https://www1.folha.uol.com.br/esporte/2026/07/com-balogun-eua-jogam-revanche-contra-belgica-por-ida-as-quartas-da-copa.shtml",
-    "image": "https://f.i.uol.com.br/fotografia/2026/07/03/17831158486a483048e6a70_1783115848_3x2_rt.jpg"
+    "title": "Canadense Summer McIntosh bate o recorde mundial mais antigo da natação feminina",
+    "url": "https://noticias.uol.com.br/ultimas-noticias/afp/2026/07/06/canadense-summer-mcintosh-bate-o-recorde-mundial-mais-antigo-da-natacao-feminina.htm",
+    "image": ""
   },
   {
     "site": "CNN Brasil",
-    "title": "Ibrahimovic detona o Brasil após queda na Copa: “Nunca me convenceu”",
-    "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/ibrahimovic-detona-o-brasil-apos-queda-na-copa-nunca-me-convenceu/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/10/Zlatan-Ibrahimovic-e1760011101889.jpg?w=1080&h=610&crop=1"
+    "title": "Começa nesta segunda-feira (6) audiência sobre tarifas de 25% nos EUA",
+    "url": "https://www.cnnbrasil.com.br/economia/macroeconomia/comeca-nesta-segunda-feira-6-audiencia-sobre-tarifas-de-25-nos-eua/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/Reuters_Direct_Media/BrazilOnlineReportBusinessNews/tagreuters.com2025binary_LYNXMPEL6U0PE-BASEIMAGE.jpg?w=800&h=534&crop=1"
   },
   {
     "site": "Terra",
-    "title": "35 anos depois, estrela de um dos maiores clássicos de Martin Scorsese retorna em nova versão da obra e choca o público",
-    "url": "https://www.terra.com.br/diversao/entre-telas/35-anos-depois-estrela-de-um-dos-maiores-classicos-de-martin-scorsese-retorna-em-nova-versao-da-obra-e-choca-o-publico,fa409f2a6fc7eb1dca0dfc89b56e391aq3kfrqfl.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/07/06/2024194527-6073218e99d8f5f4db34326941c76fc8.jpg"
-  },
-  {
-    "site": "BBC",
-    "title": "Arrogância do Brasil no futebol contrasta com imagem de país alegre, diz comentarista inglês",
-    "url": "https://www.bbc.com/portuguese/articles/ce954kdp9mdo?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/a131/live/7973d8d0-7853-11f1-975d-e3c93736afa3.jpg"
-  },
-  {
-    "site": "G1",
-    "title": "Onda de calor extremo provoca incêndios na Europa; Portugal aciona ajuda internacional",
-    "url": "https://g1.globo.com/fantastico/noticia/2026/07/05/onda-de-calor-extremo-provoca-incendios-na-europa-portugal-aciona-ajuda-internacional.ghtml",
-    "image": "https://s2-g1.glbimg.com/K4lh84zimN8lyzqct2phsvyPrUo=/1280x0/filters:format(jpeg)/https://thumbor.globoi.com/unsafe/fit-in/1280x720/s03.video.glbimg.com/deo/vi/78/53/14755378"
-  },
-  {
-    "site": "UOL",
-    "title": "São Paulo tem só 10% do mínimo de água e discute reúso de esgoto para abastecer represas",
-    "url": "https://www1.folha.uol.com.br/cotidiano/2026/07/sao-paulo-tem-so-10-do-minimo-de-agua-e-discute-reuso-de-esgoto-para-abastecer-represas.shtml",
-    "image": "https://f.i.uol.com.br/fotografia/2026/07/05/17832764006a4aa370e8d3b_1783276400_3x2_rt.jpg"
-  },
-  {
-    "site": "CNN Brasil",
-    "title": "Trump promove ampla remodelação da Casa Branca e de Washington",
-    "url": "https://www.cnnbrasil.com.br/internacional/trump-promove-ampla-remodelacao-da-casa-branca-e-de-washington/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/03/presidente-donald-trump.jpg?w=1200&h=630&crop=1"
-  },
-  {
-    "site": "Terra",
-    "title": "Técnico exalta espírito de equipe da Noruega após vitória épica sobre o Brasil",
-    "url": "https://www.terra.com.br/esportes/tecnico-exalta-espirito-de-equipe-da-noruega-apos-vitoria-epica-sobre-o-brasil,875913381b6c5882cf237c813ff0cf96vzg42m2w.html",
+    "title": "Portugal e Espanha fazem duelo de favoritos na Copa em 'final antecipada' por vacilos portugueses",
+    "url": "https://www.terra.com.br/esportes/futebol/portugal-e-espanha-fazem-duelo-de-favoritos-na-copa-em-final-antecipada-por-vacilos-portugueses,5328bc8184bd771964d1900180ad28f37cg8j9wi.html",
     "image": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png"
   },
   {
@@ -247,27 +247,27 @@
   },
   {
     "site": "G1",
-    "title": "Tragédia na Venezuela: equipes internacionais buscam sobreviventes de terremoto histórico",
-    "url": "https://g1.globo.com/fantastico/noticia/2026/07/05/tragedia-na-venezuela-equipes-internacionais-buscam-sobreviventes-de-terremoto-historico.ghtml",
-    "image": "https://s2-g1.glbimg.com/-0r7GNA9amXiKpG1GrczIidFZ0w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/N/xNxmAHSiGlSnfYmv1qww/gravaodetela2026-07-05214817-ezgif.com-optimize.gif"
+    "title": "Incêndio em hotel de SC compromete rotas de fuga e deixa feridos; hóspede caiu em imóvel vizinho ao escapar",
+    "url": "https://g1.globo.com/sc/santa-catarina/noticia/2026/07/06/incendio-hotel-chapeco-bloqueia-rotas-de-fuga-feridos-hospede-caiu-escapar.ghtml",
+    "image": "https://s2-g1.glbimg.com/dUjxdzxXASOYxPmETtPmUSdiI1A=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/l/KHfdJ6Sri0zThfiL7cwA/incendio-em-hotel-de-chapeco-bloqueia-rotas-de-fuga-e-deixa-feridos.jpg"
   },
   {
     "site": "UOL",
-    "title": "De pê-efe de frango a bobó de camarão, veja onde encomendar marmitas congeladas em SP",
-    "url": "https://guia.folha.uol.com.br/restaurantes/2026/07/de-pe-efe-de-frango-a-bobo-de-camarao-veja-onde-encomendar-marmitas-congeladas-em-sp.shtml",
-    "image": "https://f.i.uol.com.br/fotografia/2026/07/01/17829188766a452edc707d9_1782918876_3x2_rt.jpg"
+    "title": "Supertufão Bavi provoca 'grandes danos' em passagem por ilhas americanas",
+    "url": "https://noticias.uol.com.br/ultimas-noticias/afp/2026/07/06/supertufao-bavi-provoca-grandes-danos-em-passagem-por-ilhas-americanas.htm",
+    "image": ""
   },
   {
     "site": "CNN Brasil",
-    "title": "Técnico da Noruega exalta vitória contra Brasil: “Fizemos um bom trabalho”",
-    "url": "https://www.cnnbrasil.com.br/noticias/tecnico-da-noruega-exalta-vitoria-contra-brasil-fizemos-um-bom-trabalho/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/07/tecnico_noruega-e1783297813359.jpeg?w=1200&h=630&crop=1"
+    "title": "Estudo aponta inconsistências em estimativas de risco fiscal da União",
+    "url": "https://www.cnnbrasil.com.br/economia/macroeconomia/estudo-aponta-inconsistencias-em-estimativas-de-risco-fiscal-da-uniao/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/11/ChatGPT-Image-28-de-nov.-de-2025-14_50_10.png?w=1200&h=630&crop=1"
   },
   {
     "site": "Terra",
-    "title": "'É normal que troquem alguns jogadores', diz Danilo sobre futuro da Seleção",
-    "url": "https://www.terra.com.br/esportes/futebol/copa-2026/e-normal-que-troquem-alguns-jogadores-diz-danilo-sobre-futuro-da-selecao,ceb1c05029ad3372e38daf6efdcce7ffegc4lnte.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/06/27/1316696745-brasil-1x1-marrocos-metlife-stad.jpg"
+    "title": "Caso Balogun e possível interferência de Trump aquecem duelo entre EUA e Bélgica na Copa 2026",
+    "url": "https://www.terra.com.br/esportes/futebol/caso-balogun-e-possivel-interferencia-de-trump-aquecem-duelo-entre-eua-e-belgica-na-copa-2026,0bcc8ca05066bc274e29dd2294735c1duvio2dd7.html",
+    "image": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png"
   },
   {
     "site": "BBC",
@@ -277,26 +277,26 @@
   },
   {
     "site": "G1",
-    "title": "Morre o rapper Rivas Alves, aos 56 anos, em Brasília",
-    "url": "https://g1.globo.com/df/distrito-federal/noticia/2026/07/05/morre-o-rapper-rivas-alves-aos-56-anos-em-brasilia.ghtml",
-    "image": "https://s2-g1.glbimg.com/actn7euFmR-jTiJBDRzMsGe-U8Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/B/PIdBsBQ0OyqpvZzfmW2A/whatsapp-image-2026-07-05-at-21.21.44.jpeg"
+    "title": "Indústria de panificação das Obras Sociais Irmã Dulce abre vagas de emprego temporário; saiba como se inscrever",
+    "url": "https://g1.globo.com/ba/bahia/blogdoemprego/noticia/2026/07/06/industria-de-panificacao-das-obras-sociais-irma-dulce-abre-vagas-de-emprego-temporario.ghtml",
+    "image": "https://s2-g1.glbimg.com/U-s14Uw2cMzpDQv51oGdugyM7y8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2019/U/h/QXwvxiT1A2DvsoY2KdBg/centro-de-panificacao-irma-dulce-3-.png"
   },
   {
     "site": "UOL",
-    "title": "Taiwan investe em tecnologia médica para romper isolamento diplomático",
-    "url": "https://www1.folha.uol.com.br/mundo/2026/07/taiwan-investe-em-tecnologia-medica-para-romper-isolamento-diplomatico.shtml",
-    "image": "https://f.i.uol.com.br/fotografia/2026/06/24/17823157236a3bfacb7a928_1782315723_3x2_xl.jpg"
+    "title": "Signos: confira seu horóscopo desta segunda-feira (06)",
+    "url": "https://tnonline.uol.com.br/noticias/revista-uau/signos-confira-seu-horoscopo-desta-segunda-feira-06-1114974",
+    "image": "https://cdn.tnonline.com.br/img/Instant-Article/1100000/1200x630/os-capricornianos-ficam-no-alerta-ate-as-16h34-01103939-0-202606301116/ScaleProportionalFillBackground-1.jpg?fallback=https%3A%2F%2Fcdn.tnonline.com.br%2Fimg%2FInstant-Article%2F1100000%2Fos-capricornianos-ficam-no-alerta-ate-as-16h34-01103939-0-202606301116.jpg%3Fxid%3D1767991&xid=1767991"
   },
   {
     "site": "CNN Brasil",
-    "title": "Portugal x Espanha: horário e onde assistir à Copa do Mundo 2026",
-    "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/portugal-x-espanha-horario-e-onde-assistir-a-copa-do-mundo-2026/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/07/portugalespanhacnncopaondeassistir.jpg?w=1200&h=630&crop=1"
+    "title": "Globo muda programação nesta segunda (6) por jogos da Copa do Mundo",
+    "url": "https://www.cnnbrasil.com.br/pop/tv/globo-muda-programacao-nesta-segunda-6-por-jogos-da-copa-do-mundo/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/03/Cenas-de-Avenida-Brasil.jpg?w=1200&h=630&crop=1"
   },
   {
     "site": "Terra",
-    "title": "CBF pede continuidade após eliminação e reforça confiança em Ancelotti",
-    "url": "https://www.terra.com.br/esportes/brasil/cbf-pede-continuidade-apos-eliminacao-e-reforca-confianca-em-ancelotti,2d062c562ddd11518653e2e8df5720a71az4oatg.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/07/06/837208493-brazil-v-panama-international-friendly-1-2048x1367.jpg"
+    "title": "Colisão na Castelo Branco termina com três carbonizados, incluindo uma criança",
+    "url": "https://www.terra.com.br/noticias/brasil/cidades/colisao-na-castelo-branco-termina-com-tres-carbonizados-incluindo-uma-crianca,1cfadba6ccfeafc0179784bde380a1dfw00gbcwt.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/07/06/176932059-i6d6bsaptbalzbm4kc43heswki.png"
   }
 ]
