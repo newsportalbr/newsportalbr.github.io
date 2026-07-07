@@ -1,63 +1,153 @@
 [
   {
     "site": "BBC",
-    "title": "O médico que teve imagem clonada por IA para vender curas milagrosas no YouTube: 'Podem estar causando danos fatais a idosos'",
-    "url": "https://www.bbc.com/portuguese/articles/cn4ddgl7vkno?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/c8eb/live/460e8910-7923-11f1-a627-714adb4eed6e.png"
-  },
-  {
-    "site": "G1",
-    "title": "Trump deu nova rasteira em María Corina Machado, impedindo-a de retornar à Venezuela",
-    "url": "https://g1.globo.com/mundo/noticia/2026/07/07/trump-deu-nova-rasteira-em-maria-corina-machado-impedindo-a-de-retornar-a-venezuela.ghtml",
-    "image": "https://s2-g1.glbimg.com/21qSbz_ovd0605ooU0YzDscGdK8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/x/Ybvz5ASsaBjWpKp2qTaA/trump-corina.jpg"
-  },
-  {
-    "site": "UOL",
-    "title": "Ações do Santander Brasil despencam e diferença com matriz bate recorde",
-    "url": "https://www1.folha.uol.com.br/mercado/2026/07/acoes-do-santander-brasil-despencam-e-diferenca-com-matriz-bate-recorde.shtml",
-    "image": "https://f.i.uol.com.br/fotografia/2026/07/07/17834325946a4d059239ab5_1783432594_3x2_rt.jpg"
-  },
-  {
-    "site": "CNN Brasil",
-    "title": "Insuficiência renal: Entenda causa da morte do autor Benedito Ruy Barbosa",
-    "url": "https://www.cnnbrasil.com.br/saude/insuficiencia-renal-entenda-causa-da-morte-do-autor-benedito-ruy-barbosa/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/07/benedito.png?w=955&h=462&crop=1"
-  },
-  {
-    "site": "Terra",
-    "title": "A saga do Brasil rural e o legado de Benedito Ruy Barbosa na TV; relembre as novelas",
-    "url": "https://www.terra.com.br/vida-e-estilo/a-saga-do-brasil-rural-e-o-legado-de-benedito-ruy-barbosa-na-tv-relembre-as-novelas,b0b6c146034dc8d99109dc35010bfa05rjkqy9me.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/07/07/2121934974-capa-bons-fluidos-29.jpg"
-  },
-  {
-    "site": "BBC",
-    "title": "O que está em jogo em audiência de investigação dos EUA contra o Brasil em que Flávio Bolsonaro vai falar",
+    "title": "Flávio Bolsonaro discursa por 5 minutos em audiência nos EUA sobre novo tarifaço: 'Pix também beneficiou empresas americanas'",
     "url": "https://www.bbc.com/portuguese/articles/c5yzz154zwdo?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/e36f/live/e2746bb0-7993-11f1-a627-714adb4eed6e.jpg"
   },
   {
     "site": "G1",
-    "title": "Assista ao Bahia Meio Dia",
-    "url": "https://g1.globo.com/ba/bahia/ao-vivo/assista-ao-jornal-da-manhaa.ghtml",
-    "image": "https://s2-g1.glbimg.com/GixC-Ts_zKQ-91DnDEsVmaqJ53c=/smart/filters:strip_icc()/s2-g1.glbimg.com/kRGA0vEOpTtOwxXd79EuXwkszck%3D/1280x0/filters%3Aformat%28jpeg%29/https%3A//thumbor.globoi.com/unsafe/fit-in/1280x720/s04.video.glbimg.com/deo/vi/39/40/2134039"
+    "title": "Homem é preso com 68 kg de maconha escondidos em fundo falso de carro em São Pedro da Aldeia",
+    "url": "https://g1.globo.com/rj/regiao-dos-lagos/noticia/2026/07/07/homem-e-preso-com-68-kg-de-maconha-escondidos-em-fundo-falso-de-carro-em-sao-pedro-da-aldeia.ghtml",
+    "image": "https://s2-g1.glbimg.com/NF3ccc9EeW0JRDKAMNB2epegAg0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/K/YfOJTCQH66I45Rvqvjeg/pm.jpg"
   },
   {
     "site": "UOL",
-    "title": "Enchentes provocadas por chuvas recordes deixam mortos e milhares de desalojados na China",
-    "url": "https://noticias.uol.com.br/ultimas-noticias/rfi/2026/07/07/enchentes-provocadas-por-chuvas-recordes-deixam-mortos-e-milhares-de-desalojados-na-china.htm",
+    "title": "Senado aprova projeto que cria 'Pix Pensão'; texto segue para sanção",
+    "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/07/07/senado-aprova-projeto-que-cria-pix-pensao-texto-segue-para-sancao.ghtm",
     "image": ""
   },
   {
     "site": "CNN Brasil",
-    "title": "Trump volta a dizer que a Groenlândia “deveria ser controlada pelos EUA”",
-    "url": "https://www.cnnbrasil.com.br/internacional/trump-volta-a-dizer-que-a-groenlandia-deveria-ser-controlada-pelos-eua/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/04/gettyimages-2268700656-20260401182204476-e1775665202145.avif?w=1200&h=630&crop=1"
+    "title": "73% dos carros ativos em SP tem mais de 10 anos de idade",
+    "url": "https://www.cnnbrasil.com.br/auto/73-dos-carros-ativos-em-sp-tem-mais-de-10-anos-de-idade/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/08/transito.jpg?w=1200&h=630&crop=1"
   },
   {
     "site": "Terra",
-    "title": "'A doença te coloca a presença da finitude muito objetiva', diz Tony Bellotto no 'Roda Viva'",
-    "url": "https://www.terra.com.br/diversao/tv/a-doenca-te-coloca-a-presenca-da-finitude-muito-objetiva-diz-tony-bellotto-no-roda-viva,25b3d518b51e948daa4b37b15b0d087c03uc6li0.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/07/07/1529628019-6w3cg3kdgbfypkheptukhzg5na.jpg"
+    "title": "Como Fazer Espetinho de Kafta: Receita Fácil e Saborosa",
+    "url": "https://www.terra.com.br/vida-e-estilo/degusta/receitas/como-fazer-espetinho-de-kafta-receita-facil-e-saborosa,0c2a1c2f0a4d279f2d5ec473f4128d2fo1zftlgz.html",
+    "image": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png"
+  },
+  {
+    "site": "BBC",
+    "title": "Reforma agrária, coronelismo e imigração: como Benedito Ruy Barbosa fez das novelas um debate sobre a terra",
+    "url": "https://www.bbc.com/portuguese/articles/c70ygx3r34po?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/fa6c/live/27bed500-7a31-11f1-ab76-d75965dea4d1.jpg"
+  },
+  {
+    "site": "G1",
+    "title": "Pará passa a cobrar de agressores custos do SUS com atendimento a vítimas de violência doméstica",
+    "url": "https://g1.globo.com/pa/para/noticia/2026/07/07/para-passa-a-cobrar-de-agressores-custos-do-sus-com-atendimento-a-vitimas-de-violencia-domestica.ghtml",
+    "image": "https://s2-g1.glbimg.com/ZEjzoyFB1urpMDq3KHuicUWmXe0=/3543x0/filters:format(jpeg)/http://s.glbimg.com/jo/g1/f/original/2017/02/20/79205_251390.jpg"
+  },
+  {
+    "site": "UOL",
+    "title": "Caminhão-cegonha pega fogo e destrói sete carros no Paraná",
+    "url": "https://tnonline.uol.com.br/noticias/parana/caminhao-cegonha-pega-fogo-e-destroi-sete-carros-no-parana-1115865",
+    "image": "https://cdn.tnonline.com.br/img/Artigo-Destaque/1110000/1200x630/o-motorista-conseguiu-desengatar-o-caminhao-da-car-01115865-0-202607071636/ScaleProportionalFillBackground-1.jpg?fallback=https%3A%2F%2Fcdn.tnonline.com.br%2Fimg%2FArtigo-Destaque%2F1110000%2Fo-motorista-conseguiu-desengatar-o-caminhao-da-car-01115865-0-202607071636.jpg%3Fxid%3D1770406&xid=1770406"
+  },
+  {
+    "site": "CNN Brasil",
+    "title": "Messi alcança mais um feito inédito em Copas contra o Egito",
+    "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/messi-alcanca-mais-um-feito-inedito-em-copas-contra-o-egito/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/07/comemoracamessi-e1783452604283.avif?w=800&h=451&crop=1"
+  },
+  {
+    "site": "Terra",
+    "title": "Comissão de Ética do São Paulo arquiva representação contra Olten Ayres",
+    "url": "https://www.terra.com.br/esportes/sao-paulo/comissao-de-etica-do-sao-paulo-arquiva-representacao-contra-olten-ayres,ff5476d050d444daa2cf52c73c453cf2elddhajz.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/07/07/1651699603-olten-ayres-presidente-do-conselho-deliberativo-do-sao-paulo-610x400.jpg"
+  },
+  {
+    "site": "BBC",
+    "title": "Messi x Salah: em virada histórica, Argentina garante vaga nas quartas de final em jogo contra Egito",
+    "url": "https://www.bbc.com/portuguese/articles/cg4wd1w73r5o?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/cd77/live/ebeb1ec0-7982-11f1-9510-1546718f668b.png"
+  },
+  {
+    "site": "G1",
+    "title": "Aprovados no concurso do MP-AP são nomeados; seleção teve mais de 24 mil inscritos",
+    "url": "https://g1.globo.com/ap/amapa/noticia/2026/07/07/aprovados-no-concurso-do-mp-ap-sao-nomeados-selecao-teve-mais-de-24-mil-inscritos.ghtml",
+    "image": "https://s2-g1.glbimg.com/uU5d5kOcHHqK_Hz-rjoxGzbQsz0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/l/M/ti30GBSry5ZSB1d3AFWA/whatsapp-image-2025-09-18-at-19.31.09.jpeg"
+  },
+  {
+    "site": "UOL",
+    "title": "Surto de resfriado atinge seleção da Noruega após eliminação do Brasil na Copa",
+    "url": "https://tnonline.uol.com.br/noticias/esportes/surto-de-resfriado-atinge-selecao-da-noruega-apos-eliminacao-do-brasil-na-copa-1115864",
+    "image": "https://cdn.tnonline.com.br/img/Artigo-Destaque/1110000/1200x630/time-da-noruega-01115864-0-202607071632/ScaleProportionalFillBackground-1.jpg?fallback=https%3A%2F%2Fcdn.tnonline.com.br%2Fimg%2FArtigo-Destaque%2F1110000%2Ftime-da-noruega-01115864-0-202607071632.jpg%3Fxid%3D1770402&xid=1770402"
+  },
+  {
+    "site": "CNN Brasil",
+    "title": "Famosos se despedem de Benedito Ruy Barbosa em velório; veja fotos",
+    "url": "https://www.cnnbrasil.com.br/pop/tv/famosos-se-despedem-de-benedito-ruy-barbosa-em-velorio-veja-fotos/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/07/1-benedito-ruy-barbosa.jpg?w=1200&h=630&crop=1"
+  },
+  {
+    "site": "Terra",
+    "title": "Taboão da Serra libera vacina Pneumo 20 de graça para bebês nas UBSs",
+    "url": "https://www.terra.com.br/noticias/brasil/cidades/taboao-da-serra-libera-vacina-pneumo-20-de-graca-para-bebes-nas-ubss,bc72e84ef593f2353b275b4286e48d18rn6splve.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/07/07/1116814506-c0e55ab9-6d98-4d6c-9364-ee14ec05a84e.jpg"
+  },
+  {
+    "site": "BBC",
+    "title": "Como a calcinha rosa de uma tenista brasileira escandalizou Wimbledon em 1962",
+    "url": "https://www.bbc.com/portuguese/articles/c0qyy3x4w7lo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/aa35/live/9ce8f460-793b-11f1-a627-714adb4eed6e.jpg"
+  },
+  {
+    "site": "G1",
+    "title": "VÍDEO: Avião da Força Aérea Brasileira é flagrado voando em círculos por Uberaba",
+    "url": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/07/07/video-aviao-da-forca-aerea-brasileira-e-flagrado-voando-em-circulos-por-uberaba.ghtml",
+    "image": "https://s2-g1.glbimg.com/24uAKguI6UQVlC0nlvg63F7AAMw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/z/AAUAusSgCgKmyY2LBmsw/design-sem-nome-9-.png"
+  },
+  {
+    "site": "UOL",
+    "title": "Avião desaparece do radar perto do Paquistão",
+    "url": "https://noticias.uol.com.br/internacional/ultimas-noticias/2026/07/07/aviao-desaparece-do-radar-perto-do-paquistao.ghtm",
+    "image": ""
+  },
+  {
+    "site": "CNN Brasil",
+    "title": "Vídeo: Veja momento em que consulado do Brasil em NY é esvaziado",
+    "url": "https://www.cnnbrasil.com.br/internacional/video-veja-momento-em-que-consulado-do-brasil-em-ny-e-esvaziado/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/07/Predio-em-NY-apresenta-problemas-estruturais-e-tem-risco-de-queda.jpg?w=960&h=540&crop=1"
+  },
+  {
+    "site": "Terra",
+    "title": "Dourados (MS) oferece curso gratuito de primeiros socorros para idosos e cuidadores",
+    "url": "https://www.terra.com.br/noticias/brasil/cidades/dourados-ms-oferece-curso-gratuito-de-primeiros-socorros-para-idosos-e-cuidadores,e1406997174276e2d95b6d1a7f720eaewvi40ueq.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/07/07/228515256-074c4a3d-fa83-400d-b885-df8570f832d8.jpg"
+  },
+  {
+    "site": "BBC",
+    "title": "'Danos fatais': médico descobre clones de IA usando seu rosto para enganar  idosos e vai à polícia",
+    "url": "https://www.bbc.com/portuguese/articles/cn4ddgl7vkno?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/c8eb/live/460e8910-7923-11f1-a627-714adb4eed6e.png"
+  },
+  {
+    "site": "G1",
+    "title": "Moto Chico: trânsito terá mudanças em Petrolina a partir desta terça (7)",
+    "url": "https://g1.globo.com/pe/petrolina-regiao/noticia/2026/07/07/moto-chico-transito-tera-mudancas-em-petrolina-a-partir-desta-terca-7.ghtml",
+    "image": "https://s2-g1.glbimg.com/b6ZrxE4Ma_AySsT7Afs1y8bO0Nw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/1/c4gAcZSD2mE7vI8SIdlw/whatsapp-image-2026-07-07-at-15.01.51.jpeg"
+  },
+  {
+    "site": "UOL",
+    "title": "Mortes: Cresceu entre máquinas de escrever e aparelhos de ginástica",
+    "url": "https://www1.folha.uol.com.br/cotidiano/2026/07/mortes-cresceu-entre-maquinas-de-escrever-e-aparelhos-de-ginastica.shtml",
+    "image": "https://f.i.uol.com.br/fotografia/2026/07/06/17833740596a4c20ebb3878_1783374059_3x2_lg.jpg"
+  },
+  {
+    "site": "CNN Brasil",
+    "title": "Honda WN7, primeira moto elétrica grande da marca, chega à Europa",
+    "url": "https://www.cnnbrasil.com.br/auto/honda-wn7-primeira-moto-eletrica-grande-da-marca-chega-a-europa/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/07/Captura-de-tela-2026-07-07-155848.png?w=1200&h=630&crop=1"
+  },
+  {
+    "site": "Terra",
+    "title": "Bolo de cenoura sem farinha e sem açúcar, mas cheio de sabor para a sua dieta sem glúten",
+    "url": "https://www.terra.com.br/vida-e-estilo/degusta/bolo-de-cenoura-sem-farinha-e-sem-acucar-mas-cheio-de-sabor-para-a-sua-dieta-sem-gluten,f5c2f449414fb2d78f943f1e28d655ddhgqp98vq.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/07/07/1094914012-bolo-de-cenoura-orig-1.jpg"
   },
   {
     "site": "BBC",
@@ -67,27 +157,27 @@
   },
   {
     "site": "G1",
-    "title": "Suspeito de feminicídio em Oiapoque já tinha histórico de agressões contra mulheres, diz polícia",
-    "url": "https://g1.globo.com/ap/amapa/noticia/2026/07/07/suspeito-de-feminicidio-em-oiapoque-ja-tinha-historico-de-agressoes-contra-mulheres-diz-policia.ghtml",
-    "image": "https://s2-g1.glbimg.com/kzffij5QVS4zJYcR5iHTB5IfC7w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/H/dqi8rJRQqsWK97CeRXuw/whatsapp-image-2026-07-06-at-18.15.44.jpeg"
+    "title": "Três navios são atacados no Estreito de Ormuz em 24 horas, e EUA revogam sanções ao petróleo do Irã",
+    "url": "https://g1.globo.com/mundo/noticia/2026/07/07/tres-navios-sao-atacados-no-estreito-de-ormuz-em-24-horas-e-eua-revogam-sancoes-ao-petroleo-do-ira.ghtml",
+    "image": "https://s2-g1.glbimg.com/2HajZsUIYU-Dbz08C83u3hp7qtA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/k/y8IpudRvKoOKdAPcMbTg/2026-06-16t063537z-1040433787-rc2pula82x3j-rtrmadp-3-iran-crisis-oman-hormuz.jpg"
   },
   {
     "site": "UOL",
-    "title": "Antonio Fagundes dá detalhes sobre parceria com Benedito Ruy Barbosa",
-    "url": "https://www1.folha.uol.com.br/ilustrada/2026/07/antonio-fagundes-da-detalhes-sobre-parceria-com-benedito-ruy-barbosa.shtml",
-    "image": "https://f.i.uol.com.br/fotografia/2026/05/21/17793788616a0f2aad140ab_1779378861_3x2_rt.jpg"
+    "title": "Dieta carnívora atrai machosfera mas não tem base científica",
+    "url": "https://www1.folha.uol.com.br/blogs/nao-tem-cabimento/2026/07/dieta-carnivora-atrai-machosfera-mas-nao-tem-base-cientifica.shtml",
+    "image": "https://f.i.uol.com.br/fotografia/2026/03/19/177393506469bc19d894e49_1773935064_3x2_rt.jpg"
   },
   {
     "site": "CNN Brasil",
-    "title": "Exclusivo: Lavoro vai fechar operação em SP; objetivo é cortar gastos",
-    "url": "https://www.cnnbrasil.com.br/agro/exclusivo-lavoro-vai-fechar-operacao-em-sp-objetivo-e-cortar-gastos/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/02/Lavoro.webp?w=924&h=521&crop=1"
+    "title": "Autor de gol do Egito detona arbitragem: “Copa direcionada à Argentina”",
+    "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/autor-de-gol-do-egito-detona-arbitragem-copa-direcionada-a-argentina/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/07/zico_comemora_egito-e1783446270532.jpg?w=1200&h=630&crop=1"
   },
   {
     "site": "Terra",
-    "title": "DJ Khaled aposta R$ 2,5 milhões no hexa do Brasil e perde fortuna após eliminação",
-    "url": "https://www.terra.com.br/esportes/brasil/dj-khaled-aposta-r-25-milhoes-no-hexa-do-brasil-e-perde-fortuna-apos-eliminacao,9f99bed8fe36f9225728f8c2d29e3ab6xa263ob8.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/07/07/2133062428-dj-khaled-610x400.jpg"
+    "title": "O primeiro adesivo do mundo que libera lactase pela pele promete substituir o uso de pílulas mas levanta dúvidas sobre os verdadeiros impactos na sua saúde",
+    "url": "https://www.terra.com.br/byte/ciencia/o-primeiro-adesivo-do-mundo-que-libera-lactase-pela-pele-promete-substituir-o-uso-de-pilulas-mas-levanta-duvidas-sobre-os-verdadeiros-impactos-na-sua-saude,241ec0dfd19faebad7fc17b03c02926dcc6cfnqc.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/07/07/1105113841-13662000.png"
   },
   {
     "site": "BBC",
@@ -97,27 +187,27 @@
   },
   {
     "site": "G1",
-    "title": "Mulher morre após sofrer queimaduras em 90% do corpo durante incêndio em casa em MT",
-    "url": "https://g1.globo.com/mt/mato-grosso/noticia/2026/07/07/mulher-morre-apos-sofrer-queimaduras-em-90percent-do-corpo-durante-incendio-em-casa-em-mt.ghtml",
-    "image": "https://s2-g1.glbimg.com/Xw0Ure-gmPB7hxUx0j99Fy7vkqo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/m/Gm3qlDSzAT42CJIWa8Mw/videos-g1-13-.jpg"
+    "title": "Cobra passa ao lado de turista em cachoeira da Chapada dos Veadeiros, e internauta brinca: 'Deixa a diva passar’",
+    "url": "https://g1.globo.com/go/goias/noticia/2026/07/07/cobra-passa-ao-lado-de-turista-em-cachoeira-da-chapada-dos-veadeiros-e-internauta-brinca-deixa-a-diva-passar.ghtml",
+    "image": "https://s2-g1.glbimg.com/wqbE8rCVInIfGuy2vE4pUoRGCsY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/g/LBGyx3RBaaQ4MiMqaeXg/copia-de-copia-de-padrao-foto-g1-goias.png"
   },
   {
     "site": "UOL",
-    "title": "Suposta fraude em licitações da Prefeitura de São Paulo é alvo de operação de Gaeco e PM",
-    "url": "https://www1.folha.uol.com.br/cotidiano/2026/07/suposta-fraude-em-licitacoes-da-prefeitura-de-sao-paulo-e-alvo-de-operacao-de-gaeco-e-pm.shtml",
-    "image": "https://f.i.uol.com.br/fotografia/2023/12/12/17024117066578bdba37a48_1702411706_3x2_rt.jpg"
+    "title": "Argentina vira com sofrimento e drama, como os argentinos sabem viver",
+    "url": "https://noticias.uol.com.br/colunas/janaina-figueiredo/2026/07/07/vitoria-com-sofrimento-e-drama-como-os-argentinos-sabem-viver.htm",
+    "image": ""
   },
   {
     "site": "CNN Brasil",
-    "title": "Benedito Ruy Barbosa: veja últimas aparições públicas do autor",
-    "url": "https://www.cnnbrasil.com.br/pop/celebridades/benedito-ruy-barbosa-veja-ultimas-aparicoes-publicas-do-autor/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/07/benedito.png?w=955&h=462&crop=1"
+    "title": "Governo nega redução de imposto do etanol como negociação a tarifas dos EUA",
+    "url": "https://www.cnnbrasil.com.br/agro/governo-nega-reducao-de-imposto-do-etanol-como-negociacao-a-tarifas-dos-eua/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/Reuters_Direct_Media/BrazilOnlineReportAgribusinessNews/tagreuters.com2022binary_LYNXMPEI630JN-FILEDIMAGE.jpg?w=1200&h=630&crop=1"
   },
   {
     "site": "Terra",
-    "title": "Elsa Pataky, aos 49 anos: 'Antes eu praticava ioga, mas, para as articulações, acho que começa a ser pesado demais com a idade. Hoje, o Pilates me ajuda mais'",
-    "url": "https://www.terra.com.br/diversao/elsa-pataky-aos-49-anos-antes-eu-praticava-ioga-mas-para-as-articulacoes-acho-que-comeca-a-ser-pesado-demais-com-a-idade-hoje-o-pilates-me-ajuda-mais,67f53a7a6ca0cdb90e2195e08ecb0108x9e79hnw.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/07/07/1046027421-dd37db45aecf5dbd-1400x823-1.jpg"
+    "title": "França enfrenta terceira onda de calor em poucas semanas; quase todo o país entra em alerta",
+    "url": "https://www.terra.com.br/noticias/mundo/europa/franca-enfrenta-terceira-onda-de-calor-em-poucas-semanas-quase-todo-o-pais-entra-em-alerta,82860d7bbd08846521cab69e3472b2bcp5vwbg6v.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/07/07/1609242455-000-b8p96nq.jpg"
   },
   {
     "site": "BBC",
@@ -127,117 +217,27 @@
   },
   {
     "site": "G1",
-    "title": "Presidente eleito da Colômbia suspende transição com governo Petro",
-    "url": "https://g1.globo.com/mundo/noticia/2026/07/07/presidente-eleito-da-colombia-suspende-transicao-com-governo-petro.ghtml",
-    "image": "None"
+    "title": "Prefeitura de Araguaína prorroga inscrições de concurso com salários de até R$ 16,4 mil",
+    "url": "https://g1.globo.com/to/tocantins/noticia/2026/07/07/prefeitura-de-araguaina-prorroga-inscricoes-de-concurso-com-salarios-de-ate-r-164-mil.ghtml",
+    "image": "https://s2-g1.glbimg.com/jW8enOgXHcsFrL9USaHU2D_id40=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/F/YsbR7DQwCXaAAHbb7GBQ/edicao-imagens-g1-20-.png"
   },
   {
     "site": "UOL",
-    "title": "A adolescente que liderou uma das maiores revoltas no Brasil e ficou conhecida como 'Joana D'arc do Contestado'",
-    "url": "https://www1.folha.uol.com.br/cotidiano/2026/07/a-adolescente-que-liderou-uma-das-maiores-revoltas-no-brasil-e-ficou-conhecida-como-joana-darc-do-contestado.shtml",
-    "image": "https://f.i.uol.com.br/fotografia/2026/07/07/17834316726a4d01f8e539d_1783431672_3x2_lg.jpg"
-  },
-  {
-    "site": "CNN Brasil",
-    "title": "Presidente da Venezuela discute operações de resgate com os EUA",
-    "url": "https://www.cnnbrasil.com.br/internacional/presidente-da-venezuela-discute-operacoes-de-resgate-com-os-eua/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/07/Terremoto-Venezuela-3.jpg?w=1200&h=630&crop=1"
-  },
-  {
-    "site": "Terra",
-    "title": "Body For Sure lança coleção tecnológica para mulheres ativas",
-    "url": "https://www.terra.com.br/vida-e-estilo/saude/body-for-sure-lanca-colecao-tecnologica-para-mulheres-ativas,5b4cc3b8f4f1a2a6728dfd6933eb0271gxry8re0.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/07/07/1283350713-mceclip0-1783371696.jpg"
-  },
-  {
-    "site": "BBC",
-    "title": "Por que reação negativa da Europa à intervenção de Trump na Copa não preocupa o presidente da Fifa",
-    "url": "https://www.bbc.com/portuguese/articles/c8r2njxg3d0o?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/94dc/live/8a1615f0-796f-11f1-9290-9b15d0e76459.jpg"
-  },
-  {
-    "site": "G1",
-    "title": "Justiça manda soltar policial apontado pela PF como 'piloto' de viatura usada em roubo de ouro no AM",
-    "url": "https://g1.globo.com/am/amazonas/noticia/2026/07/07/justica-manda-soltar-policial-apontado-pela-pf-como-piloto-de-viatura-usada-em-roubo-de-ouro-no-am.ghtml",
-    "image": "https://s2-g1.glbimg.com/glVjsqk1Di7vZIjaSqrCNJmO8h4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/q/4GYB9uSU6JoZmTjMJSjQ/motorista-1-.png"
-  },
-  {
-    "site": "UOL",
-    "title": "Peça une realismo mágico e cordel para falar de morte e humanidade",
-    "url": "https://www1.folha.uol.com.br/blogs/mise-en-scene/2026/07/peca-une-realismo-magico-e-cordel-para-falar-de-morte-e-humanidade.shtml",
-    "image": "https://f.i.uol.com.br/fotografia/2026/07/07/17833993926a4c83e04f3b0_1783399392_3x2_rt.jpg"
-  },
-  {
-    "site": "CNN Brasil",
-    "title": "Morgan Stanley vê risco para ABInBev e Heineken após eliminação do Brasil",
-    "url": "https://www.cnnbrasil.com.br/economia/negocios/morgan-stanley-ve-risco-para-abinbev-e-heineken-apos-eliminacao-do-brasil/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/Reuters_Direct_Media/BrazilOnlineReportBusinessNews/tagreuters.com2025binary_LYNXMPEL6R0QJ-BASEIMAGE.jpg?w=800&h=533&crop=1"
-  },
-  {
-    "site": "Terra",
-    "title": "Xbox Game Pass tem atualmente cerca de 30 milhões de assinantes, diz jornal",
-    "url": "https://www.terra.com.br/gameon/plataformas-e-consoles/xbox-game-pass-tem-atualmente-cerca-de-30-milhoes-de-assinantes-diz-jornal,43541d1f12c34631132707919144014asxrbw8qg.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/07/07/game-pass1-t84m5dmlma0m.jpg"
-  },
-  {
-    "site": "BBC",
-    "title": "Anúncios do Instagram promovem material com abuso sexual infantil na Índia, segundo investigação da BBC",
-    "url": "https://www.bbc.com/portuguese/articles/c621e09ep65o?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/b59a/live/6c54eb40-7564-11f1-9510-1546718f668b.png"
-  },
-  {
-    "site": "G1",
-    "title": "Dentista é presa suspeita de vender canetas emagrecedoras sem autorização sanitária no Piauí",
-    "url": "https://g1.globo.com/pi/piaui/noticia/2026/07/07/presa-suspeita-piaui.ghtml",
-    "image": "https://s2-g1.glbimg.com/0DF8JvbZYk2dFXopn_3FZQ5R65w=/1280x0/filters:format(jpeg)/https://thumbor.globoi.com/unsafe/fit-in/1280x720/s04.video.glbimg.com/deo/vi/55/20/992055"
-  },
-  {
-    "site": "UOL",
-    "title": "Europa pode enfrentar semanas mais mortais com nova onda de calor, alerta OMS",
-    "url": "https://www1.folha.uol.com.br/ambiente/2026/07/europa-pode-enfrentar-semanas-mais-mortais-com-nova-onda-de-calor-alerta-oms.shtml",
-    "image": "https://f.i.uol.com.br/fotografia/2026/07/07/17834321896a4d03fd903ca_1783432189_3x2_rt.jpg"
-  },
-  {
-    "site": "CNN Brasil",
-    "title": "Príncipe Harry perde ação sobre violação de privacidade contra Daily Mail",
-    "url": "https://www.cnnbrasil.com.br/internacional/principe-harry-perde-acao-sobre-violacao-de-privacidade-contra-daily-mail/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/Reuters_Direct_Media/BrazilOnlineReportEntertainmentNews/tagreuters.com2025binary_LYNXNPEL53109-BASEIMAGE.jpg?w=800&h=533&crop=1"
-  },
-  {
-    "site": "Terra",
-    "title": "Quem foi Benedito Ruy Barbosa? Relembre as novelas e a trajetória do autor",
-    "url": "https://www.terra.com.br/vida-e-estilo/quem-foi-benedito-ruy-barbosa-relembre-as-novelas-e-a-trajetoria-do-autor,7435aca91eb3cc9db1b517cb2eab9c8cn7ugx1t7.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/07/07/419944454-capa-bons-fluidos-2026-07-07t103059090.jpg"
-  },
-  {
-    "site": "BBC",
-    "title": "Quem é Raphael Claus, o árbitro brasileiro que Trump chamou de 'um pouco suspeito'",
-    "url": "https://www.bbc.com/portuguese/articles/c3dyyj95ge5o?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/0ff7/live/bfc19500-7977-11f1-b6c5-af8058b6d020.jpg"
-  },
-  {
-    "site": "G1",
-    "title": "Além das novelas: Benedito Ruy Barbosa também escreveu primeira biografia de Pelé",
-    "url": "https://g1.globo.com/pop-arte/noticia/2026/07/07/alem-das-novelas-benedito-ruy-barbosa-tambem-escreveu-primeira-biografia-de-pele.ghtml",
-    "image": "https://s2-g1.glbimg.com/YFzZt0T-i4N3AQSD4bbQwZrVKdw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/A/IvgD4DSNSvXcz4bUoN3A/fotojet-9-.jpg"
-  },
-  {
-    "site": "UOL",
-    "title": "Profert será votado nos próximos dias no Senado, diz senador Laércio Oliveira",
-    "url": "https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2026/07/07/profert-sera-votado-nos-proximos-dias-no-senado-diz-senador-laercio-oliveira.htm",
+    "title": "Província do Canadá prepara ação contra OpenAI por ataque a tiros em escola",
+    "url": "https://noticias.uol.com.br/ultimas-noticias/afp/2026/07/07/provincia-do-canada-prepara-acao-contra-openai-por-ataque-a-tiros-em-escola.htm",
     "image": ""
   },
   {
     "site": "CNN Brasil",
-    "title": "Mais que Balogun: especialista alerta para precedente criado pela Fifa",
-    "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/mais-que-balogun-especialista-alerta-para-precedente-criado-pela-fifa/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/07/trump-fifa-cartao.jpg?w=1200&h=630&crop=1"
+    "title": "De “The Pitt” a “Pluribus”: confira previsão para os indicados ao Emmy 2026",
+    "url": "https://www.cnnbrasil.com.br/pop/streaming/de-the-pitt-a-pluribus-confira-previsao-para-os-indicados-ao-emmy-2026/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/04/the-pitt.jpg?w=800&h=450&crop=1"
   },
   {
     "site": "Terra",
-    "title": "Imprensa internacional debocha de Trump após eliminação dos EUA",
-    "url": "https://www.terra.com.br/esportes/futebol/internacional/belgica/imprensa-internacional-debocha-de-trump-apos-eliminacao-dos-eua,4127af574db4901bf1ad64838c33ea543kmok2qw.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/07/07/1382602114-laatse-news-da-belgica.jpg"
+    "title": "Argentina busca virada épica sobre o Egito e avança às quartas da Copa do Mundo",
+    "url": "https://www.terra.com.br/esportes/futebol/argentina-busca-virada-epica-sobre-o-egito-e-avanca-as-quartas-da-copa-do-mundo,dd7956f0c2a7dcc43e0a44b86c3d266exlpjh12m.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/07/07/1648724269-argentina-v-egypt-round-of-16-fifa-world-cup-2026-5-2048x1392.jpg"
   },
   {
     "site": "BBC",
@@ -247,27 +247,27 @@
   },
   {
     "site": "G1",
-    "title": "Moradores protestam após morte de jovem e cobram mais segurança em Campos dos Goytacazes",
-    "url": "https://g1.globo.com/rj/norte-fluminense/noticia/2026/07/07/moradores-protestam-apos-morte-de-jovem-e-cobram-mais-seguranca-em-campos-dos-goytacazes.ghtml",
-    "image": "https://s2-g1.glbimg.com/sbILEv79CgZncFujUy0azso3pew=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/B/KlcAckQVKYVsiOFGYB4Q/vitima-campos.jpg"
+    "title": "Tacógrafo e câmeras de segurança: o que a polícia quer esclarecer no caso do carro arrastado por caminhão na Dutra",
+    "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/07/07/tacografo-e-cameras-de-seguranca-o-que-a-policia-quer-esclarecer-no-caso-do-carro-arrastado-por-caminhao-na-dutra.ghtml",
+    "image": "https://s2-g1.glbimg.com/3ktBBc9HrqX4NjiK8nQWHS9bG5A=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/b/yiF8hvTsqBExxRCXBsLA/texto-do-seu-paragrafo-2026-07-01t124403.009.png"
   },
   {
     "site": "UOL",
-    "title": "Trump diz que Putin e Zelensky querem 'resolver' a guerra",
-    "url": "https://noticias.uol.com.br/ultimas-noticias/afp/2026/07/07/trump-diz-que-putin-e-zelensky-querem-resolver-a-guerra.htm",
+    "title": "Preso, chefe do União Brasil no RJ diz à sigla que fuzil era de sua escolta",
+    "url": "https://noticias.uol.com.br/colunas/daniela-lima/2026/07/07/preso-chefe-do-uniao-brasil-no-rj-diz-a-sigla-que-fuzil-era-de-sua-escolta.htm",
     "image": ""
   },
   {
     "site": "CNN Brasil",
-    "title": "Remake de “Pantanal” foi escrito por neto de Benedito Ruy Barbosa",
-    "url": "https://www.cnnbrasil.com.br/pop/tv/remake-de-pantanal-foi-escrito-por-neto-de-benedito-ruy-barbosa/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2024/04/eliana-damiao-renascer.png?w=1200&h=630&crop=1"
+    "title": "Caco Ciocler celebra legado de Benedito Ruy Barbosa: “Escrevia com a alma”",
+    "url": "https://www.cnnbrasil.com.br/pop/tv/caco-ciocler-celebra-legado-de-benedito-ruy-barbosa-escrevia-com-a-alma/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/07/entrevista-caco-3.jpeg?w=1200&h=630&crop=1"
   },
   {
     "site": "Terra",
-    "title": "Ibope da TV: N Sports vira febre durante a Copa e atinge altos índices de audiência na TV por assinatura",
-    "url": "https://www.terra.com.br/diversao/tv/ibope-da-tv-n-sports-vira-febre-durante-a-copa-e-atinge-altos-indices-de-audiencia-na-tv-por-assinatura,3963e7d29458aa80568f3932d5f7fbc4wzp3k28u.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/07/07/531269304-2f34f5b5galvao-bueno-tiago-leifert1.jpg"
+    "title": "Boulos rebate Tabata Amaral após crítica sobre projetos aprovados: 'lamentável'",
+    "url": "https://www.terra.com.br/noticias/brasil/politica/boulos-rebate-tabata-amaral-apos-critica-sobre-projetos-aprovados-lamentavel,bac25615ac36e96b814f684994564db7j75w65l4.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/07/07/1763393431-7brkuoe43fb4hkqi6lejjt5jtm.jpg"
   },
   {
     "site": "BBC",
@@ -277,26 +277,26 @@
   },
   {
     "site": "G1",
-    "title": "Copa do Mundo de 2026 deve render faturamento recorde à Fifa; veja os valores",
-    "url": "https://g1.globo.com/economia/noticia/2026/07/07/copa-do-mundo-de-2026-faturamento-fifa-veja-os-valores.ghtml",
-    "image": "https://s2-g1.glbimg.com/QqFChUtGzfuLmauLTgLnfDHqOEc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/6/Nbp7SmRVqB6AQZcBcdIA/gy-g279wwaavfez.jpg"
+    "title": "Senado aprova proposta que cria 'PIX Pensão', com transferências automáticas para conta dos beneficiários",
+    "url": "https://g1.globo.com/politica/noticia/2026/07/07/senado-aprova-proposta-que-cria-pix-pensao-com-transferencias-automaticas-para-conta-dos-beneficiarios.ghtml",
+    "image": "https://s2-g1.glbimg.com/dyE5c8_HSMVmgeg6RRhm8oJVjIY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/H/l/KDENNdRx2ujoz4lrweiQ/pensao.jpg"
   },
   {
     "site": "UOL",
-    "title": "'Pantanal' original não está no streaming e só o remake da Globo pode ser visto",
-    "url": "https://www1.folha.uol.com.br/ilustrada/2026/07/pantanal-original-nao-esta-no-streaming-e-so-o-remake-da-globo-pode-ser-visto.shtml",
-    "image": "https://f.i.uol.com.br/fotografia/2020/04/01/15857533825e84ad26ce666_1585753382_3x2_rt.jpg"
+    "title": "Conheça o Zico egípcio, que assustou a Argentina nas oitavas de final da Copa",
+    "url": "https://www1.folha.uol.com.br/esporte/2026/07/conheca-o-zico-egipcio-que-assustou-a-argentina-nas-oitavas-de-final-da-copa.shtml",
+    "image": "https://f.i.uol.com.br/fotografia/2026/07/07/17834492516a4d46a393b54_1783449251_3x2_rt.jpg"
   },
   {
     "site": "CNN Brasil",
-    "title": "Que horas começa o jogo da Argentina? Veja os detalhes do duelo com Egito",
-    "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/que-horas-comeca-o-jogo-da-argentina-veja-os-detalhes-do-duelo-com-egito/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/06/GettyImages-2282792224-e1782153601108.jpg?w=1200&h=630&crop=1"
+    "title": "Charli XCX anuncia audição de “Music, Fashion, Film” em São Paulo",
+    "url": "https://www.cnnbrasil.com.br/pop/musica/charli-xcx-anuncia-audicao-de-music-fashion-film-em-sao-paulo/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/06/charli-xcx.jpg?w=1200&h=630&crop=1"
   },
   {
     "site": "Terra",
-    "title": "Vasco permanece sem treinador às vésperas de retomada da temporada",
-    "url": "https://www.terra.com.br/esportes/vasco/vasco-permanece-sem-treinador-as-vesperas-de-retomada-da-temporada,b07d6f792cdc6152eb7bfe2395ea3828ikucm60s.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/07/07/541971009-transform-6.jpg"
+    "title": "Zico, do Egito, dispara contra a arbitragem após derrota para Argentina: \"Manipulado\"",
+    "url": "https://www.terra.com.br/esportes/futebol/internacional/argentina/zico-do-egito-dispara-contra-a-arbitragem-apos-derrota-para-argentina-manipulado,35e85ec58215902bd9134d163ac36c90txj7iqmq.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/07/07/1132421740-argentina-v-egypt-round-of-16-fi-3-610x400.jpg"
   }
 ]
