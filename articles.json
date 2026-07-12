@@ -1,63 +1,213 @@
 [
   {
     "site": "BBC",
+    "title": "Carta de Bolsonaro é tentativa de desviar atenção de denúncia contra Valdemar e possível vídeo de Flávio, diz cientista político",
+    "url": "https://www.bbc.com/portuguese/articles/c3ry50lrlr7o?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/3796/live/8cc0cad0-7d65-11f1-926f-c90d1bcfbc84.png"
+  },
+  {
+    "site": "G1",
+    "title": "Após funeral de Khamenei, líder supremo do Irã diz que vingança é uma exigência que deve acontecer",
+    "url": "https://g1.globo.com/mundo/ao-vivo/eua-ataque-ira.ghtml",
+    "image": "https://s2-g1.glbimg.com/HHNCxzvLrzRLCNPmBVW_opopn8Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/r/ym5c6sTBAlq2LDa3SOMQ/fotojet-2026-07-10t174239.592.jpg"
+  },
+  {
+    "site": "UOL",
+    "title": "Bellingham celebra atuação decisiva contra a Noruega: 'Tentando ser protagonista'",
+    "url": "https://www1.folha.uol.com.br/esporte/2026/07/bellingham-celebra-atuacao-decisiva-contra-a-noruega-tentando-ser-protagonista.shtml",
+    "image": "https://f.i.uol.com.br/fotografia/2026/07/11/17838150866a52dbae3353c_1783815086_3x2_rt.jpg"
+  },
+  {
+    "site": "CNN Brasil",
+    "title": "Bellingham marca, iguala Kane e entra na briga pela artilharia da Copa",
+    "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/bellingham-marca-iguala-kane-e-entra-na-briga-pela-artilharia-da-copa/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/07/jude-bellingham.jpg?w=612&h=398&crop=1"
+  },
+  {
+    "site": "Terra",
+    "title": "Príncipe William celebra classificação da Inglaterra para as semifinais da Copa",
+    "url": "https://www.terra.com.br/esportes/principe-william-celebra-classificacao-da-inglaterra-para-as-semifinais-da-copa,6932ad07dc2714ef426742e3905e7c971iqqygbw.html",
+    "image": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png"
+  },
+  {
+    "site": "BBC",
+    "title": "Polícia investiga morte de Jayden Adams, jogador que disputou a Copa pela África do Sul",
+    "url": "https://www.bbc.com/portuguese/articles/c14y61yg648o?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/09d8/live/86c43e70-7d36-11f1-bdd6-332f561795b4.jpg"
+  },
+  {
+    "site": "G1",
+    "title": "Mateus Aleluia canta a nobreza do amor em transcendental show solo no Rio",
+    "url": "https://g1.globo.com/pop-arte/musica/blog/mauro-ferreira/post/2026/07/11/mateus-aleluia-canta-a-nobreza-do-amor-em-transcendental-show-solo-no-rio.ghtml",
+    "image": "https://s2-g1.glbimg.com/FqPlhNeUaG3fFUVXieEtG2DJSd8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/X/ChixAMSoAAgWmpe0AxtQ/mateus1.jpeg"
+  },
+  {
+    "site": "UOL",
+    "title": "Justiça de SP absolve Thiago Brennand de condenação de oito anos por estupro",
+    "url": "https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2026/07/11/justica-de-sp-absolve-thiago-brennand-de-condenacao-de-oito-anos-por-estupro.htm",
+    "image": ""
+  },
+  {
+    "site": "CNN Brasil",
+    "title": "Duas crianças morrem na Síria após balsa colidir com ponte",
+    "url": "https://www.cnnbrasil.com.br/internacional/duas-criancas-morrem-na-siria-apos-balsa-colidir-com-ponte/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/01/GettyImages-2217925535.jpg?w=1200&h=630&crop=1"
+  },
+  {
+    "site": "Terra",
+    "title": "Argentina usa faixa de luto em homenagem a Antonio Rattín",
+    "url": "https://www.terra.com.br/esportes/argentina/argentina-usa-faixa-de-luto-em-homenagem-a-antonio-rattin,563af21352cbc79e0a7f8fda089c4329xezmafdo.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/07/12/966887079-pele-antonio-rattin-bombonera.jpg"
+  },
+  {
+    "site": "BBC",
     "title": "Quem são os jogadores que vão liderar a Seleção na próxima Copa e tentar acabar com jejum do Brasil",
     "url": "https://www.bbc.com/portuguese/articles/cj4g75d4ldko?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/7479/live/01df3450-7cc6-11f1-926f-c90d1bcfbc84.jpg"
   },
   {
     "site": "G1",
-    "title": "VEJA VÍDEO: tubarão ameaçado de extinção dá salto em Ilhabela e impressiona turista: 'Fiquei em êxtase'",
-    "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/07/11/veja-video-tubarao-ameacado-de-extincao-da-salto-em-ilhabela-e-impressiona-turista-fiquei-em-extase.ghtml",
-    "image": "https://s2-g1.glbimg.com/AyNLamkdVCDaRF_7YAzTBAoMO-Y=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/G/XpfJx3RKGNcjr0OpGA6A/gif-tubarao.gif"
+    "title": "Copa de 2026 tem o pior índice de acerto de pênaltis dos últimos 60 anos, com erros até de Messi e Mbappé",
+    "url": "https://g1.globo.com/jornal-nacional/noticia/2026/07/11/copa-de-2026-tem-o-pior-indice-de-acerto-de-penaltis-dos-ultimos-60-anos-com-erros-ate-de-messi-e-mbappe.ghtml",
+    "image": "https://s2-g1.glbimg.com/gAGIVAXg1wcpSXcgAlMUadVKn2Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/y/KJjLQ0SNaIBReAJwtYKA/captura-de-tela-2026-07-11-220402.png"
   },
   {
     "site": "UOL",
-    "title": "Porsche bate em estrada de SP, pega fogo e mata motorista e passageira",
-    "url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/07/11/porsche-bate-em-estrada-de-sp-pega-fogo-e-mata-motorista-e-passageira.ghtm",
-    "image": ""
+    "title": "Uma teoria econômica pode explicar pênaltis perdidos",
+    "url": "https://www1.folha.uol.com.br/colunas/coluna-folha-stats/2026/07/uma-teoria-economica-pode-explicar-penaltis-perdidos.shtml",
+    "image": "https://f.i.uol.com.br/fotografia/2026/07/11/17838188766a52ea7ce7d8c_1783818876_3x2_rt.jpg"
   },
   {
     "site": "CNN Brasil",
-    "title": "Nanda Costa aparece em foto romântica abraçada com Emilie Rey",
-    "url": "https://www.cnnbrasil.com.br/pop/celebridades/nanda-costa-aparece-em-foto-romantica-abracada-com-emilie-rey/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/07/nanda-costa-e-emily-rey.png?w=1200&h=630&crop=1"
+    "title": "Noruega 1 x 2 Inglaterra: veja os melhores momentos das quartas da Copa",
+    "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/noruega-1-x-2-inglaterra-veja-os-melhores-momentos-das-quartas-da-copa/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/07/noruega-inglaterra.jpg?w=794&h=535&crop=1"
   },
   {
     "site": "Terra",
-    "title": "Gabriel Lima marca de novo, vira artilheiro do Ansan Greeners e garante vitória na K-League 2",
-    "url": "https://www.terra.com.br/esportes/futebol/internacional/gabriel-lima-marca-de-novo-vira-artilheiro-do-ansan-greeners-e-garante-vitoria-na-k-league-2,60827c1ade7bb3e0aa41fb5ca92161f9yq275kqi.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/07/11/996535948-img-20260711-wa0026.jpg"
+    "title": "Resultado da Lotofácil 3733 premia moradores em Rondônia e no litoral de São Paulo neste sábado",
+    "url": "https://www.terra.com.br/noticias/resultado-da-lotofacil-3733-premia-moradores-em-rondonia-e-no-litoral-de-sao-paulo-neste-sabado,642353af73e7dff9059be3bf300a4a6bkx3wyeyw.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/07/12/333454772-oportunidade-2025-12-11t185200771.jpg"
   },
   {
     "site": "BBC",
-    "title": "Liberland e Próspera: as micronações que bilionários tentam construir em nome da liberdade a qualquer custo",
+    "title": "Por que 'Wonderwall' do Oasis se tornou hino da Inglaterra na Copa do Mundo",
+    "url": "https://www.bbc.com/portuguese/articles/c78yppnxy1ko?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/8681/live/3def9c10-7d8d-11f1-bc93-cb7def7b7e6e.jpg"
+  },
+  {
+    "site": "G1",
+    "title": "VÍDEOS: Jornal Anhanguera 2ª edição deste sábado, 11 de julho de 2026",
+    "url": "https://g1.globo.com/go/goias/edicao/2026/07/11/videos-jornal-anhanguera-2-edicao-deste-sabado-11-de-julho-de-2026.ghtml",
+    "image": "https://s2-g1.glbimg.com/p3kwha4f-ddRa4hU8DcG1rcXIRE=/s01.video.glbimg.com/deo/vi/97/31/14773197"
+  },
+  {
+    "site": "UOL",
+    "title": "O lado B da Copa do Mundo",
+    "url": "https://www1.folha.uol.com.br/colunas/pvc/2026/07/o-lado-b-da-copa-do-mundo.shtml",
+    "image": "https://f.i.uol.com.br/fotografia/2026/07/11/17838176466a52e5ae37bea_1783817646_3x2_rt.jpg"
+  },
+  {
+    "site": "CNN Brasil",
+    "title": "Explosões são registradas no sul do Irã, diz mídia estatal iraniana",
+    "url": "https://www.cnnbrasil.com.br/internacional/explosoes-sao-registradas-no-sul-do-ira-diz-midia-estatal-iraniana/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/04/2026-04-14T042727Z_1_LOP230114042026RP1_RTRMADP_BASEIMAGE-960X540_IRAN-CRISIS-SHIPPING-BLOCKADE-ANIMATION.jpg?w=960&h=540&crop=1"
+  },
+  {
+    "site": "Terra",
+    "title": "\"Não estivemos bem como contra o Brasil\", lamenta técnico da Noruega",
+    "url": "https://www.terra.com.br/esportes/inglaterra/nao-estivemos-bem-como-contra-o-brasil-lamenta-tecnico-da-noruega,33c8a19b7fe73d11c9bc3171ba8a2a2bkx6734jj.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/07/12/730293898-norway-v-england-quarter-final-f-4-610x400.jpg"
+  },
+  {
+    "site": "BBC",
+    "title": "As mentiras que alimentam ataques contra profissionais de saúde que combatem o ebola: 'Disseram que não era real'",
+    "url": "https://www.bbc.com/portuguese/articles/c8024p7xyexo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/ea6e/live/88aac060-7b83-11f1-83bf-fb74961108af.jpg"
+  },
+  {
+    "site": "G1",
+    "title": "Técnico aposta na 'relação de pai e filho' para levar a Espanha à final da Copa",
+    "url": "https://g1.globo.com/jornal-nacional/noticia/2026/07/11/tecnico-aposta-na-relacao-de-pai-e-filho-para-levar-a-espanha-a-final-da-copa.ghtml",
+    "image": "https://s2-g1.glbimg.com/8-wriukOKOVxa1DwIDyaqSuAVkI=/1280x0/filters:format(jpeg)/https://thumbor.globoi.com/unsafe/fit-in/1280x720/s04.video.glbimg.com/deo/vi/75/31/14773175"
+  },
+  {
+    "site": "UOL",
+    "title": "São Sebastião: como um soldado romano brutalmente torturado até a morte foi santificado e virou ícone gay",
+    "url": "https://www1.folha.uol.com.br/cotidiano/2026/07/sao-sebastiao-como-um-soldado-romano-brutalmente-torturado-ate-a-morte-foi-santificado-e-virou-icone-gay.shtml",
+    "image": "https://f.i.uol.com.br/fotografia/2026/07/11/17838144866a52d956e2217_1783814486_3x2_xl.jpg"
+  },
+  {
+    "site": "CNN Brasil",
+    "title": "Cartaz de “Vingadores: Doutor Destino” revela elenco completo; veja",
+    "url": "https://www.cnnbrasil.com.br/pop/cinema/carta-de-vingadores-doutor-destino-revela-elenco-completo-da-trama-veja/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/07/1-vingadores.webp?w=559&h=427&crop=1"
+  },
+  {
+    "site": "Terra",
+    "title": "Não é só artilheiro: Messi se isola como maior 'garçom' das Copas após assistência em gol contra a Suíça",
+    "url": "https://www.terra.com.br/esportes/futebol/copa-2026/nao-e-so-artilheiro-messi-se-isola-como-maior-garcom-das-copas-apos-assistencia-em-gol-contra-a-suica,dbaa7a62b306dc2948b44e5a8f55fbccaihxtry5.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/07/12/gettyimages-2285123064-rhrp34bm0h12.jpg"
+  },
+  {
+    "site": "BBC",
+    "title": "São Sebastião: como um soldado romano brutalmente torturado até a morte foi santificado e virou ícone gay",
+    "url": "https://www.bbc.com/portuguese/articles/czj8gvl12dgo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/0092/live/c8b1f130-73ac-11f1-8546-8f19e4fe30f4.jpg"
+  },
+  {
+    "site": "G1",
+    "title": "Como Michael Olise se tornou o maestro da França na Copa",
+    "url": "https://g1.globo.com/jornal-nacional/noticia/2026/07/11/como-michael-olise-se-tornou-o-maestro-da-franca-na-copa.ghtml",
+    "image": "https://s2-g1.glbimg.com/aMBEL9DqAcsFCpNuw-YVRR2bpGw=/1280x0/filters:format(jpeg)/https://thumbor.globoi.com/unsafe/fit-in/1280x720/s02.video.glbimg.com/deo/vi/81/31/14773181"
+  },
+  {
+    "site": "UOL",
+    "title": "Dior e Armani ousam na alta-costura em Paris para fugir da irrelevância",
+    "url": "https://www1.folha.uol.com.br/ilustrada/2026/07/dior-e-armani-ousam-na-alta-costura-em-paris-para-fugir-da-irrelevancia.shtml",
+    "image": "https://f.i.uol.com.br/fotografia/2026/07/11/17838085556a52c22b022c3_1783808555_3x2_rt.jpg"
+  },
+  {
+    "site": "CNN Brasil",
+    "title": "Fifa esclarece polêmica do gol da Inglaterra com uso de sensor; entenda",
+    "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/fifa-esclarece-polemica-do-gol-da-inglaterra-com-o-uso-de-sensor-entenda/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/07/polemica_gol_inglaterra-e1783814777313.jpeg?w=1200&h=630&crop=1"
+  },
+  {
+    "site": "Terra",
+    "title": "\"Não há mais o que dizer\": motor do meio-campo, Bellingham impõe sua autoridade",
+    "url": "https://www.terra.com.br/esportes/nao-ha-mais-o-que-dizer-motor-do-meio-campo-bellingham-impoe-sua-autoridade,5749eccef0ad27492d8dbba36e226776qe992e68.html",
+    "image": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png"
+  },
+  {
+    "site": "BBC",
+    "title": "As micronações que bilionários das criptomoedas tentam construir em nome da liberdade a qualquer custo",
     "url": "https://www.bbc.com/portuguese/articles/cm2jdrrdv1zo?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/235b/live/fb5baae0-7b68-11f1-936a-038dbfe02d14.jpg"
   },
   {
     "site": "G1",
-    "title": "Batida entre dois carros deixa um morto e quatro feridos na BR-267 em Juiz de Fora",
-    "url": "https://g1.globo.com/mg/zona-da-mata/noticia/2026/07/11/batida-entre-dois-carros-deixa-um-morto-e-quatro-feridos-na-br-267-em-juiz-de-fora.ghtml",
-    "image": "https://s2-g1.glbimg.com/xLiD4X0TTvrFoKF6CDIV5Z5DQ7U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/y/0t0qVBQgSh5s6a0TyNbQ/whatsapp-image-2026-07-11-at-15.25.21.jpeg"
+    "title": "Peppino di Capri, cantor do sucesso italiano 'Champagne', morre aos 86 anos",
+    "url": "https://g1.globo.com/jornal-nacional/noticia/2026/07/11/peppino-di-capri-cantor-do-sucesso-italiano-champagne-morre-aos-86-anos.ghtml",
+    "image": "https://s2-g1.glbimg.com/7Je_PuGIgZUSrkImfWgVYq4w7I8=/1280x0/filters:format(jpeg)/https://thumbor.globoi.com/unsafe/fit-in/1280x720/s02.video.glbimg.com/deo/vi/61/31/14773161"
   },
   {
     "site": "UOL",
-    "title": "Número de mortos em terremotos na Venezuela subiu para 4.333, diz presidente da Assembleia Nacional",
-    "url": "https://noticias.uol.com.br/ultimas-noticias/reuters/2026/07/11/numero-de-mortos-em-terremotos-na-venezuela-subiu-para-4333-diz-presidente-da-assembleia-nacional.htm",
+    "title": "Inglaterra vence Noruega (2-1) na prorrogação e vai à semifinal da Copa do Mundo",
+    "url": "https://noticias.uol.com.br/ultimas-noticias/afp/2026/07/11/inglaterra-vence-noruega-2-1-na-prorrogacao-e-vai-a-semifinal-da-copa-do-mundo.htm",
     "image": ""
   },
   {
     "site": "CNN Brasil",
-    "title": "Virginia desembarca na Itália após estadia na casa de Vini Jr.",
-    "url": "https://www.cnnbrasil.com.br/pop/celebridades/virginia-desembarca-na-italia-apos-estadia-na-casa-de-vini-jr/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/07/virginia-fonseca.jpg?w=956&h=506&crop=1"
+    "title": "Trinidad e Tobago assina acordos com empresas dos EUA para data centers",
+    "url": "https://www.cnnbrasil.com.br/economia/macroeconomia/trinidad-e-tobago-assina-acordos-com-empresas-dos-eua-para-instalacao-de-data-centers/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/06/2026-06-11T144551Z_1_LYNXMPEM5A13S_RTROPTP_4_USA-DATA-CENTERS-POLL.jpg?w=1200&h=630&crop=1"
   },
   {
     "site": "Terra",
-    "title": "Rayan visita o Vasco após disputar a Copa do Mundo e reencontra elenco no CT",
-    "url": "https://www.terra.com.br/esportes/vasco/rayan-visita-o-vasco-apos-disputar-a-copa-do-mundo-e-reencontra-elenco-no-ct,78e6a28b04d6238c890791f1aba83007erw1g2zm.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/07/11/1581079314-hm9lfwbxcaaeihieasy-resizecom-610x400.jpg"
+    "title": "Mega-Sena 3030 acumula e prêmio principal sobe para R$ 25 milhões no sorteio de terça-feira",
+    "url": "https://www.terra.com.br/noticias/mega-sena-3030-acumula-e-premio-principal-sobe-para-r-25-milhoes-no-sorteio-de-terca-feira,22a8bdb08087ab6c192f3ae7b57b3ce6i0r2ohos.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/07/12/1799989943-mega-sena-numeros-sorteados-premio-acumula.jpg"
   },
   {
     "site": "BBC",
@@ -67,27 +217,27 @@
   },
   {
     "site": "G1",
-    "title": "Adolescente e mulher grávida são detidos suspeitos de tráfico de drogas em Boa Vista",
-    "url": "https://g1.globo.com/rr/roraima/noticia/2026/07/11/adolescente-e-mulher-gravida-sao-detidos-suspeitos-de-trafico-de-drogas-em-boa-vista.ghtml",
-    "image": "https://s2-g1.glbimg.com/nwdIowTXwwZh5ReuZzh_WulhhVw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/k/G8ddYkQXaRXwAQo3i0bQ/drogas-1-.png"
+    "title": "Resultados das Loterias Caixa",
+    "url": "https://g1.globo.com/loterias/sorteios-caixa/ao-vivo/resultado-loterias-caixa.ghtml",
+    "image": "https://s2-g1.glbimg.com/TYUj5G-ZAz5mYqN0uQwgnihJsmM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/O/HbhSAMTXWWGVQevkl8bQ/captura-de-tela-2026-06-25-205539.png"
   },
   {
     "site": "UOL",
-    "title": "Linda Noskova vence Muchova em final tcheca e é campeã em Wimbledon",
-    "url": "https://www1.folha.uol.com.br/esporte/2026/07/linda-noskova-vence-muchova-em-final-tcheca-e-e-campea-em-wimbledon.shtml",
-    "image": "https://f.i.uol.com.br/fotografia/2026/07/11/17837937496a52885510a84_1783793749_3x2_rt.jpg"
+    "title": "'Complicamos a nossa vida hoje', diz Tuchel, apesar da vitória da Inglaterra",
+    "url": "https://noticias.uol.com.br/ultimas-noticias/afp/2026/07/11/complicamos-a-nossa-vida-hoje-diz-tuchel-apesar-da-vitoria-da-inglaterra.htm",
+    "image": ""
   },
   {
     "site": "CNN Brasil",
-    "title": "Governo bloqueia acesso a bets de 2,8 mi que recebem Bolsa Família ou BPC",
-    "url": "https://www.cnnbrasil.com.br/politica/governo-bloqueia-acesso-a-bets-de-28-mi-que-recebem-bolsa-familia-ou-bpc/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/Reuters_Direct_Media/BrazilOnlineReportBusinessNews/tagreuters.com2025binary_LYNXMPELAB15P-BASEIMAGE.jpg?w=800&h=534&crop=1"
+    "title": "Ivete Sangalo e namorado Tiago Maia curtem show de Belo aos beijos; veja",
+    "url": "https://www.cnnbrasil.com.br/pop/celebridades/ivete-sangalo-e-namorado-tiago-maia-curtem-show-de-belo-aos-beijos-veja/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/07/1-1W2A4287.jpg?w=1200&h=630&crop=1"
   },
   {
     "site": "Terra",
-    "title": "Trump volta a elogiar a própria saúde em postagem sobre exame médico realizado em maio",
-    "url": "https://www.terra.com.br/noticias/mundo/trump-volta-a-elogiar-a-propria-saude-em-postagem-sobre-exame-medico-realizado-em-maio,a005b4985476697a2cc4e51e3817726bwfifuj1j.html",
-    "image": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png"
+    "title": "Santos tem dúvidas para duelo com o Botafogo",
+    "url": "https://www.terra.com.br/esportes/santos/santos-tem-duvidas-para-duelo-com-o-botafogo,de914a0246490d2989f7665eef8a9ab8s8bvflzu.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/07/12/229579145-5518478471997d749f1e7o-610x400.jpg"
   },
   {
     "site": "BBC",
@@ -97,177 +247,27 @@
   },
   {
     "site": "G1",
-    "title": "Penúltimo dia da Festa do Peão de Salto de Pirapora recebe apresentação do Trio Parada Dura",
-    "url": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/07/11/penultimo-dia-da-festa-do-peao-de-salto-de-pirapora-recebe-apresentacao-do-trio-parada-dura.ghtml",
-    "image": "https://s2-g1.glbimg.com/-xg8AVdFfNN3sCSqBPHkw54LGLA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/B/UqtAYCT9AL0dZGJ44j8A/whatsapp-image-2026-07-08-at-19.13.13-1-.jpeg"
+    "title": "Expedição com pesquisadores brasileiros e estrangeiros mapeia sistema de cavernas no MT",
+    "url": "https://g1.globo.com/jornal-nacional/noticia/2026/07/11/expedicao-com-pesquisadores-brasileiros-e-estrangeiros-mapeia-sistema-de-cavernas-no-mt.ghtml",
+    "image": "https://s2-g1.glbimg.com/U39f7cYZvOlsBs5M64YIB9Gqfnk=/1280x0/filters:format(jpeg)/https://thumbor.globoi.com/unsafe/fit-in/1280x720/s04.video.glbimg.com/deo/vi/59/31/14773159"
   },
   {
     "site": "UOL",
-    "title": "Com ventos de até 145 km/h, tufão Bavi atinge o leste da China e leva quase 2 milhões de pessoas a deixar suas casas",
-    "url": "https://noticias.uol.com.br/ultimas-noticias/rfi/2026/07/11/com-ventos-de-ate-145-kmh-tufao-bavi-atinge-o-leste-da-china-e-leva-quase-2-milhoes-de-pessoas-a-deixar-suas-casas.htm",
+    "title": "Albaneses protestam contra Kanye West e complexo turístico ligado a Donald Trump",
+    "url": "https://noticias.uol.com.br/ultimas-noticias/afp/2026/07/11/albaneses-protestam-contra-kanye-west-e-complexo-turistico-ligado-a-donald-trump.htm",
     "image": ""
   },
   {
     "site": "CNN Brasil",
-    "title": "Lamine Yamal ganha camisa do Santos autografada por Neymar",
-    "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/lamine-yamal-ganha-camisa-do-santos-autografada-por-neymar/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/06/lamine-yamalc-e1782065807136.jpg?w=1200&h=630&crop=1"
+    "title": "EUA lançam nova rodada de ataques contra o Irã no Estreito de Ormuz",
+    "url": "https://www.cnnbrasil.com.br/internacional/eua-lancam-nova-rodada-de-ataques-contra-o-ira-em-ormuz/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/06/EUA-atacam-radares-de-vigilancia-costeira-do-Ira.jpg?w=960&h=540&crop=1"
   },
   {
     "site": "Terra",
-    "title": "Xuxa, aos 63 anos, sobre envelhecimento e despedida dos palcos: 'Estou realmente velha. A nave vai se aposentar, mas quero levantar a bandeira LGBT+ e dar voz às crianças abusadas, como eu fui'",
-    "url": "https://www.terra.com.br/diversao/xuxa-aos-63-anos-sobre-envelhecimento-e-despedida-dos-palcos-estou-realmente-velha-a-nave-vai-se-aposentar-mas-quero-levantar-a-bandeira-lgbt-e-dar-voz-as-criancas-abusadas-como-eu-fui,9cd2af7d4aa3abaf5ad5761e813290540m4eu1jn.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/07/11/1531072864-684f21d119b351ae-1400x823-2.jpg"
-  },
-  {
-    "site": "BBC",
-    "title": "'Uma refeição nas férias me deixou com 38 parasitas no cérebro'",
-    "url": "https://www.bbc.com/portuguese/articles/ckg8lr7mrgjo?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/ea65/live/801b8d10-74c3-11f1-b3a4-17c48cb4ee82.jpg"
-  },
-  {
-    "site": "G1",
-    "title": "Festa em tabacaria termina com 25 adolescentes conduzidos à delegacia em MT; vídeo",
-    "url": "https://g1.globo.com/mt/mato-grosso/noticia/2026/07/11/festa-em-tabacaria-termina-com-25-adolescentes-conduzidos-a-delegacia-em-mt-video.ghtml",
-    "image": "https://s2-g1.glbimg.com/mHY5gRapVK3XdylD8p3RCeyB05w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/X/nN4CPGQWuTfeImJxwwPg/foto-g1-2026-07-11t142010.792.png"
-  },
-  {
-    "site": "UOL",
-    "title": "Carro invade linha de trem em SP e motorista é detido por suspeita de embriaguez",
-    "url": "https://www1.folha.uol.com.br/cotidiano/2026/07/carro-invade-linha-de-trem-em-sp-e-motorista-e-detido-por-suspeita-de-embriaguez.shtml",
-    "image": "https://f.i.uol.com.br/fotografia/2026/07/11/17837947106a528c1634129_1783794710_3x2_lg.jpg"
-  },
-  {
-    "site": "CNN Brasil",
-    "title": "“Quem Ama Cuida” vai ter capítulo maior neste sábado",
-    "url": "https://www.cnnbrasil.com.br/pop/tv/quem-ama-cuida-vai-ter-capitulo-maior-neste-sabado/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/07/quem-ama-cuida.jpg?w=1200&h=630&crop=1"
-  },
-  {
-    "site": "Terra",
-    "title": "Wonderwall x remada viking: torcidas de Inglaterra e Noruega marcam a Copa e uma se despede hoje",
-    "url": "https://www.terra.com.br/esportes/futebol/wonderwall-x-remada-viking-torcidas-de-inglaterra-e-noruega-marcam-a-copa-e-uma-se-despede-hoje,54942bbbed9cfc8ab5d42991ba45499d531mqac6.html",
-    "image": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png"
-  },
-  {
-    "site": "BBC",
-    "title": "Por que PF e Flávio Dino apontam presidente do PL como suspeito de indicar emendas irregularmente",
-    "url": "https://www.bbc.com/portuguese/articles/cevl3dzjdpzo?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/d092/live/95c089b0-7d13-11f1-b61e-1b6852ddc42f.jpg"
-  },
-  {
-    "site": "G1",
-    "title": "Vídeos do g1 Bahia e TV Bahia - sábado, 11 de julho de 2026",
-    "url": "https://g1.globo.com/ba/bahia/edicao/2026/07/11/videos-do-g1-bahia-e-tv-bahia-sabado-11-de-julho-de-2026.ghtml",
-    "image": "https://s2-g1.glbimg.com/IpS2gqcKsC_yNzVWUt1_Z8hMjj0=/s01.video.glbimg.com/deo/vi/31/17/14771731"
-  },
-  {
-    "site": "UOL",
-    "title": "Veja onde assistir Noruega x Inglaterra pela Copa do Mundo neste sábado (11)",
-    "url": "https://tnonline.uol.com.br/noticias/esportes/veja-onde-assistir-noruega-x-inglaterra-pela-copa-do-mundo-neste-sabado-11-1117160",
-    "image": "https://cdn.tnonline.com.br/img/Artigo-Destaque/1110000/1200x630/a-inglaterra-chega-para-o-confronto-vinda-de-duas--01117160-0-202607111539/ScaleProportionalFillBackground-1.jpg?fallback=https%3A%2F%2Fcdn.tnonline.com.br%2Fimg%2FArtigo-Destaque%2F1110000%2Fa-inglaterra-chega-para-o-confronto-vinda-de-duas--01117160-0-202607111539.jpg%3Fxid%3D1773496&xid=1773496"
-  },
-  {
-    "site": "CNN Brasil",
-    "title": "Companheiros prestam homenagens ao meio-campista Jayden Adams",
-    "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/companheiros-prestam-homenagens-ao-meio-campista-jayden-adams/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/07/Jayden-Adams-e1783776724251.jpeg?w=960&h=540&crop=1"
-  },
-  {
-    "site": "Terra",
-    "title": "Dalton Mello, pai dos atores Selton e Danton, morre aos 84 anos; leia homenagem do filho",
-    "url": "https://www.terra.com.br/diversao/gente/dalton-mello-pai-dos-atores-selton-e-danton-morre-aos-84-anos-leia-homenagem-do-filho,857188e4307b5542622701ceb7527a5em8uqfs5d.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/07/11/1112097756-wsqbmxfvifdvtcpeq5tredfooy.jpg"
-  },
-  {
-    "site": "BBC",
-    "title": "Haaland: nascido na Inglaterra, artilheiro da Noruega está prestes a ver 'seus mundos colidirem'",
-    "url": "https://www.bbc.com/portuguese/articles/ckg5e0d7519o?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/6dc4/live/366a8e30-7add-11f1-9510-1546718f668b.jpg"
-  },
-  {
-    "site": "G1",
-    "title": "Acusada de matar o marido em 2021 volta a ser presa por morte de novo companheiro",
-    "url": "https://g1.globo.com/ce/ceara/noticia/2026/07/11/acusada-de-matar-o-marido-em-2021-volta-a-ser-presa-por-morte-de-novo-companheiro.ghtml",
-    "image": "https://s2-g1.glbimg.com/vGEYZL4GFKm2rItSCqaEPKYIJXk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/t/Gejd3ORtqP7Qo31teXdg/mulher-presa-por-homicidio.jpg"
-  },
-  {
-    "site": "UOL",
-    "title": "Peptídeos são tendência nos cosméticos, mas ainda oferecem riscos",
-    "url": "https://www1.folha.uol.com.br/equilibrio/2026/07/peptideos-sao-tendencia-nos-cosmeticos-mas-ainda-oferecem-riscos.shtml",
-    "image": "https://f.i.uol.com.br/fotografia/2026/07/08/17835472196a4ec553129a0_1783547219_3x2_rt.jpg"
-  },
-  {
-    "site": "CNN Brasil",
-    "title": "EUA intimam jornalistas do New York Times por matéria sobre Air Force One",
-    "url": "https://www.cnnbrasil.com.br/internacional/eua-intimam-jornalistas-do-new-york-times-por-materia-sobre-air-force-one/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/07/GettyImages-2284164718.jpg?w=1200&h=630&crop=1"
-  },
-  {
-    "site": "Terra",
-    "title": "Peppino di Capri chegou a abrir shows para os Beatles",
-    "url": "https://www.terra.com.br/diversao/musica/meu-sonora/pop-internacional/peppino-di-capri-chegou-a-abrir-shows-para-os-beatles,250c84ee29813f13ad4646a5742518d49kpghk4x.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/07/11/853647126-1783793378675-frkb8f.jpg"
-  },
-  {
-    "site": "BBC",
-    "title": "Como profissionais de IA estão inflacionando os imóveis na Califórnia - e expulsando famílias de suas casas",
-    "url": "https://www.bbc.com/portuguese/articles/clyr4y2ev0vo?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/6c6c/live/84338380-79eb-11f1-b976-0b9c15b0ccfc.jpg"
-  },
-  {
-    "site": "G1",
-    "title": "Filho e viúva de guarda morto em serviço deverão receber indenização de R$ 100 mil após decisão do TJ-BA",
-    "url": "https://g1.globo.com/ba/bahia/noticia/2026/07/11/indenizacao-guarda-morto.ghtml",
-    "image": "https://s2-g1.glbimg.com/_79ouBtUD4xl-NmSl62vVVoz6Hg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2019/h/F/LByQ0PTP2wTb8BukAluw/whatsapp-image-2019-10-16-at-11.25.20.jpeg"
-  },
-  {
-    "site": "UOL",
-    "title": "Moraes concede liberdade provisória a Márcio Canella, ex-prefeito flagrado com fuzil no carro",
-    "url": "https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2026/07/11/moraes-concede-liberdade-provisoria-a-marcio-canella-ex-prefeito-flagrado-com-fuzil-no-carro.htm",
-    "image": ""
-  },
-  {
-    "site": "CNN Brasil",
-    "title": "Botafogo inclui revelação da base em negociação por Gabriel Batista",
-    "url": "https://www.cnnbrasil.com.br/esportes/futebol/botafogo/botafogo-inclui-revelacao-da-base-em-negociacao-por-gabriel-batista/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/07/gabriel-batista-goleiro-e1783793585758.jpeg?w=1200&h=630&crop=1"
-  },
-  {
-    "site": "Terra",
-    "title": "Mauro Beting chama Yamal de 'monstro' e diz que Espanha pode 'virar a chave de vez' contra a França",
-    "url": "https://www.terra.com.br/esportes/futebol/mauro-beting-chama-yamal-de-monstro-e-diz-que-espanha-pode-virar-a-chave-de-vez-contra-a-franca,f1e373a7fda9e71f1bb828204da2c3fc3m30kaoa.html",
-    "image": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png"
-  },
-  {
-    "site": "BBC",
-    "title": "A Copa dos pênaltis perdidos — a 'paradinha' virou um problema?",
-    "url": "https://www.bbc.com/portuguese/articles/ce3707lnzgyo?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/6d06/live/1b7972a0-7be4-11f1-9e76-bb53cc291deb.jpg"
-  },
-  {
-    "site": "G1",
-    "title": "Pai dos atores Selton e Danton Mello morre aos 84 anos: 'Meu melhor amigo foi descansar'",
-    "url": "https://g1.globo.com/mg/sul-de-minas/noticia/2026/07/11/natural-de-passos-mg-pai-dos-atores-selton-e-danton-mello-morre-aos-84-anos.ghtml",
-    "image": "https://s2-g1.glbimg.com/2xPOmjYNPNqzAXEJkRokPkqjmBo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/k/Y/DrODw1Sv6BVZVA63LTyA/seltonmello.jpg"
-  },
-  {
-    "site": "UOL",
-    "title": "AGU rejeita argumentos da Enel e defende continuidade de processo para cassar concessão em SP",
-    "url": "https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2026/07/11/agu-rejeita-argumentos-da-enel-e-defende-continuidade-de-processo-para-cassar-concessao-em-sp.htm",
-    "image": ""
-  },
-  {
-    "site": "CNN Brasil",
-    "title": "Colonos israelenses atacam jornalistas e equipe da CNN na Cisjordânia",
-    "url": "https://www.cnnbrasil.com.br/internacional/colonos-israelenses-atacam-jornalistas-e-equipe-da-cnn-na-cisjordania/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/07/image_a2f885.jpg?w=536&h=299&crop=1"
-  },
-  {
-    "site": "Terra",
-    "title": "O que propõe o controverso plano de governo da AfD",
-    "url": "https://www.terra.com.br/noticias/o-que-propoe-o-controverso-plano-de-governo-da-afd,2298ba572953a4e2466c315a3845d79dc8cch0en.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/07/11/986944210-77537984354.jpg"
+    "title": "'Quem não pula é inglês': torcida argentina sobe o tom em provocação histórica contra Inglaterra",
+    "url": "https://www.terra.com.br/esportes/futebol/copa-2026/quem-nao-pula-e-ingles-torcida-argentina-sobe-o-tom-em-provocacao-historica-contra-inglaterra,f92dfaf112f2356f0051ecd27f50c41fp9iouqiq.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/07/07/813516979-messi.jpg"
   },
   {
     "site": "BBC",
@@ -277,26 +277,26 @@
   },
   {
     "site": "G1",
-    "title": "Álbum que pôs o pianista Sergio Mendes no mapa-múndi do pop é reeditado em LP 60 anos após o lançamento em 1966",
-    "url": "https://g1.globo.com/pop-arte/musica/blog/mauro-ferreira/post/2026/07/11/album-que-pos-o-pianista-sergio-mendes-no-mapa-mundi-do-pop-e-reeditado-em-lp-60-anos-apos-o-lancamento-em-1966.ghtml",
-    "image": "https://s2-g1.glbimg.com/JmVUdYVkAydlQm6vtPT_Lbkh6AU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/b/BiuygnT8qnTnLknjGroA/sergiomendes66.jpg"
+    "title": "+Milionária hoje: resultado do concurso 371 e números sorteados",
+    "url": "https://g1.globo.com/loterias/milionaria/noticia/2026/07/11/milionaria-hoje-resultado-do-concurso-371-e-numeros-sorteados.ghtml",
+    "image": "https://s2-g1.glbimg.com/GFSvLi1kIGVFtUTLVAmbXMQEvgo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/S/r3G7iaQxOAbPuAYrmFyQ/maismilionaria-371-bhabo.jpeg"
   },
   {
     "site": "UOL",
-    "title": "O meu nome é Valdemar, candidato a criminoso habitual",
-    "url": "https://noticias.uol.com.br/colunas/walter-maierovitch/2026/07/11/o-meu-nome-e-valdemar-candidato-a-criminoso-habitual.htm",
-    "image": ""
+    "title": "Noruega e Inglaterra têm duelo apagado de goleadores na Copa do Mundo",
+    "url": "https://www1.folha.uol.com.br/esporte/2026/07/noruega-e-inglaterra-tem-duelo-apagado-de-goleadores-na-copa-do-mundo.shtml",
+    "image": "https://f.i.uol.com.br/fotografia/2026/07/11/17838101636a52c87310bff_1783810163_3x2_rt.jpg"
   },
   {
     "site": "CNN Brasil",
-    "title": "Análise: fala de Jesus evidencia que Neymar não deveria ter ido à Copa",
-    "url": "https://www.cnnbrasil.com.br/esportes/futebol/selecao-brasileira/analise-fala-de-jesus-evidencia-que-neymar-nao-deveria-ter-ido-a-copa/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/07/ney-triste-e1783375072703.webp?w=660&h=372&crop=1"
+    "title": "Bellingham decide na prorrogação, e Inglaterra elimina Noruega na Copa",
+    "url": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/bellingham-decide-na-prorrogacao-e-inglaterra-elimina-noruega-na-copa/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/07/jude-bellingham-fifa-e1783813358959.jpeg?w=612&h=345&crop=1"
   },
   {
     "site": "Terra",
-    "title": "Carolina Ferraz revela duas regras 'imprescindíveis' que tem com suas filhas: 'Eu que mando'",
-    "url": "https://www.terra.com.br/vida-e-estilo/carolina-ferraz-revela-duas-regras-imprescindiveis-que-tem-com-suas-filhas-eu-que-mando,3763da7b0a0916764a11da7e12b0d1b6yi68ns9i.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/07/11/994411854-capa-bons-fluidos-2026-07-10t164122775.jpg"
+    "title": "\"Quando se tem Jude Bellingham sempre há uma chance\"; confira a repercussão internacional da classificação da Inglaterra",
+    "url": "https://www.terra.com.br/esportes/futebol/copa-2026/quando-se-tem-jude-bellingham-sempre-ha-uma-chance-confira-a-repercussao-internacional-da-classificacao-da-inglaterra,b229c7baa7420b13c10b153c0f0b3282l86ld18d.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/07/12/the_sun-us08vflvavjm.png"
   }
 ]
