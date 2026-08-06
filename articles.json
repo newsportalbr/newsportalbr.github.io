@@ -1,33 +1,63 @@
 [
   {
     "site": "BBC",
+    "title": "Por que ministro da Defesa diz que Brasil teria que só 'abrir o portão' aos EUA em caso de ataque (mesmo após alta de 13% nos gastos militares)",
+    "url": "https://www.bbc.com/portuguese/articles/c0l57xn5jwzo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/03a1/live/288a9c30-8ff8-11f1-b2a2-11d8521bf2f1.jpg"
+  },
+  {
+    "site": "G1",
+    "title": "Golpe da antena falsa: criminosos bloqueiam sinal das operadoras para tirar dinheiro de vítimas",
+    "url": "https://g1.globo.com/tecnologia/noticia/2026/08/06/golpe-da-antena-falsa-criminosos-bloqueiam-sinal-das-operadoras-para-tirar-dinheiro-de-vitimas.ghtml",
+    "image": "https://s2-g1.glbimg.com/59TZmRVnKnSorVsjsl0wndoDgTU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/H/b/I7fWQGR0KBtBgHGH3ULw/antena-falsa.png"
+  },
+  {
+    "site": "UOL",
+    "title": "São Paulo deve ter chuva isolada e ventania na tarde desta quinta (6)",
+    "url": "https://www1.folha.uol.com.br/cotidiano/2026/08/sao-paulo-deve-ter-chuva-isolada-e-ventania-na-tarde-desta-quinta-6.shtml",
+    "image": "https://f.i.uol.com.br/fotografia/2026/08/05/17859784196a73de33c4030_1785978419_3x2_lg.jpg"
+  },
+  {
+    "site": "CNN Brasil",
+    "title": "Arcfox T1: conheça o hatch elétrico que promete incomodar BYD e Geely",
+    "url": "https://www.cnnbrasil.com.br/auto/arcfox-t1-conheca-o-hatch-eletrico-que-promete-incomodar-byd-e-geely/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/08/arcfox_t144-e1785692538562.jpeg?w=1200&h=630&crop=1"
+  },
+  {
+    "site": "Terra",
+    "title": "Por que ministro da Defesa diz que Brasil teria que só 'abrir o portão' aos EUA em caso de ataque (mesmo após alta de 13% nos gastos militares)",
+    "url": "https://www.terra.com.br/noticias/brasil/por-que-ministro-da-defesa-diz-que-brasil-teria-que-so-abrir-o-portao-aos-eua-em-caso-de-ataque-mesmo-apos-alta-de-13-nos-gastos-militares,6b0226c2c4205096c606ba05cb2342668qezd3a6.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/06/1465344079-288a9c30-8ff8-11f1-b2a2-11d8521bf2f1.jpg"
+  },
+  {
+    "site": "BBC",
     "title": "Acusação de estupro, 'arma contra Lulinha' e Arthur Lira mais perto do Senado: os impactos de Alfredo Gaspar como vice de Flávio Bolsonaro",
     "url": "https://www.bbc.com/portuguese/articles/cz6483j0g42o?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/8526/live/2dedd310-9109-11f1-b2ab-0dd01740f9f6.jpg"
   },
   {
     "site": "G1",
-    "title": "Três homens, entre eles pai e filho, morrem afogados enquanto pescavam em MG",
-    "url": "https://g1.globo.com/mg/grande-minas/noticia/2026/08/05/tres-homens-entre-eles-pai-e-filho-morrem-afogados-enquanto-pescavam-em-mg.ghtml",
-    "image": "https://s2-g1.glbimg.com/2-qn8sFsITYbHe6Hoz6hsLYdmuQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/2/hQkVDjRuuOzCcq11dQUw/1200x675-9-.jpg"
+    "title": "Rio Innovation Week: maior navio de guerra da América Latina sedia exposição de arte digital e campeonato de e-sports",
+    "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/08/06/rio-innovation-week-maior-navio-de-guerra-da-america-latina-sedia-exposicao-de-arte-digital-e-campeonato-de-e-sports.ghtml",
+    "image": "https://s2-g1.glbimg.com/WYPXaFi5nUGYEXiOI5I6D5ecCxA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/4/kpaYqZTueqTwaL6elZBA/g1-navio1.jpeg"
   },
   {
     "site": "UOL",
-    "title": "Lula defende a aliados investigação sobre assessor, mas diz ser normal fazer empréstimos",
-    "url": "https://www1.folha.uol.com.br/poder/2026/08/lula-defende-a-aliados-investigacao-sobre-assessor-mas-diz-ser-normal-fazer-emprestimos.shtml",
-    "image": "https://f.i.uol.com.br/fotografia/2026/08/04/17858562256a7200e143de1_1785856225_3x2_rt.jpg"
+    "title": "Planos de saúde validam laudos e comprometem independência de junta médica | Podcast UOL Prime #134",
+    "url": "https://noticias.uol.com.br/videos/2026/08/06/uol-prime-134-planos-de-saude.htm",
+    "image": ""
   },
   {
     "site": "CNN Brasil",
-    "title": "Judicialização é principal fonte de insegurança jurídica, diz desembargador",
-    "url": "https://www.cnnbrasil.com.br/infra/judicializacao-e-principal-fonte-de-inseguranca-juridica-diz-desembargador/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/08/Bia-O-Money.jpg?w=1200&h=630&crop=1"
+    "title": "Copel não deve participar dos leilões de transmissão e baterias, diz CEO",
+    "url": "https://www.cnnbrasil.com.br/infra/copel-nao-deve-participar-dos-leiloes-de-transmissao-e-baterias-diz-ceo/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2023/01/leilao-.png?w=1200&h=630&crop=1"
   },
   {
     "site": "Terra",
-    "title": "Luís Castro exalta união no Grêmio: \"De braços dados\"",
-    "url": "https://www.terra.com.br/esportes/gremio/luis-castro-exalta-uniao-no-gremio-de-bracos-dados,a1e776693db1dda3f17d87e44030ddcba0o4kr8z.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/06/579777692-554443485373c7077ba0ao-610x400.jpg"
+    "title": "Cuscuz de micro-ondas: receita prática e saudável que fica pronta em poucos minutos",
+    "url": "https://www.terra.com.br/vida-e-estilo/degusta/receitas/cuscuz-de-micro-ondas-receita-pratica-e-saudavel-que-fica-pronta-em-poucos-minutos,347cee7877417f968a6af4c04294094cz549tlw3.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/06/1282561209-cuscuz-de-micro-ondas-2.jpg"
   },
   {
     "site": "BBC",
@@ -37,27 +67,27 @@
   },
   {
     "site": "G1",
-    "title": "Federação União Progressista lança Pastor Isamar como candidato ao Senado por Roraima",
-    "url": "https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/08/05/federacao-uniao-progressista-lanca-pastor-isamar-como-candidato-ao-senado-por-roraima.ghtml",
-    "image": "https://s2-g1.glbimg.com/BFWChhVCLT3IfD3hVfotABKTJfU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/6/lIBgB4SJeggTBQwg6ktw/isamar.jpeg"
+    "title": "Consulte a nota de escolas do Vale do Paraíba e região bragantina segundo o Ideb 2025",
+    "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/08/06/consulte-a-nota-de-escolas-do-vale-do-paraiba-e-regiao-bragantina-segundo-o-ideb-2025.ghtml",
+    "image": "https://s2-g1.glbimg.com/nkG7VQrUuRJe2fPfXyVQAMUafe8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/B/OUnxWaQbyEWZ4bFm7HAw/whatsapp-image-2026-08-05-at-17.54.13.jpeg"
   },
   {
     "site": "UOL",
-    "title": "Gilmar aguarda PF e PGR para decidir se autoriza inquérito contra vice de Flávio sob suspeita de estupro de vulnerável",
-    "url": "https://www1.folha.uol.com.br/poder/2026/08/gilmar-aguarda-pf-e-pgr-para-decidir-se-autoriza-inquerito-contra-vice-de-flavio-sob-suspeita-de-estupro-de-vulneravel.shtml",
-    "image": "https://f.i.uol.com.br/fotografia/2026/03/27/177465237969c70bdb74c3f_1774652379_3x2_xl.jpg"
+    "title": "São Paulo registra chuva com raios e trovoadas durante a madrugada",
+    "url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/08/06/chuva-sao-paulo-madrugada.ghtm",
+    "image": ""
   },
   {
     "site": "CNN Brasil",
-    "title": "Jornalista da CNN é homenageada em troféu do Instituto Ovos Brasil",
-    "url": "https://www.cnnbrasil.com.br/agro/jornalista-do-cnn-agro-e-homenageada-em-trofeu-do-instituto-ovos-brasil/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/08/260804-siavs-339.jpg?w=1200&h=630&crop=1"
+    "title": "Warsh aposta na IA para justificar corte de juros nos EUA",
+    "url": "https://www.cnnbrasil.com.br/economia/macroeconomia/warsh-aposta-na-ia-para-justificar-corte-de-juros-nos-eua/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/09/Geracao-IA.jpeg?w=1200&h=630&crop=1"
   },
   {
     "site": "Terra",
-    "title": "Justiça rejeita pedido do Flamengo e reforça direito do São Paulo à Taça das Bolinhas",
-    "url": "https://www.terra.com.br/esportes/futebol/justica-rejeita-pedido-do-flamengo-e-reforca-direito-do-sao-paulo-a-taca-das-bolinhas,0e967add1b42e71c086c9fe93ab49dd1515lla3p.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/06/1389577936-1987tacadasbolinhasnomuseudosport700.jpg"
+    "title": "Advogado de mulheres que processaram Tirullipa comenta decisão: 'Dignidade não é entretenimento'",
+    "url": "https://www.terra.com.br/diversao/gente/advogado-de-mulheres-que-processaram-tirullipa-comenta-decisao-dignidade-nao-e-entretenimento,e0241abccdef0dc8b888463d9c5a893c3ioyemt8.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/06/1785989855275071-soko6vrn9u0m.JPG"
   },
   {
     "site": "BBC",
@@ -67,27 +97,27 @@
   },
   {
     "site": "G1",
-    "title": "Democrata lança Danilo Soares como candidato ao governo do Ceará",
-    "url": "https://g1.globo.com/ce/ceara/eleicoes/2026/noticia/2026/08/05/democrata-lanca-danilo-soares-como-candidato-ao-governo-do-ceara.ghtml",
-    "image": "https://s2-g1.glbimg.com/gwe6WYlQ4i1z-nwjlXH-oThjaHs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/Q/5nnhncTAmbbFrR440slA/danilo-soares.jpg"
+    "title": "Gari transforma rotina de trabalho em mensagens de gratidão nas redes após infância marcada por perdas e violência",
+    "url": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/08/06/gari-transforma-rotina-de-trabalho-em-mensagens-de-gratidao-nas-redes-apos-infancia-marcada-por-perdas-e-violencia.ghtml",
+    "image": "https://s2-g1.glbimg.com/B6ETxleMV7pmEpt-qGAosBeezbU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/C/uE4jvdSJKI7wq0qdnmCQ/design-sem-nome-3-1-.png"
   },
   {
     "site": "UOL",
-    "title": "Ministro Buzzi apresenta laudo de disfunção erétil, mas vítima disse em depoimento não saber se ele estava excitado",
-    "url": "https://redir.folha.com.br/redir/online/colunas/monicabergamo/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/08/ministro-buzzi-apresenta-laudo-de-disfuncao-eretil-mas-vitima-disse-em-depoimento-nao-saber-se-ele-estava-excitado.shtml",
-    "image": "https://f.i.uol.com.br/fotografia/2026/02/05/17703185636984eae39d733_1770318563_3x2_lg.jpg"
+    "title": "Tarcísio passa recibo e piora a imagem das privatizações",
+    "url": "https://www1.folha.uol.com.br/colunas/marcosaugustogoncalves/2026/08/tarcisio-passa-recibo-e-piora-a-imagem-das-privatizacoes.shtml",
+    "image": "https://f.i.uol.com.br/fotografia/2026/08/05/17859811986a73e90e62ad6_1785981198_3x2_rt.jpg"
   },
   {
     "site": "CNN Brasil",
-    "title": "Regras instáveis são piores que regras ruins, diz Guaranys",
-    "url": "https://www.cnnbrasil.com.br/infra/regras-instaveis-sao-piores-que-regras-ruins-diz-guaranys/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/08/AM_CNNtalksAgo26_143_websize.jpg?w=1200&h=630&crop=1"
+    "title": "BC entregou o esperado e evitou se comprometer com futuro, dizem analistas",
+    "url": "https://www.cnnbrasil.com.br/economia/macroeconomia/bc-entregou-o-esperado-e-evitou-se-comprometer-com-futuro-dizem-analistas/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/Reuters_Direct_Media/BrazilOnlineReportBusinessNews/tagreuters.com2026binary_LYNXMPEM2C1A2-BASEIMAGE.jpg?w=800&h=533&crop=1"
   },
   {
     "site": "Terra",
-    "title": "Artur Jorge rasga elogios à atuação do Cruzeiro: \"Dominantes\"",
-    "url": "https://www.terra.com.br/esportes/futebol/copa-do-brasil/artur-jorge-rasga-elogios-a-atuacao-do-cruzeiro-dominantes,bb5652544f65b98e7bdd1b8f0fde97aen55jltnm.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/06/1743008397-55445215181e24c14f9e6o-610x400.jpg"
+    "title": "Gaya Herrington, a cientista que revisitou uma previsão de 50 anos atrás sobre os limites do planeta",
+    "url": "https://www.terra.com.br/planeta/futuro-vivo/gaya-herrington-a-cientista-que-revisitou-uma-previsao-de-50-anos-atras-sobre-os-limites-do-planeta,9b79fc4671069e0c78892bbb2f09c0eb76vgo13v.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/05/gaya-qxl2lxxfob3m.jpg"
   },
   {
     "site": "BBC",
@@ -97,27 +127,27 @@
   },
   {
     "site": "G1",
-    "title": "Após fim da greve, Tarcísio promete R$ 14 bilhões em investimentos na CPTM",
-    "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/eleicoes/2026/noticia/2026/08/05/apos-fim-da-greve-tarcisio-promete-r-14-bilhoes-em-investimentos-na-cptm.ghtml",
-    "image": "https://s2-g1.glbimg.com/buVsknuyAdr8lkm8mIhFwzdkFR4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/X/Ec9wITRcWRO3yXDSj29w/foto-g1-6-.jpg"
+    "title": "Veja quem são os candidatos ao Senado em MS em 2026",
+    "url": "https://g1.globo.com/ms/mato-grosso-do-sul/eleicoes/2026/noticia/2026/08/06/veja-quem-sao-os-candidatos-ao-senado-em-ms-em-2026.ghtml",
+    "image": "https://s2-g1.glbimg.com/mX8WQCon6IBtt11coWbeDCn0Cv0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/X/zrT6MNRpaPRVvs837b3g/candidatos-senado-2026-g1.jpg"
   },
   {
     "site": "UOL",
-    "title": "Assessor de Haddad será suplente de Tebet e vereador do PSOL, de Marina",
-    "url": "https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2026/08/05/assessor-de-haddad-sera-suplente-de-tebet-e-vereador-do-psol-de-marina.htm",
-    "image": ""
+    "title": "Polícia investiga morte de advogado achado em estrada de Mogi Mirim (SP)",
+    "url": "https://www1.folha.uol.com.br/cotidiano/2026/08/policia-investiga-morte-de-advogado-achado-em-estrada-de-mogi-mirim-sp.shtml",
+    "image": "https://f.i.uol.com.br/fotografia/2026/08/06/17859989646a742e743d03f_1785998964_3x2_lg.jpg"
   },
   {
     "site": "CNN Brasil",
-    "title": "Decisões divergentes geram competição desigual, diz desembargador",
-    "url": "https://www.cnnbrasil.com.br/infra/decisoes-divergentes-geram-competicao-desigual-diz-desembargador/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/08/Roberto-Carvalho-Veloso-do-TRF-1.jpg?w=1200&h=630&crop=1"
+    "title": "Mega-Sena: quanto rendem R$ 150 milhões na poupança, Tesouro Direto ou CDB",
+    "url": "https://www.cnnbrasil.com.br/economia/investimentos/mega-sena-quanto-rendem-r-150-milhoes-na-poupanca-tesouro-direto-ou-cdb/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2024/04/mega-sena.png?w=873&h=481&crop=1"
   },
   {
     "site": "Terra",
-    "title": "'Proibir IA na escola é como proibir martelo em curso de marcenaria'",
-    "url": "https://www.terra.com.br/noticias/educacao/proibir-ia-na-escola-e-como-proibir-martelo-em-curso-de-marcenaria,f4e5a2d1524ef41f294b150873a980162w4ox26z.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/06/1989094828-xktwrtwparf4jc342jkvsbs4jm.jpg"
+    "title": "Mega-Sena pode pagar R$ 150 milhões nesta quinta-feira; saiba como jogar",
+    "url": "https://www.terra.com.br/economia/mega-sena-pode-pagar-r-150-milhoes-nesta-quinta-feira-saiba-como-jogar,e608f42328f5f00746b476b3fbd988d3bxlvgs2l.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2024/04/22/fta20240305001-vf96fuubvj91.jpg"
   },
   {
     "site": "BBC",
@@ -127,27 +157,27 @@
   },
   {
     "site": "G1",
-    "title": "MDB lança Ricardo Ferraço como candidato ao governo do Espírito Santo",
-    "url": "https://g1.globo.com/es/espirito-santo/eleicoes/2026/noticia/2026/08/05/mdb-lanca-ricardo-ferraco-como-candidato-ao-governo-do-espirito-santo.ghtml",
-    "image": "https://s2-g1.glbimg.com/J0y7TZtv0h1BN4qIo_6p0CNottw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/U/VWs2J2QrqABggQcOysug/thumb-videos-g1-17-.jpg"
+    "title": "Veja quem são os candidatos a governador em MS em 2026",
+    "url": "https://g1.globo.com/ms/mato-grosso-do-sul/eleicoes/2026/noticia/2026/08/06/veja-quem-sao-os-candidatos-a-governador-em-ms-em-2026.ghtml",
+    "image": "https://s2-g1.glbimg.com/0ZY9fxtLaPNfiFje3kMp_RSmMTQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/B/lZHiPAQw2tVDq2UbIAxg/candidatos-ao-governo-ms.jpg"
   },
   {
     "site": "UOL",
-    "title": "Preso denuncia ter sido estuprado pelo seu colega de cela em cadeia pública",
-    "url": "https://tnonline.uol.com.br/noticias/cotidiano/preso-denuncia-ter-sido-estuprado-pelo-seu-colega-de-cela-em-cadeia-publica-1124374",
-    "image": "https://cdn.tnonline.com.br/img/Artigo-Destaque/1120000/1200x630/o-caso-foi-registrado-pela-policia-civil-do-rio-gr-01124374-0-202608052216/ScaleProportionalFillBackground-1.jpg?fallback=https%3A%2F%2Fcdn.tnonline.com.br%2Fimg%2FArtigo-Destaque%2F1120000%2Fo-caso-foi-registrado-pela-policia-civil-do-rio-gr-01124374-0-202608052216.jpg%3Fxid%3D1791179&xid=1791179"
+    "title": "11 estados conseguem salto relevante no ensino médio em uma década, aponta Ideb",
+    "url": "https://www1.folha.uol.com.br/educacao/2026/08/11-estados-conseguem-salto-relevante-no-ensino-medio-em-uma-decada-aponta-ideb.shtml",
+    "image": "https://f.i.uol.com.br/fotografia/2018/07/08/15311044385b42ccb6d7db4_1531104438_3x2_rt.jpg"
   },
   {
     "site": "CNN Brasil",
-    "title": "Imagens de drone mostram devastação causada por enchentes no sul do Chile",
-    "url": "https://www.cnnbrasil.com.br/internacional/imagens-de-drone-mostram-devastacao-causadas-por-enchentes-no-sul-do-chile/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/08/Imagens-de-drone-mostram-a-dimensao-das-enchentes-no-sul-do-Chile.jpg?w=960&h=540&crop=1"
+    "title": "STF retoma hoje julgamento sobre proibição de jogos de azar; entenda",
+    "url": "https://www.cnnbrasil.com.br/politica/stf-retoma-hoje-julgamento-sobre-proibicao-de-jogos-de-azar-entenda/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/06/plenario-stf.jpg?w=1200&h=630&crop=1"
   },
   {
     "site": "Terra",
-    "title": "A declaração de Flaco López direcionada a Fortaleza x Palmeiras",
-    "url": "https://www.terra.com.br/esportes/palmeiras/a-declaracao-de-flaco-lopez-direcionada-a-fortaleza-x-palmeiras,f9bcac0d57c9bbab58dd055cae569e55su57pzx3.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/06/388157827-flaco-lopez.png"
+    "title": "Bancar candidatura à Presidência, comprar helicóptero de Neymar e mais: o que dá para fazer com os R$ 150 milhões da Mega-Sena?",
+    "url": "https://www.terra.com.br/economia/bancar-candidatura-a-presidencia-comprar-helicoptero-de-neymar-e-mais-o-que-da-para-fazer-com-os-r-150-milhoes-da-mega-sena,f78266bd684fab75a1966b9bdb5d9b62fl1yes08.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/03/06/416803143-mega-sena.jpg"
   },
   {
     "site": "BBC",
@@ -157,27 +187,27 @@
   },
   {
     "site": "G1",
-    "title": "Concursos Públicos no Amazonas: confira as vagas abertas e previstas para segundo semestre de 2026",
-    "url": "https://g1.globo.com/am/amazonas/noticia/2026/08/05/concursos-publicos-no-amazonas-confira-as-vagas-abertas-e-previstas-para-segundo-semestre-de-2026.ghtml",
-    "image": "https://s2-g1.glbimg.com/asCyQvs4Cn_NexJNxJx6ssauot8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/d/7PV5o0TdysVqlTQUWb3g/hand-with-pen-application-form-1-.jpg"
+    "title": "Cana Verde recebe título de 'Hollywood Caipira' após se destacar como terra de influenciadores rurais em MG",
+    "url": "https://g1.globo.com/mg/sul-de-minas/noticia/2026/08/06/cana-verde-recebe-titulo-de-hollywood-caipira-apos-se-destacar-como-terra-de-influenciadores-rurais-em-mg.ghtml",
+    "image": "https://s2-g1.glbimg.com/P9qM9A6WIEY5fciSVAwLOonOqiY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/k/g/vxQrcIQNiAX9eFzhIHvQ/tiao-cana-verde-9-.jpeg"
   },
   {
     "site": "UOL",
-    "title": "Menina da Bota lança candidatura a deputada federal pelo União Brasil-PP",
-    "url": "https://tnonline.uol.com.br/noticias/politica/menina-da-bota-lanca-candidatura-a-deputada-federal-pelo-uniao-brasil-pp-1124369",
-    "image": "https://cdn.tnonline.com.br/img/Artigo-Destaque/1120000/1200x630/ela-viralizou-ao-publicar-um-video-dancando-ao-som-01124369-0-202608052207/ScaleProportionalFillBackground-1.jpg?fallback=https%3A%2F%2Fcdn.tnonline.com.br%2Fimg%2FArtigo-Destaque%2F1120000%2Fela-viralizou-ao-publicar-um-video-dancando-ao-som-01124369-0-202608052207.jpg%3Fxid%3D1791170&xid=1791170"
+    "title": "Como Joan Miró, em cartaz na Faap, matou a pintura e alimentou a primitividade",
+    "url": "https://www1.folha.uol.com.br/ilustrada/2026/08/como-joan-miro-em-cartaz-na-faap-matou-a-pintura-e-alimentou-a-primitividade.shtml",
+    "image": "https://f.i.uol.com.br/fotografia/2026/08/05/17859708366a73c094df369_1785970836_3x2_xl.jpg"
   },
   {
     "site": "CNN Brasil",
-    "title": "Ariana Grande defende clipe que gerou onda de críticas ao seu corpo",
-    "url": "https://www.cnnbrasil.com.br/pop/celebridades/ariana-grande-defende-clipe-que-gerou-onda-de-criticas-ao-seu-corpo/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/07/ariana-grande-petal.jpg?w=1200&h=630&crop=1"
+    "title": "Wagner Moura luta contra ameaça invisível em “A Última Casa”; o que esperar",
+    "url": "https://www.cnnbrasil.com.br/pop/streaming/wagner-moura-luta-contra-ameaca-invisivel-em-a-ultima-casa-o-que-esperar/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/06/a-ultima-casa-netflix-1.jpg?w=1200&h=630&crop=1"
   },
   {
     "site": "Terra",
-    "title": "\"Ainda estou errando\": lateral avalia fase no Grêmio após vaga na Copa do Brasil",
-    "url": "https://www.terra.com.br/esportes/gremio/ainda-estou-errando-lateral-avalia-fase-no-gremio-apos-vaga-na-copa-do-brasil,1f3c1d3931afc36158e600942bf165457gx8b3yi.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/06/1676513640-2026-gremio-lateral-esquerdo-marlon.jpg"
+    "title": "Escolha de Gaspar como vice abre espaço para Lira em AL e amplia ofensiva de Flávio contra Lula",
+    "url": "https://www.terra.com.br/noticias/eleicoes/escolha-de-gaspar-como-vice-abre-espaco-para-lira-em-al-e-amplia-ofensiva-de-flavio-contra-lula,49f28314288b0b27d6d06833eaba5afallsmxr8t.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/05/tn220260805020-1hre8d3ps4fvq.jpg"
   },
   {
     "site": "BBC",
@@ -187,27 +217,27 @@
   },
   {
     "site": "G1",
-    "title": "Podemos lança candidatos a deputado federal e estadual em MG",
-    "url": "https://g1.globo.com/mg/minas-gerais/eleicoes/2026/noticia/2026/08/05/podemos-lanca-candidatos-a-deputado-federal-e-estadual-em-mg.ghtml",
-    "image": "https://s2-g1.glbimg.com/gYyOX_lALc2eDtsdgWSxXyleQc4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/O/6hNuWTSDG1i46eFOARkA/captura-de-tela-2026-08-05-220052-1-.png"
+    "title": "Eletricista morre após ser atropelado na faixa de pedestres na Zona Norte de SP; motorista se recusou a fazer bafômetro e foi liberado",
+    "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/08/06/eletricista-morre-apos-ser-atropelado-na-faixa-de-pedestres-na-zona-norte-de-sp-motorista-se-recusou-a-fazer-bafometro-e-foi-liberado.ghtml",
+    "image": "https://s2-g1.glbimg.com/2uwK99cR2QIB7r_K93uUcGB2320=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/i/pfpRdvT5iXfdpt5f7MVw/fotojet-2026-08-05t142744.360.jpg"
   },
   {
     "site": "UOL",
-    "title": "Dora Gomes (PV) será vice na chapa de Leandro Grass (PT) ao governo do DF",
-    "url": "https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2026/08/05/dora-gomes-pv-sera-vice-na-chapa-de-leandro-grass-pt-ao-governo-do-df.htm",
-    "image": ""
+    "title": "Lei Maria da Penha chega aos 20 anos sob alta da violência contra a mulher no Brasil",
+    "url": "https://www1.folha.uol.com.br/cotidiano/2026/08/lei-maria-da-penha-chega-aos-20-anos-sob-alta-da-violencia-contra-a-mulher-no-brasil.shtml",
+    "image": "https://f.i.uol.com.br/fotografia/2026/03/10/177315698969b03a7d38b60_1773156989_3x2_rt.jpg"
   },
   {
     "site": "CNN Brasil",
-    "title": "Tributação do petróleo e Tecon expõem fragilidade, diz advogada",
-    "url": "https://www.cnnbrasil.com.br/infra/tributacao-do-petroleo-e-tecon-expoem-fragilidade-diz-advogada/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/08/Angela-Cignachi-socia-do-Demarest-Advogados.png?w=1200&h=630&crop=1"
+    "title": "Vai virar? Corinthians tem uma vitória nos últimos 13 jogos com o Inter",
+    "url": "https://www.cnnbrasil.com.br/esportes/futebol/corinthians/vai-virar-corinthians-tem-uma-vitoria-nos-ultimos-13-jogos-com-o-inter/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/08/inter_corinthians_2-e1785710920903.jpg?w=1200&h=630&crop=1"
   },
   {
     "site": "Terra",
-    "title": "Bragantino retoma negociações por Wallace Yan após impasse com o Flamengo",
-    "url": "https://www.terra.com.br/esportes/flamengo/bragantino-retoma-negociacoes-por-wallace-yan-apos-impasse-com-o-flamengo,b3dfba9c1015c2d88cf703eff55baa73glu9jf3g.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/06/1009933686-cr-flamengo-v-chelsea-fc-group-d-fifa-club-world-cup-2025-4-2048x1365.jpg"
+    "title": "PIS/Pasep esquecido? Veja outros recursos que milhões de brasileiros deixam de sacar todos os anos",
+    "url": "https://www.terra.com.br/economia/pispasep-esquecido-veja-outros-recursos-que-milhoes-de-brasileiros-deixam-de-sacar-todos-os-anos,8dff16feb795cbf806e7d6aa6532bb9b5us7vy51.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/03/10/dinheiro-esquecido-tog6aieb7zg7.jpg"
   },
   {
     "site": "BBC",
@@ -217,57 +247,27 @@
   },
   {
     "site": "G1",
-    "title": "Centro cultural oferece bolsas para curso de teatro em Salvador",
-    "url": "https://g1.globo.com/ba/bahia/noticia/2026/08/05/centro-cultural-oferece-bolsas-para-curso-de-teatro-em-salvador.ghtml",
-    "image": "https://s2-g1.glbimg.com/DIvBoJ0f8sqNkneQTe6-SazuiWQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/5/9/F8ohXqTFG7deQgc1jzAg/foto-divulgacao-02.jpeg"
+    "title": "Que países usam voto eletrônico além do Brasil?",
+    "url": "https://g1.globo.com/mundo/noticia/2026/08/06/que-paises-usam-voto-eletronico-alem-do-brasil.ghtml",
+    "image": "https://s2-g1.glbimg.com/oUuniuv0QrrliYgnvuIEuTRT7xo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/s/a38GEfR42yqBITz2CQXw/rbr2547.jpg"
   },
   {
     "site": "UOL",
-    "title": "Mendonça: Num mundo ideal não deveria existir decisão monocrática no Tribunal",
-    "url": "https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2026/08/05/mendonca-num-mundo-ideal-nao-deveria-existir-decisao-monocratica-no-tribunal.htm",
-    "image": ""
+    "title": "Nem tudo merece a sua atenção",
+    "url": "https://www1.folha.uol.com.br/equilibrio/2026/08/nem-tudo-merece-a-sua-atencao.shtml",
+    "image": "https://f.i.uol.com.br/fotografia/2026/08/05/17859385956a7342a397ad8_1785938595_3x2_xl.jpg"
   },
   {
     "site": "CNN Brasil",
-    "title": "Petroleiro relata duas explosões na costa de Omã, diz centro britânico",
-    "url": "https://www.cnnbrasil.com.br/internacional/petroleiro-relata-duas-explosoes-na-costa-de-oma-diz-centro-britanico/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/Reuters_Direct_Media/BrazilOnlineReportTopNews/tagreuters.com2026binary_LYNXMPEM450L6-BASEIMAGE.jpg?w=800&h=533&crop=1"
+    "title": "Como funciona a autenticação em duas etapas nas instituições financeiras?",
+    "url": "https://www.cnnbrasil.com.br/economia/negocios/como-funciona-a-autenticacao-em-duas-etapas-nas-instituicoes-financeiras/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/07/como-funciona-autenticacao-duas-etapas-pressfoto.jpg?w=1200&h=630&crop=1"
   },
   {
     "site": "Terra",
-    "title": "Santos repudia presidente do Remo após ataque contra Neymar",
-    "url": "https://www.terra.com.br/esportes/craques/neymar/santos-repudia-presidente-do-remo-apos-ataque-contra-neymar,2262a031d214f974f4bb1d0e4ae4f741j05pl6q0.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/06/417593240-neymar-do-santos-1-610x400.jpg"
-  },
-  {
-    "site": "BBC",
-    "title": "Previsão do tempo: El Niño provoca clima de extremos no Brasil em agosto, com calor atípico e ciclone a caminho",
-    "url": "https://www.bbc.com/portuguese/articles/c4gvwvv2r35o?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/4dc1/live/efbe9ca0-537d-11f1-89a3-d1f559421220.jpg"
-  },
-  {
-    "site": "G1",
-    "title": "+Milionária hoje: resultado do concurso 378 e números sorteados",
-    "url": "https://g1.globo.com/loterias/milionaria/noticia/2026/08/05/milionaria-hoje-resultado-do-concurso-378-e-numeros-sorteados.ghtml",
-    "image": "https://s2-g1.glbimg.com/pMPwfEPN62JRRSbzF5-Hyn3wr1E=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/Z/5zEEO5ReOQtnhAW4shaQ/maismilionaria-378-iiutf.jpeg"
-  },
-  {
-    "site": "UOL",
-    "title": "'Quem aqui nunca pediu empréstimo para um amigo?', perguntou Lula em defesa de Marcola",
-    "url": "https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2026/08/05/quem-aqui-nunca-pediu-emprestimo-para-um-amigo-perguntou-lula-em-defesa-de-marcola.htm",
-    "image": ""
-  },
-  {
-    "site": "CNN Brasil",
-    "title": "PT oficializa Leandro Grass como candidato ao governo do Distrito Federal",
-    "url": "https://www.cnnbrasil.com.br/eleicoes/pt-oficializa-leandro-grass-como-candidato-ao-governo-do-distrito-federal/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/08/WhatsApp-Image-2026-08-05-at-22.01.50.jpeg?w=1200&h=630&crop=1"
-  },
-  {
-    "site": "Terra",
-    "title": "'Quem Ama Cuida': Novo casal? Adriana e Joel geram revolta: 'Química zero'",
-    "url": "https://www.terra.com.br/diversao/tv/novelas/quem-ama-cuida-novo-casal-adriana-e-joel-geram-revolta-quimica-zero,40924b8df0bd912f58bd105857567e78f6a92syw.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/06/585285054-adriana-leticia-colin-e-joel-ricardo-teodoro-em-quem-ama-cuida.png"
+    "title": "'Encantador de feras': veterinário viraliza ao acalmar cães agressivos sem sedação com dança",
+    "url": "https://www.terra.com.br/noticias/encantador-de-feras-veterinario-viraliza-ao-acalmar-caes-agressivos-sem-sedacao-com-danca,bccc5e9dbea88995836abbcb3c2b7f58x76kj2kp.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/04/whatsapp-image-2026-08-04-at-18-12-01-(2)-1iv72n0hm8ajm.jpeg"
   },
   {
     "site": "BBC",
@@ -277,26 +277,26 @@
   },
   {
     "site": "G1",
-    "title": "Super Sete hoje: resultado do concurso 882 e números sorteados",
-    "url": "https://g1.globo.com/loterias/super-sete/noticia/2026/08/05/super-sete-hoje-resultado-do-concurso-882-e-numeros-sorteados.ghtml",
-    "image": "https://s2-g1.glbimg.com/DDpNUlqUHnYK8DEfXC-kwIMNyCs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/l/3lWp4zT5KDgbTeHqWUPA/supersete-882-skpqe.jpeg"
+    "title": "Dois adolescentes são os autores de vídeo pornô falso criado com IA usando imagem de professora, diz polícia",
+    "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/08/06/dois-adolescentes-sao-os-autores-de-video-porno-falso-criado-com-ia-usando-imagem-de-professora-diz-policia.ghtml",
+    "image": "https://s2-g1.glbimg.com/bITFv6kR2OTf6RN1ttvH8BVIcX4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/2/Rl1sBOQnAWJba1t945fQ/closeup-businessman-hand-analyzing-management-graphs-typing-company-strategy-laptop-keyboard-working-marketing-project-executive-manager-planning-business-investment-startup-office.jpg"
   },
   {
     "site": "UOL",
-    "title": "Os riscos de dormir pouco e por que algumas pessoas precisam de menos horas de sono",
-    "url": "https://www1.folha.uol.com.br/equilibrio/2026/08/os-riscos-de-dormir-pouco-e-por-que-algumas-pessoas-precisam-de-menos-horas-de-sono.shtml",
-    "image": "https://f.i.uol.com.br/fotografia/2023/04/14/16815099466439ce3ac9104_1681509946_3x2_rt.jpg"
+    "title": "Nove brasileiros recorreram à morte assistida na Suíça desde 1998, afirma Dignitas",
+    "url": "https://www1.folha.uol.com.br/equilibrioesaude/2026/08/nove-brasileiros-recorreram-a-morte-assistida-na-suica-desde-1998-afirma-dignitas.shtml",
+    "image": "https://f.i.uol.com.br/fotografia/2024/11/28/173279205267484ef426bf3_1732792052_3x2_rt.jpg"
   },
   {
     "site": "CNN Brasil",
-    "title": "“Náufrago” e outros: veja quais os filmes favoritos de Tom Hanks",
-    "url": "https://www.cnnbrasil.com.br/pop/celebridades/naufrago-e-outros-veja-quais-os-filmes-favoritos-de-tom-hanks/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2024/04/tom-hanks.jpg?w=400&h=269&crop=1"
+    "title": "Três carros bons, mas que venderam poucas unidades no Brasil em 2026",
+    "url": "https://www.cnnbrasil.com.br/auto/tres-carros-bons-mas-que-venderam-poucas-unidades-no-brasil-em-2026/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/03/renault-megane-e-tech-electric-esprit-alpine-6-732x488_720.png?w=720&h=480&crop=1"
   },
   {
     "site": "Terra",
-    "title": "Nunes denuncia ex-vereador Camilo Cristófaro por calúnia e difamação",
-    "url": "https://www.terra.com.br/noticias/brasil/politica/nunes-denuncia-ex-vereador-camilo-cristofaro-por-calunia-e-difamacao,174b1f2839a9b6cf7522763fb57de167gvdki2lb.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/06/644408257-ltbu7r53e5lyppdyslfwzxw5uu.png"
+    "title": "Thiago Gagliasso debocha de reclamação do irmão: 'vai lá no McDonald’s pra comer o Mc Picanha'",
+    "url": "https://www.terra.com.br/diversao/gente/thiago-gagliasso-debocha-de-reclamacao-do-irmao-vai-la-no-mcdonalds-pra-comer-o-mc-picanha,18ac35bdeda0c185096b07fcd5ad5ffcznz0icxi.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/06/1785988565543857-1ibeayybllizn.JPG"
   }
 ]
