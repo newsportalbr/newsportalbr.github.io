@@ -1,33 +1,63 @@
 [
   {
     "site": "BBC",
+    "title": "A volta por cima dos irmãos Batista: como donos da JBS saíram da Lava Jato e voltaram aos holofotes, com participação até na diplomacia mundial",
+    "url": "https://www.bbc.com/portuguese/articles/c4g32w6l3y4o?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/6c16/live/2297ed50-925a-11f1-af4d-5164294a85c7.jpg"
+  },
+  {
+    "site": "G1",
+    "title": "Corpo de golfinho é achado na Praia de Candeias um dia após morte de quatro tartarugas no Grande Recife",
+    "url": "https://g1.globo.com/pe/pernambuco/noticia/2026/08/09/corpo-de-golfinho-e-achado-na-praia-de-candeias.ghtml",
+    "image": "https://s2-g1.glbimg.com/iKMJDX2HM9ykYoqZ6_IqVSq7SRs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/E/2lv5Q6RmSm7TSQWbEt0w/golfinho-candeias.jpeg"
+  },
+  {
+    "site": "UOL",
+    "title": "Jadson, ex-Corinthians e São Paulo, é liberado após prisão por suspeita de violência doméstica",
+    "url": "https://www1.folha.uol.com.br/esporte/2026/08/jadson-ex-corinthians-e-sao-paulo-e-liberado-apos-prisao-por-suspeita-de-violencia-domestica.shtml",
+    "image": "https://f.i.uol.com.br/fotografia/2026/08/09/17862979116a78be3784b44_1786297911_3x2_rt.jpg"
+  },
+  {
+    "site": "CNN Brasil",
+    "title": "PSG anuncia contratação do lateral-esquerdo Lucas Digne",
+    "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/champions-league/psg-anuncia-contratacao-do-lateral-esquerdo-lucas-digne/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/08/Digne-e1786298800268.jpg?w=1080&h=610&crop=1"
+  },
+  {
+    "site": "Terra",
+    "title": "Revelação do Palmeiras é desejado por clube da Itália",
+    "url": "https://www.terra.com.br/esportes/palmeiras/revelacao-do-palmeiras-e-desejado-por-clube-da-italia,2c6bcdab601c9089f7c8a030c104b4adixuiykzl.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/09/1871673756-data-202-1024x768.jpeg"
+  },
+  {
+    "site": "BBC",
     "title": "Os graves efeitos do 'Super El Niño' na América Latina previstos pelos cientistas",
     "url": "https://www.bbc.com/portuguese/articles/c3v01yx9574o?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/92f1/live/0e6ba6d0-9185-11f1-9587-294e25c71c14.jpg"
   },
   {
     "site": "G1",
-    "title": "Jovem de 21 anos é morto com golpe de faca durante briga perto de bar em avenida de Campo Grande",
-    "url": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/08/09/jovem-de-21-anos-e-morto-com-golpe-de-faca-durante-briga-perto-de-bar-em-avenida-de-campo-grande.ghtml",
-    "image": "https://s2-g1.glbimg.com/lq9TO442xidwQrxIbNJMaZcLJ8c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/9/YQBhoWSyCDEIBr2LlWkw/design-sem-nome-83-.jpg"
+    "title": "Incêndio atinge prédio residencial na Zona Norte de Manaus",
+    "url": "https://g1.globo.com/am/amazonas/noticia/2026/08/09/incendio-atinge-predio-residencial-na-zona-norte-de-manaus.ghtml",
+    "image": "https://s2-g1.glbimg.com/dJfuRba1fMExtim2-7Gd3Th0y70=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/k/OjFGQZTv2wkO41ehHFAg/incendio-atinge-predio-residencial-em-manaus.jpg"
   },
   {
     "site": "UOL",
-    "title": "Frases para o Dia dos Pais 2026: 54 mensagens especiais para marcar a data",
-    "url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/08/09/frases-para-o-dia-dos-pais-2026-54-mensagens-especiais-para-marcar-a-data.ghtm",
+    "title": "Lucas Digne deixa Aston Villa e volta ao PSG",
+    "url": "https://noticias.uol.com.br/ultimas-noticias/afp/2026/08/09/lucas-digne-deixa-aston-villa-e-volta-ao-psg.htm",
     "image": ""
   },
   {
     "site": "CNN Brasil",
-    "title": "Técnico do Manchester United minimiza lesão de Mount na pré-temporada",
-    "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-ingles/tecnico-do-manchester-united-minimiza-lesao-de-mount-na-pre-temporada/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/08/manunited-e1786277044601.jpg?w=1200&h=630&crop=1"
+    "title": "Palmeiras x Internacional: escalações e onde assistir ao Brasileirão",
+    "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/palmeiras-x-internacional-horario-e-onde-assistir-ao-jogo-do-brasileirao-2/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/03/novo-gramado-sintetico-allianz-parque-e1773611843684.jpg?w=1200&h=630&crop=1"
   },
   {
     "site": "Terra",
-    "title": "Idosos pagam mais no seguro do carro? Entenda o que influencia o valor da apólice",
-    "url": "https://www.terra.com.br/mobilidade/carros/idosos-pagam-mais-no-seguro-do-carro-entenda-o-que-influencia-o-valor-da-apolice,99bea2f0160045c801e126b8caefe1b4k0qvuay1.html",
-    "image": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png"
+    "title": "Conheça John Mercado, novo alvo do Vasco",
+    "url": "https://www.terra.com.br/esportes/vasco/conheca-john-mercado-novo-alvo-do-vasco,ada93ad7d3297b8a0b21821742960cfatrlbtmpq.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/09/1686588389-vasco-da-gama.jpg"
   },
   {
     "site": "BBC",
@@ -37,27 +67,27 @@
   },
   {
     "site": "G1",
-    "title": "Israel rejeita plano de Trump para Gaza e condiciona retirada ao desarmamento do Hamas",
-    "url": "https://g1.globo.com/mundo/noticia/2026/08/09/israel-rejeita-plano-de-trump-para-gaza-e-condiciona-retirada-ao-desarmamento-do-hamas.ghtml",
-    "image": "None"
+    "title": "Homem morre e adolescente fica ferido após colisão entre moto e bicicleta elétrica na SE-270 em Salgado",
+    "url": "https://g1.globo.com/se/sergipe/noticia/2026/08/09/homem-morre-e-adolescente-fica-ferido-apos-colisao-entre-moto-e-bicicleta-eletrica-na-se-270-em-salgado.ghtml",
+    "image": "https://s2-g1.glbimg.com/b0E83pY8FcpHcxn9PtPwdhccEhI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/m/1Aeh5WQNyOg1vLR8U9kw/moto.jpg"
   },
   {
     "site": "UOL",
-    "title": "Netanyahu diz que Irã não terá arma nuclear, e houthis atacam refinaria saudita na costa do Mar Vermelho",
-    "url": "https://www1.folha.uol.com.br/mundo/2026/08/netanyahu-diz-que-ira-nao-tera-arma-nuclear-e-houthis-atacam-refinaria-saudita-na-costa-do-mar-vermelho.shtml",
-    "image": "https://f.i.uol.com.br/fotografia/2026/08/09/17862780546a7870a6b8b8d_1786278054_3x2_rt.jpg"
+    "title": "Gigantes de VR oferecem cashback e benefícios a empresas que não participem de programa do governo",
+    "url": "https://www1.folha.uol.com.br/mercado/2026/08/gigantes-de-vr-oferecem-cashback-e-beneficios-a-empresas-que-nao-participem-de-programa-do-governo.shtml",
+    "image": "https://f.i.uol.com.br/fotografia/2026/07/30/17854153126a6b4690778b4_1785415312_3x2_rt.jpg"
   },
   {
     "site": "CNN Brasil",
-    "title": "Faustão faz rara aparição na TV em programa do filho; assista",
-    "url": "https://www.cnnbrasil.com.br/pop/celebridades/faustao-faz-rara-aparicao-na-tv-em-programa-do-filho-assista/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/08/faustao-rara-aparicao.png?w=1200&h=630&crop=1"
+    "title": "Bahia x Vasco: escalações e onde assistir ao jogo do Brasileirão",
+    "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/bahia-x-vasco-escalacoes-e-onde-assistir-ao-jogo-do-brasileirao-2/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2024/07/arena_fonte_nova-e1721585826405.jpg?w=942&h=531&crop=1"
   },
   {
     "site": "Terra",
-    "title": "China construiu megacidades drenando água subterrânea: agora essas megacidades estão afundando",
-    "url": "https://www.terra.com.br/byte/china-construiu-megacidades-drenando-agua-subterranea-agora-essas-megacidades-estao-afundando,a74fa39346e59ec7c71d2268524c6356ogs0nece.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/09/2057405161-13662000.jpeg"
+    "title": "Após dois meses, ele está retornando ao Flamengo",
+    "url": "https://www.terra.com.br/esportes/flamengo/apos-dois-meses-ele-esta-retornando-ao-flamengo,c93ff0e7bf3a8ca941078c6d40f59ebdrw6d9k4y.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/09/2123170998-ninho-do-urubu-flamengo.jpg"
   },
   {
     "site": "BBC",
@@ -67,27 +97,117 @@
   },
   {
     "site": "G1",
-    "title": "Vídeos do g1 e TV Bahia - domingo, 9 de agosto de 2026",
-    "url": "https://g1.globo.com/ba/bahia/edicao/2026/08/09/videos-do-g1-e-tv-bahia-domingo-9-de-agosto-de-2026.ghtml",
-    "image": "https://s2-g1.glbimg.com/xDLT7oKc6d-Abg0M758gBN0U0l4=/s01.video.glbimg.com/deo/vi/91/08/14850891"
+    "title": "Mega-Sena: 13 apostas simples e dois bolões do Paraná acertam cinco números e levam prêmios",
+    "url": "https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/08/09/mega-sena-apostas-parana-premios.ghtml",
+    "image": "https://s2-g1.glbimg.com/uWWg9r_YnVxE7_QFtTBUrk-gadY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/F/07GIU5TCe25kklNrTGXg/mega-sena-1200.webp"
   },
   {
     "site": "UOL",
-    "title": "Incêndio com chamas de até 90 metros força retirada de 20 mil pessoas no oeste do Canadá",
-    "url": "https://noticias.uol.com.br/ultimas-noticias/rfi/2026/08/09/incendio-com-chamas-de-ate-90-metros-forca-retirada-de-20-mil-pessoas-no-oeste-do-canada.htm",
+    "title": "Alexandre Vidal Porto lança livro sobre diplomata gay e diz que o autor deve ser guia",
+    "url": "https://www1.folha.uol.com.br/ilustrada/2026/08/alexandre-vidal-porto-lanca-livro-sobre-diplomata-gay-e-diz-que-o-autor-deve-ser-guia.shtml",
+    "image": "https://f.i.uol.com.br/fotografia/2026/08/05/17859609436a7399ef13ce5_1785960943_3x2_rt.jpg"
+  },
+  {
+    "site": "CNN Brasil",
+    "title": "Celebridades que têm pais famosos e que você talvez não saiba; confira",
+    "url": "https://www.cnnbrasil.com.br/pop/celebridades/celebridades-que-tem-pais-famosos-e-que-voce-talvez-nao-saiba-confira/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/08/filhos-de-papai.png?w=1200&h=630&crop=1"
+  },
+  {
+    "site": "Terra",
+    "title": "Veja 4 árvores frutíferas que você pode cultivar em vasos",
+    "url": "https://www.terra.com.br/vida-e-estilo/veja-4-arvores-frutiferas-que-voce-pode-cultivar-em-vasos,c344e419de80def805db8bcf18c49d8fe4pv6vcd.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/09/756743813-limoeiro-siciliano1751472020780.jpg"
+  },
+  {
+    "site": "BBC",
+    "title": "Como as canetas emagrecedoras estão mudando a relação com o álcool",
+    "url": "https://www.bbc.com/portuguese/articles/cy74jv0n42do?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/3dba/live/f6aa7180-91a6-11f1-a7ab-8b30adf0800a.jpg"
+  },
+  {
+    "site": "G1",
+    "title": "Empresário preso por lavagem de dinheiro morre uma semana após sofrer AVC no Acre",
+    "url": "https://g1.globo.com/ac/acre/noticia/2026/08/09/empresario-preso-por-lavagem-de-dinheiro-morre-uma-semana-apos-sofrer-avc-no-acre.ghtml",
+    "image": "https://s2-g1.glbimg.com/ofY09yIqCMBLbX0O2XmW3jc_F8I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/C/NDu35mRLSvTnLGqyQJZw/midia-de-distribuicao-g1-2026-08-09t111340.332.jpg"
+  },
+  {
+    "site": "UOL",
+    "title": "Sociedade de Pediatria critica redução da maioridade penal e diz que medida não combate criminalidade",
+    "url": "https://www1.folha.uol.com.br/colunas/painel/2026/08/sociedade-de-pediatria-critica-reducao-da-maioridade-penal-e-diz-que-medida-nao-combate-criminalidade.shtml",
+    "image": "https://f.i.uol.com.br/fotografia/2026/08/07/17861475156a7672bb9a3bd_1786147515_3x2_rt.jpg"
+  },
+  {
+    "site": "CNN Brasil",
+    "title": "Índice Sharpe: Indicador pode ajudar na escolha dos seus investimentos",
+    "url": "https://www.cnnbrasil.com.br/economia/investimentos/indice-sharpe-indicador-pode-ajudar-na-escolha-dos-seus-investimentos/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/06/maxim-hopman-fiXLQXAhCfk-unsplash.jpg?w=1200&h=630&crop=1"
+  },
+  {
+    "site": "Terra",
+    "title": "Alemanha enfrenta 'guerra híbrida diária', diz ministro do Interior após incidente com drones",
+    "url": "https://www.terra.com.br/noticias/mundo/europa/alemanha-enfrenta-guerra-hibrida-diaria-diz-ministro-do-interior-apos-incidente-com-drones,36c698fec128d2ad3ea2541a0b9cd732cb3tz7os.html",
+    "image": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png"
+  },
+  {
+    "site": "BBC",
+    "title": "'Zendaya me viu no tapete vermelho e ficou boquiaberta — ainda estou em choque'",
+    "url": "https://www.bbc.com/portuguese/articles/cx2klxy6x1eo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/3d83/live/def80170-9245-11f1-b2ab-0dd01740f9f6.jpg"
+  },
+  {
+    "site": "G1",
+    "title": "Incêndio atinge pontos comerciais em Castanhal, no Pará",
+    "url": "https://g1.globo.com/pa/para/noticia/2026/08/09/incendio-atinge-pontos-comerciais-em-castanhal-no-para.ghtml",
+    "image": "https://s2-g1.glbimg.com/-5nfG0NoXgtEge1rzfroTbDhtpw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/Z/oB9PVEQ9yC32F8iAGOKQ/178629964843127.jpg"
+  },
+  {
+    "site": "UOL",
+    "title": "Debate para governador de São Paulo (SP): horário, regras e onde assistir",
+    "url": "https://noticias.uol.com.br/eleicoes/2026/08/09/debate-para-governador-de-sao-paulo-sp-horario-regras-e-onde-assistir.ghtm",
     "image": ""
   },
   {
     "site": "CNN Brasil",
-    "title": "“Sempre as amarei”, diz familiar de vítimas de queda de helicóptero no Rio",
-    "url": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/sempre-as-amarei-diz-familiar-de-vitimas-de-queda-de-helicoptero-no-rio/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/08/QUEDA-HELICOPTERO-RIO-6.png?w=1200&h=630&crop=1"
+    "title": "Letícia Colin se declara para Michel Melamed: “Melhor pai e melhor amor”",
+    "url": "https://www.cnnbrasil.com.br/pop/celebridades/leticia-colin-se-declara-para-michel-melamed-melhor-pai-e-melhor-amor/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/08/leticia-michel.jpg?w=956&h=506&crop=1"
   },
   {
     "site": "Terra",
-    "title": "Indy: horários, grid de largada, previsão do tempo e onde assistir o GP de Portland",
-    "url": "https://www.terra.com.br/esportes/automobilismo/formula-indy/indy-horarios-grid-de-largada-previsao-do-tempo-e-onde-assistir-o-gp-de-portland,d432d16136db12c0ad9d22860d4bcfc5opodpcdp.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/09/_ph18822-1h84srvb5lj5c.jpg"
+    "title": "Barco pega fogo na Lagoa de Veneza e deixa duas pessoas feridas",
+    "url": "https://www.terra.com.br/noticias/mundo/barco-pega-fogo-na-lagoa-de-veneza-e-deixa-duas-pessoas-feridas,2e00a8029c0696f27370e5eb7cc46ab52vogmvgt.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/09/366575862-87dda61a4e47c61ce03d522eb7252ec6.jpg"
+  },
+  {
+    "site": "BBC",
+    "title": "'O que os meus professores consideravam defeitos foi o que me levou para prosperar na vida'",
+    "url": "https://www.bbc.com/portuguese/articles/cj9d7g0el4go?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/a83c/live/4b95ed90-8fdc-11f1-a999-eb18d79411a9.jpg"
+  },
+  {
+    "site": "G1",
+    "title": "Aos 65 anos, mulher que não pôde estudar na infância aprende a ler, conclui ensino médio e escreve livro na PB",
+    "url": "https://g1.globo.com/pb/paraiba/noticia/2026/08/09/aos-65-anos-mulher-que-nao-pode-estudar-na-infancia-aprende-a-ler-conclui-ensino-medio-e-escreve-livro-na-pb.ghtml",
+    "image": "https://s2-g1.glbimg.com/aLN4HejfMYd3Qmzl5XMfAkppNUk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/H/Oa0QYiS0iUbKjhXI4NSA/idosa-de-sousa.png"
+  },
+  {
+    "site": "UOL",
+    "title": "Mauricio Stycer apresenta 'Rotas de Fuga' em SP",
+    "url": "https://redir.folha.com.br/redir/online/colunas/monicabergamo/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/08/mauricio-stycer-apresenta-rotas-de-fuga-em-sp.shtml",
+    "image": "https://f.i.uol.com.br/fotografia/2026/04/08/177565331469d651c2b50e3_1775653314_3x2_rt.jpg"
+  },
+  {
+    "site": "CNN Brasil",
+    "title": "Christopher Lambert, astro de “Highlander”, desmaia em evento de fãs",
+    "url": "https://www.cnnbrasil.com.br/pop/celebridades/christopher-lambert-astro-de-highlander-desmaia-em-evento-de-fas/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/08/christopher-lambert.png?w=1200&h=630&crop=1"
+  },
+  {
+    "site": "Terra",
+    "title": "Corinthians com time reserva? Veja a escalação",
+    "url": "https://www.terra.com.br/esportes/futebol/corinthians-com-time-reserva-veja-a-escalacao,545fdaa6170800dc84fcb09c0fca43d38bqevw7w.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/09/1684628201-2026-corinthians-tecnico-fernando-diniz-3.jpg"
   },
   {
     "site": "BBC",
@@ -97,147 +217,27 @@
   },
   {
     "site": "G1",
-    "title": "Homem morre após cair em canal do litoral de SP",
-    "url": "https://g1.globo.com/sp/santos-regiao/noticia/2026/08/09/homem-morre-apos-cair-em-canal-do-litoral-de-sp.ghtml",
-    "image": "https://s2-g1.glbimg.com/cEOGL8MXZpa6xXtar1yrTHdI6JA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/a/YBAC3ATRC3p5CitwMykA/canal-santos.jpg"
+    "title": "Moradores reclamam de falta de água no Dia dos Pais em São José dos Campos; Sabesp alega manutenção emergencial",
+    "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/08/09/moradores-reclamam-de-falta-de-agua-no-dia-dos-pais-em-sao-jose-dos-campos-sabesp-alega-manutencao-emergencial.ghtml",
+    "image": "https://s2-g1.glbimg.com/QNDbx8yM5jqwewPn89JHsOJpayM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/l/gcSO5IQgWRM1aaXBMf2g/foto-g1-1-.jpg"
   },
   {
     "site": "UOL",
-    "title": "Ministro do STJ recebeu R$ 300 mil mesmo afastado do cargo",
-    "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/08/09/ministro-do-stj-recebeu-r-300-mil-mesmo-afastado-do-cargo.ghtm",
+    "title": "Alemanha enfrenta 'guerra híbrida diária', diz ministro do Interior após incidente com drones",
+    "url": "https://noticias.uol.com.br/ultimas-noticias/rfi/2026/08/09/alemanha-enfrenta-guerra-hibrida-diaria-diz-ministro-do-interior-apos-incidente-com-drones.htm",
     "image": ""
   },
   {
     "site": "CNN Brasil",
-    "title": "Mulheres são acusadas de se casarem com soldados russos por indenizações",
-    "url": "https://www.cnnbrasil.com.br/internacional/mulheres-sao-acusadas-de-se-casarem-com-soldados-russos-por-indenizacoes/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/05/2025-05-25T100030Z_1_LOP687525052025RP1_RTRMADP_BASEIMAGE-960X540_UKRAINE-CRISIS-RUSSIA-SWAP_2ab79b.jpg?w=960&h=540&crop=1"
+    "title": "Quaest: Flávio cai entre evangélicos, mas segue liderando grupo no 2º turno",
+    "url": "https://www.cnnbrasil.com.br/eleicoes/quaest-flavio-cai-entre-evangelicos-mas-segue-liderando-grupo-no-2o-turno/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/02/Flavio-Bolsonaro-e-Lula.png?w=1200&h=630&crop=1"
   },
   {
     "site": "Terra",
-    "title": "Houthis reivindicam ataque contra refinaria na Árabia Saudita e tropas do país no Iêmen",
-    "url": "https://www.terra.com.br/noticias/mundo/houthis-reivindicam-ataque-contra-refinaria-na-arabia-saudita-e-tropas-do-pais-no-iemen,46fc59b733f8bc9353daf67bf209a4e5meb3omct.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/09/460852070-2026-08-09t022238z-1444859818-rc2dmmamyyi8-rtrmadp-3-saudi-energy-aramco.jpg"
-  },
-  {
-    "site": "BBC",
-    "title": "As crianças invisíveis do Sudão nascidas na guerra e sem registro",
-    "url": "https://www.bbc.com/portuguese/articles/clyq9n36532o?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/e1f5/live/33f48210-91bb-11f1-a7ab-8b30adf0800a.png"
-  },
-  {
-    "site": "G1",
-    "title": "Batida entre carro e moto deixa duas pessoas feridas na PA-457, em Santarém, no PA",
-    "url": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/08/09/batida-entre-carro-e-moto-deixa-duas-pessoas-feridas-na-pa-457-em-santarem-no-pa.ghtml",
-    "image": "https://s2-g1.glbimg.com/2C5mbbH4t2mbr3lPxcDkZQRCat8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/B/lj9DbVSyuIO1ZLIjMKFQ/whatsapp-image-2026-08-09-at-09.20.12.jpeg"
-  },
-  {
-    "site": "UOL",
-    "title": "Houthis reivindicam ataque contra refinaria na Árabia Saudita e tropas do país no Iêmen",
-    "url": "https://noticias.uol.com.br/ultimas-noticias/rfi/2026/08/09/houthis-reivindicam-ataque-contra-refinaria-na-arabia-saudita-e-tropas-do-pais-no-iemen.htm",
-    "image": ""
-  },
-  {
-    "site": "CNN Brasil",
-    "title": "Corinthians x Santos: horário e onde assistir ao Brasileirão Feminino",
-    "url": "https://www.cnnbrasil.com.br/esportes/futebol/corinthians-x-santos-horario-e-onde-assistir-ao-brasileirao-feminino/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/07/Caninde-e1785014484512.jpg?w=1200&h=630&crop=1"
-  },
-  {
-    "site": "Terra",
-    "title": "Aos 97 anos, britânica dá looping na asa de um avião: 'Absolutamente fantástico'",
-    "url": "https://www.terra.com.br/vida-e-estilo/aos-97-anos-britanica-da-looping-na-asa-de-um-aviao-absolutamente-fantastico,8e1603999c493b1ed62bb79a1772fb3cqtvwf8sd.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/09/1425009229-capa-bons-fluidos-2026-08-07t163711104.jpg"
-  },
-  {
-    "site": "BBC",
-    "title": "De 'Viva Israel' a discurso no quartel: os 3 momentos da posse de De la Espriella que sinalizam como será governo da Colômbia",
-    "url": "https://www.bbc.com/portuguese/articles/cg4de4reqv9o?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/cade/live/60e96f40-92d0-11f1-a85d-251309a09aa9.jpg"
-  },
-  {
-    "site": "G1",
-    "title": "Incêndio destrói loja de roupas e bar, em João Pessoa; VÍDEO",
-    "url": "https://g1.globo.com/pb/paraiba/noticia/2026/08/09/incendio-destroi-loja-de-roupas-e-bar-em-joao-pessoa-video.ghtml",
-    "image": "https://s2-g1.glbimg.com/Y6m-QlnzavvMwIiVz6vswPRRQdA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/A/wJkGjTSrABcg0UY9s2FA/incendiolojaebarmangabeira.jpeg"
-  },
-  {
-    "site": "UOL",
-    "title": "Monza é destruído por incêndio em estrada rural de Lunardelli",
-    "url": "https://tnonline.uol.com.br/noticias/vale-do-ivai/monza-e-destruido-por-incendio-em-estrada-rural-de-lunardelli-1125226",
-    "image": "https://cdn.tnonline.com.br/img/Artigo-Destaque/1120000/1200x630/monza-ficou-completamente-destruido-01125226-0-202608090905/ScaleProportionalFillBackground-1.jpg?fallback=https%3A%2F%2Fcdn.tnonline.com.br%2Fimg%2FArtigo-Destaque%2F1120000%2Fmonza-ficou-completamente-destruido-01125226-0-202608090905.jpg%3Fxid%3D1793098&xid=1793098"
-  },
-  {
-    "site": "CNN Brasil",
-    "title": "Tornado atinge cidade no Paraná e causa destruição; veja vídeos",
-    "url": "https://www.cnnbrasil.com.br/nacional/sul/pr/tornado-atinge-cidade-no-parana-e-causa-destruicao-veja-videos/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/08/MORRE-CARLOS-ADAO-1.png?w=1200&h=630&crop=1"
-  },
-  {
-    "site": "Terra",
-    "title": "Em meio à crise com EUA, plano de Lula cita 31 vezes o termo soberania",
-    "url": "https://www.terra.com.br/noticias/brasil/politica/em-meio-a-crise-com-eua-plano-de-lula-cita-31-vezes-o-termo-soberania,7abc12c06d79810d30d2b464c0a4c2e1gizc1vyi.html",
-    "image": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png"
-  },
-  {
-    "site": "BBC",
-    "title": "Existe mesmo uma onda anti-Argentina no mundo, como diz Javier Milei?",
-    "url": "https://www.bbc.com/portuguese/articles/c87ny9zq41go?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/a543/live/15749290-8f21-11f1-9a6b-afa7ab10ffdf.jpg"
-  },
-  {
-    "site": "G1",
-    "title": "RJ pode ter ventos de até 70 km/h neste domingo; semana deve começar mais fria no Centro-Sul",
-    "url": "https://g1.globo.com/meio-ambiente/noticia/2026/08/09/domingo-tem-chuva-e-vento-antes-de-frente-fria-chegar-a-sp-e-rj.ghtml",
-    "image": "https://s2-g1.glbimg.com/H4_fE4sF8LCipYPa19PaojVeToI=/1280x0/filters:format(jpeg)/https://thumbor.globoi.com/unsafe/fit-in/1280x720/s04.video.glbimg.com/deo/vi/03/33/14853303"
-  },
-  {
-    "site": "UOL",
-    "title": "Feliz Dia dos Pais 2026: 55 mensagens emocionantes e inesquecíveis",
-    "url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/08/09/feliz-dia-dos-pais-2026-55-mensagens-emocionantes-e-inesqueciveis-para-enviar.ghtm",
-    "image": ""
-  },
-  {
-    "site": "CNN Brasil",
-    "title": "Com objetivos distintos, Bahia e Vasco se encaram pelo Brasileirão",
-    "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/com-objetivos-distintos-bahia-e-vasco-se-encaram-pelo-brasileirao/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/04/arena-fonte-nova-e1745276440576.jpeg?w=1200&h=630&crop=1"
-  },
-  {
-    "site": "Terra",
-    "title": "O músico que o Coldplay tentou imitar ao criar 'Yellow'",
-    "url": "https://www.terra.com.br/diversao/musica/o-musico-que-o-coldplay-tentou-imitar-ao-criar-yellow,6ffdc36b39877be0ceb3c2c359a7c6f86hxm1rx7.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/09/212150877-coldplay-yellow-chris-martin-1999-foto-reproducao-youtube.jpg"
-  },
-  {
-    "site": "BBC",
-    "title": "O que é a 'fase lútea' – e por que algumas mulheres se sentem 'mais feias' durante ela",
-    "url": "https://www.bbc.com/portuguese/articles/c235e9jl9l0o?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/3784/live/e4105750-8ced-11f1-a573-93159e2b55da.jpg"
-  },
-  {
-    "site": "G1",
-    "title": "Ventos fortes causam estragos no Paraná; tornado é registrado no estado",
-    "url": "https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/08/09/ventos-fortes-danos-tornado-parana.ghtml",
-    "image": "https://s2-g1.glbimg.com/U34mT2flX5nzuexW81Kjad4bNec=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/v/Goy6kMTBCty7sRdleqdg/fundo-vermelho-2-.png"
-  },
-  {
-    "site": "UOL",
-    "title": "Em meio à crise com EUA, plano de Lula cita 31 vezes o termo soberania",
-    "url": "https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2026/08/09/em-meio-a-crise-com-eua-plano-de-lula-cita-31-vezes-o-termo-soberania.htm",
-    "image": ""
-  },
-  {
-    "site": "CNN Brasil",
-    "title": "Bruna Marquezine posta vídeo especial em aniversário de Shawn Mendes; veja",
-    "url": "https://www.cnnbrasil.com.br/pop/celebridades/bruna-marquezine-posta-video-especial-em-aniversario-de-shawn-mendes-veja/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/08/Bruna-e-Shawn-visitam-Casa-Amarela_Creditos-Mauricio-Hora-1.jpg?w=1200&h=630&crop=1"
-  },
-  {
-    "site": "Terra",
-    "title": "Resumo de A Nobreza do Amor de 10 a 15 de agosto",
-    "url": "https://www.terra.com.br/diversao/resumo-de-a-nobreza-do-amor-de-10-a-15-de-agosto,3315b919cbf24d98e3e9a6e40f4174c5ml3p0wrc.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/09/871360251-a-nobreza-do-amor-tonho-invade-casa-de-alika-e-faz-pergunta-decisiva-sobre-omar.png"
+    "title": "Paquetá e mais dois: veja a escalação do Flamengo",
+    "url": "https://www.terra.com.br/esportes/flamengo/paqueta-e-mais-dois-veja-a-escalacao-do-flamengo,c52c08aa623fd2c05a1799b77f98f780fyj3mhe4.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/09/1302366481-2026-flamengo-lucas-paqueta.jpg"
   },
   {
     "site": "BBC",
@@ -247,50 +247,50 @@
   },
   {
     "site": "G1",
-    "title": "Feira do Empreendedor destaca qualificação para negócios da gastronomia",
-    "url": "https://g1.globo.com/ma/maranhao/especial-publicitario/sebrae-feira-do-empreendedor-2026/noticia/2026/08/09/feira-do-empreendedor-destaca-qualificacao-para-negocios-da-gastronomia.ghtml",
-    "image": "https://s2-g1.glbimg.com/D36cARPljDLCoGtF1nUqBhPVQZU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/t/JZ4C0mRB2jypAJzWNfmA/18-01.jpeg"
+    "title": "'Dominguinho' em Uberlândia promove o encontro entre forró e MPB com repertório renovado",
+    "url": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/08/09/dominguinho-em-uberlandia-promove-o-encontro-entre-forro-e-mpb-com-repertorio-renovado.ghtml",
+    "image": "https://s2-g1.glbimg.com/xnuN0eVT5fvoNEhHn-WHvlCphcE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/h/xLAkNBRKexNSzspqT6QA/design-sem-nome-2-.png"
   },
   {
     "site": "UOL",
-    "title": "Próximo voo do Starship será orbital, diz SpaceX",
-    "url": "https://www1.folha.uol.com.br/blogs/mensageiro-sideral/2026/08/proximo-voo-do-starship-sera-orbital-diz-spacex.shtml",
-    "image": "https://f.i.uol.com.br/fotografia/2026/08/07/17861334716a763bdf9cbcc_1786133471_3x2_rt.jpg"
+    "title": "Do caçador de empregos à captura do Estado",
+    "url": "https://www1.folha.uol.com.br/colunas/marcus-melo/2026/08/do-cacador-de-empregos-a-captura-do-estado.shtml",
+    "image": "https://f.i.uol.com.br/fotografia/2025/10/05/175967339868e27c36b971c_1759673398_3x2_xl.jpg"
   },
   {
     "site": "CNN Brasil",
-    "title": "Palmeiras e Internacional se enfrentam em momentos opostos no Brasileiro",
-    "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/palmeiras-e-internacional-se-enfrentam-em-momentos-opostos-no-brasileiro/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/02/internacional-palmeiras-brasileirao-e1770945160745.jpg?w=1200&h=630&crop=1"
+    "title": "Trump diz que age com discrição em negociações com o Irã",
+    "url": "https://www.cnnbrasil.com.br/internacional/trump-diz-que-age-com-discricao-em-negociacoes-com-o-ira/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/06/trump-lisa-cook-fed.jpg?w=1200&h=630&crop=1"
   },
   {
     "site": "Terra",
-    "title": "Moto2: Manu González comemora antes da hora e perde vitória em Silverstone. Confira vídeo",
-    "url": "https://www.terra.com.br/esportes/motociclismo/moto2-manu-gonzalez-comemora-antes-da-hora-e-perde-vitoria-em-silverstone-confira-video,fcbcc2d498f75e241fd904357a4108a055wz8mh1.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/09/ve509-071-jpg-s0v0e9o4y1ye.jpeg"
+    "title": "Virginia Fonseca reúne os filhos e emociona Zé Felipe no Dia dos Pais",
+    "url": "https://www.terra.com.br/diversao/gente/virginia-fonseca-reune-os-filhos-e-emociona-ze-felipe-no-dia-dos-pais,3b41317f66c84cfc195eb8962a5f4c7eyjlrz0ie.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/09/1651491729-virginia-fonseca-reune-os-filhos-e-emociona-ze-felipe-no-dia-dos-pais.png"
   },
   {
     "site": "G1",
-    "title": "Influencer colombiana de 17 anos morta em queda de helicóptero no Rio tinha mais de 250 mil seguidores em redes sociais",
-    "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/08/09/adolescente-morta-em-queda-de-helicoptero-no-rio.ghtml",
-    "image": "https://s2-g1.glbimg.com/dgu76ENJOn42uJ-dF0dn3G4K9-g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/V/PHaFbyTZeFvlT86vkPlQ/blank-2-grids-collage-23-.png"
+    "title": "IFMG de Formiga está entre as 20 melhores escolas públicas de ensino médio de MG no Ideb 2025",
+    "url": "https://g1.globo.com/mg/centro-oeste/noticia/2026/08/09/ifmg-de-formiga-esta-entre-as-20-melhores-escolas-publicas-de-ensino-medio-de-mg-no-ideb-2025.ghtml",
+    "image": "https://s2-g1.glbimg.com/AAbbkezMrD3TObjMZtVwjvJt7vM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/l/O4WounSSmENEHTIfwqkw/ifmg-de-formiga.png"
   },
   {
     "site": "UOL",
-    "title": "Cidade do PR confirma tornado e moradores perdem casas: 'Levadas ao chão'",
-    "url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/08/09/tornado-atinge-cidade-do-parana-e-moradores-perdem-casas-levadas-ao-chao.ghtm",
+    "title": "Flávio publica carta no Dia dos Pais após Moraes negar visita a Bolsonaro",
+    "url": "https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2026/08/09/flavio-publica-carta-no-dia-dos-pais-apos-moraes-negar-visita-a-bolsonaro.htm",
     "image": ""
   },
   {
     "site": "CNN Brasil",
-    "title": "Nunes Marques defende urnas e diz que dúvidas “desconvidam” o eleitor",
-    "url": "https://www.cnnbrasil.com.br/eleicoes/nunes-marques-defende-urnas-e-diz-que-duvidas-desconvidam-o-eleitor/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/07/image-1140-623cb28d150346ab8844bc93113ce852.jpeg?w=620&h=300&crop=1"
+    "title": "Ramagem explica foto em piscina ao lado de políticos e alvo do caso INSS",
+    "url": "https://www.cnnbrasil.com.br/politica/ramagem-explica-foto-em-piscina-ao-lado-de-politicos-e-alvo-do-caso-inss/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/08/willer-piscina_4l101848637_32lg-848x477-1.webp?w=848&h=477&crop=1"
   },
   {
     "site": "Terra",
-    "title": "Bruna Marquezine perde a discrição com Shawn Mendes: atriz faz declaração apaixonada, entrega apelido fofo e 'derrete' até Sabrina Sato",
-    "url": "https://www.terra.com.br/diversao/gente/bruna-marquezine-perde-a-discricao-com-shawn-mendes-atriz-faz-declaracao-apaixonada-entrega-apelido-fofo-e-derrete-ate-sabrina-sato,9603ba56b31f5311a6c805c7731b2ec10fbhgp2d.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/09/670076363-630367c3a23735bc-1400x823-2.png"
+    "title": "Flávio publica carta no Dia dos Pais após Moraes negar visita a Bolsonaro",
+    "url": "https://www.terra.com.br/noticias/brasil/politica/flavio-publica-carta-no-dia-dos-pais-apos-moraes-negar-visita-a-bolsonaro,f17fd051390b83a604df50c7471d28c70lqwpejv.html",
+    "image": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png"
   }
 ]
