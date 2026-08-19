@@ -1,63 +1,153 @@
 [
   {
     "site": "BBC",
+    "title": "Descoberta na Foz do Amazonas só será 'passaporte para o futuro' se modelo adotado no pré-sal mudar, diz ex-diretor da Petrobras",
+    "url": "https://www.bbc.com/portuguese/articles/ckgdxxxj3p4o?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/ce4d/live/8632e590-9b1f-11f1-b792-a710e56a11dc.jpg"
+  },
+  {
+    "site": "G1",
+    "title": "Obra da ponte em Conselheiro Paulino será entregue em dezembro de 2026, diz Inea",
+    "url": "https://g1.globo.com/rj/regiao-serrana/noticia/2026/08/19/obra-da-ponte-em-conselheiro-paulino-sera-entregue-em-dezembro-de-2026-diz-inea.ghtml",
+    "image": "https://s2-g1.glbimg.com/v6iSLQKCJONf6zx7L5Yo1hThDy0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/C/jjFdBAR3KQpnlCfS1gdw/obra-de-ponte-em-friburgo.jpg"
+  },
+  {
+    "site": "UOL",
+    "title": "EUA chegam a acordo com Canadá e suspendem tarifa de 50% por três dias",
+    "url": "https://www1.folha.uol.com.br/mercado/2026/08/eua-chegam-a-acordo-com-canada-e-suspendem-tarifa-de-50-por-tres-dias.shtml",
+    "image": "https://f.i.uol.com.br/fotografia/2026/08/19/17871418826a859efa664f3_1787141882_3x2_rt.jpg"
+  },
+  {
+    "site": "CNN Brasil",
+    "title": "Casas Bahia afirma negociações para achar alternativa à situação financeira",
+    "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/casas-bahia-afirma-negociacoes-para-achar-alternativa-a-situacao-financeira/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2021/06/19848_92FD08000C58B16E.jpeg?w=1200&h=630&crop=1"
+  },
+  {
+    "site": "Terra",
+    "title": "Tráfego no Estreito de Ormuz diminui à medida que incerteza persiste",
+    "url": "https://www.terra.com.br/noticias/mundo/trafego-no-estreito-de-ormuz-diminui-a-medida-que-incerteza-persiste,f1c7b2d0ad8ea8f4cdb6c9b7a4de26b5ugn0q6ix.html",
+    "image": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png"
+  },
+  {
+    "site": "BBC",
+    "title": "'O feminicídio gera órfãos como eu todos os dias': como irmãos que viram mãe ser assassinada e foram baleados pelo próprio pai lutaram durante 20 anos por Justiça",
+    "url": "https://www.bbc.com/portuguese/articles/cy9w01pd0vwo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/5482/live/ef921510-919c-11f1-b8ee-9b3c26ad07bb.jpg"
+  },
+  {
+    "site": "G1",
+    "title": "VÍDEOS: Bom Dia PE de quarta-feira, 19 de agosto de 2026",
+    "url": "https://g1.globo.com/pe/pernambuco/videos-bom-dia-pe/playlist/videos-bom-dia-pe-de-quarta-feira-19-de-agosto-de-2026.ghtml",
+    "image": "https://s2-g1.glbimg.com/T4_A1ApU5cMc3hELW8mFAfpBHDw=/s01.video.glbimg.com/deo/vi/35/13/14881335"
+  },
+  {
+    "site": "UOL",
+    "title": "Alesp aprova absorção de funcionários da CPTM por outros órgãos públicos",
+    "url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/08/19/alesp-aprova-absorcao-de-funcionarios-da-cptm-por-outros-orgaos-publicos.ghtm",
+    "image": ""
+  },
+  {
+    "site": "CNN Brasil",
+    "title": "Acidente com 23 mortos: caminhão teria invadido pista contrária, diz PRF",
+    "url": "https://www.cnnbrasil.com.br/nacional/sul/pr/acidente-com-23-mortos-caminhao-teria-invadido-pista-contraria-diz-prf/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/08/acidente-pr-4-e1787133695632.png?w=1110&h=625&crop=1"
+  },
+  {
+    "site": "Terra",
+    "title": "Incêndio destrói Kombi do Gordinho da Feira; comunidade se mobiliza",
+    "url": "https://www.terra.com.br/noticias/incendio-destroi-kombi-do-gordinho-da-feira-comunidade-se-mobiliza,a8467e0c5071c4481baeee1d71c92884b250u5ti.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/19/199836036-cover-gordinho-da-feira.jpg"
+  },
+  {
+    "site": "BBC",
+    "title": "A indignação com os danos ambientais causados ​​por um homem com seu caminhão em ecossistema único na Argentina",
+    "url": "https://www.bbc.com/portuguese/articles/cq56nw6105go?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/cb5e/live/6798bec0-9a2f-11f1-90d9-9d833c0912f2.jpg"
+  },
+  {
+    "site": "G1",
+    "title": "Veja o que se sabe sobre o caso do PM que foi morto após discussão no Lago Corumbá, em Goiás",
+    "url": "https://g1.globo.com/go/goias/noticia/2026/08/19/veja-o-que-se-sabe-sobre-o-caso-do-pm-que-foi-morto-apos-discussao-no-lago-corumba-em-goias.ghtml",
+    "image": "https://s2-g1.glbimg.com/5mI3jUAPLNbnTprytfChtKaYg28=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/X/AJglyERDmjkZFXMRSrpw/g1.png"
+  },
+  {
+    "site": "UOL",
+    "title": "Gaeco deflagra Operação Espectro contra tráfico de drogas e lavagem de dinheiro em Londrina",
+    "url": "https://tnonline.uol.com.br/noticias/parana/gaeco-deflagra-operacao-espectro-contra-trafico-de-drogas-e-lavagem-de-dinheiro-em-londrina-1128064",
+    "image": "https://cdn.tnonline.com.br/img/Artigo-Destaque/1120000/1200x630/operacao-foi-deflagrada-nesta-quarta-feira-01128064-0-202608190917/ScaleProportionalFillBackground-1.jpg?fallback=https%3A%2F%2Fcdn.tnonline.com.br%2Fimg%2FArtigo-Destaque%2F1120000%2Foperacao-foi-deflagrada-nesta-quarta-feira-01128064-0-202608190917.jpg%3Fxid%3D1799329&xid=1799329"
+  },
+  {
+    "site": "CNN Brasil",
+    "title": "“MasterChef 2026”: veja quem deixou o reality com prato “ruim e incomível”",
+    "url": "https://www.cnnbrasil.com.br/pop/tv/masterchef-2026-veja-quem-deixou-o-reality-com-prato-ruim-e-incomivel/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/08/masterchef_459cd5.jpg?w=1200&h=630&crop=1"
+  },
+  {
+    "site": "Terra",
+    "title": "Ajude o João a recomeçar",
+    "url": "https://www.terra.com.br/noticias/ajude-o-joao-a-recomecar,20c4a6487a4ad6bf78bb0c3e0511ab8eei0gn6ly.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/19/1586135037-cover-ajude-o-joao-a-recomecar-beatriz-ohana.jpg"
+  },
+  {
+    "site": "BBC",
     "title": "Glória Menezes: relembre papéis marcantes da 'primeira-dama' que comoveu gerações e ajudou a escrever a história da TV brasileira",
     "url": "https://www.bbc.com/portuguese/articles/cm2g729w9j9o?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/f5af/live/1b807b50-9b50-11f1-a291-b542ee92de7c.jpg"
   },
   {
     "site": "G1",
-    "title": "Previsão do tempo hoje para Brasília (DF): sol com algumas nuvens; não chove",
-    "url": "https://g1.globo.com/df/distrito-federal/previsao-do-tempo/noticia/2026/08/19/previsao-do-tempo-hoje-para-brasilia-df-sol-com-algumas-nuvens-nao-chove.ghtml",
-    "image": "https://s2-g1.glbimg.com/F164C-UbGx0ZmIs6qRXpvwAYQuQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/V/AF9z5nT8KGBj4AvLP4Xw/previsao-tempo-bras-lia-20260819-030646.jpeg"
+    "title": "Casal fica preso em academia após ter sido esquecido por funcionários em Brasília",
+    "url": "https://g1.globo.com/df/distrito-federal/noticia/2026/08/19/casal-fica-preso-em-academia-apos-ter-sido-esquecido-por-funcionarios-em-brasilia.ghtml",
+    "image": "https://s2-g1.glbimg.com/J-Lsemb4RcCk7_3Wl9TnPMsYzeI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/M/W87A6uTJArXuBkUEV4Tg/imagens-g1-2026-08-19t085329.928.png"
   },
   {
     "site": "UOL",
-    "title": "Trump pressiona por encontro com Kim Jong Un ainda este ano",
-    "url": "https://www1.folha.uol.com.br/mundo/2026/08/trump-pressiona-por-encontro-com-kim-jong-un-ainda-este-ano.shtml",
-    "image": "https://f.i.uol.com.br/fotografia/2026/08/17/17869694246a82fd506862a_1786969424_3x2_rt.jpg"
-  },
-  {
-    "site": "CNN Brasil",
-    "title": "Incêndio em hotel deixa ao menos nove mortos em Calcutá, na Índia",
-    "url": "https://www.cnnbrasil.com.br/internacional/incendio-em-hotel-deixa-mortos-em-calcuta-na-india/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/08/2026-08-19T050056Z_1_LOP641719082026RP1_RTRMADP_BASEIMAGE-960X540_INDIA-FIRE.jpg?w=960&h=540&crop=1"
-  },
-  {
-    "site": "Terra",
-    "title": "Flamengo vive cenários opostos nas laterais em 2026; entenda",
-    "url": "https://www.terra.com.br/esportes/flamengo/flamengo-vive-cenarios-opostos-nas-laterais-em-2026-entenda,e6e19852dc71387b836cffc0c4f79f05huxsahmo.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/19/2121929586-2026-flamengo-tecnico-leonardo-jardim-laterais.jpg"
-  },
-  {
-    "site": "BBC",
-    "title": "As críticas de Laura Cardoso aos rumos das novelas: 'Você não pode me cortar para fazer um close da bonitinha'",
-    "url": "https://www.bbc.com/portuguese/articles/cx2v3kn19d4o?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/a80c/live/401e5920-9b6c-11f1-b1cb-859c01609bc4.jpg"
-  },
-  {
-    "site": "G1",
-    "title": "Previsão do tempo hoje para São Paulo (SP): sol o dia todo sem nuvens no céu; noite de tempo aberto ainda sem nuvens",
-    "url": "https://g1.globo.com/sp/sao-paulo/previsao-do-tempo/noticia/2026/08/19/previsao-do-tempo-hoje-para-sao-paulo-sp-sol-o-dia-todo-sem-nuvens-no-ceu-noite-de-tempo-aberto-ainda-sem-nuvens.ghtml",
-    "image": "https://s2-g1.glbimg.com/2ZO-MhBOATwB4CxYIegUcdq1FcA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/F/3NtH2QTBOv4IsSxBXYOw/previsao-tempo-s-o-paulo-20260819-030629.jpeg"
-  },
-  {
-    "site": "UOL",
-    "title": "Palmeiras tem prova de fogo em Assunção contra o Cerro Porteño na Libertadores",
-    "url": "https://noticias.uol.com.br/ultimas-noticias/afp/2026/08/19/palmeiras-tem-prova-de-fogo-em-assuncao-contra-o-cerro-porteno-na-libertadores.htm",
+    "title": "Ataques contra profissionais humanitários têm nível recorde em 2025, diz ONU",
+    "url": "https://noticias.uol.com.br/ultimas-noticias/reuters/2026/08/19/ataques-contra-profissionais-humanitarios-tem-nivel-recorde-em-2025-diz-onu.htm",
     "image": ""
   },
   {
     "site": "CNN Brasil",
-    "title": "Atlético de Madrid x Málaga: horário e onde assistir ao jogo de LaLiga",
-    "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-espanhol/atletico-de-madrid-x-malaga-horario-e-onde-assistir-ao-jogo-de-laliga/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2023/12/estadio_atletico_madrid.jpeg?w=1120&h=373&crop=1"
+    "title": "A barreira regulatória do setor elétrico e o leilão das baterias",
+    "url": "https://www.cnnbrasil.com.br/infra/a-barreira-regulatoria-do-setor-eletrico-e-o-leilao-das-baterias/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/02/WEG_Sistemas-Baterias__Divulgacao.jpeg?w=1200&h=630&crop=1"
   },
   {
     "site": "Terra",
-    "title": "Calleri projeta São Paulo x Boca Juniors pela Sul-Americana",
-    "url": "https://www.terra.com.br/esportes/sao-paulo/calleri-projeta-sao-paulo-x-boca-juniors-pela-sul-americana,31b31b12c12f91fd912779f1fec93b6czbmgszec.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/19/894818933-calleri.jpg"
+    "title": "Nathália Timberg se despede de Glória Menezes e de Laura Cardoso: 'Logo estaremos juntas'",
+    "url": "https://www.terra.com.br/diversao/gente/nathalia-timberg-se-despede-de-gloria-menezes-e-de-laura-cardoso-logo-estaremos-juntas,9f936e8f672fdf7df3666793a23d14865u15pk7o.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/19/1340631239-22lliujyyjgrzd6ybmbhyfn52e.jpg"
+  },
+  {
+    "site": "BBC",
+    "title": "Os gêmeos que se casaram com irmãs gêmeas em celebração feita por padres gêmeos e com coroinhas gêmeos",
+    "url": "https://www.bbc.com/portuguese/articles/ckg4q1j2z04o?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/0a36/live/65f0db50-9572-11f1-a3bc-9ba393148cee.jpg"
+  },
+  {
+    "site": "G1",
+    "title": "Veja o antes e depois da passarela de 70 toneladas que caiu e matou mãe e filho na Fernão Dias",
+    "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/08/19/veja-o-antes-e-depois-da-passarela-de-70-toneladas-que-caiu-e-matou-mae-e-filho-na-fernao-dias.ghtml",
+    "image": "https://s2-g1.glbimg.com/DZSOw1GD94n57wIlpvticTARafM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/S/ljA0IIQ5aFzwb4HYbBlg/texto-do-seu-paragrafo-2026-08-19t091409.045.png"
+  },
+  {
+    "site": "UOL",
+    "title": "Bolão de Marumbi fatura mais de R$ 150 mil na quina da Mega-Sena",
+    "url": "https://tnonline.uol.com.br/noticias/vale-do-ivai/bolao-de-marumbi-fatura-mais-de-r-150-mil-na-quina-da-mega-sena-1128049",
+    "image": "https://cdn.tnonline.com.br/img/Instant-Article/1120000/1200x630/sorteio-aconteceu-na-noite-desta-terca-feira-18-01128049-0-202608190917/ScaleProportionalFillBackground-1.jpg?fallback=https%3A%2F%2Fcdn.tnonline.com.br%2Fimg%2FInstant-Article%2F1120000%2Fsorteio-aconteceu-na-noite-desta-terca-feira-18-01128049-0-202608190917.jpg%3Fxid%3D1799333&xid=1799333"
+  },
+  {
+    "site": "CNN Brasil",
+    "title": "Grupo Multi anuncia provisão de R$ 20 milhões para perdas com Casas Bahia",
+    "url": "https://www.cnnbrasil.com.br/economia/money/negocios/grupo-multi-anuncia-provisao-de-r-20-milhoes-para-perdas-com-casas-bahia/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2021/06/6074_94278CDF93475C04-11.jpeg?w=1200&h=630&crop=1"
+  },
+  {
+    "site": "Terra",
+    "title": "Angélica se emociona com a morte de cachorro da família: ‘Nosso grandão vai fazer muita falta’",
+    "url": "https://www.terra.com.br/diversao/gente/angelica-se-emociona-com-a-morte-de-cachorro-da-familia-nosso-grandao-vai-fazer-muita-falta,648dad6a082f2d129ed300b492efd944wtxirz1l.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/19/angelica-cachorro-1iexszt0kmlba.jpg"
   },
   {
     "site": "BBC",
@@ -67,27 +157,57 @@
   },
   {
     "site": "G1",
-    "title": "Previsão do tempo hoje para São Bernardo do Campo (SP): dia ensolarado, com nevoeiro ao amanhecer; as nuvens aumentam à noite",
-    "url": "https://g1.globo.com/sp/sao-paulo/previsao-do-tempo/noticia/2026/08/19/previsao-do-tempo-hoje-para-sao-bernardo-do-campo-sp-dia-ensolarado-com-nevoeiro-ao-amanhecer-as-nuvens-aumentam-a-noite.ghtml",
-    "image": "https://s2-g1.glbimg.com/AoO7ERehWWdty3h1CaPrl1txZjQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/f/HUU0FYRBa3CeRNzWI6Ew/previsao-tempo-s-o-bernardo-do-campo-20260819-030613.jpeg"
+    "title": "Carro com 438 multas e R$ 85,5 mil em débitos é apreendido durante operação da PM em Limeira",
+    "url": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/08/19/carro-com-438-multas-e-r-855-mil-em-debitos-e-apreendido-durante-operacao-da-pm-em-limeira.ghtml",
+    "image": "https://s2-g1.glbimg.com/QdCIHiO9srnFU-XacoL6YfnhEiw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/V/0ueR1YQDijYnJ89DkG4g/whatsapp-image-2026-08-18-at-22.34.22.jpeg"
   },
   {
     "site": "UOL",
-    "title": "Com tudo em aberto, Flamengo recebe Cruzeiro no jogo de volta das oitavas da Libertadores",
-    "url": "https://noticias.uol.com.br/ultimas-noticias/afp/2026/08/19/com-tudo-em-aberto-flamengo-recebe-cruzeiro-no-jogo-de-volta-das-oitavas-da-libertadores.htm",
+    "title": "Tarcísio diz que Forças Armadas 'definham' sob Lula e critica proteção das fronteiras",
+    "url": "https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2026/08/19/tarcisio-diz-que-forcas-armadas-definham-sob-lula-e-critica-protecao-das-fronteiras.htm",
     "image": ""
   },
   {
     "site": "CNN Brasil",
-    "title": "Análise WW: Alcolumbre vai de inimigo a aliado do governo Lula em meses",
-    "url": "https://www.cnnbrasil.com.br/politica/analise-ww-alcolumbre-aliado-inimigo-governo-lula/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/08/0d9a8667_1-e1787103766231.webp?w=1024&h=577&crop=1"
+    "title": "Liverpool prepara proposta milionária para tirar Endrick do Real Madrid",
+    "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/liverpool-prepara-proposta-milionaria-para-tirar-endrick-do-real-madrid/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/08/endrick_amistoso_real_2-e1785614278923.jpg?w=1200&h=630&crop=1"
   },
   {
     "site": "Terra",
-    "title": "Calleri é sincero após classificação do São Paulo na Copa Sul-Americana",
-    "url": "https://www.terra.com.br/esportes/sao-paulo/calleri-e-sincero-apos-classificacao-do-sao-paulo-na-copa-sul-americana,0e25ed6484369b20217165db64f356a546jdgndg.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/19/894818933-calleri.jpg"
+    "title": "Cezar Lima e sua batalha contra a ELA: uma história de amor e resiliência",
+    "url": "https://www.terra.com.br/noticias/cezar-lima-e-sua-batalha-contra-a-ela-uma-historia-de-amor-e-resiliencia,adeb53c744e93258c2a0f396c9ce8b2dzmk1dlri.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/19/741371066-cover-cada-ciclo-importa-ajude-no-tratamento-da-ela.jpg"
+  },
+  {
+    "site": "BBC",
+    "title": "As críticas de Laura Cardoso aos rumos das novelas: 'Você não pode me cortar para fazer um close da bonitinha'",
+    "url": "https://www.bbc.com/portuguese/articles/cx2v3kn19d4o?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/a80c/live/401e5920-9b6c-11f1-b1cb-859c01609bc4.jpg"
+  },
+  {
+    "site": "G1",
+    "title": "VÍDEOS: Bom Dia Goiás de quarta-feira, 19 de agosto de 2026",
+    "url": "https://g1.globo.com/go/goias/edicao/2026/08/19/videos-bom-dia-goias-de-quarta-feira-19-de-agosto-de-2026.ghtml",
+    "image": "https://s2-g1.glbimg.com/B5nizCyvm65ZA2nABYF9zFQAmhk=/s01.video.glbimg.com/deo/vi/97/14/14881497"
+  },
+  {
+    "site": "UOL",
+    "title": "Quarteto curitibano Terraplana realiza sua primeira turnê europeia e se apresenta em Paris",
+    "url": "https://noticias.uol.com.br/ultimas-noticias/rfi/2026/08/19/quarteto-curitibano-terraplana-realiza-sua-primeira-turne-europeia-e-se-apresenta-em-paris.htm",
+    "image": ""
+  },
+  {
+    "site": "CNN Brasil",
+    "title": "Influencer Eduardo Razuk é preso por lavagem de dinheiro em MS",
+    "url": "https://www.cnnbrasil.com.br/nacional/centro-oeste/ms/influencer-eduardo-razuk-e-preso-por-lavagem-de-dinheiro-em-ms/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/08/EDUARDO-RAZUK-1.jpg?w=1200&h=630&crop=1"
+  },
+  {
+    "site": "Terra",
+    "title": "União pela vida: a luta de Marcos contra o câncer no palato",
+    "url": "https://www.terra.com.br/noticias/uniao-pela-vida-a-luta-de-marcos-contra-o-cancer-no-palato,bb12d7969c13309376088bc1d0734cc121ktoctu.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/19/426438954-cover-ajude-o-marcos-a-continuar-lutando-contra-o-cancer.jpg"
   },
   {
     "site": "BBC",
@@ -97,147 +217,27 @@
   },
   {
     "site": "G1",
-    "title": "Previsão do tempo hoje para Santo André (SP): dia ensolarado, com nevoeiro ao amanhecer; as nuvens aumentam à noite",
-    "url": "https://g1.globo.com/sp/sao-paulo/previsao-do-tempo/noticia/2026/08/19/previsao-do-tempo-hoje-para-santo-andre-sp-dia-ensolarado-com-nevoeiro-ao-amanhecer-as-nuvens-aumentam-a-noite.ghtml",
-    "image": "https://s2-g1.glbimg.com/eLj3CunbdG32zpCHSnEH0-YHGE4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/D/0pAxkkTYAuSFIU2seAoA/previsao-tempo-santo-andr-20260819-030556.jpeg"
+    "title": "Justiça determina reintegração de policial condenado pela morte de Zaira Cruz à PM do RN",
+    "url": "https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/08/19/justica-determina-reintegracao-de-policial-condenado-pela-morte-de-zaira-cruz-a-pm-do-rn.ghtml",
+    "image": "https://s2-g1.glbimg.com/SJMTH2N5gALS3_Am8llmWwzSKno=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/q/7rBoIhQYqayBkOJXhkRg/captura-de-tela-2026-03-17-135414.png"
   },
   {
     "site": "UOL",
-    "title": "TSE encerra ação do PT após desistência e destrava repasses do fundo eleitoral",
-    "url": "https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/08/tse-encerra-acao-do-pt-apos-desistencia-e-destrava-repasses-do-fundo-eleitoral.shtml",
-    "image": "https://f.i.uol.com.br/fotografia/2026/06/30/17828703236a447133c597b_1782870323_3x2_rt.jpg"
+    "title": "Tarcísio diz ter alinhamento com valores do bolsonarismo, mas rechaça 'o que não faz sentido'",
+    "url": "https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2026/08/19/tarcisio-diz-ter-alinhamento-com-valores-do-bolsonarismo-mas-rechaca-o-que-nao-faz-sentido.htm",
+    "image": ""
   },
   {
     "site": "CNN Brasil",
-    "title": "Após anúncio de Trump, Canadá confirma suspensão de tarifas de 50% dos EUA",
-    "url": "https://www.cnnbrasil.com.br/economia/apos-anuncio-de-trump-canada-confirma-suspensao-de-tarifas-dos-eua/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/Reuters_Direct_Media/BrazilOnlineReportWorldNews/tagreuters.com2026binary_LYNXMPEM4R1G8-BASEIMAGE.jpg?w=800&h=534&crop=1"
+    "title": "Cosan vai deixar bolsa de Nova York",
+    "url": "https://www.cnnbrasil.com.br/agro/cosan-vai-deixar-bolsa-de-nova-york/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/09/cosan.webp?w=860&h=484&crop=1"
   },
   {
     "site": "Terra",
-    "title": "A declaração de Luciano após voltar a marcar gol pelo São Paulo",
-    "url": "https://www.terra.com.br/esportes/sao-paulo/a-declaracao-de-luciano-apos-voltar-a-marcar-gol-pelo-sao-paulo,0a0ba99c27f9f0387b9b79a25bf3c9a3blu489ms.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/19/1056557450-luciano.jpg"
-  },
-  {
-    "site": "BBC",
-    "title": "'Geração Lava Jato' prefere Flávio, e idosos podem ser 'novo Nordeste' de Lula, diz diretora do Datafolha",
-    "url": "https://www.bbc.com/portuguese/articles/cx2r19g4pnxo?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/6b21/live/0047b210-9adb-11f1-b2f7-5d1639b20e22.jpg"
-  },
-  {
-    "site": "G1",
-    "title": "Previsão do tempo hoje para Osasco (SP): dia ensolarado, com nevoeiro ao amanhecer; as nuvens aumentam à noite",
-    "url": "https://g1.globo.com/sp/sao-paulo/previsao-do-tempo/noticia/2026/08/19/previsao-do-tempo-hoje-para-osasco-sp-dia-ensolarado-com-nevoeiro-ao-amanhecer-as-nuvens-aumentam-a-noite.ghtml",
-    "image": "https://s2-g1.glbimg.com/r-BB2obC4WN0i0poepJsiHF_7rY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/k/LAoOmATdahfDeLMMt1Sw/previsao-tempo-osasco-20260819-030539.jpeg"
-  },
-  {
-    "site": "UOL",
-    "title": "Filme estrelado pela apucaranense Luiza Godoi Acosta será exibido em Apucarana",
-    "url": "https://tnonline.uol.com.br/noticias/apucarana/filme-estrelado-pela-apucaranense-luiza-godoi-acosta-sera-exibido-em-apucarana-1128048",
-    "image": "https://cdn.tnonline.com.br/img/Instant-Article/1120000/1200x630/a-atuacao-rendeu-a-luiza-a-indicacao-de-melhor-atr-01128048-0-202608182349/ScaleProportionalFillBackground-1.jpg?fallback=https%3A%2F%2Fcdn.tnonline.com.br%2Fimg%2FInstant-Article%2F1120000%2Fa-atuacao-rendeu-a-luiza-a-indicacao-de-melhor-atr-01128048-0-202608182349.jpg%3Fxid%3D1799224&xid=1799224"
-  },
-  {
-    "site": "CNN Brasil",
-    "title": "São Paulo 3 x 1 Bolívar: veja os melhores momentos pela Sul-Americana",
-    "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/sulamericana/veja-os-melhores-momentos-de-sao-paulo-3-x-1-bolivar-pela-sul-americana/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/08/1-Sao-Paulo-x-Bolivar-4-e1787109486135.jpg?w=1200&h=630&crop=1"
-  },
-  {
-    "site": "Terra",
-    "title": "Jair pode renovar com o Vasco? Veja a situação após nova lesão",
-    "url": "https://www.terra.com.br/esportes/futebol/jair-pode-renovar-com-o-vasco-veja-a-situacao-apos-nova-lesao,09170eb0676e191b7c5dfa3c837a314cfedjr0wg.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/19/340062233-2026-vasco-volante-jair-contrato-lesao.jpg"
-  },
-  {
-    "site": "BBC",
-    "title": "Novo pré-sal? O que já se sabe e o que ainda falta descobrir sobre o petróleo na Foz do Amazonas",
-    "url": "https://www.bbc.com/portuguese/articles/ckg90w38xn3o?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/ce0f/live/ac2bb9c0-9ade-11f1-b2f7-5d1639b20e22.jpg"
-  },
-  {
-    "site": "G1",
-    "title": "Previsão do tempo hoje para Guarulhos (SP): dia ensolarado, com nevoeiro ao amanhecer; as nuvens aumentam à noite",
-    "url": "https://g1.globo.com/sp/sao-paulo/previsao-do-tempo/noticia/2026/08/19/previsao-do-tempo-hoje-para-guarulhos-sp-dia-ensolarado-com-nevoeiro-ao-amanhecer-as-nuvens-aumentam-a-noite.ghtml",
-    "image": "https://s2-g1.glbimg.com/hsx89DBMGUNsjS00M2qUsdQrF-U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/N/VTBYJATeyGeb2bBdrtrQ/previsao-tempo-guarulhos-20260819-030520.jpeg"
-  },
-  {
-    "site": "UOL",
-    "title": "Trump manda repórter se calar, e Casa Branca diz que filhos 'vão se envergonhar' dela",
-    "url": "https://www1.folha.uol.com.br/mundo/2026/08/trump-manda-reporter-se-calar-e-casa-branca-diz-que-filhos-vao-se-envergonhar-dela.shtml",
-    "image": "https://f.i.uol.com.br/fotografia/2026/08/18/17871064886a8514b8be389_1787106488_3x2_rt.jpg"
-  },
-  {
-    "site": "CNN Brasil",
-    "title": "Veja quanto Fluminense faturou com classificação na Libertadores",
-    "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/libertadores-da-america/veja-quanto-fluminense-faturou-com-classificacao-na-libertadores/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/08/Rivadavia-Fluminense-Libertadores-4-e1787108055934.jpg?w=1200&h=630&crop=1"
-  },
-  {
-    "site": "Terra",
-    "title": "Danielzinho revela conversa no vestiário do São Paulo",
-    "url": "https://www.terra.com.br/esportes/sao-paulo/danielzinho-revela-conversa-no-vestiario-do-sao-paulo,340451d51a904b0818782cafd30561caqctv0625.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/19/2135398366-danielzinho.jpg"
-  },
-  {
-    "site": "BBC",
-    "title": "O caso da menina de 10 anos traficada do Peru para o Equador para se casar com um homem de 50",
-    "url": "https://www.bbc.com/portuguese/articles/c07rlrrvgz7o?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/e6b1/live/d2a1b030-9a7c-11f1-85bb-779ae48e4486.jpg"
-  },
-  {
-    "site": "G1",
-    "title": "Previsão do tempo hoje para São Gonçalo (RJ): tempo ensolarado, com nevoeiro ao amanhecer; noite de céu limpo",
-    "url": "https://g1.globo.com/rj/rio-de-janeiro/previsao-do-tempo/noticia/2026/08/19/previsao-do-tempo-hoje-para-sao-goncalo-rj-tempo-ensolarado-com-nevoeiro-ao-amanhecer-noite-de-ceu-limpo.ghtml",
-    "image": "https://s2-g1.glbimg.com/MJxTmdsYtVoGxwr4e-HSUoyI_yU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/P/ueR1E1QIWAS2xtBBbDkA/previsao-tempo-s-o-gon-alo-20260819-030503.jpeg"
-  },
-  {
-    "site": "UOL",
-    "title": "Juíza diz que medidas cautelares não são suficientes para proteger mulher do marido empresário em SP",
-    "url": "https://www1.folha.uol.com.br/cotidiano/2026/08/juiza-diz-que-medidas-cautelares-nao-sao-suficientes-para-proteger-mulher-do-marido-empresario-em-sp.shtml",
-    "image": "https://f.i.uol.com.br/fotografia/2026/08/15/17868447176a81162dc84b1_1786844717_3x2_lg.jpg"
-  },
-  {
-    "site": "CNN Brasil",
-    "title": "Veja quanto São Paulo faturou com classificação na Sul-Americana",
-    "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/sulamericana/veja-quanto-sao-paulo-faturou-com-classificacao-na-sul-americana/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/08/1-Sao-Paulo-x-Bolivar-5-e1787107812822.jpg?w=1200&h=630&crop=1"
-  },
-  {
-    "site": "Terra",
-    "title": "A declaração de Danielzinho direcionada à torcida do São Paulo",
-    "url": "https://www.terra.com.br/esportes/sao-paulo/a-declaracao-de-danielzinho-direcionada-a-torcida-do-sao-paulo,4712b7922e5f46f79e1a058932cd386e6nsld6k0.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/19/2135398366-danielzinho.jpg"
-  },
-  {
-    "site": "BBC",
-    "title": "Medicamentos para perder peso podem ser considerados doping no esporte?",
-    "url": "https://www.bbc.com/portuguese/articles/c4g6m2e4ylro?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/0fa4/live/9af768d0-9a51-11f1-b792-a710e56a11dc.jpg"
-  },
-  {
-    "site": "G1",
-    "title": "Previsão do tempo hoje para o Rio de Janeiro (RJ): sol o dia todo sem nuvens no céu; noite de tempo aberto ainda sem nuvens",
-    "url": "https://g1.globo.com/rj/rio-de-janeiro/previsao-do-tempo/noticia/2026/08/19/previsao-do-tempo-hoje-para-o-rio-de-janeiro-rj-sol-o-dia-todo-sem-nuvens-no-ceu-noite-de-tempo-aberto-ainda-sem-nuvens.ghtml",
-    "image": "https://s2-g1.glbimg.com/fjHcAlqbaifo1_Pv-6khyBG8Y5k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/H/DT0XKvTryORRc5fjc3qA/previsao-tempo-rio-de-janeiro-20260819-030446.jpeg"
-  },
-  {
-    "site": "UOL",
-    "title": "Chefs, empresários e sommeliers prestigiam especial O Melhor de São Paulo Gastronomia, da Folha",
-    "url": "https://redir.folha.com.br/redir/online/colunas/monicabergamo/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/08/chefs-empresarios-e-sommeliers-prestigiam-especial-o-melhor-de-sao-paulo-gastronomia-da-folha.shtml",
-    "image": "https://f.i.uol.com.br/fotografia/2026/08/18/17870914566a84da0066d51_1787091456_3x2_rt.jpg"
-  },
-  {
-    "site": "CNN Brasil",
-    "title": "Caminhoneiro escapa por segundos de queda de passarela na Fernão Dias em SP",
-    "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/caminhoneiro-escapa-por-segundos-de-queda-de-passarela-na-fernao-dias-em-sp/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/08/Captura-de-tela-2026-08-18-232151.png?w=626&h=411&crop=1"
-  },
-  {
-    "site": "Terra",
-    "title": "Isaque Pacheco assina com o Fluminense; veja quanto vale",
-    "url": "https://www.terra.com.br/esportes/futebol/isaque-pacheco-assina-com-o-fluminense-veja-quanto-vale,d9e4a5cd16e70cdb3cdfb26a55d4c337drmhaoty.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/19/1381097840-2026-fluminense-lateral-direito-isaque-pacheco-contrato-multa-rescisoria.jpg"
+    "title": "Dona Cida: A batalha por um novo joelho e a esperança de dias melhores",
+    "url": "https://www.terra.com.br/noticias/dona-cida-a-batalha-por-um-novo-joelho-e-a-esperanca-de-dias-melhores,db96ff73488c09e7c39ca5436a4bb6c4djh68slo.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/19/869003550-cover-ajude-dona-cida-a-ter-um-novo-joelho.jpg"
   },
   {
     "site": "BBC",
@@ -247,50 +247,50 @@
   },
   {
     "site": "G1",
-    "title": "Previsão do tempo hoje para Nova Iguaçu (RJ): tempo ensolarado, com nevoeiro ao amanhecer; noite de céu limpo",
-    "url": "https://g1.globo.com/rj/rio-de-janeiro/previsao-do-tempo/noticia/2026/08/19/previsao-do-tempo-hoje-para-nova-iguacu-rj-tempo-ensolarado-com-nevoeiro-ao-amanhecer-noite-de-ceu-limpo.ghtml",
-    "image": "https://s2-g1.glbimg.com/Gh5g52LVKWS7Rgw_DTqdAn6vIKU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/U/uKKMOFR5ur5kamZY8crQ/previsao-tempo-nova-igua-u-20260819-030430.jpeg"
+    "title": "Mulher é presa suspeita de tentar matar irmão ao injetar líquido no corpo dele em hospital de SC",
+    "url": "https://g1.globo.com/sc/santa-catarina/noticia/2026/08/19/mulher-presa-tentar-matar-irmao-injetar-liquido-hospital-brusque-sc.ghtml",
+    "image": "https://s2-g1.glbimg.com/AeEuRuR8emP4dVIWKhVMMou0mVk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/k/zD7gqwTyKHb1cY7rKUAw/mulher-e-presa-suspeita-de-tentar-matar-irmao-dentro-de-hospital-em-sc.jpeg"
   },
   {
     "site": "UOL",
-    "title": "Candidatas mulheres são um terço do total há quatro eleições nacionais; veja perfil de 2026",
-    "url": "https://www1.folha.uol.com.br/poder/2026/08/candidatas-mulheres-sao-um-terco-do-total-ha-quatro-eleicoes-nacionais-veja-perfil-de-2026.shtml",
-    "image": "https://f.i.uol.com.br/fotografia/2026/08/13/17866424506a7e0012b5fed_1786642450_3x2_rt.jpg"
+    "title": "Acidente na BR-373 é o mais grave do Paraná desde 2021, diz PRF",
+    "url": "https://www1.folha.uol.com.br/cotidiano/2026/08/acidente-na-br-373-e-o-mais-grave-do-parana-desde-2021-diz-prf.shtml",
+    "image": "https://f.i.uol.com.br/fotografia/2026/08/19/17871348756a85839b07470_1787134875_3x2_rt.jpg"
   },
   {
     "site": "CNN Brasil",
-    "title": "Mãe e filho morrem após acidente com queda de passarela na Fernão Dias",
-    "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/mae-e-filho-morrem-apos-acidente-com-queda-de-passarela-na-fernao-dias/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/08/Captura-de-tela-2026-08-18-230505.png?w=631&h=414&crop=1"
+    "title": "Calleri projeta reencontro com o Boca Juniors: “Jogo especial”",
+    "url": "https://www.cnnbrasil.com.br/esportes/futebol/sao-paulo/calleri-projeta-reencontro-com-o-boca-juniors-jogo-especial/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/08/calleri_comemora-e1787140227143.jpg?w=1200&h=630&crop=1"
   },
   {
     "site": "Terra",
-    "title": "Memphis Depay recebe novidade antes de jogo decisivo do Corinthians",
-    "url": "https://www.terra.com.br/esportes/corinthians/memphis-depay-recebe-novidade-antes-de-jogo-decisivo-do-corinthians,be51368b315ba2acdd844dcc20efd6b21sibtpu8.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/19/799649638-flamengo-v-corinthians-supercopa-do-brasil-2026-2048x1365.jpg"
+    "title": "A luta de Monise Ramos contra a cirurgia de câncer no peritônio",
+    "url": "https://www.terra.com.br/noticias/a-luta-de-monise-ramos-contra-a-cirurgia-de-cancer-no-peritonio,6fe5c89c8d4a40537eb610a33e44d8431eti9mt5.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/19/553071027-cover-ajuda-para-cirurgia-de-cancer-monise-ramos.jpg"
   },
   {
     "site": "G1",
-    "title": "Previsão do tempo hoje para Niterói (RJ): dia de sol, com nevoeiro ao amanhecer; as nuvens aumentam no decorrer da tarde",
-    "url": "https://g1.globo.com/rj/rio-de-janeiro/previsao-do-tempo/noticia/2026/08/19/previsao-do-tempo-hoje-para-niteroi-rj-dia-de-sol-com-nevoeiro-ao-amanhecer-as-nuvens-aumentam-no-decorrer-da-tarde.ghtml",
-    "image": "https://s2-g1.glbimg.com/RtKcb6OVnOG4VJpB6zzxva3QEXM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/y/XmHHlhRkGTCOxMuSRahA/previsao-tempo-niter-i-20260819-030414.jpeg"
+    "title": "Carro entra na contramão para fugir de blitz e deixa motociclista gravemente ferido em Porto Alegre",
+    "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/08/19/carro-foge-blitz-atinge-motociclista-porto-alegre.ghtml",
+    "image": "https://s2-g1.glbimg.com/2Vcc1cpJYDl-kYU80VltDwVigLA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/N/ZwY5FQQdG8wfJlXGd0pQ/g1-49-.jpg"
   },
   {
     "site": "UOL",
-    "title": "Além de Carlos Cesare, relembre outros artistas que interpretaram Pablo no 'Qual é a Música'",
-    "url": "https://f5.folha.uol.com.br/televisao/2026/08/alem-de-carlos-cesare-relembre-outros-artistas-que-interpretaram-pablo-no-qual-e-a-musica.shtml",
-    "image": "https://f.i.uol.com.br/fotografia/2026/08/18/17871063916a8514571f9f7_1787106391_3x2_xl.jpg"
+    "title": "Homem é preso por fornecer armas impressas em 3D para criminosos",
+    "url": "https://www.redetv.uol.com.br/jornalismo/geral/homem-e-preso-por-fornecer-armas-impressas-em-3d-para-criminosos",
+    "image": "https://images.redetv.uol.com.br/public/jornalismo/redetvinoticias/20260819085933hnxVIPgfrt.jpg"
   },
   {
     "site": "CNN Brasil",
-    "title": "STJ não reconhece relação de casal com filho e noivado como união estável",
-    "url": "https://www.cnnbrasil.com.br/nacional/brasil/stj-nao-reconhece-relacao-de-casal-com-filho-e-noivado-como-uniao-estavel/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2022/02/50087694211_1d949199e6_k.jpg?w=1200&h=630&crop=1"
+    "title": "Unitree, fabricante de robôs humanoides, dispara quase 500% em IPO na China",
+    "url": "https://www.cnnbrasil.com.br/economia/money/mercado/unitree-fabricante-de-robos-humanoides-dispara-quase-500-em-ipo-na-china/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/Reuters_Direct_Media/BrazilOnlineReportBusinessNews/tagreuters.com2026binary_LYNXMPEM7I0MK-BASEIMAGE.jpg?w=800&h=533&crop=1"
   },
   {
     "site": "Terra",
-    "title": "A declaração de Dorival Jr após a vitória do São Paulo na Sul-Americana",
-    "url": "https://www.terra.com.br/esportes/sao-paulo/a-declaracao-de-dorival-jr-apos-a-vitoria-do-sao-paulo-na-sul-americana,a38fff2e49decd05e132f6cd42abcb95yczvnx12.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/19/818474740-dorival-jr-pelo-sao-paulo.jpg"
+    "title": "A luta de uma família em busca de esperança e apoio financeiro para o tratamento de câncer",
+    "url": "https://www.terra.com.br/noticias/a-luta-de-uma-familia-em-busca-de-esperanca-e-apoio-financeiro-para-o-tratamento-de-cancer,86cd4b6a2345cb1d93b5c30796240448lau33pir.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/08/19/252294533-cover-ajude-o-tratamento-de-cancer-de-darlan.jpg"
   }
 ]
