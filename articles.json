@@ -1,33 +1,63 @@
 [
   {
     "site": "BBC",
+    "title": "Como direita radical da Alemanha planeja chegar ao poder com eleição deste domingo e mudar história do país",
+    "url": "https://www.bbc.com/portuguese/articles/cjrx7xl1pvwo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/80f2/live/23835360-a882-11f1-824a-0fc4c5d895ae.jpg"
+  },
+  {
+    "site": "G1",
+    "title": "Padre preso por estupro é acusado de dar bebidas alcoólicas a casal de coroinhas antes do crime",
+    "url": "https://g1.globo.com/sp/santos-regiao/noticia/2026/09/06/padre-preso-por-estupro-e-acusado-de-dar-bebidas-alcoolicas-a-casal-de-coroinhas-antes-do-crime.ghtml",
+    "image": "https://s2-g1.glbimg.com/TYpgT0vciyNzlYDHs6slAvuaHzc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/9/xsAiJqRGKur7NrZ8ipYA/padre-preso-1-.jpg"
+  },
+  {
+    "site": "UOL",
+    "title": "Previsão do tempo para Ivaiporã indica céu nublado e máxima de 18°C",
+    "url": "https://tnonline.uol.com.br/noticias/vale-do-ivai/previsao-do-tempo-para-ivaipora-indica-ceu-nublado-e-maxima-de-18c-1143811",
+    "image": "https://cdn.tnonline.com.br/img/Artigo-Destaque/1140000/1200x630/previsao-indica-muitas-nuvens-e-periodos-de-ceu-nu-01143811-0-202609060644/ScaleProportionalFillBackground-1.jpg?fallback=https%3A%2F%2Fcdn.tnonline.com.br%2Fimg%2FArtigo-Destaque%2F1140000%2Fprevisao-indica-muitas-nuvens-e-periodos-de-ceu-nu-01143811-0-202609060644.jpg%3Fxid%3D1820956&xid=1820956"
+  },
+  {
+    "site": "CNN Brasil",
+    "title": "Piloto salva colega de carro em chamas após acidente em corrida na China",
+    "url": "https://www.cnnbrasil.com.br/esportes/piloto-salva-colega-de-carro-em-chamas-apos-acidente-em-corrida-na-china/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/Captura-de-tela-2026-09-06-063015.png?w=847&h=539&crop=1"
+  },
+  {
+    "site": "Terra",
+    "title": "Como direita radical da Alemanha planeja chegar ao poder com eleição deste domingo e mudar história do país",
+    "url": "https://www.terra.com.br/noticias/mundo/como-direita-radical-da-alemanha-planeja-chegar-ao-poder-com-eleicao-deste-domingo-e-mudar-historia-do-pais,cd4265d411733d21b7f5c42c195176e7pe90ur8r.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/09/06/740933985-4c218f20-a86f-11f1-bbad-43eaf67b94b6.jpg"
+  },
+  {
+    "site": "BBC",
     "title": "'EUA em primeiro lugar': como Trump troca diplomacia por aliados políticos e tensiona a relação com o Brasil",
     "url": "https://www.bbc.com/portuguese/articles/cd9w5yk7wxdo?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/9880/live/8ddd89a0-a950-11f1-ae8c-2528accc9a1a.jpg"
   },
   {
     "site": "G1",
-    "title": "Rui Costa Pimenta, candidato do PCO à Presidência, faz campanha em Minas Gerais",
-    "url": "https://g1.globo.com/jornal-nacional/noticia/2026/09/05/rui-costa-pimenta-candidato-do-pco-a-presidencia-faz-campanha-em-minas-gerais.ghtml",
-    "image": "https://s2-g1.glbimg.com/DqJD41gxeo-RU8X6bwpntR6fKok=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/G/DTPoUzT725pjLOcPROzw/globo-canal-4-20260905-2000-frame-148389.jpeg"
+    "title": "Jovem some, família aciona a polícia e ela é achada trancada em bar após dormir no banheiro",
+    "url": "https://g1.globo.com/sp/santos-regiao/noticia/2026/09/06/jovem-some-familia-aciona-a-policia-e-ela-e-achada-trancada-em-bar-apos-dormir-no-banheiro.ghtml",
+    "image": "https://s2-g1.glbimg.com/H0TQZFcoqqgp7YgIif-V8X7DCcE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/m/7sBDe8TaA4FOpkufM5Xw/presa-bar-1-.jpg"
   },
   {
     "site": "UOL",
-    "title": "Mendonça, o novo justiceiro, também precisa ser cobrado",
-    "url": "https://www1.folha.uol.com.br/colunas/marcosaugustogoncalves/2026/09/mendonca-o-novo-justiceiro-tambem-precisa-ser-cobrado.shtml",
-    "image": "https://f.i.uol.com.br/fotografia/2026/09/05/17886559846a9cb970a3f88_1788655984_3x2_rt.jpg"
+    "title": "Rússia e Ucrânia trocam ataques, mas evitam capitais durante visita dos EUA",
+    "url": "https://noticias.uol.com.br/ultimas-noticias/deutschewelle/2026/09/06/russia-e-ucrania-trocam-ataques-mas-evitam-capitais-durante-visita-dos-eua.htm",
+    "image": ""
   },
   {
     "site": "CNN Brasil",
-    "title": "Qual é a origem do sanduíche? Descubra a história por trás de um dos pratos mais famosos no Brasil e em todo o mundo",
-    "url": "https://www.cnnbrasil.com.br/curiosidades/qual-e-a-origem-do-sanduiche-descubra-a-historia-por-tras-de-um-dos-pratos-mais-famosos-no-brasil-e-em-todo-o-mundo/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/pexels-gonzalo-acuna-166058093-12664775-e1788293768531.jpg?w=1200&h=630&crop=1"
+    "title": "A cidade onde o mar avança cerca de 5 metros por ano e destrói casas na areia",
+    "url": "https://www.cnnbrasil.com.br/curiosidades/a-cidade-onde-o-mar-avanca-cerca-de-5-metros-por-ano-e-destroi-casas-na-areia/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/atafona-1.webp?w=660&h=347&crop=1"
   },
   {
     "site": "Terra",
-    "title": "Paulo Henrique se envolve em polêmica durante Fluminense x Vasco",
-    "url": "https://www.terra.com.br/esportes/vasco/paulo-henrique-se-envolve-em-polemica-durante-fluminense-x-vasco,71a9d58f1c35bb912d3c5c229e862224rylxgl5j.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/09/06/783333541-paulo-henrique-vasco.png"
+    "title": "Jacy joga? Veja a escalação do Coritiba diante do Mirassol",
+    "url": "https://www.terra.com.br/esportes/coritiba/jacy-joga-veja-a-escalacao-do-coritiba-diante-do-mirassol,2393dd3b1e02fa401429a5f33d4c1ae0kkdtjkq7.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/09/06/2060926059-2026-mls-austin-fc-coritiba-zagueiro-jacy-contrato-multa-rescisoria.jpg"
   },
   {
     "site": "BBC",
@@ -37,27 +67,27 @@
   },
   {
     "site": "G1",
-    "title": "Rock in Rio 2026:  Bad Omens fecha Palco Sunset neste sábado (5)",
-    "url": "https://g1.globo.com/pop-arte/musica/rock-in-rio/ao-vivo/rock-in-rio-2026-shows-ao-vivo-programacao-ingressos-fotos-videos-e-cobertura-em-tempo-real.ghtml",
-    "image": "https://s2-g1.glbimg.com/4FumOKj1yE6g7SDoSn7sjwYND5g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/J/sdTM8fSzAgiALTo1XRJQ/rj1-limpo-20260901-1115-frame-179097.jpeg"
+    "title": "Justiça condena atacadista a pagar rescisão para mãe de autista demitida após questionar plano de saúde",
+    "url": "https://g1.globo.com/sp/santos-regiao/noticia/2026/09/06/justica-condena-atacadista-a-pagar-rescisao-para-mae-de-autista-demitida-apos-questionar-plano-de-saude.ghtml",
+    "image": "https://s2-g1.glbimg.com/EWPTI8_chdWBSZRHfQe8dUnuHgw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/j/1MdF68Qm6c27edXjHfsQ/funcionaria-demitida.jpeg"
   },
   {
     "site": "UOL",
-    "title": "Grávidas de propaganda de Lula em 2002 reavaliam esperança e voto",
-    "url": "https://www1.folha.uol.com.br/poder/2026/09/gravidas-de-propaganda-de-lula-em-2002-reavaliam-esperanca-e-voto.shtml",
-    "image": "https://f.i.uol.com.br/fotografia/2026/08/30/17880965036a942ff747795_1788096503_3x2_rt.jpg"
+    "title": "Indonésia fecha aeroportos após erupção do vulcão Anak Krakatau",
+    "url": "https://noticias.uol.com.br/ultimas-noticias/rfi/2026/09/06/indonesia-fecha-aeroportos-apos-erupcao-do-vulcao-anak-krakatau.htm",
+    "image": ""
   },
   {
     "site": "CNN Brasil",
-    "title": "Domínguez cita desgaste para explicar revés do Atlético-MG para o São Paulo",
-    "url": "https://www.cnnbrasil.com.br/esportes/futebol/atletico-mineiro/dominguez-cita-desgaste-para-explicar-reves-do-atletico-mg-para-o-sao-paulo/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/04/Eduardo-Dominguez-e1776335268270.jpeg?w=1080&h=608&crop=1"
+    "title": "Witkoff e Kushner levam plano de paz dos EUA a Kiev após reunião com Putin",
+    "url": "https://www.cnnbrasil.com.br/internacional/witkoff-e-kushner-levam-plano-de-paz-dos-eua-a-kiev-apos-reuniao-com-putin/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/Reuters_Direct_Media/BrazilOnlineReportWorldNews/tagreuters.com2026binary_LYNXMPEM3N11X-BASEIMAGE.jpg?w=800&h=533&crop=1"
   },
   {
     "site": "Terra",
-    "title": "Dorival Jr manda recado para a torcida do São Paulo",
-    "url": "https://www.terra.com.br/esportes/sao-paulo/dorival-jr-manda-recado-para-a-torcida-do-sao-paulo,f3549aceada86d0ad90099a23adf1ef51o7zmjy5.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/09/06/537685516-55473482041aa55af9328k-1.jpg"
+    "title": "O que significa, para a psicologia, dormir com a porta aberta ou fechada?",
+    "url": "https://www.terra.com.br/diversao/o-que-significa-para-a-psicologia-dormir-com-a-porta-aberta-ou-fechada,fcfa9d78f0a7881d3bec866fc5315358fq6xsb24.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/09/06/1613802818-e7ec83b6d0890fa5-1400x823-2.jpg"
   },
   {
     "site": "BBC",
@@ -67,27 +97,27 @@
   },
   {
     "site": "G1",
-    "title": "Samara Martins, candidata do partido Unidade Popular à Presidência, faz campanha na Região Metropolitana de São Paulo",
-    "url": "https://g1.globo.com/jornal-nacional/noticia/2026/09/05/samara-martins-candidata-do-partido-unidade-popular-a-presidencia-faz-campanha-na-regiao-metropolitana-de-sao-paulo.ghtml",
-    "image": "https://s2-g1.glbimg.com/wyYh3zYbv0VkqaZl8dxiJd7ASlw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/w/xBFU4eRvWRflEfZD5jng/globo-canal-4-20260905-2000-frame-146512.jpeg"
+    "title": "Cartão TOP: aplicativo antigo deixa de funcionar neste domingo; veja como migrar para a nova versão",
+    "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/09/06/cartao-top-aplicativo-antigo-deixa-de-funcionar-neste-domingo-veja-como-migrar-para-a-nova-versao.ghtml",
+    "image": "https://s2-g1.glbimg.com/_GNwtYy7Iux50lUEzxBWtpYYj_M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/3/3/g2ggz2QkGl3bIR0YgjBQ/acervo-sp2-limpo-20220221-1830-frame-77396.jpeg"
   },
   {
     "site": "UOL",
-    "title": "O mundo dos censores não era divertido como parece",
-    "url": "https://www1.folha.uol.com.br/colunas/eliogaspari/2026/09/o-mundo-dos-censores-nao-era-divertido-como-parece.shtml",
-    "image": "https://f.i.uol.com.br/fotografia/2026/08/11/17864573096a7b2cddc21eb_1786457309_3x2_rt.jpg"
+    "title": "Signos: confira seu horóscopo deste domingo (06)",
+    "url": "https://tnonline.uol.com.br/noticias/revista-uau/signos-confira-seu-horoscopo-deste-domingo-06-1143420",
+    "image": "https://cdn.tnonline.com.br/img/Instant-Article/1140000/1200x630/os-geminianos-ficam-no-alerta-ate-as-11h32-01143419-0-202609041557/ScaleProportionalFillBackground-1.jpg?fallback=https%3A%2F%2Fcdn.tnonline.com.br%2Fimg%2FInstant-Article%2F1140000%2Fos-geminianos-ficam-no-alerta-ate-as-11h32-01143419-0-202609041557.jpg%3Fxid%3D1820116&xid=1820116"
   },
   {
     "site": "CNN Brasil",
-    "title": "Fluminense derrota Vasco, encerra jejum e mantém rival no Z4 do Brasileirão",
-    "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/fluminense-derrota-vasco-encerra-jejum-e-mantem-rival-no-z4-do-brasileirao/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/Fluminense-Vasco-Brasileirao-6-e1788659216565.jpg?w=1200&h=630&crop=1"
+    "title": "Partido de direita da Alemanha busca virada história em eleições estaduais",
+    "url": "https://www.cnnbrasil.com.br/internacional/partido-de-direita-da-alemanha-busca-virada-historia-em-eleicoes-estaduais/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/Ulrich-Siegmund.jpg?w=960&h=540&crop=1"
   },
   {
     "site": "Terra",
-    "title": "UFC 332 terá Natália Silva decidindo cinturão dos moscas contra chinesa",
-    "url": "https://www.terra.com.br/esportes/lutas/ufc-332-tera-natalia-silva-decidindo-cinturao-dos-moscas-contra-chinesa,1d93035bac1c8618ad3e2492561c8a9co559t62c.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/09/06/1104220212-ufc332nataliasilvawangcong.jpeg"
+    "title": "Indonésia fecha aeroportos após erupção do vulcão Anak Krakatau",
+    "url": "https://www.terra.com.br/noticias/mundo/indonesia-fecha-aeroportos-apos-erupcao-do-vulcao-anak-krakatau,fc9c3d7d34639d5c8c97b137127beef7a1zdhsqp.html",
+    "image": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png"
   },
   {
     "site": "BBC",
@@ -97,27 +127,27 @@
   },
   {
     "site": "G1",
-    "title": "Vulcão Anak Krakatau entra em erupção na Indonésia, e voos no aeroporto de Jacarta são suspensos",
-    "url": "https://g1.globo.com/mundo/noticia/2026/09/05/vulcao-anak-krakatau-entra-em-erupcao-na-indonesia-e-voos-no-aeroporto-de-jacarta-sao-suspensos.ghtml",
-    "image": "https://s2-g1.glbimg.com/zD_oz-m0prA-nOxZWUHI91l2U5c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/F/fiPCfDSxqOOOLr4XKa9g/2026-09-05t165702z-69860787-rc24dnayb9k1-rtrmadp-3-indonesia-volcano.jpg"
+    "title": "Em Gana, caixões personalizados contam a história de quem morreu",
+    "url": "https://g1.globo.com/mundo/noticia/2026/09/06/em-gana-caixoes-personalizados-contam-a-historia-de-quem-morreu.ghtml",
+    "image": "https://s2-g1.glbimg.com/UKBYMlfQt-7HyKcXaIV0DGOyLhU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/o/RX1hU9TguBtKSxioalWw/whatsapp-image-2026-09-03-at-18.49.40.jpeg"
   },
   {
     "site": "UOL",
-    "title": "'Só vou conseguir retomar minha vida se ele continuar preso', diz Giullia Falcão, agredida por Ivo Kos",
-    "url": "https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/so-vou-conseguir-retomar-minha-vida-se-ele-continuar-preso-diz-giullia-falcao-agredida-por-ivo-kos.shtml",
-    "image": "https://f.i.uol.com.br/fotografia/2026/09/04/17885655656a9b583ddc609_1788565565_3x2_rt.jpg"
+    "title": "Simepar prevê chuva e queda nas temperaturas em Apucarana neste domingo",
+    "url": "https://tnonline.uol.com.br/noticias/apucarana/simepar-preve-chuva-e-queda-nas-temperaturas-em-apucarana-neste-domingo-1143737",
+    "image": "https://cdn.tnonline.com.br/img/Artigo-Destaque/1140000/1200x630/as-temperaturas-devem-variar-entre-14c-e-21c-01143737-0-202609051054/ScaleProportionalFillBackground-1.jpg?fallback=https%3A%2F%2Fcdn.tnonline.com.br%2Fimg%2FArtigo-Destaque%2F1140000%2Fas-temperaturas-devem-variar-entre-14c-e-21c-01143737-0-202609051054.jpg%3Fxid%3D1820797&xid=1820797"
   },
   {
     "site": "CNN Brasil",
-    "title": "Estêvão vive dilema no Chelsea e vê espaço ameaçado com Xabi Alonso",
-    "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-ingles/estevao-vive-dilema-no-chelsea-e-ve-espaco-ameacado-com-xabi-alonso/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/Reuters_Direct_Media/BrazilOnlineReportSportsNews/tagreuters.com2025binary_LYNXMPELAP00C-BASEIMAGE-e1787864846217.jpg?w=644&h=363&crop=1"
+    "title": "Liderança do Brasileirão pode mudar após 19 rodadas; entenda cenários",
+    "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/lideranca-do-brasileirao-pode-mudar-apos-19-rodadas-entenda-cenarios/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/05/AGE20260523048-e1788557923231.jpg?w=1200&h=630&crop=1"
   },
   {
     "site": "Terra",
-    "title": "Segurança de Harry Styles se irrita e derruba celular de fã que filmava o artista",
-    "url": "https://www.terra.com.br/diversao/gente/seguranca-de-harry-styles-se-irrita-e-derruba-celular-de-fa-que-filmava-o-artista,b53794ff423eac4714275e29ffec6bf1hfjaw6fx.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/09/06/captura-de-tela-2026-09-05-223631-vbcea0f9oin6.jpg"
+    "title": "F2 2026: Resultado completo da corrida principal em Monza",
+    "url": "https://www.terra.com.br/esportes/automobilismo/formula1/f2-2026-resultado-completo-da-corrida-principal-em-monza,f789d07be36325b755e7c7d3570fad635z811pwn.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/09/06/gettyimages-2293767841-612x612-qxfgc2iilnp5.jpg"
   },
   {
     "site": "BBC",
@@ -127,27 +157,27 @@
   },
   {
     "site": "G1",
-    "title": "Augusto Cury, candidato à Presidência pelo Avante, cumpre agenda no interior de São Paulo",
-    "url": "https://g1.globo.com/jornal-nacional/noticia/2026/09/05/augusto-cury-candidato-a-presidencia-pelo-avante-cumpre-agenda-no-interior-de-sao-paulo.ghtml",
-    "image": "https://s2-g1.glbimg.com/FdgNuZjRGvGFTLI83GmY1fFT7p8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/P/ZW7NkYRDalRjCSIu0sRQ/globo-canal-4-20260905-2000-frame-144338.jpeg"
+    "title": "Aprenda a fazer farofa de caju com manteiga de garrafa",
+    "url": "https://g1.globo.com/rn/rio-grande-do-norte/bom-que-so/noticia/2026/09/06/aprenda-a-fazer-farofa-de-caju-com-manteiga-de-garrafa.ghtml",
+    "image": "https://s2-g1.glbimg.com/PEPQofplydk7Ys4w0bGY-Kf3feE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/m/cTon4gR3aR2IllAP7LMw/whatsapp-image-2026-09-03-at-11.21.27.jpeg"
   },
   {
     "site": "UOL",
-    "title": "Entenda o que diz o relatório usado por Moraes em contra-ataque a Mendonça",
-    "url": "https://www1.folha.uol.com.br/poder/2026/09/entenda-o-que-diz-o-relatorio-usado-por-moraes-em-contra-ataque-a-mendonca.shtml",
-    "image": "https://f.i.uol.com.br/fotografia/2026/09/02/17883939496a98b9dd6b25e_1788393949_3x2_rt.jpg"
+    "title": "Expedição na mata atlântica busca microrganismos para construir banco de moléculas",
+    "url": "https://www1.folha.uol.com.br/ciencia/2026/09/expedicao-na-mata-atlantica-busca-microrganismos-para-construir-banco-de-moleculas.shtml",
+    "image": "https://f.i.uol.com.br/fotografia/2026/09/03/17884566906a99aef2e4c6d_1788456690_3x2_rt.jpg"
   },
   {
     "site": "CNN Brasil",
-    "title": "Atlético-MG recebe proposta de clube da Europa por Tomás Cuello",
-    "url": "https://www.cnnbrasil.com.br/esportes/futebol/atletico-mineiro/atletico-mg-recebe-proposta-de-clube-da-europa-por-tomas-cuello/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/01/cuello_atletico_mg-e1738254956737.webp?w=982&h=553&crop=1"
+    "title": "Leonardo DiCaprio lança documentário sobre comunidade indígena brasileira",
+    "url": "https://www.cnnbrasil.com.br/pop/cinema/leonardo-dicaprio-lanca-documentario-sobre-comunidade-indigena-brasileira/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/miss-mundo-capa-1.png?w=1200&h=630&crop=1"
   },
   {
     "site": "Terra",
-    "title": "Juiz ‘peita’ Canobbio em clássico Fluminense x Vasco",
-    "url": "https://www.terra.com.br/esportes/juiz-peita-canobbio-em-classico-fluminense-x-vasco,6a6203c468d6d5b460cf0e4547015644pcib95jr.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/09/06/captura-de-tela-2026-09-05-222721-qxl0cc1iyf5f.jpg"
+    "title": "Bolo de batata-doce fit: receita fácil para o café da tarde",
+    "url": "https://www.terra.com.br/vida-e-estilo/degusta/receitas/bolo-de-batata-doce-fit-receita-facil-para-o-cafe-da-tarde,de4ab6eaa0c6dd7ae10753a6099b7d8ctvh2i5gp.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/09/06/1034081421-bolo-de-batata-doce.jpg"
   },
   {
     "site": "BBC",
@@ -157,27 +187,27 @@
   },
   {
     "site": "G1",
-    "title": "Bring Me The Horizon transforma Rock in Rio em videogame grandioso, nostálgico e jogado em português",
-    "url": "https://g1.globo.com/pop-arte/musica/rock-in-rio/noticia/2026/09/05/bring-me-the-horizon-transforma-rock-in-rio-em-videogame-grandioso-nostalgico-e-jogado-em-portugues.ghtml",
-    "image": "https://s2-g1.glbimg.com/JD40d_vRcCP5fYUizuOmU5ypRqg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/q/f2RBfWQ5ADfcdBp75Dlw/fotos-g1-1920-x-1080-px-2026-09-05t212656.104.png"
+    "title": "Conheça o 'boitel', o hotel para o gado que ajuda produtores a reduzir custos em MG",
+    "url": "https://g1.globo.com/mg/centro-oeste/noticia/2026/09/06/conheca-o-boitel-o-hotel-para-o-gado-que-ajuda-produtores-a-reduzir-custos-em-mg.ghtml",
+    "image": "https://s2-g1.glbimg.com/6gcWJh9GFmBXumglG1l_wdypymk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/l/qGsDyBQ4GgspmBLk04XA/claudio-3.png"
   },
   {
     "site": "UOL",
-    "title": "O maestro da barulheira no Supremo chama-se Daniel Vorcaro",
-    "url": "https://www1.folha.uol.com.br/colunas/eliogaspari/2026/09/o-maestro-da-barulheira-no-supremo-chama-se-daniel-vorcaro.shtml",
-    "image": "https://f.i.uol.com.br/fotografia/2026/09/02/17883862196a989bab6c3c4_1788386219_3x2_rt.jpg"
+    "title": "Confira a partir das 11h deste domingo (6) o resultado do concurso 3054 da Mega-Sena",
+    "url": "https://www1.folha.uol.com.br/cotidiano/2026/09/confira-a-partir-das-11h-deste-domingo-6-o-resultado-do-concurso-3054-da-mega-sena.shtml",
+    "image": "https://f.i.uol.com.br/fotografia/2023/06/23/16875286386495a4be60fee_1687528638_3x2_rt.jpg"
   },
   {
     "site": "CNN Brasil",
-    "title": "São Paulo 2 x 0 Atlético-MG: veja os melhores momentos pelo Brasileirão",
-    "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/sao-paulo-2-x-0-atletico-mg-veja-os-melhores-momentos-pelo-brasileirao/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/spfc-atletico-mg-brasileirao-3.jpg?w=1200&h=630&crop=1"
+    "title": "Especialistas ao Dr. Kalil: Vacinas na gestação ajudam a proteger o bebê",
+    "url": "https://www.cnnbrasil.com.br/saude/especialistas-ao-dr-kalil-vacinas-na-gestacao-ajudam-a-proteger-o-bebe/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2024/02/gestante-vacina-covid.jpg?w=1200&h=630&crop=1"
   },
   {
     "site": "Terra",
-    "title": "Renan Lodi reage à derrota do Atlético-MG: \"Não vamos ficar lamentando\"",
-    "url": "https://www.terra.com.br/esportes/futebol/renan-lodi-reage-a-derrota-do-atletico-mg-nao-vamos-ficar-lamentando,5808f498b16e5814c322193f05b28178s0suviig.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/09/06/831659242-2026-campeonato-brasileiro-sao-paulo-x-atletico-mg-lateral-esquerdo-renan-lodi.jpg"
+    "title": "Quem são os favoritos na briga pela artilharia do Brasileirão? Veja as odds para apostar",
+    "url": "https://www.terra.com.br/apostas/palpites-e-odds/quem-sao-os-favoritos-na-briga-pela-artilharia-do-brasileirao-veja-as-odds-para-apostar,f00207d3332cdb2bd58d4b204d3ff12621304bj3.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/09/04/favoritos-artilharia-brasileirao-sl8x5ucy1eep.jpg"
   },
   {
     "site": "BBC",
@@ -187,57 +217,27 @@
   },
   {
     "site": "G1",
-    "title": "Romeu Zema, candidato do Novo à Presidência, passa o dia no Triângulo Mineiro",
-    "url": "https://g1.globo.com/jornal-nacional/noticia/2026/09/05/romeu-zema-candidato-do-novo-a-presidencia-passa-o-dia-no-triangulo-mineiro.ghtml",
-    "image": "https://s2-g1.glbimg.com/P_xBLQurmmzZ1S2ceqanXrvl3cA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/j/gMj9AqSiGsaFHoGZfQQg/globo-canal-4-20260905-2000-frame-142382.jpeg"
+    "title": "João Bosco grava com Caetano Veloso música que compôs com Chico Buarque",
+    "url": "https://g1.globo.com/pop-arte/musica/blog/mauro-ferreira/post/2026/09/06/joao-bosco-grava-com-caetano-veloso-musica-que-compos-com-chico-buarque.ghtml",
+    "image": "https://s2-g1.glbimg.com/BmMLBPXBuXekktVAgV0tGBzne3A=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/n/Py7IHXQ2qhn0ABpiBBPQ/boscocaetano-victorcorrea.jpg"
   },
   {
     "site": "UOL",
-    "title": "Aos inimigos a lei; aos amigos tudo",
-    "url": "https://www1.folha.uol.com.br/colunas/becky-korich/2026/09/aos-inimigos-a-lei-aos-amigos-tudo.shtml",
-    "image": "https://f.i.uol.com.br/fotografia/2026/09/05/17886530596a9cae03aacd6_1788653059_3x2_rt.jpg"
+    "title": "'Eles abriram a porta e nos arrastaram para fora': operação do ICE amplia medo em Nova Jersey",
+    "url": "https://www1.folha.uol.com.br/mundo/2026/09/eles-abriram-a-porta-e-nos-arrastaram-para-fora-operacao-do-ice-amplia-medo-em-nova-jersey.shtml",
+    "image": "https://f.i.uol.com.br/fotografia/2026/08/28/17879543086a9204841f8a7_1787954308_3x2_rt.jpg"
   },
   {
     "site": "CNN Brasil",
-    "title": "Cobolli reclama do barulho no US Open após queda: “Muito difícil jogar”",
-    "url": "https://www.cnnbrasil.com.br/esportes/tenis/cobolli-reclama-do-barulho-no-us-open-apos-queda-muito-dificil-jogar/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/Cobolli-US-Open-e1788656624827.jpg?w=1200&h=630&crop=1"
+    "title": "Mega-Sena: quanto rendem R$ 48 milhões na poupança, Tesouro Direto ou CDB",
+    "url": "https://www.cnnbrasil.com.br/economia/seu-bolso/meu-dinheiro/mega-sena-quanto-rendem-r-48-milhoes-na-poupanca-tesouro-direto-ou-cdb-4/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2021/09/novos-volantes_18jan18_foto-rodrigo-de-oliveira-30-e1743461439998.jpg?w=1200&h=630&crop=1"
   },
   {
     "site": "Terra",
-    "title": "Hulk detona arbitragem de Fluminense x Vasco: \"Sem personalidade\"",
-    "url": "https://www.terra.com.br/esportes/fluminense/hulk-detona-arbitragem-de-fluminense-x-vasco-sem-personalidade,500c815b8ea7b08b412670814e86acc1madb8hs6.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/09/06/1465977789-sem-titulo-1-2-610x400.jpg"
-  },
-  {
-    "site": "BBC",
-    "title": "Como proteger as boas bactérias da sua boca",
-    "url": "https://www.bbc.com/portuguese/articles/c780ev8nvyqo?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/73e1/live/9336ff60-a6e6-11f1-9e4c-79c1c0e340c6.jpg"
-  },
-  {
-    "site": "G1",
-    "title": "Ronaldo Caiado, candidato à Presidência pelo PSD, faz campanha no Rio Grande do Sul",
-    "url": "https://g1.globo.com/jornal-nacional/noticia/2026/09/05/ronaldo-caiado-candidato-a-presidencia-pelo-psd-faz-campanha-no-rio-grande-do-sul.ghtml",
-    "image": "https://s2-g1.glbimg.com/aO0Lg0PERv73eUGj78X5-Yy9APs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/6/lZc18xSDCvAcP1lpomCA/globo-canal-4-20260905-2000-frame-140584.jpeg"
-  },
-  {
-    "site": "UOL",
-    "title": "Master e Lava Jato se aproximam em impacto político, mas conjunturas são bastante distintas",
-    "url": "https://www1.folha.uol.com.br/poder/2026/09/master-e-lava-jato-se-aproximam-em-impacto-politico-mas-conjunturas-sao-bastante-distintas.shtml",
-    "image": "https://f.i.uol.com.br/fotografia/2020/08/07/15968367765f2dcba8199c7_1596836776_3x2_rt.jpg"
-  },
-  {
-    "site": "CNN Brasil",
-    "title": "Dorival explica Calleri na reserva e estratégia do time contra Atlético-MG",
-    "url": "https://www.cnnbrasil.com.br/esportes/futebol/sao-paulo/dorival-explica-calleri-na-reserva-e-estrategia-do-time-contra-atletico-mg/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/05/dorival_junior_spfc-e1779838165845.jpg?w=1200&h=630&crop=1"
-  },
-  {
-    "site": "Terra",
-    "title": "Dorival Jr é sincero ao analisar desempenho do São Paulo contra o Atlético-MG",
-    "url": "https://www.terra.com.br/esportes/sao-paulo/dorival-jr-e-sincero-ao-analisar-desempenho-do-sao-paulo-contra-o-atletico-mg,b5720fae61f3dc287758587d9a214636i4c9c54s.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/09/06/537685516-55473482041aa55af9328k-1.jpg"
+    "title": "F2: Joshua Durksen vence Corrida Principal e varre final de semana na Itália; Câmara é 2º",
+    "url": "https://www.terra.com.br/esportes/automobilismo/formula1/f2-joshua-durksen-vence-corrida-principal-e-varre-final-de-semana-na-italia-camara-e-2,567c6b72fe055128e33e589e4abafc07ou9q4z7a.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/09/06/gettyimages-2293766181-612x612-ursfh74kk6lg.jpg"
   },
   {
     "site": "BBC",
@@ -247,50 +247,50 @@
   },
   {
     "site": "G1",
-    "title": "Renan Santos, candidato do Missão à Presidência, viaja para o Ceará e para Pernambuco",
-    "url": "https://g1.globo.com/jornal-nacional/noticia/2026/09/05/renan-santos-candidato-do-missao-a-presidencia-viaja-para-o-ceara-e-para-pernambuco.ghtml",
-    "image": "https://s2-g1.glbimg.com/bdgD11SPFclBmtspBGxSgtWm8qI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/d/uKF1HHTfSmKcjC3DNF7A/globo-canal-4-20260905-2000-frame-139141.jpeg"
+    "title": "Da cozinha de casa, confeiteira do Acre fatura R$ 1,5 mil com morango cravejado: 'Clientela aumentou'",
+    "url": "https://g1.globo.com/ac/acre/noticia/2026/09/06/da-cozinha-de-casa-confeiteira-do-acre-fatura-r-15-mil-com-morango-cravejado-clientela-aumentou.ghtml",
+    "image": "https://s2-g1.glbimg.com/uWfpfUyfHmIJAM2koPo8vkykLBI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/H/1JrSmQRgCoye21NQA7cw/midia-de-distribuicao-g1-64-.png"
   },
   {
     "site": "UOL",
-    "title": "Cármen Lúcia vê erros tanto de Moraes quanto de Mendonça e vira peça-chave na disputa por hegemonia no STF",
-    "url": "https://www1.folha.uol.com.br/poder/2026/09/carmen-lucia-ve-erros-tanto-de-moraes-quanto-de-mendonca-e-vira-peca-chave-na-disputa-por-hegemonia-no-stf.shtml",
-    "image": "https://f.i.uol.com.br/fotografia/2026/09/04/17885575006a9b38bc9e5b2_1788557500_3x2_rt.jpg"
+    "title": "Planalto mobiliza militância para lotar 7 de Setembro, mas proíbe propaganda política",
+    "url": "https://www1.folha.uol.com.br/colunas/painel/2026/09/planalto-mobiliza-militancia-para-lotar-7-de-setembro-mas-proibe-propaganda-politica.shtml",
+    "image": "https://f.i.uol.com.br/fotografia/2026/09/04/17885459366a9b0b90c3210_1788545936_3x2_rt.jpg"
   },
   {
     "site": "CNN Brasil",
-    "title": "Análise: Após encontro com Putin, enviados de Trump irão direto a Zelensky",
-    "url": "https://www.cnnbrasil.com.br/internacional/analise-apos-encontro-com-putin-enviados-de-trump-irao-direto-a-zelensky/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2022/12/zelenvlad.png?w=995&h=560&crop=1"
+    "title": "Rock in Rio 2026: veja o line-up e horários dos shows deste domingo (6)",
+    "url": "https://www.cnnbrasil.com.br/pop/musica/rock-in-rio-2026-veja-o-line-up-e-horarios-dos-shows-deste-domingo-6/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/01/black-eyed-peas-e1767960544353.jpg?w=1200&h=630&crop=1"
   },
   {
     "site": "Terra",
-    "title": "Looks das famosas para o 2º dia do Rock in Rio 2026: muito couro, transparência e ousadia marcam as escolhas de Jade Picon, Vitória Strada, Tati Machado e mais. Veja +30 fotos!",
-    "url": "https://www.terra.com.br/diversao/musica/rock-in-rio/looks-das-famosas-para-o-2-dia-do-rock-in-rio-2026-muito-couro-transparencia-e-ousadia-marcam-as-escolhas-de-jade-picon-vitoria-strada-tati-machado-e-mais-veja-30-fotos,79217dd580b6c43169a7823b4c5ba26acz7nzitt.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/09/06/1773205453-b4ff40674a5b4be6-1400x823-1.jpg"
+    "title": "Coritiba x Mirassol, AO VIVO, com a Voz do Esporte, às 9h30",
+    "url": "https://www.terra.com.br/esportes/sport/coritiba-x-mirassol-ao-vivo-com-a-voz-do-esporte-as-9h30,7cfd0c60c02cdd7d915eb4e94773a57bcvk65ppv.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/09/06/1345583998-cfcxmirbr26-610x400.jpg"
   },
   {
     "site": "G1",
-    "title": "Presidente Lula, candidato à reeleição pelo PT, faz campanha no interior de São Paulo",
-    "url": "https://g1.globo.com/jornal-nacional/noticia/2026/09/05/presidente-lula-candidato-a-reeleicao-pelo-pt-faz-campanha-no-interior-de-sao-paulo.ghtml",
-    "image": "https://s2-g1.glbimg.com/kRQA2S_n-_ca2qAh33WiXphee7Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/q/xZR8LrQo2cT77oX2teVg/globo-canal-4-20260905-2000-frame-136552.jpeg"
+    "title": "Panela de ferro e ferro na dieta: o que a evidência realmente mostra",
+    "url": "https://g1.globo.com/mg/centro-oeste/especial-publicitario/panela-de-ferro-fundido-casa-cozinha-decoracao/noticia/2026/09/06/panela-de-ferro-e-ferro-na-dieta-o-que-a-evidencia-realmente-mostra.ghtml",
+    "image": "https://s2-g1.glbimg.com/2lQSAOvbWwkfXlZWNIaS52ezRTw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/s/NkPoWLRMax6B9pIRzfyw/pff-ferro-dieta-evidencia-img-1.jpg"
   },
   {
     "site": "UOL",
-    "title": "Vem celacanto provocar maremoto",
-    "url": "https://www1.folha.uol.com.br/colunas/giovana-madalosso/2026/09/vem-celacanto-provocar-maremoto.shtml",
-    "image": "https://f.i.uol.com.br/fotografia/2026/09/05/17886516866a9ca8a6d80e7_1788651686_3x2_xl.jpg"
+    "title": "Choro de bebê leva polícia a encontrar médica morta em Maringá",
+    "url": "https://tnonline.uol.com.br/noticias/parana/choro-de-bebe-leva-policia-a-encontrar-medica-morta-em-maringa-1143810",
+    "image": "https://cdn.tnonline.com.br/img/Artigo-Destaque/1140000/1200x630/policia-militar-foi-acionada-apos-moradores-ouvire-01143810-0-202609060541/ScaleProportionalFillBackground-1.jpg?fallback=https%3A%2F%2Fcdn.tnonline.com.br%2Fimg%2FArtigo-Destaque%2F1140000%2Fpolicia-militar-foi-acionada-apos-moradores-ouvire-01143810-0-202609060541.jpg%3Fxid%3D1820948&xid=1820948"
   },
   {
     "site": "CNN Brasil",
-    "title": "Imagem forte: marroquino fratura a perna em lance no Campeonato Grego; veja",
-    "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/imagem-forte-marroquino-fratura-a-perna-em-lance-no-campeonato-grego-veja/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/lesao-e1788655334873.jpg?w=984&h=554&crop=1"
+    "title": "No RS, quase 80% das PMEs não se sentem preparadas para eventos climáticos",
+    "url": "https://www.cnnbrasil.com.br/economia/seu-bolso/empreendedorismo-e-trabalho/no-rs-quase-80-das-pmes-nao-se-sentem-preparadas-para-eventos-climaticos/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2024/05/53710809938_b5633cd36f_k.jpg?w=1200&h=630&crop=1"
   },
   {
     "site": "Terra",
-    "title": "Luciano supera Careca na lista dos maiores artilheiros do São Paulo",
-    "url": "https://www.terra.com.br/esportes/sao-paulo/luciano-supera-careca-na-lista-dos-maiores-artilheiros-do-sao-paulo,38620a5fc42808b66c4aaa1cd52fe474ut0nsogw.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/09/06/543967474-2x1a-610x400.jpg"
+    "title": "Vídeo: o que mudou na Avenida Paulista aos domingos após nova regra sobre caixas de som? Fomos ver",
+    "url": "https://www.terra.com.br/noticias/brasil/cidades/video-o-que-mudou-na-avenida-paulista-aos-domingos-apos-nova-regra-sobre-caixas-de-som-fomos-ver,285bebcb9090780225413d62dcfefc2ftyidyoly.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/09/06/70624824-zqynokfy7jasld7mkk5vubsw6i.jpg"
   }
 ]
