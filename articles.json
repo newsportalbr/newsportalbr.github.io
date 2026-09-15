@@ -1,63 +1,123 @@
 [
   {
     "site": "BBC",
+    "title": "Caso Moraes-Vorcaro: o que está em jogo no STF e quem fala primeiro na sessão",
+    "url": "https://www.bbc.com/portuguese/articles/cqdr7npp6v4xo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/0496/live/695812a0-b083-11f1-9057-ff132431cf2d.jpg"
+  },
+  {
+    "site": "G1",
+    "title": "Bairros de Manaus, Itacoatiara e Iranduba vão ficar sem energia nesta terça; veja locais e horários",
+    "url": "https://g1.globo.com/am/amazonas/utilidade-publica/noticia/2026/09/14/bairros-de-manaus-itacoatiara-e-iranduba-vao-ficar-sem-energia-nesta-terca-veja-locais-e-horarios.ghtml",
+    "image": "https://s2-g1.glbimg.com/l5XkRJ9lEeop91Bqtvln7lcgOLA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/X/T1RsPRRwW5pdPjz5Utgg/trabalhador-realiza-manutencao-na-rede-eletrica-em-manaus-foto-reproducao-mpam.jpg"
+  },
+  {
+    "site": "UOL",
+    "title": "SP: Audiência de processo que pode expulsar tenente-coronel da PM é adiada",
+    "url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/09/14/tenente-coronel-adiada-audiencia-processo-administrativo.ghtm",
+    "image": ""
+  },
+  {
+    "site": "CNN Brasil",
+    "title": "“A Fazenda 18”: Mayk Leão gravou suposto OVNI no Paraná; relembre",
+    "url": "https://www.cnnbrasil.com.br/pop/realities/a-fazenda-18-mayk-leao-gravou-suposto-ovni-no-parana-relembre/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/mayk-leao-e1789439423236.jpg?w=1170&h=630&crop=1"
+  },
+  {
+    "site": "Terra",
+    "title": "Jornalista alerta sobre urgência no Botafogo: \"O campo está gritando\"",
+    "url": "https://www.terra.com.br/esportes/botafogo/jornalista-alerta-sobre-urgencia-no-botafogo-o-campo-esta-gritando,d7bc22e750faac1087f6e288943ebae343nyykpb.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/09/15/1338389193-camisa-do-botafogo.jpg"
+  },
+  {
+    "site": "BBC",
     "title": "Por que Cármen Lúcia e Fachin devem ser cruciais para o futuro de Alexandre de Moraes no STF",
     "url": "https://www.bbc.com/portuguese/articles/c33krrv86r2o?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/eab7/live/4e2a2e60-ad67-11f1-aac2-5da4fcd414c9.jpg"
   },
   {
     "site": "G1",
-    "title": "Ricardo Marques (PL) é o entrevistado do SE2 nesta segunda-feira (14)",
-    "url": "https://g1.globo.com/se/sergipe/eleicoes/2026/ao-vivo/tvsergipe-entrevista-candidatos-sergipe.ghtml",
-    "image": "https://s2-g1.glbimg.com/ejBFyc1QLRSsR_KHqBAGNXlKA3o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/q/dHNP5gQES07wEYwAzSAQ/ricardo-marques.jpg"
+    "title": "'A Fazenda 18': Conheça os participantes da edição",
+    "url": "https://g1.globo.com/pop-arte/tv-e-series/noticia/2026/09/14/a-fazenda-18-conheca-os-participantes-da-edicao.ghtml",
+    "image": "https://s2-g1.glbimg.com/dS5ORDjlrPQXvzh5S5TDZORJayQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/7/Q9PdhBSLe3k42QK338BQ/fotos-g1-1920-x-1080-px-2026-09-14t230934.893.png"
   },
   {
     "site": "UOL",
-    "title": "Até que dia e que horas pode jogar na Lotofácil da Independência?",
-    "url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/09/14/ate-que-dia-e-que-horas-pode-jogar-na-lotofacil-da-independencia-veja-regras.ghtm",
+    "title": "Morre o cão policial Rintin Tin do Canil do 10º BPM de Apucarana",
+    "url": "https://tnonline.uol.com.br/noticias/apucarana/morre-o-cao-policial-rintin-tin-do-canil-do-10-bpm-de-apucarana-1146042",
+    "image": "https://cdn.tnonline.com.br/img/Artigo-Destaque/1140000/1200x630/rintin-tin-morreu-no-ultimo-domingo-13-em-apucaran-01146042-0-202609142319/ScaleProportionalFillBackground-1.jpg?fallback=https%3A%2F%2Fcdn.tnonline.com.br%2Fimg%2FArtigo-Destaque%2F1140000%2Frintin-tin-morreu-no-ultimo-domingo-13-em-apucaran-01146042-0-202609142319.jpg%3Fxid%3D1826762&xid=1826762"
+  },
+  {
+    "site": "CNN Brasil",
+    "title": "MP pede R$ 110 milhões em processo contra “Jogo do Aviãozinho”",
+    "url": "https://www.cnnbrasil.com.br/nacional/centro-oeste/df/mp-pede-r-110-milhoes-em-processo-contra-jogo-do-aviaozinho/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/WhatsApp-Image-2026-09-14-at-20.49.23-e1789435121979.jpeg?w=901&h=451&crop=1"
+  },
+  {
+    "site": "Terra",
+    "title": "Ex-Flamengo é convocado pelos Emirados Árabes e pode fazer estreia oficial",
+    "url": "https://www.terra.com.br/esportes/flamengo/ex-flamengo-e-convocado-pelos-emirados-arabes-e-pode-fazer-estreia-oficial,096b6c9a314ef9a029dd46b076e478158b8z7l0e.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/09/15/1555095006-19cea286-c77c-43cb-b280-c5af79c5bf51-e1789438382388-610x400.jpeg"
+  },
+  {
+    "site": "BBC",
+    "title": "Por que cofundador da Anthropic defende um 'botão de desligamento' obrigatório para IA",
+    "url": "https://www.bbc.com/portuguese/articles/c5y4zx9l98k9o?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/7b81/live/80a542e0-b081-11f1-80bd-27c03419214e.jpg"
+  },
+  {
+    "site": "G1",
+    "title": "STF chega dividido a julgamento sobre Moraes; seis ministros têm posições mais consolidadas",
+    "url": "https://g1.globo.com/politica/noticia/2026/09/14/stf-chega-dividido-a-julgamento-sobre-moraes-seis-ministros-tem-posicoes-mais-consolidadas.ghtml",
+    "image": "https://s2-g1.glbimg.com/qWkyaEaX-pgrajUy9trFiMgHzZs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/1/EVx07ISnGXEMsIM38GYg/55284062987-085fa4140c-o.jpg"
+  },
+  {
+    "site": "UOL",
+    "title": "Alexandre de Moraes e André Mendonça, os ministros em guerra no STF",
+    "url": "https://noticias.uol.com.br/ultimas-noticias/afp/2026/09/14/alexandre-de-moraes-e-andre-mendonca-os-ministros-em-guerra-no-stf.htm",
     "image": ""
   },
   {
     "site": "CNN Brasil",
-    "title": "SP Open sofre com as chuvas e perde principal cabeça de chave",
-    "url": "https://www.cnnbrasil.com.br/esportes/tenis/sp-open-sofre-com-as-chuvas-e-perde-principal-cabeca-de-chave/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/Leylah-Fernandez-e1789417524864.webp?w=646&h=385&crop=1"
+    "title": "Emmy 2026: Dolly Parton recebe homenagem de Reba McEntire e Sally Field",
+    "url": "https://www.cnnbrasil.com.br/pop/tv/emmy-2026-dolly-parton-recebe-homenagem-de-reba-mcentire-e-sally-field/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/08/Dolly-parton.avif?w=1200&h=630&crop=1"
   },
   {
     "site": "Terra",
-    "title": "'Overtraining': saiba quando o excesso de exercícios faz mal à saúde",
-    "url": "https://www.terra.com.br/vida-e-estilo/overtraining-saiba-quando-o-excesso-de-exercicios-faz-mal-a-saude,d06c1c470b31ab7e409de291240c669eum8u76cp.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/09/14/1117810041-capa-bons-fluidos-2025-10-24t161346697.jpg"
+    "title": "Goleiro do Remo revela elogio de Rogério Ceni por defesa contra o Flamengo; veja",
+    "url": "https://www.terra.com.br/esportes/futebol/goleiro-do-remo-revela-elogio-de-rogerio-ceni-por-defesa-contra-o-flamengo-veja,140c984b60413292e8229be5cbf9fbafb78li45z.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/09/15/869967112-quuhqvqqrvh7dkoxykzcdgf564.jpg"
   },
   {
     "site": "BBC",
-    "title": "Zanin e Gilmar Mendes recebem acesso integral a conteúdo do celular de Daniel Vorcaro",
-    "url": "https://www.bbc.com/portuguese/articles/c5yw9ezd93lo?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/4839/live/2ec54050-aea2-11f1-b1d1-571ed4d7ff2c.png"
+    "title": "Homem admite ter drogado e estuprado a esposa por 20 anos no Reino Unido",
+    "url": "https://www.bbc.com/portuguese/articles/cq9869r0rjnjo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/d870/live/8c959890-b05c-11f1-9902-771b6dd8af6a.png"
   },
   {
     "site": "G1",
-    "title": "Pais denunciam professora por furar cabeça de criança autista com seringa em creche de Monteiro, na PB",
-    "url": "https://g1.globo.com/pb/paraiba/noticia/2026/09/14/pais-denunciam-professora-por-furar-cabeca-de-crianca-autista-com-seringa-em-creche-de-monteiro-na-pb.ghtml",
-    "image": "https://s2-g1.glbimg.com/AFWZuaCifEKYHNv7WfhqveleYkM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/e/klZjISS6WZRTTOtiGbhQ/crianca-de-3-anos-e-encontrada-mordendo-municao-em-creche-de-sc-e-policia-investiga-pai.png"
+    "title": "Samara Martins, candidata do partido Unidade Popular à Presidência, faz campanha em BH",
+    "url": "https://g1.globo.com/jornal-nacional/noticia/2026/09/14/samara-martins-candidata-do-partido-unidade-popular-a-presidencia-faz-campanha-em-belo-horizonte.ghtml",
+    "image": "https://s2-g1.glbimg.com/t2ObyMO4-wwHaITRKtwCmqxEg0Y=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/a/ekOvZgSMCAKj7nQ5GW2Q/globo-canal-4-20260914-2000-frame-153501.jpeg"
   },
   {
     "site": "UOL",
-    "title": "Brasil deve negociar tarifaço com EUA durante reunião do G20, afirma ministro",
-    "url": "https://www1.folha.uol.com.br/mercado/2026/09/brasil-deve-negociar-tarifaco-com-eua-durante-reuniao-do-g20-afirma-ministro.shtml",
-    "image": "https://f.i.uol.com.br/fotografia/2026/06/02/17804175276a1f03f72d429_1780417527_3x2_rt.jpg"
+    "title": "FAB apura áudio direcionado a piloto em voo: 'Você não manda nem em casa'",
+    "url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/09/14/fab-investigacao-declaracao-voo.ghtm",
+    "image": ""
   },
   {
     "site": "CNN Brasil",
-    "title": "“Para o ralo”, diz comentarista sobre o São Paulo poupar contra o Palmeiras",
-    "url": "https://www.cnnbrasil.com.br/esportes/futebol/sao-paulo/para-o-ralo-diz-comentarista-sobre-o-sao-paulo-poupar-contra-o-palmeiras/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/Palmeiras-4.png?w=1200&h=630&crop=1"
+    "title": "Quem é Eduardo Paes, candidato ao governo do Rio de Janeiro",
+    "url": "https://www.cnnbrasil.com.br/eleicoes/quem-e-eduardo-paes-candidato-ao-governo-do-rio-de-janeiro/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2024/09/rio_de_janeiro_candidatos.jpg?w=1200&h=630&crop=1"
   },
   {
     "site": "Terra",
-    "title": "Mulher de Ludmilla escolhe look minúsculo para Rock in Rio e é criticada: '",
-    "url": "https://www.terra.com.br/diversao/musica/rock-in-rio/mulher-de-ludmilla-escolhe-look-minusculo-para-rock-in-rio-e-e-criticada,1e73f280c8c4d36725cfe20e7a64de6egcy74kaw.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/09/14/1309132657-brunna-goncalves.jpg"
+    "title": "Yamal faz comparação com Mbappé e é sincero sobre Bola de Ouro: \"Eu mereço…\"",
+    "url": "https://www.terra.com.br/esportes/futebol/internacional/equipes/real-madrid/yamal-faz-comparacao-com-mbappe-e-e-sincero-sobre-bola-de-ouro-eu-mereco,ec02d8805db652926abc8eaf1f9d8ea4tqbqkc9v.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/09/15/686177199-yamal-barcelona-7.png"
   },
   {
     "site": "BBC",
@@ -67,27 +127,27 @@
   },
   {
     "site": "G1",
-    "title": "Jovem morre em acidente na GO-020",
-    "url": "https://g1.globo.com/go/goias/transito/noticia/2026/09/14/jovem-morre-em-acidente-na-go-020.ghtml",
-    "image": "https://s2-g1.glbimg.com/ajj_wnS8c_Zm2fg_XVzcTzxSrPw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/6/oWwgReSyeXSajTl7Sy2w/copia-de-copia-de-padrao-foto-g1-goias-38-.jpg"
+    "title": "Filho de Trump admite que teve festas de casamento bancadas por oligarca russo",
+    "url": "https://g1.globo.com/mundo/noticia/2026/09/14/filho-de-trump-admite-que-teve-festas-de-casamento-bancadas-por-oligarca-russo.ghtml",
+    "image": "https://s2-g1.glbimg.com/1BSVO-YW6VdhGYsIV3_JQb1KIWw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/q/OKQT52REeI2CpQJhE1qA/2026-09-12t105307z-1507278825-rc2mhnad7prs-rtrmadp-3-usa-trump-ireland.jpg"
   },
   {
     "site": "UOL",
-    "title": "Como funciona a Lotofácil? Veja até quando jogar na edição Independência",
-    "url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/09/14/como-funciona-a-lotofacil-veja-preco-e-ate-quando-jogar-na-edicao-independencia.ghtm",
-    "image": ""
+    "title": "SP conquista prêmio do CNJ sobre eficiência tributária",
+    "url": "https://www1.folha.uol.com.br/blogs/que-imposto-e-esse/2026/09/sp-conquista-premio-do-cnj-sobre-eficiencia-tributaria.shtml",
+    "image": "https://f.i.uol.com.br/fotografia/2026/06/10/17811239576a29cb75ae0b3_1781123957_3x2_lg.jpg"
   },
   {
     "site": "CNN Brasil",
-    "title": "Finlândia adere ao escudo nuclear da França",
-    "url": "https://www.cnnbrasil.com.br/internacional/finlandia-adere-ao-escudo-nuclear-da-franca/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2024/04/GettyImages-1551825721.jpg?w=1200&h=630&crop=1"
+    "title": "Quem é Edmilson Costa, candidato à Presidência pelo PCB",
+    "url": "https://www.cnnbrasil.com.br/eleicoes/quem-e-edmilson-costa-candidato-a-presidencia-pelo-pcb/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/08/Captura-de-tela-2026-08-01-140301.png?w=254&h=149&crop=1"
   },
   {
     "site": "Terra",
-    "title": "Kaio Jorge pode superar atacantes marcantes e entrar para história do Cruzeiro; saiba como",
-    "url": "https://www.terra.com.br/esportes/futebol/kaio-jorge-pode-superar-atacantes-marcantes-e-entrar-para-historia-do-cruzeiro-saiba-como,31f29e2bc6ed9c866bd084d6cdc22565bologfxm.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/09/14/240515181-fluminense-v-cruzeiro-brasileirao-2025-2048x1366.jpg"
+    "title": "A Fazenda 18: veja quem são os participantes da nova edição do reality show",
+    "url": "https://www.terra.com.br/diversao/tv/a-fazenda/a-fazenda-18-veja-quem-sao-os-participantes-da-nova-edicao-do-reality-show,2eee0a5819b5e793a98c4f23aafc0d86vvz66792.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/09/14/design-sem-nome-2026-09-14t175754-927-1iv10rr5abm1v.png"
   },
   {
     "site": "BBC",
@@ -97,27 +157,27 @@
   },
   {
     "site": "G1",
-    "title": "Escola perto de casa e do trabalho: Conecta tem duas unidades em João Pessoa",
-    "url": "https://g1.globo.com/pb/paraiba/especial-publicitario/conecta-smart-school-educacao-de-qualidade/noticia/2026/09/14/escola-perto-de-casa-e-do-trabalho-conecta-tem-duas-unidades-em-joao-pessoa.ghtml",
-    "image": "https://s2-g1.glbimg.com/tfYtP76BRMcrILCQW2_WpuAvEGs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/l/RACMcbQWuF24Vx4TuBzg/materia-6.png"
+    "title": "Renan Santos, candidato do Missão à Presidência, tem agenda em São Paulo",
+    "url": "https://g1.globo.com/jornal-nacional/noticia/2026/09/14/renan-santos-candidato-do-missao-a-presidencia-tema-agenda-em-sao-paulo.ghtml",
+    "image": "https://s2-g1.glbimg.com/m7Bd9Hiw-oWLjSm5gydT_uGHk8Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/n/zrJrnHTaubXM1TmBSipw/globo-canal-4-20260914-2000-frame-151997.jpeg"
   },
   {
     "site": "UOL",
-    "title": "Que horas será o sorteio da Lotofácil da Independência 2026? Veja horário",
-    "url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/09/14/que-horas-sera-o-sorteio-da-lotofacil-da-independencia-2026-veja-horario.ghtm",
-    "image": ""
+    "title": "Assassinato de Ruy Ferraz completa um ano com 8 presos, 3 foragidos e dúvidas sobre mandantes",
+    "url": "https://www1.folha.uol.com.br/cotidiano/2026/09/assassinato-de-ruy-ferraz-completa-um-ano-com-8-presos-3-foragidos-e-duvidas-sobre-mandantes.shtml",
+    "image": "https://f.i.uol.com.br/fotografia/2025/09/16/175806054768c9e0037ebe1_1758060547_3x2_rt.jpg"
   },
   {
     "site": "CNN Brasil",
-    "title": "Ele colocou 40 camadas de tinta sobre o corpo e se tornou o homem mais tatuado do mundo, com direito a registro no Guinness World Records",
-    "url": "https://www.cnnbrasil.com.br/curiosidades/ele-colocou-40-camadas-de-tinta-sobre-o-corpo-e-se-tornou-o-homem-mais-tatuado-do-mundo-com-direito-a-registro-no-guinness-world-records/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/1-SaveClip.App_810051769_1511826524312732_8663961070162823421_n.jpg?w=1060&h=630&crop=1"
+    "title": "Em cadeira de rodas, Michael J. Fox é ovacionado e recebe homenagem do Emmy",
+    "url": "https://www.cnnbrasil.com.br/pop/tv/em-cadeira-de-rodas-michael-j-fox-e-ovacionado-e-recebe-homenagem-do-emmy/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/GettyImages-2295319702.jpg?w=1200&h=630&crop=1"
   },
   {
     "site": "Terra",
-    "title": "Como estudar para as provas: 5 erros que todo mundo comete",
-    "url": "https://www.terra.com.br/vida-e-estilo/como-estudar-para-as-provas-5-erros-que-todo-mundo-comete,e663d9bc6628de804c2be4bec7262767mh8fh0az.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/09/14/1010869177-iewek-gnos-hhux08puypc-unsplash-scaled.jpg"
+    "title": "Neo Química Arena: Corinthians aumenta capacidade contra o Estudiantes",
+    "url": "https://www.terra.com.br/esportes/corinthians/neo-quimica-arena-corinthians-aumenta-capacidade-contra-o-estudiantes,a9167b994a9a19b93c0b0b8fd8e8d2c7qb2yr3le.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/09/15/1276122665-neo-quimica-arenaeasy-resizecom-610x400.jpg"
   },
   {
     "site": "BBC",
@@ -127,27 +187,27 @@
   },
   {
     "site": "G1",
-    "title": "Defesa abandona julgamento e Justiça decreta prisão dos acusados de matar jovens em área de conflito agrário em RO",
-    "url": "https://g1.globo.com/ro/rondonia/noticia/2026/09/14/defesa-abandona-julgamento-e-justica-decreta-prisao-dos-acusados-de-matar-jovens-em-area-de-conflito-agrario-em-ro.ghtml",
-    "image": "https://s2-g1.glbimg.com/4rF8pYC7hRBQHyK4MtSS8Vup8uc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/g/T/QW3MoaQgAPJmjE4dJjmA/20241209-174335.jpg"
+    "title": "Corregedoria da PM conclui que soldado teve intenção de matar mulher durante abordagem na Zona Leste de SP",
+    "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/09/14/corregedoria-da-pm-conclui-que-soldado-teve-intencao-de-matar-mulher-durante-abordagem-na-zona-leste-de-sp.ghtml",
+    "image": "https://s2-g1.glbimg.com/1mDoC15WrQxRJ7ImsnxxVSksLdk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/e/m0jcIrTZuOHiLXU3PZ3w/fotojet-52-.jpg"
   },
   {
     "site": "UOL",
-    "title": "Popularidade de Trump sobe, mas perspectivas para republicanos pioram, mostra pesquisa Reuters/Ipsos",
-    "url": "https://noticias.uol.com.br/ultimas-noticias/reuters/2026/09/14/popularidade-de-trump-sobe-mas-perspectivas-para-republicanos-pioram-mostra-pesquisa-reutersipsos.htm",
-    "image": ""
+    "title": "Anfavea amplia atuação política e leva demandas do setor aos presidenciáveis",
+    "url": "https://www1.folha.uol.com.br/colunas/eduardosodre/2026/09/anfavea-amplia-atuacao-politica-e-leva-demandas-do-setor-aos-presidenciaveis.shtml",
+    "image": "https://f.i.uol.com.br/fotografia/2025/04/14/174466416167fd7661301f2_1744664161_3x2_rt.jpg"
   },
   {
     "site": "CNN Brasil",
-    "title": "Como funciona o sistema eleitoral dos Estados Unidos para as Midterms?",
-    "url": "https://www.cnnbrasil.com.br/internacional/como-funciona-o-sistema-eleitoral-dos-estados-unidos-para-as-midterms/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2021/06/563_42518339B8E85E5B.jpg?w=1200&h=630&crop=1"
+    "title": "“A Fazenda”: quem são os 22 participantes da 18ª temporada",
+    "url": "https://www.cnnbrasil.com.br/pop/realities/a-fazenda-quem-sao-os-22-participantes-da-18a-temporada/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/a-fazenda-18.png?w=1200&h=630&crop=1"
   },
   {
     "site": "Terra",
-    "title": "O perigo de comer tarde: como o hábito afeta seu metabolismo",
-    "url": "https://www.terra.com.br/vida-e-estilo/o-perigo-de-comer-tarde-como-o-habito-afeta-seu-metabolismo,d9386edd31bd7659136002e4a0db61710nu8zl1x.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/09/14/702564401-portrait-woman-watching-sad-movie-laptop-crying-wiping-tears-off-eating-doughnut-scaled.jpg"
+    "title": "STJD denuncia Osorio por expulsão em Palmeiras x São Paulo",
+    "url": "https://www.terra.com.br/esportes/sao-paulo/stjd-denuncia-osorio-por-expulsao-em-palmeiras-x-sao-paulo,7180c09961e5c695c0a36764790c49840xv866b6.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/09/15/1280538548-687280394181093099969205404744176654989297455n-610x400.jpg"
   },
   {
     "site": "BBC",
@@ -157,87 +217,27 @@
   },
   {
     "site": "G1",
-    "title": "Tomate e leite puxam alta da cesta básica e elevam gasto com alimentação em Campinas",
-    "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/09/14/tomate-e-leite-puxam-alta-da-cesta-basica-e-elevam-gasto-com-alimentacao-em-campinas.ghtml",
-    "image": "https://s2-g1.glbimg.com/RGtao-nMvTUWmNyzi81Ewv2WVt0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/Y/F/B5vMV4QTCA6liJyl25kQ/whatsapp-image-2023-11-30-at-18.29.51-1-.jpeg"
+    "title": "Presidente Lula, candidato à reeleição pelo PT, cumpre agenda em Brasília",
+    "url": "https://g1.globo.com/jornal-nacional/noticia/2026/09/14/presidente-lula-candidato-a-reeleicao-pelo-pt-cumpre-agenda-em-brasilia.ghtml",
+    "image": "https://s2-g1.glbimg.com/s-NA5FA1GWGqqsOxIRrE6DHtqgo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/C/C3CWAsTNWkoaJ4brgpAg/globo-canal-4-20260914-2000-frame-150114.jpeg"
   },
   {
     "site": "UOL",
-    "title": "Todos são iguais perante a lei, mas alguns podem ser piores",
-    "url": "https://noticias.uol.com.br/colunas/josias-de-souza/2026/09/14/todos-sao-iguais-perante-a-lei-mas-alguns-podem-ser-piores.htm",
-    "image": ""
+    "title": "Pedido de freio no desenvolvimento de IA por big techs aprofunda disputa entre EUA, China e Europa",
+    "url": "https://www1.folha.uol.com.br/tec/2026/09/pedido-de-freio-no-desenvolvimento-de-ia-por-big-techs-aprofunda-disputa-entre-eua-china-e-europa.shtml",
+    "image": "https://f.i.uol.com.br/fotografia/2026/09/12/17892395656aa5a10d65805_1789239565_3x2_rt.jpg"
   },
   {
     "site": "CNN Brasil",
-    "title": "Santos: Rony cede camisa 11 para Philippe Coutinho; veja",
-    "url": "https://www.cnnbrasil.com.br/esportes/futebol/santos/santos-rony-cede-camisa-11-para-philippe-coutinho-veja/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/coutinho_52bcb2-e1789418111302.jpg?w=659&h=371&crop=1"
+    "title": "Eleitor com deficiência pode entrar acompanhado na cabine de votação?",
+    "url": "https://www.cnnbrasil.com.br/eleicoes/eleitor-com-deficiencia-pode-entrar-acompanhado-na-cabine-de-votacao/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2024/01/lacracao-urnas-eletronicas_mcamgo_abr_210920221818-5-e1730085494290.jpg?w=1200&h=630&crop=1"
   },
   {
     "site": "Terra",
-    "title": "Vire um copo térmico de cabeça para baixo e empilhe 3 peças: o truque oriental de 10 segundos transforma 4 itens em uma luminária sem cola nem ferramentas",
-    "url": "https://www.terra.com.br/parceiros/catraca-livre/vire-um-copo-termico-de-cabeca-para-baixo-e-empilhe-3-pecas-o-truque-oriental-de-10-segundos-transforma-4-itens-em-uma-luminaria-sem-cola-nem-ferramentas,d6d9908817b0e75e94e92f8d35f5c4c3o8o4gnyu.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/09/14/787860899-luminaria-caseira-sobre-mesa-de.jpg"
-  },
-  {
-    "site": "BBC",
-    "title": "5 coisas que você precisa saber sobre o documentário de 4 horas sobre Elon Musk",
-    "url": "https://www.bbc.com/portuguese/articles/c6lyqzejw7g7o?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/5304/live/8e7a4e30-b048-11f1-b1d1-571ed4d7ff2c.jpg"
-  },
-  {
-    "site": "G1",
-    "title": "Motorista é preso suspeito de atropelar três pessoas e matar idosa após discussão no interior de SP",
-    "url": "https://g1.globo.com/sp/presidente-prudente-e-regiao/noticia/2026/09/14/motorista-e-preso-suspeito-de-atropelar-tres-pessoas-e-matar-idosa-apos-discussao-no-interior-de-sp.ghtml",
-    "image": "https://s2-g1.glbimg.com/LP_QpcC4fPt15Ld_4pPF-2FY4P0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/S/UAeDAAQj2uM1MDy74uiA/whatsapp-image-2026-01-28-at-15.02.28.jpeg"
-  },
-  {
-    "site": "UOL",
-    "title": "Quando corre a Lotofácil da Independência? Veja onde assistir e horário",
-    "url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/09/14/quando-corre-a-lotofacil-da-independencia-veja-onde-assistir-data-e-horario.ghtm",
-    "image": ""
-  },
-  {
-    "site": "CNN Brasil",
-    "title": "Análise: Santos vive novo momento com reforços e “ajuda” de Neymar",
-    "url": "https://www.cnnbrasil.com.br/esportes/futebol/santos/analise-santos-vive-novo-momento-com-reforcos-e-ajuda-de-neymar/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/santos-cruzeiro-brasileirao-e1789266779225.jpg?w=1024&h=576&crop=1"
-  },
-  {
-    "site": "Terra",
-    "title": "Sydney Sweeney aparece nua em comercial e gera revolta entre atletas",
-    "url": "https://www.terra.com.br/diversao/tv/sydney-sweeney-aparece-nua-em-comercial-e-gera-revolta-entre-atletas,4aa7d186630a2b41ca459ff7a4de824a2p3scjup.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/09/14/1159306193-73wijgexozhwlmdmtktjcn2b6a.jpeg"
-  },
-  {
-    "site": "BBC",
-    "title": "Brigou no avião? Você poderá ficar até um ano proibido de voar; entenda nova regra da Anac que está em vigor",
-    "url": "https://www.bbc.com/portuguese/articles/czrjdp484mlo?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/7137/live/9088e0c0-9bed-11f1-aed2-8d6da8d75094.jpg"
-  },
-  {
-    "site": "G1",
-    "title": "Idoso de 94 anos é encontrado desidratado e deitado em pedras no meio de mata em Araçuaí",
-    "url": "https://g1.globo.com/mg/grande-minas/noticia/2026/09/14/idoso-de-94-anos-e-encontrado-desidratado-e-deitado-em-pedras-no-meio-de-mata-em-aracuai.ghtml",
-    "image": "https://s2-g1.glbimg.com/2gj7dl60J7qQr_--snMs34QfF7U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/0/LtnGcjRAAwLLq8R9n6yQ/gemini-generated-image-tv0ajvtv0ajvtv0a-1-.jpg"
-  },
-  {
-    "site": "UOL",
-    "title": "Quando é o sorteio 3780 da Lotofácil da Independência? Veja data e horário",
-    "url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/09/14/quando-e-o-sorteio-3780-da-lotofacil-da-independencia-veja-data-e-horario.ghtm",
-    "image": ""
-  },
-  {
-    "site": "CNN Brasil",
-    "title": "Cezinha nega irregularidades e pede apuração “com distância” das eleições",
-    "url": "https://www.cnnbrasil.com.br/politica/cezinha-nega-irregularidades-e-pede-apuracao-com-distancia-das-eleicoes/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/CEZINHA-DE-MADUREIRA-07-10-25.jpg?w=1200&h=630&crop=1"
-  },
-  {
-    "site": "Terra",
-    "title": "Audi confirma retorno das peruas A5 Avant e A6 Avant e-tron ao Brasil",
-    "url": "https://www.terra.com.br/noticias/audi-confirma-retorno-das-peruas-a5-avant-e-a6-avant-e-tron-ao-brasil,693c756ef66d0d56f18f1696e11b7278dw8i6xg6.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/09/14/45439048-afhcgmo7xneovlu4ih6dgfv77y.jpg"
+    "title": "Mais cálcio que o leite e mais vitamina C que a laranja: como fazer em casa o refogado de moringa com ovo e coco",
+    "url": "https://www.terra.com.br/noticias/mais-calcio-que-o-leite-e-mais-vitamina-c-que-a-laranja-como-fazer-em-casa-o-refogado-de-moringa-com-ovo-e-coco,e63db769b61e6044de6945d463f1f6b63xwt2lo6.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/09/15/1429227834-moringa-leaves-with-eggs-and-20260913233842-2.jpg"
   },
   {
     "site": "BBC",
@@ -247,50 +247,50 @@
   },
   {
     "site": "G1",
-    "title": "Três homens são presos por suspeita de tráfico de drogas em Volta Redonda",
-    "url": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/09/14/tres-homens-sao-presos-por-suspeita-de-trafico-de-drogas-em-volta-redonda.ghtml",
-    "image": "https://s2-g1.glbimg.com/AbUY49m1xY5fIMGcIyDxDfG1oic=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/w/4bAnIaTnSjtCFGar44Yw/whatsapp-image-2026-05-25-at-16.09.53-1-.jpeg"
+    "title": "Flávio Bolsonaro, candidato à Presidência pelo PL, faz campanha em Belém",
+    "url": "https://g1.globo.com/jornal-nacional/noticia/2026/09/14/flavio-bolsonaro-candidato-a-presidencia-pelo-pl-faz-campanha-em-belem.ghtml",
+    "image": "https://s2-g1.glbimg.com/6BtRajQ368cXxKbJ1JwuvQtAtTM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/8/6E6bMKShm2Sw7uAnwc1A/globo-canal-4-20260914-2000-frame-149067.jpeg"
   },
   {
     "site": "UOL",
-    "title": "'Invasão: Código Apollo' e Mateus Solano: o que assistir na TV e no streaming terça",
-    "url": "https://www1.folha.uol.com.br/ilustrada/2026/09/invasao-codigo-apollo-e-mateus-solano-o-que-assistir-na-tv-e-no-streaming-terca.shtml",
-    "image": "https://f.i.uol.com.br/fotografia/2026/09/14/17894190536aa85e2dd8a69_1789419053_3x2_lg.jpg"
+    "title": "IA vira marqueteira de candidatos nanicos e entra nas propagandas de Lula e Flávio",
+    "url": "https://www1.folha.uol.com.br/poder/2026/09/ia-vira-marqueteira-de-candidatos-nanicos-e-entra-nas-propagandas-de-lula-e-flavio.shtml",
+    "image": "https://f.i.uol.com.br/fotografia/2026/09/14/17894327696aa893c19c6f9_1789432769_3x2_md.jpg"
   },
   {
     "site": "CNN Brasil",
-    "title": "Wall Street fecha em queda com receios sobre IA e à espera do Fed juros",
-    "url": "https://www.cnnbrasil.com.br/economia/money/mercado/wall-street-fecha-em-queda-com-receios-sobre-ia-e-a-espera-do-fed-juros/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/Reuters_Direct_Media/BrazilOnlineReportBusinessNews/tagreuters.com2026binary_LYNXMPEM1C0XX-BASEIMAGE.jpg?w=800&h=533&crop=1"
+    "title": "Bahia 2 x 1 Remo: veja os melhores momentos pelo Brasileirão",
+    "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/bahia-2-x-1-remo-veja-os-melhores-momentos-pelo-brasileirao/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/Jean-Lucas-Bahia-x-Remo-6-e1789437845941.jpg?w=1200&h=630&crop=1"
   },
   {
     "site": "Terra",
-    "title": "F2: PREMA Racing é multada em 500 euros por causa da irmã de Sebastián Montoya",
-    "url": "https://www.terra.com.br/esportes/automobilismo/f2-prema-racing-e-multada-em-500-euros-por-causa-da-irma-de-sebastian-montoya,45762c6b0102ecd3d0fca799bc62a562k4xwxasi.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/09/14/fdibz72po_1290x760__2-qhhrgrrufy3n.jpg"
+    "title": "Conmebol oficializa uniformes de LDU x Palmeiras para jogo decisivo da Libertadores",
+    "url": "https://www.terra.com.br/esportes/palmeiras/conmebol-oficializa-uniformes-de-ldu-x-palmeiras-para-jogo-decisivo-da-libertadores,35bc7e5a9f263a163750b9e9039d93eadqaz3h2g.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/09/15/1959978243-09092026cgpalmeiras946840.png"
   },
   {
     "site": "G1",
-    "title": "Cozinhar com lenha em segurança: ventilação, tiragem e fumaça",
-    "url": "https://g1.globo.com/mg/centro-oeste/especial-publicitario/panela-de-ferro-fundido-casa-cozinha-decoracao/noticia/2026/09/14/cozinhar-com-lenha-em-seguranca-ventilacao-tiragem-e-fumaca.ghtml",
-    "image": "https://s2-g1.glbimg.com/pUJJITB8a9McsSxUxozAnW2U8aQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/H/xtCuWjRG2NrmzrEeYmxA/pff-lenha-ventilacao-seguranca-img-1.jpg"
+    "title": "Augusto Cury, candidato do Avante à Presidência, cumpre agenda em São Paulo",
+    "url": "https://g1.globo.com/jornal-nacional/noticia/2026/09/14/augusto-cury-candidato-do-avante-a-presidencia-cumpre-agenda-em-sao-paulo.ghtml",
+    "image": "https://s2-g1.glbimg.com/mfbIw8XRL_KrCpsXftEzC2kvRp4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/c/uzn1cARfelzQBxoonsdA/globo-canal-4-20260914-2000-frame-145927.jpeg"
   },
   {
     "site": "UOL",
-    "title": "Resultado da Lotofácil da Independência 3780: veja onde assistir",
-    "url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/09/14/resultado-da-lotofacil-da-independencia-3780-veja-onde-assistir.ghtm",
-    "image": ""
+    "title": "STF faz sessão inédita que pode definir futuro de Moraes sem sinal de trégua entre ministros",
+    "url": "https://www1.folha.uol.com.br/poder/2026/09/stf-faz-sessao-inedita-que-pode-definir-futuro-de-moraes-sem-sinal-de-tregua-entre-ministros.shtml",
+    "image": "https://f.i.uol.com.br/fotografia/2026/09/02/17883856086a98994821cb4_1788385608_3x2_rt.jpg"
   },
   {
     "site": "CNN Brasil",
-    "title": "Indisciplina em voos aumentou mais de 20% em 2026",
-    "url": "https://www.cnnbrasil.com.br/infra/indisciplina-em-voos-aumentou-mais-de-20-em-2026/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/05/Porta-de-aviao-abre-no-ar-Entenda-o-caso-do-voo-da-Latam.jpg?w=1200&h=630&crop=1"
+    "title": "Look de Shailene Woodley para Emmy divide opiniões: “O estilista odeia ela”",
+    "url": "https://www.cnnbrasil.com.br/pop/tv/look-de-shailene-woodley-para-emmy-divide-opinioes-o-estilista-odeia-ela/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/02/1-shailene-woodley.jpg?w=1080&h=607&crop=1"
   },
   {
     "site": "Terra",
-    "title": "De virada, Inter derrota Udinese por 5 a 3 no San Siro",
-    "url": "https://www.terra.com.br/esportes/de-virada-inter-derrota-udinese-por-5-a-3-no-san-siro,669ab5a03f3cbc2b9e0f7d77708142f92687tf04.html",
-    "image": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png"
+    "title": "Veja a reação de torcedores do Grêmio com retorno de Renato Gaúcho",
+    "url": "https://www.terra.com.br/esportes/gremio/veja-a-reacao-de-torcedores-do-gremio-com-retorno-de-renato-gaucho,29691d527064e2386672b7356af142f1gj7pkohx.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/09/15/834835673-renato-gaucho-gremio.jpg"
   }
 ]
