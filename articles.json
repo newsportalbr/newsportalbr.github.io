@@ -1,33 +1,93 @@
 [
   {
     "site": "BBC",
+    "title": "'Minha mãe morreu de novo': a jovem que presenciou o pai matar a mãe e agora vê o tio como suspeito de outro feminicídio na família",
+    "url": "https://www.bbc.com/portuguese/articles/cgev0dg499go?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/7cc6/live/f4f46850-75b3-11f1-96c9-fd59e0a14462.jpg"
+  },
+  {
+    "site": "G1",
+    "title": "Leonardo DiCaprio publica mensagem contra projeto de maior mina de ouro a céu aberto do Brasil, no Pará: 'danos irrevogáveis'",
+    "url": "https://g1.globo.com/pa/para/noticia/2026/09/23/leonardo-dicaprio-publica-mensagem-contra-projeto-de-maior-mina-de-ouro-a-ceu-aberto-do-brasil-no-para-danos-irrevogaveis.ghtml",
+    "image": "https://s2-g1.glbimg.com/xyrdE6biPkexgrhN8fBHqlOn-sU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/v/PMLADqSBSU3t7NPNlzug/whatsapp-image-2026-09-08-at-12.37.11.jpeg"
+  },
+  {
+    "site": "UOL",
+    "title": "Pai é preso após arremessar bebê na calçada no Rio de Janeiro",
+    "url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/09/23/pai-e-preso-apos-arremessar-bebe-na-calcada-no-rio-de-janeiro.ghtm",
+    "image": ""
+  },
+  {
+    "site": "CNN Brasil",
+    "title": "Economia recua em 4 das 5 regiões do país em julho, aponta BC",
+    "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/economia-recua-em-4-das-5-regioes-do-pais-em-julho-aponta-bc/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/mapa-do-brasil-e1788887064383.jpg?w=1200&h=630&crop=1"
+  },
+  {
+    "site": "Terra",
+    "title": "Javier Aguirre é anunciado como novo técnico do Valencia",
+    "url": "https://www.terra.com.br/esportes/mexico/javier-aguirre-e-anunciado-como-novo-tecnico-do-valencia,85df413e7deede8b0dd117f38cbeeb84xihmdlwy.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/09/23/2096176603-mexico-v-ecuador-round-of-32-fifa-world-cup-2026-8-610x400.jpg"
+  },
+  {
+    "site": "BBC",
+    "title": "Do caipira ao agronejo: como a música sertaneja se tornou a mais ouvida do Brasil contemporâneo",
+    "url": "https://www.bbc.com/portuguese/articles/cr158y1v1e2go?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/c205/live/12bdc790-b750-11f1-97a1-31b436cb8908.jpg"
+  },
+  {
+    "site": "G1",
+    "title": "‘Cemitério de motos’ em matagal escondia mais de 120 quadros em distrito de MS",
+    "url": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/09/23/cemiterio-de-motos-em-matagal-escondia-mais-de-120-quadros-em-distrito-de-ms.ghtml",
+    "image": "https://s2-g1.glbimg.com/53SKlNN-_u-WZmx5gBLa6XBVxAc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/D/5l8LzrRWi2HrXZIqp05g/1200-x-800-2026-09-23t163816.460.jpg"
+  },
+  {
+    "site": "UOL",
+    "title": "Sakamoto: Ao silenciar Porchat, Big Tech mostra que arena pública tem dono",
+    "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/23/sakamoto-ao-silenciar-porchat-big-tech-mostra-que-arena-publica-tem-dono.ghtm",
+    "image": ""
+  },
+  {
+    "site": "CNN Brasil",
+    "title": "Quaest Senado SP: Derrite tem 16%; Marina, 13%; e Simone Tebet, 12%",
+    "url": "https://www.cnnbrasil.com.br/eleicoes/quaest-senado-sp-derrite-tem-16-marina-13-e-simone-tebet-12/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/Derrite-Marina-e-Tebet.png?w=1200&h=630&crop=1"
+  },
+  {
+    "site": "Terra",
+    "title": "Maior mina de cobre do mundo suspende operações após a morte de trabalhador",
+    "url": "https://www.terra.com.br/noticias/mundo/maior-mina-de-cobre-do-mundo-suspende-operacoes-apos-a-morte-de-trabalhador,d36bd68df5b318d95558248c9c9d4ab07ys49of5.html",
+    "image": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png"
+  },
+  {
+    "site": "BBC",
     "title": "Por que os candidatos a presidente querem construir mais data centers no Brasil",
     "url": "https://www.bbc.com/portuguese/articles/cr4vx3krnnqo?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/ad1a/live/8935b740-a15f-11f1-b109-879e35c24276.jpg"
   },
   {
     "site": "G1",
-    "title": "Quaest no CE para o Senado: Cid Gomes, 25%; Capitão Wagner, 21%; Luizianne, 19%; Alcides Fernandes, 8%",
-    "url": "https://g1.globo.com/ce/ceara/eleicoes/2026/noticia/2026/09/23/quaest-ce-senado-23-setembro.ghtml",
-    "image": "https://s2-g1.glbimg.com/UrjMuNwbqIOvV3gshsl48gioMYM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/6/HsisXMSCSqnBXWNw7wJg/foto-1.png"
+    "title": "Economista Renato Gomes (DC) promete cortar 'supersalários' para financiar saúde e segurança em MS",
+    "url": "https://g1.globo.com/ms/mato-grosso-do-sul/eleicoes/2026/noticia/2026/09/23/economista-renato-gomes-dc-propoe-cortar-supersalarios-para-financiar-saude-e-seguranca-em-ms.ghtml",
+    "image": "https://s2-g1.glbimg.com/c4ObRPW06HPA1cy8a4Vi-s1lkPk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/D/yxEn8pRXSGfrMsOx1PpQ/economista-renato-gomes.jpg"
   },
   {
     "site": "UOL",
-    "title": "Economistas esperam que El Niño aumente inflação em 0,5 ponto no Brasil em 2027, mostra BC",
-    "url": "https://www1.folha.uol.com.br/mercado/2026/09/economistas-esperam-que-el-nino-aumente-inflacao-em-05-ponto-no-brasil-em-2027-mostra-bc.shtml",
-    "image": "https://f.i.uol.com.br/fotografia/2026/09/23/17901778976ab3f269eb47e_1790177897_3x2_rt.jpg"
+    "title": "Zelenskiy alerta Rússia para um inverno doloroso caso negociações para trégua energética fracassem",
+    "url": "https://noticias.uol.com.br/ultimas-noticias/reuters/2026/09/23/zelenskiy-alerta-russia-para-um-invernodoloroso-caso-negociacoes-para-tregua-energetica-fracassem.htm",
+    "image": ""
   },
   {
     "site": "CNN Brasil",
-    "title": "Diretor do Fed, Michael Barr, prevê novos aumentos de juros nos EUA",
-    "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/diretor-do-fed-michael-barr-preve-novos-aumentos-de-juros-nos-eua/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/Reuters_Direct_Media/BrazilOnlineReportBusinessNews/tagreuters.com2024binary_LYNXMPEK4J0GP-FILEDIMAGE.jpg?w=1200&h=630&crop=1"
+    "title": "Petrobras pode incluir projeto de gás na Colômbia em plano 2027-2031",
+    "url": "https://www.cnnbrasil.com.br/infra/petrobras-pode-incluir-projeto-de-gas-na-colombia-em-plano-2027-2031/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/Reuters_Direct_Media/BrazilOnlineReportBusinessNews/tagreuters.com2026binary_LYNXMPEM7Q0XT-BASEIMAGE-e1788997549712.jpg?w=800&h=451&crop=1"
   },
   {
     "site": "Terra",
-    "title": "A lenta e dolorosa morte de Casemiro em 'A Nobreza do Amor': despedida de Cassio Gabus Mendes na novela das seis promete arrancar lágrimas até do espectador mais frio e racional",
-    "url": "https://www.terra.com.br/diversao/tv/a-lenta-e-dolorosa-morte-de-casemiro-em-a-nobreza-do-amor-despedida-de-cassio-gabus-mendes-na-novela-das-seis-promete-arrancar-lagrimas-ate-do-espectador-mais-frio-e-racional,82499f1f57175fdfe015b370a5ae4432s6nofh4y.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/09/23/1890405838-3d4c5dbae0b9bd6b-1400x823-2.jpg"
+    "title": "Farah e Tahir ficam juntos? 2ª temporada de Meu Nome é Farah traz desfecho do casal",
+    "url": "https://www.terra.com.br/diversao/entre-telas/farah-e-tahir-ficam-juntos-2-temporada-de-meu-nome-e-farah-traz-desfecho-do-casal,116434522258fabf91935e7ab309e77ctyb8bade.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/09/23/843989122-766bc91c94f63838eb16808bf22c0d80.jpg"
   },
   {
     "site": "BBC",
@@ -37,27 +97,27 @@
   },
   {
     "site": "G1",
-    "title": "Sorvete de alface, molho de churrasco e café branco: conheça sabores inusitados criados no interior de SP",
-    "url": "https://g1.globo.com/sp/sao-carlos-regiao/noticia/2026/09/23/sorvete-de-alface-molho-de-churrasco-e-cafe-branco-conheca-sabores-inusitados-criados-no-interior-de-sp.ghtml",
-    "image": "https://s2-g1.glbimg.com/I2E6oal1V_3ehLNggHpPI2fbaKI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/r/nYHsHbRYCiIAzdCi3dLA/projeto-brenda-152-.jpg"
+    "title": "PGR defende regime semiaberto para Débora do Batom",
+    "url": "https://g1.globo.com/politica/noticia/2026/09/23/pgr-defende-regime-semiaberto-para-debora-do-batom.ghtml",
+    "image": "https://s2-g1.glbimg.com/0XdVDiOh-wdQBcc7WuWA4Yv5HdQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/x/O/PiQv68TRChuuSyNVop9Q/mulher-batom-estatua-8-de-janeiro-1-.jpeg"
   },
   {
     "site": "UOL",
-    "title": "SP, RJ, MG e ES têm alerta laranja para tempestades de até 100 mm",
-    "url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/09/23/inmet-emite-alerta-laranja-de-tempestade-com-chuvas-de-ate-100mm-no-sudeste.ghtm",
-    "image": ""
+    "title": "Fornecimento de água começa a ser normalizado em Apucarana após quase 48 horas",
+    "url": "https://tnonline.uol.com.br/noticias/apucarana/fornecimento-de-agua-comeca-a-ser-normalizado-em-apucarana-apos-quase-48-horas-1148575",
+    "image": "https://cdn.tnonline.com.br/img/Instant-Article/1140000/1200x630/na-estacao-equipes-realizaram-limpeza-na-terca-fei-01148448-0-202609230940/ScaleProportionalFillBackground-1.jpg?fallback=https%3A%2F%2Fcdn.tnonline.com.br%2Fimg%2FInstant-Article%2F1140000%2Fna-estacao-equipes-realizaram-limpeza-na-terca-fei-01148448-0-202609230940.jpg%3Fxid%3D1832743&xid=1832743"
   },
   {
     "site": "CNN Brasil",
-    "title": "Forças separatistas declaram guerra contra governo da Etiópia",
-    "url": "https://www.cnnbrasil.com.br/internacional/forcas-separatistas-declaram-guerra-contra-governo-da-etiopia/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/2026-09-23T143654Z_2_LOP428021092026RP1_RTRMADP_BASEIMAGE-960X540_ETHIOPIA-CONFLICT-TIGRAY-TIMELINE.jpg?w=960&h=540&crop=1"
+    "title": "Quaest: Tarcísio tem 49% no 2º turno em SP; Haddad, 30%",
+    "url": "https://www.cnnbrasil.com.br/eleicoes/quaest-tarcisio-tem-49-no-2o-turno-em-sp-haddad-30/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/07/tarcisio-haddad.png?w=1200&h=630&crop=1"
   },
   {
     "site": "Terra",
-    "title": "EUA convidam Vladimir Putin para cúpula do G20 em Miami",
-    "url": "https://www.terra.com.br/noticias/mundo/eua-convidam-vladimir-putin-para-cupula-do-g20-em-miami,6e1535e3702e9c46cd53cfae921506f50dbo0z3m.html",
-    "image": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png"
+    "title": "Náutico x Sport: CBF escala trio feminino para o Clássico dos Clássicos; veja nomes",
+    "url": "https://www.terra.com.br/esportes/nautico-x-sport-cbf-escala-trio-feminino-para-o-classico-dos-classicos-veja-nomes,da9a2efc9e06e7a4160bcd4ceb9d59ecxxyresxq.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/09/23/847652177-daiane-muniz.jpg"
   },
   {
     "site": "BBC",
@@ -67,27 +127,27 @@
   },
   {
     "site": "G1",
-    "title": "Adolescente é localizado quase dois anos depois de desaparecer no noroeste de SP",
-    "url": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/09/23/adolescente-e-localizado-quase-dois-anos-depois-de-desaparecer-no-noroeste-de-sp.ghtml",
-    "image": "https://s2-g1.glbimg.com/k7asLpzwnveuXu--m1VCzUGat-o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/9/2/cuxuuATSaMfg7hBw079w/delegacia-rio-preto.jpg"
+    "title": "Foragido por homicídio e com extensa ficha criminal morre em confronto com Bope, em Santana",
+    "url": "https://g1.globo.com/ap/amapa/noticia/2026/09/23/foragido-por-homicidio-e-com-extensa-ficha-criminal-morre-em-confronto-com-bope-em-santana.ghtml",
+    "image": "https://s2-g1.glbimg.com/f2k1SiccQg8cEHBduAsktOJxdX8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/V/gfe8IOT5m83HnZdqTsSg/aleixo-g1-2026-09-23t173403.732.jpg"
   },
   {
     "site": "UOL",
-    "title": "Irã diz na ONU que não vai se render aos EUA",
-    "url": "https://noticias.uol.com.br/internacional/ultimas-noticias/2026/09/23/ira-diz-na-onu-que-nao-vai-se-render-aos-eua.ghtm",
+    "title": "Lula na pesquisa para presidente: veja números recentes para 1º e 2º turnos",
+    "url": "https://noticias.uol.com.br/eleicoes/2026/09/23/lula-na-pesquisa-para-presidente-veja-numeros-recentes-para-1-e-2-turnos.ghtm",
     "image": ""
   },
   {
     "site": "CNN Brasil",
-    "title": "Irã está analisando resposta dos EUA a proposta de paz, diz autoridade",
-    "url": "https://www.cnnbrasil.com.br/internacional/ira-esta-analisando-resposta-dos-eua-a-proposta-de-paz-diz-autoridade/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/06/Homem-segura-bandeira-iraniana-perto-de-outdoor-anti-EUA-representando-o-presidente-dos-EUA-Donald-Trump-e-o-Estreito-de-Ormuz-em-Teera-Ira-em-30-de-maio-de-2026-e1782525884154.jpg?w=1200&h=630&crop=1"
+    "title": "Linguiça calabresa de R$ 200 mil que viajaria pelo Brasil é apreendida",
+    "url": "https://www.cnnbrasil.com.br/nacional/sudeste/mg/linguica-calabresa-de-r-200-mil-que-viajaria-pelo-brasil-e-apreendida/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/APURACAO-CNN-23.jpg?w=1200&h=630&crop=1"
   },
   {
     "site": "Terra",
-    "title": "Em 1968, minerador da Califórnia encontrou pepita de ouro de 14,5 onças: quase 60 anos depois, a peça histórica foi vendida por US$ 71.875",
-    "url": "https://www.terra.com.br/vida-e-estilo/em-1968-minerador-da-california-encontrou-pepita-de-ouro-de-145-oncas-quase-60-anos-depois-a-peca-historica-foi-vendida-por-us-71875,b072c5ba50524594f01113d0c2712546znrz9xu7.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/09/23/1852462650-gold-nugget-on-dark-rock.jpeg"
+    "title": "Hulk, Canobbio, John Kennedy, Lucho Costa, Savarino, Serna, Hércules, Cano, Rodrigo Castillo e Ignácio: os jogadores do Fluminense com maior frequência de gols no Brasileirão 2026",
+    "url": "https://www.terra.com.br/esportes/fluminense/hulk-canobbio-john-kennedy-lucho-costa-savarino-serna-hercules-cano-rodrigo-castillo-e-ignacio-os-jogadores-do-fluminense-com-maior-frequencia-de-gols-no-brasileirao-2026,ef552ee40f9cbf3032ffbcef7918d83f3a2r5v41.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/09/23/1889231110-hulk-fluminense.jpg"
   },
   {
     "site": "BBC",
@@ -97,27 +157,27 @@
   },
   {
     "site": "G1",
-    "title": "Na reta final da campanha, Flávio Bolsonaro foca São Paulo, ao lado de Tarcísio",
-    "url": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/23/campanha-flavio-bolsonaro-sp.ghtml",
-    "image": "https://s2-g1.glbimg.com/W3qCei6pei4QGS98s_L65Gvtljo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/3/b25cUzSeS5JWlxFwbDYw/dsc-0982.jpg"
+    "title": "Justiça volta atrás e anula laudo que eliminou advogado autista de vaga para juiz em SC",
+    "url": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/09/23/justica-volta-atras-e-anula-laudo-que-eliminou-advogado-autista-de-vaga-para-juiz-em-sc.ghtml",
+    "image": "https://s2-g1.glbimg.com/0vMgi2WULRJlixEyT_O4mFwT9lY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/D/Q4Y7kxRRartN39zcoiSQ/1200-x-800-95-.jpg"
   },
   {
     "site": "UOL",
-    "title": "No RS, Zucco tem 41,6% e Juliana Brizola, 36,1%, mostra pesquisa AtlasIntel",
-    "url": "https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2026/09/23/no-rs-zucco-tem-416-e-juliana-brizola-361-mostra-pesquisa-atlasintel.htm",
+    "title": "Benedita tem 15% para o Senado do Rio; Jordy e Portinho, 10%, aponta Quaest",
+    "url": "https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2026/09/23/benedita-tem-15-para-o-senado-do-rio-jordy-e-portinho-10-aponta-quaest.htm",
     "image": ""
   },
   {
     "site": "CNN Brasil",
-    "title": "Emissão de títulos panda na China ultrapassa 200 bilhões de yuans",
-    "url": "https://www.cnnbrasil.com.br/economia/money/mercado/emissao-de-titulos-panda-na-china-ultrapassa-200-bilhoes-de-yuans/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/Reuters_Direct_Media/BrazilOnlineReportBusinessNews/tagreuters.com2025binary_LYNXMPELBP0BU-BASEIMAGE.jpg?w=800&h=551&crop=1"
+    "title": "Taylor Lautner anuncia nascimento da filha e escolha de nome surpreende",
+    "url": "https://www.cnnbrasil.com.br/pop/celebridades/taylor-lautner-anuncia-nascimento-da-filha-e-escolha-de-nome-surpreende/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/08/taylor-lautner-taylor-fome-cha-de-beb-e1787247527169.jpg?w=1200&h=630&crop=1"
   },
   {
     "site": "Terra",
-    "title": "Após sondagem do exterior, Corinthians negocia com joia da base",
-    "url": "https://www.terra.com.br/esportes/corinthians/apos-sondagem-do-exterior-corinthians-negocia-com-joia-da-base,6f95c8ea84ad8a4b28fc697b48ed25fbxetk8ph2.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/09/23/366394528-nicollas-atleta-sub-20-do-corinthian-610x400.jpg"
+    "title": "Mais de 600 mil moradores podem ter água interrompida nesta quinta-feira em Porto Alegre para ligação da nova adutora",
+    "url": "https://www.terra.com.br/noticias/mais-de-600-mil-moradores-podem-ter-agua-interrompida-nesta-quinta-feira-em-porto-alegre-para-ligacao-da-nova-adutora,2c19159c5bb2dff86a1fe1cb34380d5by7fxrkpg.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/09/23/1224351424-captura-de-tela-2026-09-23-171634.png"
   },
   {
     "site": "BBC",
@@ -127,117 +187,57 @@
   },
   {
     "site": "G1",
-    "title": "Homem é preso com 200 kg de drogas dentro de carreta no interior do Acre",
-    "url": "https://g1.globo.com/ac/acre/noticia/2026/09/23/homem-e-preso-com-200-kg-de-drogas-dentro-de-carreta-no-interior-do-acre.ghtml",
-    "image": "https://s2-g1.glbimg.com/YKQ-R9Z-QpdS5jXNz7JYMi_00KU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/5/mvBJ7IRAGGT9KK0GVb8w/midia-de-distribuicao-g1-2026-09-23t102229.407.png"
+    "title": "Quaest em SP: 58% aprovam e 25% desaprovam governo de Tarcísio de Freitas",
+    "url": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/23/quaest-em-sp-58percent-aprovam-e-25percent-desaprovam-governo-de-tarcisio-de-freitas.ghtml",
+    "image": "https://s2-g1.glbimg.com/Ms9-pDDdfc4CvYn5NDLYxFzovJY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/l/No70iiThS8gyzgMsPazw/whatsapp-image-2026-09-03-at-23.15.08.jpeg"
   },
   {
     "site": "UOL",
-    "title": "PF apreende R$ 500 mil em espécie com presidente do PSDB de SC",
-    "url": "https://noticias.uol.com.br/eleicoes/2026/09/23/pf-apreende-r-500-mil-em-especie-com-presidente-do-psdb-de-sc.htm",
+    "title": "TCU aprova adensamento de terminal no Porto de Santos a contrato da Petrobras",
+    "url": "https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2026/09/23/tcu-aprova-adensamento-de-terminal-no-porto-de-santos-a-contrato-da-petrobras.htm",
     "image": ""
   },
   {
     "site": "CNN Brasil",
-    "title": "Longe dos gramados, Pelé viveu quase 40 anos como fazendeiro no interior de SP: com leitaria, criação de porcos e tanques de peixe, ele reinou em refúgio de 700 hectares",
-    "url": "https://www.cnnbrasil.com.br/curiosidades/longe-dos-gramados-pele-viveu-quase-40-anos-como-fazendeiro-no-interior-de-sp-com-leitaria-criacao-de-porcos-e-tanques-de-peixe-ele-reinou-em-refugio-de-700-hectares/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/Pouca-gente-sabe-mas-o-Rei-do-Futebol-adorava-criar-porcos-e-andar-de-pedalinho-a-rotina-de-Pele-na-impressionante-fazenda-de-R-35-milhoes-no-interior-paulista.jpg?w=1200&h=630&crop=1"
+    "title": "Cury critica economia de Lula e diz que “ética” de Flávio é “insana”",
+    "url": "https://www.cnnbrasil.com.br/eleicoes/cury-critica-economia-de-lula-e-diz-que-etica-de-flavio-e-insana/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/augusto-cury-instituto-bacarelli-eleicao.png?w=984&h=630&crop=1"
   },
   {
     "site": "Terra",
-    "title": "Inter anuncia Eduardo Baptista como técnico até o final da temporada",
-    "url": "https://www.terra.com.br/esportes/inter-anuncia-eduardo-baptista-como-tecnico-ate-o-final-da-temporada,ff9c6e081967470295d9538116e367dfjgnn58vc.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/09/23/507831000-baptista.jpeg"
+    "title": "Estão brigados? Filho de Fábio Assunção celebra noivado sem a presença do pai: 'Feliz'",
+    "url": "https://www.terra.com.br/diversao/gente/estao-brigados-filho-de-fabio-assuncao-celebra-noivado-sem-a-presenca-do-pai-feliz,8f3631e54b09b0a6be2ffee1f94f900egigb1t1q.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/09/23/1828228353-fabio-assuncao-desabafa-sobre-trauma-ao-perder-virgindade-aos-13-anos.png"
   },
   {
     "site": "BBC",
-    "title": "'Drogômetro': novo aparelho que será usado nas blitzes da Lei Seca vai pegar motorista que toma remédio?",
-    "url": "https://www.bbc.com/portuguese/articles/clyr1vkr4r8o?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/5c4b/live/40e7c9d0-a784-11f1-b2d5-535b3b3d379f.jpg"
+    "title": "Eleição 2026: quais são as propostas dos candidatos a presidente?",
+    "url": "https://www.bbc.com/portuguese/articles/cm2gryker9mo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/0d5e/live/835a83d0-b750-11f1-b1d1-571ed4d7ff2c.png"
   },
   {
     "site": "G1",
-    "title": "Professora que esfregou prova no rosto de aluno em BH é demitida",
-    "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/09/23/professora-que-esfregou-prova-no-rosto-de-aluno-em-bh-e-demitida.ghtml",
-    "image": "https://s2-g1.glbimg.com/z_qgnXwgJ-Fj2vR4ffmn1fFbQxs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/X/c8SFfnRRazYDptvRKmng/professora-esfrega-prova.gif"
+    "title": "'Tem Peixe na Cuesta' deixa legado de inclusão, solidariedade e capacitação",
+    "url": "https://g1.globo.com/sp/bauru-marilia/especial-publicitario/higo-peixaria/noticia/2026/09/23/tem-peixe-na-cuesta-deixa-legado-de-inclusao-solidariedade-e-capacitacao.ghtml",
+    "image": "https://s2-g1.glbimg.com/GkqUku1jFKXsjEaBi1E5mOC-AEs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/5/nRkCWFTxOq0858auhN4Q/capa.jpeg"
   },
   {
     "site": "UOL",
-    "title": "Cientistas mapeiam atividade gênica no córtex pré-frontal do cérebro",
-    "url": "https://noticias.uol.com.br/ultimas-noticias/reuters/2026/09/23/cientistas-mapeiam-atividade-genica-no-cortex-pre-frontal-do-cerebro.htm",
-    "image": ""
+    "title": "Quaest: Eduardo Paes lidera no Rio com 36%, seguido por Douglas Ruas, com 23%",
+    "url": "https://www1.folha.uol.com.br/poder/2026/09/quaest-eduardo-paes-lidera-no-rio-com-36-seguido-por-douglas-ruas-com-23.shtml",
+    "image": "https://f.i.uol.com.br/fotografia/2026/08/26/17877812536a8f608503cd0_1787781253_3x2_xl.jpg"
   },
   {
     "site": "CNN Brasil",
-    "title": "Atlas/Estadão: No RJ, Lula empata com Flávio e Caiado no 2º turno",
-    "url": "https://www.cnnbrasil.com.br/eleicoes/atlas-no-rj-lula-empata-com-flavio-e-caiado-no-2o-turno/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/07/Lula-Flavio-e-Caiado-.png?w=1200&h=630&crop=1"
+    "title": "Bitcoin opera em queda com perspectiva de Fed mais restritivo",
+    "url": "https://www.cnnbrasil.com.br/economia/money/mercado/bitcoin-opera-em-queda-com-perspectiva-de-fed-mais-restritivo/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/05/qndo-bitcoin-pizzaday-WirestockMagnific-e1784589526671.jpg?w=1200&h=630&crop=1"
   },
   {
     "site": "Terra",
-    "title": "Geely aposta em IA e carregamento de carros elétricos em 4 minutos",
-    "url": "https://www.terra.com.br/byte/geely-aposta-em-ia-e-carregamento-de-carros-eletricos-em-4-minutos,3f68bb8ca45f0efb19ad8afd385b57d34oysc5cu.html",
-    "image": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png"
-  },
-  {
-    "site": "BBC",
-    "title": "Liderados por Trump, 14 países da região se comprometem a combater facções e cartéis; documento cita PCC e CV",
-    "url": "https://www.bbc.com/portuguese/articles/cj3v4y3vw3w2o?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/eae4/live/71860f60-b6d0-11f1-bc1f-3f186ca4140c.png"
-  },
-  {
-    "site": "G1",
-    "title": "Quaest no Ceará: Ciro Gomes, 43%; Elmano de Freitas, 41%",
-    "url": "https://g1.globo.com/ce/ceara/eleicoes/2026/noticia/2026/09/23/quaest-ce-governador-23-setembro.ghtml",
-    "image": "https://s2-g1.glbimg.com/137cIReWz_JbFJCauYtT7ic0yjg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/b/FtdeR1RnqB0DO5wPUWOg/ciro-e-elmano.jpeg"
-  },
-  {
-    "site": "UOL",
-    "title": "Isack Hadjar renova contrato com a Red Bull para 2027",
-    "url": "https://noticias.uol.com.br/ultimas-noticias/afp/2026/09/23/isack-hadjar-renova-contrato-com-a-red-bull-para-2027.htm",
-    "image": ""
-  },
-  {
-    "site": "CNN Brasil",
-    "title": "Paraguai defende retorno da Venezuela ao Mercosul em discurso na ONU",
-    "url": "https://www.cnnbrasil.com.br/internacional/paraguai-defende-retorno-da-venezuela-ao-mercosul-em-discurso-na-onu/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/2026-09-23T151636Z_1_LYNXMPEM8M1DK_RTROPTP_4_UN-ASSEMBLY.jpg?w=1200&h=630&crop=1"
-  },
-  {
-    "site": "Terra",
-    "title": "Adeus, flacidez na pele: o novo segredo da beleza de Kim Kardashian, Virgínia e Ana Hickmann é uma tecnologia coreana inovadora; XERF 'chega em um momento em que buscamos cada vez mais tratamentos eficazes', diz dermatologista",
-    "url": "https://www.terra.com.br/vida-e-estilo/adeus-flacidez-na-pele-o-novo-segredo-da-beleza-de-kim-kardashian-virginia-e-ana-hickmann-e-uma-tecnologia-coreana-inovadora-xerf-chega-em-um-momento-em-que-buscamos-cada-vez-mais-tratamentos-eficazes-diz-dermatologista,b042ed28132f085d017d8a50748ad2660jc8qm92.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/09/23/1910801695-6cf8d3d3898aadd6-1400x823-1.jpg"
-  },
-  {
-    "site": "BBC",
-    "title": "Como Rick, da dupla Rick & Renner, ajudou a renovar o sertanejo",
-    "url": "https://www.bbc.com/portuguese/articles/c574eyxvzjzlo?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/aca9/live/263c5090-b672-11f1-b711-df5e4d50c2fd.jpg"
-  },
-  {
-    "site": "G1",
-    "title": "São Sebastião entra em painel do Cemaden com risco moderado de deslizamentos após chuva",
-    "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/09/23/sao-sebastiao-entra-em-painel-do-cemaden-com-risco-moderado-de-deslizamentos-apos-chuva.ghtml",
-    "image": "https://s2-g1.glbimg.com/2LAFk3_-pn8Tn0VJimYRn_3uYQQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/w/3/EvJDZyRFCc63egntmvOA/whatsapp-image-2023-11-20-at-08.03.52.jpeg"
-  },
-  {
-    "site": "UOL",
-    "title": "No RS, Flávio Bolsonaro tem 47,9% e Lula 44,4% no 2º turno, aponta AtlasIntel",
-    "url": "https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2026/09/23/no-rs-flavio-bolsonaro-tem-479-e-lula-444-no-2-turno-aponta-atlasintel.htm",
-    "image": ""
-  },
-  {
-    "site": "CNN Brasil",
-    "title": "⁠Renner disse que Rick era “sua vida” em entrevista antes de acidente",
-    "url": "https://www.cnnbrasil.com.br/pop/celebridades/%e2%81%a0renner-disse-que-rick-era-sua-vida-em-entrevista-antes-de-acidente/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/themes/master-theme/assets/img/fallbackImage.jpg"
-  },
-  {
-    "site": "Terra",
-    "title": "Escola Hub abre as portas para apresentar projetos dos estudantes à comunidade de Porto Alegre",
-    "url": "https://www.terra.com.br/noticias/escola-hub-abre-as-portas-para-apresentar-projetos-dos-estudantes-a-comunidade-de-porto-alegre,645eaa5bc0cde25857c93ca66dedd11eb1fmw0mv.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/09/23/1454413482-sede-escola-hub-porto-alegre.png"
+    "title": "Paisagismo ganha espaço em projetos imobiliários",
+    "url": "https://www.terra.com.br/noticias/paisagismo-ganha-espaco-em-projetos-imobiliarios,0f9aeb922330ea73a1d7de84dccdce7czqlh06v3.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/09/23/1751376624-05e207c8-17b4-4524-b3bd-d4a33b2daf45.jpeg"
   },
   {
     "site": "BBC",
@@ -247,44 +247,50 @@
   },
   {
     "site": "G1",
-    "title": "Corpo de dentista achado morto após sair para entregar prótese será velado e sepultado em Itu",
-    "url": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/09/23/velorio-sepultamento-corpo-dentista-achado-morto-apos-sair-para-entregar-protese-em-itu.ghtml",
-    "image": "https://s2-g1.glbimg.com/fNy-K4cgVU9NzvV6Dtfyxf6yodo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/f/s3PFEPThGULFZtpBnl8Q/whatsapp-image-2026-09-23-at-11.53.07.jpeg"
+    "title": "Quaest na Paraíba: 59% têm mais medo da volta da família Bolsonaro ao governo; 29% da reeleição de Lula",
+    "url": "https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/23/quaest-paraiba-medo-volta-familia-bolsonaro-reeleicao-lula.ghtml",
+    "image": "https://s2-g1.glbimg.com/oF9_lMxZxty8rh_P7tRvg7bSviY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/L/ZrowDtRUK4ESLW88lFxg/montagem-horizontal-1200px-17-.jpg"
   },
   {
     "site": "UOL",
-    "title": "Sete a cada dez pessoas estão otimistas com IA, aponta pesquisa em 37 países",
-    "url": "https://c-level.folha.uol.com.br/ia/2026/09/sete-a-cada-dez-pessoas-estao-otimistas-com-ia-aponta-pesquisa-em-37-paises.shtml",
-    "image": "https://f.i.uol.com.br/fotografia/2026/09/23/17901765116ab3ecffaf03f_1790176511_3x2_rt.jpg"
+    "title": "No 1º turno do Rio, Paes tem 36%; Ruas, 23%; Garotinho, 8%, segundo a Quaest",
+    "url": "https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2026/09/23/no-1-turno-do-rio-paes-tem-36-ruas-23-garotinho-8-segundo-a-quaest.htm",
+    "image": ""
   },
   {
     "site": "CNN Brasil",
-    "title": "Atlas/Estadão: Cleitinho lidera 1º e 2º turno na disputa ao governo de MG",
-    "url": "https://www.cnnbrasil.com.br/eleicoes/atlas-estadao-cleitinho-lidera-1o-e-2o-turno-na-disputa-ao-governo-de-mg/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/07/54659513718_1086bf6a9b_o-e1752698539841.jpg?w=1200&h=630&crop=1"
+    "title": "Ator Arnaud Denis é submetido a eutanásia aos 43 anos, confirma site",
+    "url": "https://www.cnnbrasil.com.br/pop/celebridades/ator-arnaud-denis-e-submetido-a-eutanasia-aos-43-anos-confirma-site/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/Arnaud-Denis.png?w=1200&h=630&crop=1"
   },
   {
     "site": "Terra",
-    "title": "Grêmio fecha acordo com novo patrocinador master",
-    "url": "https://www.terra.com.br/esportes/gremio/gremio-fecha-acordo-com-novo-patrocinador-master,7a62db7652d10e661602b91882a674b6h58b7obi.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/09/23/1827800607-odorico-roman-presidente-do-gremio.jpg"
+    "title": "ICR.T lança curso de formação e certificação em robótica",
+    "url": "https://www.terra.com.br/noticias/icrt-lanca-curso-de-formacao-e-certificacao-em-robotica,fc2b5270520d3a17a38896c52844bf226jp3q2hb.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/09/23/674209939-51cb4a78-1a54-4a0d-9990-efb579765a66.png"
   },
   {
     "site": "G1",
-    "title": "Discar Veículos inaugura nova loja em Aracaju e reúne 2 unidades",
-    "url": "https://g1.globo.com/se/sergipe/especial-publicitario/discar/noticia/2026/09/23/discar-veiculos-inaugura-nova-loja-em-aracaju-e-reune-2-unidades.ghtml",
-    "image": "https://s2-g1.glbimg.com/922lw6bk37Odt4UaxtETjN_HAbI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/B/J1gvUtQ8GfUAnO4nNKUA/imagem-materia-vista-aerea-da-nova-discar-veiculos-na-av.-delmiro-gouveia-no-coroa-do-meio.-foto-gabriel-lima.jpeg"
+    "title": "Chuva forte provoca alagamentos em ruas de Santo Antônio de Pádua",
+    "url": "https://g1.globo.com/rj/norte-fluminense/noticia/2026/09/23/chuva-forte-provoca-alagamentos-em-ruas-de-santo-antonio-de-padua.ghtml",
+    "image": "https://s2-g1.glbimg.com/q7NIXVNQrYWKX16BCYeynyLwtIs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/6/EiP3D4Tqaw72mPUUfItQ/chuva.png"
+  },
+  {
+    "site": "UOL",
+    "title": "Zelensky acusa Rússia de recrutar soldados de 47 nacionalidades",
+    "url": "https://noticias.uol.com.br/ultimas-noticias/afp/2026/09/23/zelensky-acusa-russia-de-recrutar-soldados-de-47-nacionalidades.htm",
+    "image": ""
   },
   {
     "site": "CNN Brasil",
-    "title": "Diferencial de juros coloca câmbio e ações no radar dos investidores",
-    "url": "https://www.cnnbrasil.com.br/economia/money/mercado/diferencial-de-juros-coloca-cambio-e-acoes-no-radar-dos-investidores/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/07/ouro-dolar-investimentos-IA-e1788678189157.png?w=890&h=602&crop=1"
+    "title": "Testemunhas de Jeová adotam nova regra para recebimento e doação de sangue",
+    "url": "https://www.cnnbrasil.com.br/saude/testemunhas-de-jeova-adotam-nova-regra-para-recebimento-e-doacao-de-sangue/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2022/11/mcamgo_abr14062018-7187_1.jpg?w=1170&h=630&crop=1"
   },
   {
     "site": "Terra",
-    "title": "Lucas Guedez desabafa sobre expulsão de casa e reconciliação com a fé: 'Fiquei com raiva'",
-    "url": "https://www.terra.com.br/nos/lucas-guedez-desabafa-sobre-expulsao-de-casa-e-reconciliacao-com-a-fe-fiquei-com-raiva,1dcdf9307c7cf19eb01f6e8f25eb86fafalbq0y7.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/09/18/inserir-um-titulo-(21)-skv5etpy2cs2.jpg"
+    "title": "Vida digital desafia convivência na terceira idade",
+    "url": "https://www.terra.com.br/noticias/vida-digital-desafia-convivencia-na-terceira-idade,f3b87bac529742344cd596b7fd421313kpwndivn.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/09/23/295149287-7b79dd73-c4fe-44d5-9312-b30e8b39f1a7.jpeg"
   }
 ]
