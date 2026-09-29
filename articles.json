@@ -1,93 +1,183 @@
 [
   {
     "site": "BBC",
+    "title": "Brasil seguir nacionalismo de Trump seria ruim para o mundo, diz Piketty à BBC News Brasil",
+    "url": "https://www.bbc.com/portuguese/articles/c8ly40d6y0vno?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/6283/live/32ddfba0-bb81-11f1-a430-4d16ee157c41.jpg"
+  },
+  {
+    "site": "G1",
+    "title": "VÍDEO: Incêndio de grandes proporções em distribuidora de borracha assusta moradores em Divinópolis",
+    "url": "https://g1.globo.com/mg/centro-oeste/noticia/2026/09/29/video-incendio-de-grandes-proporcoes-em-distribuidora-de-borracha-assusta-moradores-em-divinopolis.ghtml",
+    "image": "https://s2-g1.glbimg.com/ghODbDJ-eM5l4_j6-E4A3G9aEQY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/W/EZTAo7Tea3tIwf54ssOQ/whatsapp-image-2026-09-28-at-19.46.02.jpeg"
+  },
+  {
+    "site": "UOL",
+    "title": "Vorcaro e ex-ministro de Bolsonaro tentaram conter crise de Moraes e Musk",
+    "url": "https://noticias.uol.com.br/colunas/fabio-serapiao/2026/09/29/vorcaro-e-ex-ministro-de-bolsonaro-tentaram-conter-crise-de-moraes-e-musk.htm",
+    "image": ""
+  },
+  {
+    "site": "CNN Brasil",
+    "title": "Real Time Senado SP: Derrite tem 22%; Prado, 20%; Tebet, 18% e Marina, 15%",
+    "url": "https://www.cnnbrasil.com.br/eleicoes/real-time-senado-sp-derrite-tem-22-prado-20-tebet-18-e-marina-15/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/Guilherme-Derrite-Andre-do-Prado-Simone-Tebet-Marina-Sena.png?w=1200&h=630&crop=1"
+  },
+  {
+    "site": "Terra",
+    "title": "Previsão do tempo em Osasco hoje: veja como fica o clima nesta terça-feira",
+    "url": "https://www.terra.com.br/noticias/brasil/cidades/previsao-do-tempo-em-osasco-hoje-veja-como-fica-o-clima-nesta-terca-feira,87eef947cd4d5f7855bb7251ab28bdfc9isqomx1.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/09/29/998214260-854b7cfc-b069-466d-bb12-39c7513867f4.jpg"
+  },
+  {
+    "site": "BBC",
+    "title": "Fux derruba decisão de Dino sobre posts de Nossa Senhora Aparecida: entenda o vaivém a menos de uma semana da eleição",
+    "url": "https://www.bbc.com/portuguese/articles/c6r7dgeze8r0o?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/442e/live/d06b25d0-b8f4-11f1-bd4a-e9ce4be469f6.jpg"
+  },
+  {
+    "site": "G1",
+    "title": "Caminhoneiro é preso com 7,2 toneladas de maconha escondida em carga de linguiça na rodovia SP-425",
+    "url": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/09/29/caminhoneiro-e-preso-com-72-toneladas-de-maconha-escondida-em-carga-de-linguica-na-rodovia-sp-425.ghtml",
+    "image": "https://s2-g1.glbimg.com/O9xvRdAP4pOc269dGzRFT6bIius=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/i/1YoaWAQv2wV4SUCZXe2w/maconha-linguica2.jpeg"
+  },
+  {
+    "site": "UOL",
+    "title": "Gilmar Mendes pede que STJ investigue magistrados e advogados em casos de precatórios",
+    "url": "https://redir.folha.com.br/redir/online/colunas/monicabergamo/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/gilmar-mendes-pede-que-stj-investigue-magistrados-e-advogados-em-casos-de-precatorios.shtml",
+    "image": "https://f.i.uol.com.br/fotografia/2026/09/10/17890701096aa30b1d35fda_1789070109_3x2_rt.jpg"
+  },
+  {
+    "site": "CNN Brasil",
+    "title": "RJ: PF apreende fuzis durante operação contra fraudes no registro de armas",
+    "url": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/rj-pf-apreende-fuzis-durante-operacao-contra-fraudes-no-registro-de-armas/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/801fcff9-1a2b-4291-b166-7e976b322a7f-e1790679322145.jpeg?w=768&h=433&crop=1"
+  },
+  {
+    "site": "Terra",
+    "title": "Previsão do tempo em Juiz de Fora hoje: veja como fica o clima nesta terça-feira",
+    "url": "https://www.terra.com.br/noticias/brasil/cidades/previsao-do-tempo-em-juiz-de-fora-hoje-veja-como-fica-o-clima-nesta-terca-feira,d68c06954dfc7a06b3e19e038c8ad1c6yjm34ahi.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/09/29/1529251389-60c27a72-8ddf-45fa-8e3e-67c2135fb274.jpg"
+  },
+  {
+    "site": "BBC",
+    "title": "Por que milhares de empresas estão fechando na Argentina e o que isso revela sobre a economia na era Milei?",
+    "url": "https://www.bbc.com/portuguese/articles/c6z7zx5ny2d5o?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/c98b/live/36529eb0-bb2e-11f1-a9b8-670e5d9d8eee.jpg"
+  },
+  {
+    "site": "G1",
+    "title": "Transporte intermunicipal será gratuito em Minas durante eleições; veja como vai funcionar",
+    "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/09/29/transporte-intermunicipal-sera-gratuito-em-minas-durante-eleicoes-veja-como-vai-funcionar.ghtml",
+    "image": "https://s2-g1.glbimg.com/iWGuwyS-A8UdNmjLYakzcwbe3ck=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/c/Q/kEJo3hReSCEhGyk5fGag/rodoviaria-de-bh.jpg"
+  },
+  {
+    "site": "UOL",
+    "title": "Greve de advogados adia 1ª audiência de Zambelli em liberdade na Itália",
+    "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/29/italia-adia-julgamento-de-extradicao-de-carla-zambelli-para-outubro.ghtm",
+    "image": ""
+  },
+  {
+    "site": "CNN Brasil",
+    "title": "Raphinha sente desconforto na coxa e é substituído em amistoso da Seleção",
+    "url": "https://www.cnnbrasil.com.br/esportes/futebol/selecao-brasileira/raphinha-sente-desconforto-na-coxa-e-e-substituido-em-amistoso-da-selecao/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/29SET2026-AUSTRALUA-X-BRASIL-14-RAPHINHA-e1790681683575.jpg?w=1200&h=630&crop=1"
+  },
+  {
+    "site": "Terra",
+    "title": "Previsão do tempo em Florianópolis (SC) hoje: veja como fica o clima nesta terça-feira",
+    "url": "https://www.terra.com.br/noticias/brasil/cidades/previsao-do-tempo-em-florianopolis-sc-hoje-veja-como-fica-o-clima-nesta-terca-feira,5868488103ea6a49f996d717583fd499xvjbhytn.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/09/29/701504222-9399bf11-fb8f-400b-829e-b646b094ae2a.jpg"
+  },
+  {
+    "site": "BBC",
+    "title": "Incidente em base aérea britânica denunciado por fazendeira 'claramente envolve agente estrangeiro', dizem EUA",
+    "url": "https://www.bbc.com/portuguese/articles/cq39m83nj298o?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/7e30/live/3900ff30-bb15-11f1-97b0-3f86b3abbccc.jpg"
+  },
+  {
+    "site": "G1",
+    "title": "Candidatos a deputado federal pelo PDT em SP; veja quem são e os números",
+    "url": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/29/candidatos-a-deputado-federal-pelo-pdt-em-sp-veja-quem-sao-e-os-numeros.ghtml",
+    "image": "https://s2-g1.glbimg.com/rNznQMDqxVc3ji8mBGUx3bdOJMg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/k/KtFAoLRVKjIdqAXpb6dQ/urnaeletronica-tse.jpg"
+  },
+  {
+    "site": "UOL",
+    "title": "Ex-campeão mundial de sinuca condenado a 7 anos de prisão por abuso sexual de menores",
+    "url": "https://noticias.uol.com.br/ultimas-noticias/afp/2026/09/29/ex-campeao-mundial-de-sinuca-condenado-a-7-anos-de-prisao-por-abuso-sexual-de-menores.htm",
+    "image": ""
+  },
+  {
+    "site": "CNN Brasil",
+    "title": "Das ‘baterias de água’ às novas soluções de armazenamento de energia",
+    "url": "https://www.cnnbrasil.com.br/infra/das-baterias-de-agua-as-novas-solucoes-de-armazenamento-de-energia/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/2026-01-29_FlexBess-UHE-Ilha-Solteira_Arquivo-CTG-Brasil-56-1.jpg?w=1200&h=630&crop=1"
+  },
+  {
+    "site": "Terra",
+    "title": "Previsão do tempo em Guarulhos (SP) hoje: veja como fica o clima nesta terça-feira",
+    "url": "https://www.terra.com.br/noticias/brasil/cidades/previsao-do-tempo-em-guarulhos-sp-hoje-veja-como-fica-o-clima-nesta-terca-feira,040b679cf68b58affe6c28fd7aeae497anisxdcm.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/09/29/2085270393-ad62baeb-79a3-429d-b816-e53bbda9bf05.jpg"
+  },
+  {
+    "site": "BBC",
+    "title": "Debate presidencial da Globo: o que já se sabe e o que falta definir sobre embate entre os candidatos antes do 1º turno",
+    "url": "https://www.bbc.com/portuguese/articles/ck0j30y05djeo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/3d87/live/611e7b20-bb63-11f1-b3b3-91d0b491a464.png"
+  },
+  {
+    "site": "G1",
+    "title": "Curso gratuito de rotinas administrativas tem inscrições abertas em Santarém",
+    "url": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/09/29/curso-gratuito-de-rotinas-administrativas-tem-inscricoes-abertas-em-santarem.ghtml",
+    "image": "https://s2-g1.glbimg.com/2B6xPvhDVStrj4ztYAHLcfZPjjY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/K/nBmVmxScA1XcePLFX0hA/eetepa.jpg"
+  },
+  {
+    "site": "UOL",
+    "title": "Nossa Senhora! Fachin deveria instalar painel da censura no STF: ON ou OFF",
+    "url": "https://noticias.uol.com.br/colunas/leonardo-sakamoto/2026/09/29/nossa-senhora-fachin-deveria-instalar-painel-da-censura-no-stf-on-ou-off.htm",
+    "image": ""
+  },
+  {
+    "site": "CNN Brasil",
+    "title": "Tatu, tucano e até sapo; por que a Catedral da Sé em São Paulo possui esculturas de animais escondidas em toda a sua estrutura?",
+    "url": "https://www.cnnbrasil.com.br/curiosidades/tatu-tucano-e-ate-sapo-por-que-a-catedral-da-se-em-sao-paulo-possui-esculturas-de-animais-escondidas-em-toda-a-sua-estrutura/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/esculturas-de-animais-na-catedral-da-se.jpg?w=1200&h=630&crop=1"
+  },
+  {
+    "site": "Terra",
+    "title": "Previsão do tempo em Campinas hoje: veja como fica o clima nesta terça-feira",
+    "url": "https://www.terra.com.br/noticias/brasil/cidades/previsao-do-tempo-em-campinas-hoje-veja-como-fica-o-clima-nesta-terca-feira,ef252bbd726f7ecc3b1e59067a85af3fyo7pgjo3.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/09/29/58382072-40bf7e9d-17e9-434e-8fe6-2f11f31e6a9a.jpg"
+  },
+  {
+    "site": "BBC",
     "title": "'Interferir na eleição do Brasil tende a sair pela culatra e Trump sabe disso', diz Ian Bremmer",
     "url": "https://www.bbc.com/portuguese/articles/c804606ez46vo?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/8ca5/live/f647b970-bb66-11f1-9ecf-8dd029790cef.jpg"
   },
   {
     "site": "G1",
-    "title": "Penúltimo debate entre candidatos ao Governo do Amazonas tem confronto sobre saúde, educação e Zona Franca",
-    "url": "https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/29/penultimo-debate-entre-candidatos-ao-governo-do-amazonas-tem-confronto-sobre-saude-educacao-e-zona-franca.ghtml",
-    "image": "https://s2-g1.glbimg.com/Cvv0ufnhp4kQPQH75uVCBbFybM0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/K/uUKnVuSbAvaPwxXYDB5g/debate-com-candidatos-ao-governo-do-amazonas.jpg"
+    "title": "TV Centro América faz debate entre candidatos de MT ao governo nesta terça; veja regras e saiba como assistir",
+    "url": "https://g1.globo.com/mt/mato-grosso/eleicoes/2026/ao-vivo/tv-centro-america-faz-debate-entre-candidatos-de-mt-ao-governo-nesta-terca-veja-regras-e-saiba-como-assistir.ghtml",
+    "image": "https://s2-g1.glbimg.com/5R1-IPelZJ04egZCiVVXnKy0th8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/f/DRWn7oTVG80zAz9KtimQ/videos-g1-5-.png"
   },
   {
     "site": "UOL",
-    "title": "'Tentaram me parar', diz Wilker Leão após ser preso por pintar muro da UnB",
-    "url": "https://noticias.uol.com.br/eleicoes/2026/09/29/tentaram-me-parar-diz-wilker-leao-apos-ser-preso-por-pintar-muro-da-unb.ghtm",
-    "image": ""
+    "title": "Mulher fica ferida após árvore de grande porte cair sobre carro durante temporal em Maringá",
+    "url": "https://tnonline.uol.com.br/noticias/parana/mulher-fica-ferida-apos-arvore-de-grande-porte-cair-sobre-carro-durante-temporal-em-maringa-1150211",
+    "image": "https://cdn.tnonline.com.br/img/Artigo-Destaque/1150000/1200x630/acidente-foi-registrado-durante-temporal-em-maring-01150211-0-202609290839/ScaleProportionalFillBackground-1.jpg?fallback=https%3A%2F%2Fcdn.tnonline.com.br%2Fimg%2FArtigo-Destaque%2F1150000%2Facidente-foi-registrado-durante-temporal-em-maring-01150211-0-202609290839.webp%3Fxid%3D1836472&xid=1836472"
   },
   {
     "site": "CNN Brasil",
-    "title": "Papa Leão diz que extrema-direita não é expressão autêntica do cristianismo",
-    "url": "https://www.cnnbrasil.com.br/internacional/papa-leao-diz-que-extrema-direita-nao-e-expressao-autentica-do-cristianismo/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/Papa-Leao-XIV-aviao.jpg?w=960&h=540&crop=1"
+    "title": "Letícia Colin mostra bastidores de vingança de Adriana em “Quem Ama Cuida”",
+    "url": "https://www.cnnbrasil.com.br/pop/tv/leticia-colin-mostra-bastidores-de-vinganca-de-adriana-em-quem-ama-cuida/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/leticia-colin1.png?w=1200&h=630&crop=1"
   },
   {
     "site": "Terra",
-    "title": "\"Chego em um momento bom\", diz Otávio sobre Seleção Brasileira",
-    "url": "https://www.terra.com.br/esportes/brasil/chego-em-um-momento-bom-diz-otavio-sobre-selecao-brasileira,0df32b319b1bdcf065a5cc0e0c0f0c560gjgmbuy.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/09/29/897336438-rafa03-610x400.jpg"
-  },
-  {
-    "site": "BBC",
-    "title": "Por que Lula acusa Trump de tentar interferir na eleição a favor de Flávio Bolsonaro",
-    "url": "https://www.bbc.com/portuguese/articles/c6pvewvn2j79o?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/52bc/live/662d1490-bb0f-11f1-a430-4d16ee157c41.png"
-  },
-  {
-    "site": "G1",
-    "title": "Veja o que fizeram os candidatos ao governo do AM nesta segunda-feira (28)",
-    "url": "https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/29/veja-o-que-fizeram-os-candidatos-ao-governo-do-am-nesta-segunda-feira-28.ghtml",
-    "image": "https://s2-g1.glbimg.com/9F82pwztuM5imVigLP38uW08MSE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/6/mGOp5ORZqHJHASNnRXbQ/colagem-26-.jpg"
-  },
-  {
-    "site": "UOL",
-    "title": "Apucarana aciona Governo Federal para verbas e liberação do FGTS",
-    "url": "https://tnonline.uol.com.br/noticias/apucarana/apucarana-aciona-governo-federal-para-verbas-e-liberacao-do-fgts-1150025",
-    "image": "https://cdn.tnonline.com.br/img/inline/1150000/1200x630/apucarana-aciona-governo-federal-para-verbas-e-lib-01150025-0-202609282359/ScaleProportionalFillBackground-1.jpg?fallback=https%3A%2F%2Fcdn.tnonline.com.br%2Fimg%2Finline%2F1150000%2Fapucarana-aciona-governo-federal-para-verbas-e-lib-01150025-0-202609282359.jpg%3Fxid%3D1836213&xid=1836213"
-  },
-  {
-    "site": "CNN Brasil",
-    "title": "Vox: 67,3% dos brasileiros já viram alguma fake news nestas eleições",
-    "url": "https://www.cnnbrasil.com.br/eleicoes/vox-673-dos-brasileiros-ja-viram-alguma-fake-news-nestas-eleicoes/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/03/Man_20260316_Telegram_interna-4.jpg?w=990&h=630&crop=1"
-  },
-  {
-    "site": "Terra",
-    "title": "Leticia Colin revela mensagem enviada por Glória Pires: 'Aquilo me chocou'",
-    "url": "https://www.terra.com.br/diversao/gente/leticia-colin-revela-mensagem-enviada-por-gloria-pires-aquilo-me-chocou,deff6e1527fb3cf97216c8a0fd1f10b6qrokpk34.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/09/29/599444553-leticia-colin-e-gloria-pires.jpg"
-  },
-  {
-    "site": "BBC",
-    "title": "Executivo do New York Times é morto a tiros; sogros de 77 anos são suspeitos",
-    "url": "https://www.bbc.com/portuguese/articles/ck4glndgvw6do?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/530d/live/9d8b6460-bb72-11f1-8200-bffada0fd8de.png"
-  },
-  {
-    "site": "G1",
-    "title": "Eleições 2026: David Almeida participa de debate e promete fortalecer a educação no interior do estado",
-    "url": "https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/09/29/eleicoes-2026-david-almeida-participa-de-debate-e-promete-fortalecer-a-educacao-no-interior-do-estado.ghtml",
-    "image": "https://s2-g1.glbimg.com/Ih3l1bb3hM2-HUbjfBZZOYDtpuE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/9/Dwjq4eQ3CQOTpbfjSe5A/g1-david-almeida-debate-acritica.jpg"
-  },
-  {
-    "site": "UOL",
-    "title": "Fux contraria Dino e manda suspender novamente publicações sobre Nossa Senhora",
-    "url": "https://www1.folha.uol.com.br/poder/2026/09/fux-contraria-dino-e-manda-suspender-novamente-publicacoes-sobre-nossa-senhora.shtml",
-    "image": "https://f.i.uol.com.br/fotografia/2026/09/25/17903607486ab6bcacb9b99_1790360748_3x2_rt.jpg"
-  },
-  {
-    "site": "CNN Brasil",
-    "title": "Vox: 51,4% dos eleitores desaprovam Lula; 45,8% aprovam",
-    "url": "https://www.cnnbrasil.com.br/eleicoes/vox-514-dos-eleitores-desaprovam-lula-458-aprovam/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/Captura-de-tela-2026-09-25-191744.png?w=1200&h=630&crop=1"
-  },
-  {
-    "site": "Terra",
-    "title": "Clima pesa em 'A Fazenda' e Rikardo dispara contra Serginho: 'Racista'",
-    "url": "https://www.terra.com.br/diversao/tv/reality-shows/clima-pesa-em-a-fazenda-e-rikardo-dispara-contra-serginho-racista,9e876bbfe3fb750af7a437eaa9c1add5nqa8eouf.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/09/29/1790651803190481-1hrmjm8es9bu8.JPG"
+    "title": "Previsão do tempo em Vila Velha (ES) hoje: veja como fica o clima nesta terça-feira",
+    "url": "https://www.terra.com.br/noticias/brasil/cidades/previsao-do-tempo-em-vila-velha-es-hoje-veja-como-fica-o-clima-nesta-terca-feira,3233fe6b578eb098fac4b12ef52c94e90ow0m42v.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/09/29/1013125083-8de61964-2379-410e-bef0-0a9282b71938.jpg"
   },
   {
     "site": "BBC",
@@ -97,27 +187,27 @@
   },
   {
     "site": "G1",
-    "title": "Ambientes integrados continuam definindo uma nova forma de morar",
-    "url": "https://g1.globo.com/rj/regiao-dos-lagos/especial-publicitario/vilarejo/vilarejo-solucao-em-casa/noticia/2026/09/29/ambientes-integrados-continuam-definindo-uma-nova-forma-de-morar.ghtml",
-    "image": "https://s2-g1.glbimg.com/XTISjG9JFmSuTvj5ZTqn6cEwEuo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/b/BUcSH0S5Cse68gzIihnw/foto-1-9-.png"
+    "title": "Candidatos a deputado federal pelo PSOL em SP; veja quem são e os números",
+    "url": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/29/candidatos-a-deputado-federal-pelo-psol-em-sp-veja-quem-sao-e-os-numeros.ghtml",
+    "image": "https://s2-g1.glbimg.com/rNznQMDqxVc3ji8mBGUx3bdOJMg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/k/KtFAoLRVKjIdqAXpb6dQ/urnaeletronica-tse.jpg"
   },
   {
     "site": "UOL",
-    "title": "Simepar e Inmet alertam risco de tempestade em Apucarana nesta terça (29)",
-    "url": "https://tnonline.uol.com.br/noticias/apucarana/simepar-e-inmet-alertam-risco-de-tempestade-em-apucarana-nesta-terca-29-1150024",
-    "image": "https://cdn.tnonline.com.br/img/Instant-Article/1120000/1200x630/a-previsao-indica-precipitacao-acumulada-de-00-mil-01128092-0-202608191327/ScaleProportionalFillBackground-1.jpg?fallback=https%3A%2F%2Fcdn.tnonline.com.br%2Fimg%2FInstant-Article%2F1120000%2Fa-previsao-indica-precipitacao-acumulada-de-00-mil-01128092-0-202608191327.jpg%3Fxid%3D1836202&xid=1836202"
+    "title": "Dois acidentes com motocicletas mobilizam PM e Bombeiros em Ivaiporã",
+    "url": "https://tnonline.uol.com.br/noticias/vale-do-ivai/dois-acidentes-com-motocicletas-mobilizam-pm-e-bombeiros-em-ivaipora-1150210",
+    "image": "https://cdn.tnonline.com.br/img/Instant-Article/1110000/1200x630/acidente-ocorreu-na-avenida-souza-naves-no-centro-01117279-0-202607130759/ScaleProportionalFillBackground-1.jpg?fallback=https%3A%2F%2Fcdn.tnonline.com.br%2Fimg%2FInstant-Article%2F1110000%2Facidente-ocorreu-na-avenida-souza-naves-no-centro-01117279-0-202607130759.webp%3Fxid%3D1836468&xid=1836468"
   },
   {
     "site": "CNN Brasil",
-    "title": "Fake news de Nossa Senhora Aparecida foi como facada em mim, diz Flávio",
-    "url": "https://www.cnnbrasil.com.br/eleicoes/fake-news-de-nossa-senhora-aparecida-foi-como-facada-em-mim-diz-flavio/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/Captura-de-tela-2026-09-28-222837.png?w=1200&h=630&crop=1"
+    "title": "Real Time: Moro tem 41% no 2º turno ao governo do PR; Sandro, 39%",
+    "url": "https://www.cnnbrasil.com.br/eleicoes/real-time-moro-tem-41-no-2o-turno-ao-governo-do-pr-sandro-39/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/Moro-e-Sandro.png?w=1200&h=630&crop=1"
   },
   {
     "site": "Terra",
-    "title": "Fux suspende decisão de Dino sobre fake news de Nossa Senhora Aparecida",
-    "url": "https://www.terra.com.br/noticias/brasil/politica/fux-suspende-decisao-de-dino-sobre-fake-news-de-nossa-senhora-aparecida,48c45783d3fe0091e02e7b2c018c3026avlbdwm8.html",
-    "image": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png"
+    "title": "Previsão do tempo em Santo André hoje: veja como fica o clima nesta terça-feira",
+    "url": "https://www.terra.com.br/noticias/brasil/cidades/previsao-do-tempo-em-santo-andre-hoje-veja-como-fica-o-clima-nesta-terca-feira,647e2a96d8ea6c3caf62698a5078b54az48so9cp.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/09/29/759553682-87b6a183-a8d0-47fe-b9a4-91f939d27c22.jpg"
   },
   {
     "site": "BBC",
@@ -127,170 +217,80 @@
   },
   {
     "site": "G1",
-    "title": "Prefeitura agiliza aprovação de projetos de obras e liberação de alvarás",
-    "url": "https://g1.globo.com/rj/regiao-dos-lagos/especial-publicitario/prefeitura-municipal-de-rio-das-ostras-rio-das-ostras-trabalho-e-responsabilidade/noticia/2026/09/29/prefeitura-agiliza-aprovacao-de-projetos-de-obras-e-liberacao-de-alvaras.ghtml",
-    "image": "https://s2-g1.glbimg.com/1CqfiBRZEpnd8w7AgiAipH5UXUU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/Z/W8qS0aRr60vjtGhqGfQA/320x180-foto-destaque-horizontal-50-.png"
+    "title": "Recife oferece 529 vagas gratuitas em cursos profissionalizantes; saiba como se inscrever",
+    "url": "https://g1.globo.com/pe/pernambuco/educacao/noticia/2026/09/29/recife-oferece-529-vagas-em-cursos-gratuitos-de-qualificacao-profissional-saiba-como-se-inscrever.ghtml",
+    "image": "https://s2-g1.glbimg.com/VC6pD9De7TCwOJZ48_NWYMAJgDg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/X/nYoSPBRjOlmS33QNJYUg/captura-de-tela-2026-07-27-102720.png"
   },
   {
     "site": "UOL",
-    "title": "Lula e Janja exploram fake news sobre Nossa Senhora, e presidente ataca igreja por elo com Vorcaro",
-    "url": "https://www1.folha.uol.com.br/poder/2026/09/lula-e-janja-exploram-fake-news-sobre-nossa-senhora-e-presidente-ataca-igreja-por-elo-com-vorcaro.shtml",
-    "image": "https://f.i.uol.com.br/fotografia/2026/09/28/17906497116abb256fc1774_1790649711_3x2_lg.jpg"
-  },
-  {
-    "site": "CNN Brasil",
-    "title": "MP denuncia professor de rede estadual por estupro de vulnerável no RS",
-    "url": "https://www.cnnbrasil.com.br/nacional/sul/rs/mp-denuncia-professor-de-rede-estadual-por-estupro-de-vulneravel-no-rs/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/08/jvhvcjcjvkb-e1760803435782.jpg?w=1024&h=512&crop=1"
-  },
-  {
-    "site": "Terra",
-    "title": "Sindicato dos clubes brasileiros vai ao STF para suspender MP das Bets",
-    "url": "https://www.terra.com.br/esportes/futebol/sindicato-dos-clubes-brasileiros-vai-ao-stf-para-suspender-mp-das-bets,a3bc30647911aa1e5099c7e45045d977uii46lew.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/09/29/321282206-3x1-bets-camisas-06-610x400.jpg"
-  },
-  {
-    "site": "BBC",
-    "title": "De Aparecida à 'soberania' no altar: esquerda mobiliza catolicismo em apoio a Lula como nunca (e a reação de Flavio Bolsonaro)",
-    "url": "https://www.bbc.com/portuguese/articles/cv62kkr916x2o?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/854a/live/b8614560-b92f-11f1-b1d1-571ed4d7ff2c.png"
-  },
-  {
-    "site": "G1",
-    "title": "TV Liberal faz debate entre candidatos ao governo do PA nesta terça; veja regras e saiba como assistir",
-    "url": "https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/09/29/tv-liberal-faz-debate-entre-candidatos-ao-governo-do-pa-nesta-terca-veja-regras-e-saiba-como-assistir.ghtml",
-    "image": "https://s2-g1.glbimg.com/AEkL4FnDQxFGbeMwL_es_DR1GZc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/5/JAvBToQK2zP1lazjUNWA/frame-bastidores-debate0.jpg"
-  },
-  {
-    "site": "UOL",
-    "title": "Saúde confirma 11 casos de sarna humana em creche mineira e aulas são suspensas",
-    "url": "https://tnonline.uol.com.br/noticias/cotidiano/saude-confirma-11-casos-de-sarna-humana-em-creche-mineira-e-aulas-sao-suspensas-1150023",
-    "image": "https://cdn.tnonline.com.br/img/Artigo-Destaque/1150000/1200x630/saude-confirma-11-casos-de-sarna-humana-em-creche--01150023-0-202609282316/ScaleProportionalFillBackground-1.jpg?fallback=https%3A%2F%2Fcdn.tnonline.com.br%2Fimg%2FArtigo-Destaque%2F1150000%2Fsaude-confirma-11-casos-de-sarna-humana-em-creche--01150023-0-202609282316.jpg%3Fxid%3D1836193&xid=1836193"
-  },
-  {
-    "site": "CNN Brasil",
-    "title": "Vox: Flávio é rejeitado por 53,1% dos eleitores; Lula, por 51,5%",
-    "url": "https://www.cnnbrasil.com.br/eleicoes/vox-flavio-e-rejeitado-por-531-dos-eleitores-lula-por-515/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/02/Flavio-Bolsonaro-e-Lula.png?w=1200&h=630&crop=1"
-  },
-  {
-    "site": "Terra",
-    "title": "Nem Clara, nem Ana Francisca! 'Quem Ama Cuida' cria própria fórmula para retorno triunfal de Adriana e entrega 3 acertos definitivos em capítulo do novelão",
-    "url": "https://www.terra.com.br/diversao/tv/nem-clara-nem-ana-francisca-quem-ama-cuida-cria-propria-formula-para-retorno-triunfal-de-adriana-e-entrega-3-acertos-definitivos-em-capitulo-do-novelao,09bcf7494b15eb9692fa9dc911e48c6dg9m99ikx.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/09/29/164106282-93e0a1540f3b95b9-1400x823-2.png"
-  },
-  {
-    "site": "BBC",
-    "title": "O que é a CNBB, entidade católica criticada por Flávio Bolsonaro",
-    "url": "https://www.bbc.com/portuguese/articles/cw33kx20nx8no?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/ebea/live/0481c280-2403-11f0-a686-ebbae6481125.jpg"
-  },
-  {
-    "site": "G1",
-    "title": "TV Globo realiza debate com candidatos ao governo de Pernambuco nesta terça; veja regras e saiba como assistir",
-    "url": "https://g1.globo.com/pe/pernambuco/eleicoes/2026/noticia/2026/09/29/tv-globo-realiza-debate-com-candidatos-ao-governo-de-pernambuco-nesta-terca-veja-regras-e-saiba-como-assistir.ghtml",
-    "image": "https://s2-g1.glbimg.com/0DF8JvbZYk2dFXopn_3FZQ5R65w=/1280x0/filters:format(jpeg)/https://thumbor.globoi.com/unsafe/fit-in/1280x720/s04.video.glbimg.com/deo/vi/55/20/992055"
-  },
-  {
-    "site": "UOL",
-    "title": "Flávio Bolsonaro compara fake news sobre Nossa Senhora Aparecida a facada no pai",
-    "url": "https://www1.folha.uol.com.br/blogs/brasilia-hoje/2026/09/flavio-bolsonaro-compara-fake-news-sobre-nossa-senhora-aparecida-a-facada-no-pai.shtml",
-    "image": "https://f.i.uol.com.br/fotografia/2026/09/28/17906450246abb1320c203c_1790645024_3x2_rt.jpg"
-  },
-  {
-    "site": "CNN Brasil",
-    "title": "Vox: Lula tem 41,1% das intenções de voto no 1º turno; Flávio, 37,8%",
-    "url": "https://www.cnnbrasil.com.br/eleicoes/vox-lula-tem-411-das-intencoes-de-voto-no-1o-turno-flavio-378/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/08/Lula-Flavio.jpeg?w=1200&h=630&crop=1"
-  },
-  {
-    "site": "Terra",
-    "title": "Espere juntar roupa antes de apertar o botão da máquina: na Austrália, cargas completas são recomendadas porque muitos aparelhos usam quantidade semelhante de água e energia mesmo quando estão parcialmente vazios",
-    "url": "https://www.terra.com.br/vida-e-estilo/espere-juntar-roupa-antes-de-apertar-o-botao-da-maquina-na-australia-cargas-completas-sao-recomendadas-porque-muitos-aparelhos-usam-quantidade-semelhante-de-agua-e-energia-mesmo-quando-estao-parcialmente-vazios,7577da3c433aada021bfeb5c8a8317dasrt0amjq.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/09/29/1080387211-washing-machine-filled-with-clothes.jpg"
-  },
-  {
-    "site": "BBC",
-    "title": "Por que cada vez menos jovens votam no Brasil — e o que explica esse fenômeno",
-    "url": "https://www.bbc.com/portuguese/articles/cdx5lwnrnr3o?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/13ff/live/4444fd90-bb17-11f1-a430-4d16ee157c41.png"
-  },
-  {
-    "site": "G1",
-    "title": "NSC TV promove debate com candidatos ao governo de Santa Catarina; regras e como assistir",
-    "url": "https://g1.globo.com/sc/santa-catarina/eleicoes/2026/noticia/2026/09/29/nsc-tv-debate-candidatos-governo-santa-catarina-regras-como-assistir.ghtml",
-    "image": "https://s2-g1.glbimg.com/4EBZ-LVQD89OKGM_fDDby7HfbKg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/d/BbBeABQqGP5unQOeBJcw/whatsapp-image-2026-09-22-at-09.27.28-1-.jpeg"
-  },
-  {
-    "site": "UOL",
-    "title": "Bebê foge de creche sem funcionários perceberem em SC; mãe registra BO",
-    "url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/09/28/bebe-foge-de-creche-sem-funcionarios-perceberem-em-sc-mae-registra-bo.ghtm",
+    "title": "Irã diz que nenhum país da região poderá exportar petróleo se suas exportações continuarem bloqueadas",
+    "url": "https://noticias.uol.com.br/ultimas-noticias/reuters/2026/09/29/ira-diz-que-nenhum-pais-da-regiao-podera-exportar-petroleo-se-suas-exportacoes-continuarem-bloqueadas.htm",
     "image": ""
   },
   {
     "site": "CNN Brasil",
-    "title": "Vox: Flávio tem 45,2% das intenções de voto no 2º turno; Lula, 44,7%",
-    "url": "https://www.cnnbrasil.com.br/eleicoes/vox-flavio-tem-452-das-intencoes-de-voto-no-2o-turno-lula-447/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/08/Candidatos-1.png?w=605&h=341&crop=1"
+    "title": "Real Time: Celina Leão tem 53% no 2º turno ao governo do DF; Grass, 33%",
+    "url": "https://www.cnnbrasil.com.br/eleicoes/real-time-celina-leao-tem-53-no-2o-turno-ao-governo-do-df-grass-33/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/Celina-Leao-e-Leandro-Grass.png?w=1200&h=630&crop=1"
   },
   {
     "site": "Terra",
-    "title": "Ciclone extratropical coloca oito estados em alerta; saiba",
-    "url": "https://www.terra.com.br/noticias/previsao-do-tempo/ciclone-extratropical-coloca-oito-estados-em-alerta-saiba,efab3a46888a364d821c0055ee616208tlz0f2et.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/09/29/captura-de-tela-2026-09-28-233343-u7umbnxi3lnp.png"
+    "title": "Previsão do tempo em Santos (SP) hoje: veja como fica o clima nesta terça-feira",
+    "url": "https://www.terra.com.br/noticias/brasil/cidades/previsao-do-tempo-em-santos-sp-hoje-veja-como-fica-o-clima-nesta-terca-feira,696f013bc28094aac0dbbb1c48891e8f7viwbef3.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/09/29/1304485309-331e8f8a-e9c6-46d2-9b7f-f3512231aaa1.jpg"
   },
   {
     "site": "BBC",
-    "title": "Flávio diz que irá ao debate na Globo, o último antes do 1º turno; Lula não está confirmado",
-    "url": "https://www.bbc.com/portuguese/articles/cpwl85rjdz8o?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/3d63/live/d8b68ba0-bacd-11f1-a430-4d16ee157c41.png"
+    "title": "Executivo do New York Times é morto a tiros; sogros de 77 anos são suspeitos",
+    "url": "https://www.bbc.com/portuguese/articles/ck4glndgvw6do?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/530d/live/9d8b6460-bb72-11f1-8200-bffada0fd8de.png"
   },
   {
     "site": "G1",
-    "title": "TV Clube realiza debate com candidatos ao governo do PI nesta terça (29); veja quem participa e como assistir",
-    "url": "https://g1.globo.com/pi/piaui/eleicoes/2026/noticia/2026/09/29/tv-clube-debate.ghtml",
-    "image": "https://s2-g1.glbimg.com/_L1HgV8BTRzkdNCWPr2A8XcrZt8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/P/FYnIIuQqGnCWtPLXOFIQ/edicao-imagens-g1-2026-09-28t193810.204.png"
+    "title": "Candidatos a deputado federal pelo PSB em SP; veja quem são e os números",
+    "url": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/29/candidatos-a-deputado-federal-pelo-psb-em-sp-veja-quem-sao-e-os-numeros.ghtml",
+    "image": "https://s2-g1.glbimg.com/rNznQMDqxVc3ji8mBGUx3bdOJMg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/k/KtFAoLRVKjIdqAXpb6dQ/urnaeletronica-tse.jpg"
   },
   {
     "site": "UOL",
-    "title": "Aliados de Nunes descartam apoio a Salles para sua sucessão em 2028",
-    "url": "https://www1.folha.uol.com.br/colunas/painel/2026/09/aliados-de-nunes-descartam-apoio-a-salles-para-sua-sucessao-em-2028.shtml",
-    "image": "https://f.i.uol.com.br/fotografia/2026/04/01/177506609369cd5bed2362d_1775066093_3x2_xl.jpg"
+    "title": "Atlas/Bloomberg: Lula é desaprovado por 53,6% dos eleitores e aprovado por 45,2%",
+    "url": "https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2026/09/29/atlasbloomberg-lula-e-desaprovado-por-536-dos-eleitores-e-aprovado-por-452.htm",
+    "image": ""
   },
   {
     "site": "CNN Brasil",
-    "title": "COB Expo reunirá grandes nomes do esporte em São Paulo; saiba detalhes",
-    "url": "https://www.cnnbrasil.com.br/esportes/olimpiadas/cob-expo-reunira-grandes-nomes-do-esporte-em-sao-paulo-saiba-detalhes/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/Foto_Divulgacao.jpeg?w=1200&h=630&crop=1"
+    "title": "Ônibus escolar fica pendurado sobre rio nos EUA; Veja vídeo",
+    "url": "https://www.cnnbrasil.com.br/internacional/onibus-escolar-fica-pendurado-sobre-rio-nos-eua-veja-video/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/onibus-eua.jpeg.png?w=1200&h=630&crop=1"
   },
   {
     "site": "Terra",
-    "title": "O que aconteceu? José Augusto faz revelação após ser criticado pela aparência: 'Assustado'",
-    "url": "https://www.terra.com.br/diversao/gente/o-que-aconteceu-jose-augusto-faz-revelacao-apos-ser-criticado-pela-aparencia-assustado,d9875f5fce19ff53dc0d7cf5f3f90d6151kl95ih.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/09/29/1608833867-jose-augusto.jpg"
+    "title": "Previsão do tempo em Blumenau hoje: veja como fica o clima nesta terça-feira",
+    "url": "https://www.terra.com.br/noticias/brasil/cidades/previsao-do-tempo-em-blumenau-hoje-veja-como-fica-o-clima-nesta-terca-feira,78110d21732774a1012fce317fe936edpa1vvgvx.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/09/29/654742519-a3cb2f4f-5892-4801-b1b8-39a93cd74aa1.jpg"
   },
   {
     "site": "G1",
-    "title": "Helicóptero com o cantor Rick e outras 4 pessoas voava em 'espaço aéreo não controlado', diz FAB; entenda o termo",
-    "url": "https://g1.globo.com/sc/santa-catarina/noticia/2026/09/29/helicoptero-cantor-rick-voava-espaco-aereo-nao-controlado-diz-fab.ghtml",
-    "image": "https://s2-g1.glbimg.com/rNQf8ZvUuUaEmOP5614eKYD4VkE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/U/oBincQSuyqq32LSBNqpg/videoframe-3908590.png"
+    "title": "Quem é Babi Cardoso, influenciadora desaparecida há 3 semanas no RS; polícia encerrou buscas",
+    "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/09/29/quem-e-babi-cardoso-influenciadora-desaparecida-ha-3-semanas-no-rs-policia-encerrou-buscas.ghtml",
+    "image": "https://s2-g1.glbimg.com/nyyr4sM1Ygnx4ed36AW0kxNSztc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/J/bRUwLCQq6hEfeOqGEMTw/g1-45-.jpg"
   },
   {
     "site": "UOL",
-    "title": "Fake news sobre Nossa Senhora Aparecida é nova amostra de religião como arma eleitoral",
-    "url": "https://www1.folha.uol.com.br/poder/2026/09/fake-news-sobre-nossa-senhora-aparecida-e-nova-amostra-de-religiao-como-arma-eleitoral.shtml",
-    "image": "https://f.i.uol.com.br/fotografia/2026/09/28/17906218696abab8adb0b71_1790621869_3x2_rt.jpg"
+    "title": "Queda de árvore de grande porte bloqueia Contorno Norte de Rolândia",
+    "url": "https://tnonline.uol.com.br/noticias/parana/queda-de-arvore-de-grande-porte-bloqueia-contorno-norte-de-rolandia-1150209",
+    "image": "https://cdn.tnonline.com.br/img/Artigo-Destaque/1150000/1200x630/motoristas-de-carros-de-passeio-e-motocicletas-con-01150209-0-202609290836/ScaleProportionalFillBackground-1.jpg?fallback=https%3A%2F%2Fcdn.tnonline.com.br%2Fimg%2FArtigo-Destaque%2F1150000%2Fmotoristas-de-carros-de-passeio-e-motocicletas-con-01150209-0-202609290836.webp%3Fxid%3D1836464&xid=1836464"
   },
   {
     "site": "CNN Brasil",
-    "title": "Brasil poderá ter primeiro barco do mundo com produção de hidrogênio a bordo para abastecimento próprio com combustível ‘movido à água’",
-    "url": "https://www.cnnbrasil.com.br/ciencia/brasil-podera-ter-primeiro-barco-do-mundo-com-producao-de-hidrogenio-a-bordo-para-abastecimento-proprio-com-combustivel-movido-a-agua/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/ComfyUI_00030_.jpg.jpeg?w=1200&h=630&crop=1"
+    "title": "Governo da Espanha aprova medidas para crise habitacional após protestos",
+    "url": "https://www.cnnbrasil.com.br/internacional/governo-da-espanha-aprova-medidas-para-crise-habitacional-apos-protestos/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/Manifestantes-em-Madri-comemoram-o-retorno-de-aposentada-despejada-para-casa-e-exigem-medidas-habitacionais.jpg?w=960&h=540&crop=1"
   },
   {
     "site": "Terra",
-    "title": "Depois das frituras, coloque o soju que sobrou em um borrifador: o álcool ajuda a soltar a gordura acumulada na cozinha",
-    "url": "https://www.terra.com.br/vida-e-estilo/depois-das-frituras-coloque-o-soju-que-sobrou-em-um-borrifador-o-alcool-ajuda-a-soltar-a-gordura-acumulada-na-cozinha,d6cbd6b6fcbe5ed91cf23150e08d3910tytp5g45.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/09/29/1320051747-soju-bottle-on-kitchen-counter.jpg"
+    "title": "Previsão do tempo em Joinville hoje: veja como fica o clima nesta terça-feira",
+    "url": "https://www.terra.com.br/noticias/brasil/cidades/previsao-do-tempo-em-joinville-hoje-veja-como-fica-o-clima-nesta-terca-feira,7ae13fd4db1a93af7c8802bbb2805dbcer5m6yyf.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/09/29/1773497713-20e52a2b-3289-4390-bb23-d5e44165a89c.jpg"
   }
 ]
