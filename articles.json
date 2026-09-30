@@ -7,27 +7,57 @@
   },
   {
     "site": "G1",
-    "title": "AO VIVO: Assista ao GR2",
-    "url": "https://g1.globo.com/pe/petrolina-regiao/ao-vivo/ao-vivo-assista-ao-gr2.ghtml",
-    "image": "https://s2-g1.glbimg.com/75nYMfj43UHs89N4E4HyaPWBWVs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/A/n9BXJQSDe6xbPnD8Lcbg/img-20260620-115332373-hdr.jpg"
+    "title": "Candidatos ao governo de PE debatem mudanças climáticas, impostos, abastecimento, e trocam acusações sobre bets e gestões anteriores",
+    "url": "https://g1.globo.com/pe/pernambuco/eleicoes/2026/ao-vivo/debate-candidatos-governo-pernambuco.ghtml",
+    "image": "https://s2-g1.glbimg.com/ZKe8d4CUZXELQIRm9GLRPZsuJIw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/L/WDtWC5TiGBAWyedaQbpQ/debatebrenda.jpeg"
   },
   {
     "site": "UOL",
-    "title": "TRE-SP manda remover vídeo de Eduardo Bolsonaro sobre Tebet",
-    "url": "https://noticias.uol.com.br/eleicoes/2026/09/29/tre-sp-manda-remover-video-de-eduardo-bolsonaro-sobre-tebet.ghtm",
+    "title": "'Você não sabe o que é selo ouro MEC?', diz Tarcísio a Haddad",
+    "url": "https://noticias.uol.com.br/eleicoes/2026/09/30/voce-nao-sabe-o-que-e-selo-ouro-mec-diz-tarcisio-a-haddad.ghtm",
     "image": ""
   },
   {
     "site": "CNN Brasil",
-    "title": "Caso Pernambucanas: veja quem é quem no documentário “O Testamento”",
-    "url": "https://www.cnnbrasil.com.br/noticias/caso-pernambucanas-veja-quem-e-quem-no-documentario-o-testamento/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/03/Anita-Harley-acionista-das-Casas-Pernambucanas-que-esta-em-coma-desde-2016.jpg?w=1200&h=630&crop=1"
+    "title": "Vox: André, Marina, Derrite e Tebet empatam na corrida ao Senado em SP",
+    "url": "https://www.cnnbrasil.com.br/eleicoes/vox-andre-marina-derrite-e-tebet-empatam-na-corrida-ao-senado-em-sp/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/Senado-SP.png?w=1200&h=630&crop=1"
   },
   {
     "site": "Terra",
-    "title": "Eldo Gomes reúne jornalismo e influência digital em Brasília",
-    "url": "https://www.terra.com.br/noticias/eldo-gomes-reune-jornalismo-e-influencia-digital-em-brasilia,707fb420e7ffcba943ff1fdc3465164dlgk8jujh.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/09/29/1203146903-a7f006ad-a9c6-4d22-afca-9c02af9717ef.png"
+    "title": "A evolução que anima e os problemas que continuam",
+    "url": "https://www.terra.com.br/esportes/brasil/a-evolucao-que-anima-e-os-problemas-que-continuam,22b15592880b4ffc4235a02245a01b75hw4sucx7.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/09/30/1293856374-29set2026-australua-x-brasil-4-vanderson-610x400.jpg"
+  },
+  {
+    "site": "BBC",
+    "title": "Nunes Marques determina que TSE julgue caso dos posts de Nossa Senhora Aparecida: entenda o vaivém a menos de uma semana da eleição",
+    "url": "https://www.bbc.com/portuguese/articles/c6r7dgeze8r0o?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/442e/live/d06b25d0-b8f4-11f1-bd4a-e9ce4be469f6.jpg"
+  },
+  {
+    "site": "G1",
+    "title": "Candidatos ao governo de Goiás participam de debate da TV Anhanguera; veja a íntegra",
+    "url": "https://g1.globo.com/go/goias/eleicoes/2026/noticia/2026/09/30/candidatos-ao-governo-de-goias-participam-de-debate-da-tv-anhanguera-veja-a-integra.ghtml",
+    "image": "https://s2-g1.glbimg.com/Qap4-Ss842NMjCWWedgM4T5X5wg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/r/w7AgM3TtidEW9aPDNzKQ/debate-goias.jpg-1-.jpeg"
+  },
+  {
+    "site": "UOL",
+    "title": "Vendaval tomba e danifica aviões e destrói hangares de aeroporto no PR",
+    "url": "https://tnonline.uol.com.br/noticias/parana/vendaval-tomba-e-danifica-avioes-e-destroi-hangares-de-aeroporto-no-pr-1150566",
+    "image": "https://cdn.tnonline.com.br/img/Artigo-Destaque/1150000/1200x630/a-forca-do-vento-arrancou-coberturas-e-estruturas--01150566-0-202609300015/ScaleProportionalFillBackground-1.jpg?fallback=https%3A%2F%2Fcdn.tnonline.com.br%2Fimg%2FArtigo-Destaque%2F1150000%2Fa-forca-do-vento-arrancou-coberturas-e-estruturas--01150566-0-202609300015.jpg%3Fxid%3D1837263&xid=1837263"
+  },
+  {
+    "site": "CNN Brasil",
+    "title": "Vox: Tarcísio tem 58,5% no 1º turno ao governo de SP; Haddad, 36,2%",
+    "url": "https://www.cnnbrasil.com.br/eleicoes/vox-tarcisio-tem-585-no-1o-turno-ao-governo-de-sp-haddad-362/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/07/tarcisio-haddad-e1790726756304.png?w=1200&h=630&crop=1"
+  },
+  {
+    "site": "Terra",
+    "title": "'A Fazenda 18': Record toma decisão sobre Serginho e o ator é avisado: 'Limite'",
+    "url": "https://www.terra.com.br/diversao/tv/a-fazenda/a-fazenda-18-record-toma-decisao-sobre-serginho-e-o-ator-e-avisado-limite,204aa65bfe3531641029e8def96ff48d775rjazm.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/09/30/1285212139-serginho-em-a-fazenda-18-3.jpg"
   },
   {
     "site": "BBC",
@@ -37,27 +67,27 @@
   },
   {
     "site": "G1",
-    "title": "Policial aposentado investigado por morte de ex-mulher em hotel de MT tem prisão mantida",
-    "url": "https://g1.globo.com/mt/mato-grosso/noticia/2026/09/29/policial-aposentado-investigado-por-morte-de-ex-mulher-em-hotel-de-mt-tem-prisao-mantida.ghtml",
-    "image": "https://s2-g1.glbimg.com/wok7uD030ikJYJfpEoingVl6AeU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/X/5b0XohTUizhPic048utA/foto-g1-2026-09-28t175636.538.png"
+    "title": "Assista ao programa Especial Eleições com as repercussões do debate ao governo do Ceará",
+    "url": "https://g1.globo.com/ce/ceara/eleicoes/2026/ao-vivo/debate-candidatos-governo-ceara.ghtml",
+    "image": "https://s2-g1.glbimg.com/326_8pbIv03o47sy7MFgS-i4a-E=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/A/WjETAfRBKXhv0gvnTLBw/debate-tv-verdes-mares.jpg"
   },
   {
     "site": "UOL",
-    "title": "TRE mantém veto a candidatura de Garotinho, que diz que irá recorrer",
-    "url": "https://noticias.uol.com.br/eleicoes/2026/09/29/tre-mantem-veto-a-garotinho-mas-tse-ja-liberou-recursos.ghtm",
+    "title": "BA: Justiça revoga prisão de homem suspeito de se masturbar atrás de mulher",
+    "url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/09/30/ba-justica-revoga-prisao-de-homem-suspeito-de-se-masturbar-atras-de-mulher.ghtm",
     "image": ""
   },
   {
     "site": "CNN Brasil",
-    "title": "Ex-American Idol é condenado por matar a esposa e mudar cena do crime",
-    "url": "https://www.cnnbrasil.com.br/pop/celebridades/ex-american-idol-e-condenado-por-matar-a-esposa-e-mudar-cena-do-crime/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/2-ashley-flynn.webp?w=860&h=483&crop=1"
+    "title": "Em jogo de viradas e confusão, Estados Unidos vencem Chile em amistoso",
+    "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/em-jogo-de-viradas-e-confusao-estados-unidos-vencem-chile-em-amistoso/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/euachile-e1790737104596.jpg?w=660&h=372&crop=1"
   },
   {
     "site": "Terra",
-    "title": "Longevidade impulsiona mercado de produtos de saúde",
-    "url": "https://www.terra.com.br/noticias/longevidade-impulsiona-mercado-de-produtos-de-saude,0c8c4102a87c86494cdace1ecf5e64c5pmtqciyu.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/09/29/1238294119-50827ae3-551b-4fe1-aa82-ed6f36062fe1.jpeg"
+    "title": "Debate em SC: Jorginho Mello cita escândalo com vídeo pornô e troca acusações com João Rodrigues",
+    "url": "https://www.terra.com.br/noticias/eleicoes/debate-em-sc-jorginho-mello-cita-escandalo-com-video-porno-e-troca-acusacoes-com-joao-rodrigues,427abc441b35f93508d041c0b9376decb86p1fa2.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/09/30/mixcollage-29-sep-2026-11-58-pm-5667-r1lnpsyeewqd.jpg"
   },
   {
     "site": "BBC",
@@ -67,57 +97,57 @@
   },
   {
     "site": "G1",
-    "title": "Três estudantes e motorista ficam feridos após carro capotar em ribanceira no Sul do Piauí",
-    "url": "https://g1.globo.com/pi/piaui/noticia/2026/09/29/feridos-acidente-pi.ghtml",
-    "image": "https://s2-g1.glbimg.com/2Z16H2AR-z3UyKsZWhm6BSNOakg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/D/Qh1YQpST6RSp9jd1rImg/edicao-imagens-g1-2026-09-29t182840.329.png"
+    "title": "Acusações, Agro, Saúde e situação financeira do estado: veja como foi o debate entre candidatos ao governo de Goiás",
+    "url": "https://g1.globo.com/go/goias/eleicoes/2026/noticia/2026/09/30/candidatos-ao-governo-de-goias-fazem-acusacoes-e-discutem-sobre-temas-variados-durante-debate.ghtml",
+    "image": "https://s2-g1.glbimg.com/Qap4-Ss842NMjCWWedgM4T5X5wg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/r/w7AgM3TtidEW9aPDNzKQ/debate-goias.jpg-1-.jpeg"
   },
   {
     "site": "UOL",
-    "title": "Com 2 de Yamal, Espanha goleia Croácia (4-1) na Liga das Nações",
-    "url": "https://noticias.uol.com.br/ultimas-noticias/afp/2026/09/29/com-2-de-yamal-espanha-goleia-croacia-4-1-na-liga-das-nacoes.htm",
-    "image": ""
+    "title": "Idoso de 77 anos fica ferido após capotamento na PR-445 em Tamarana",
+    "url": "https://tnonline.uol.com.br/noticias/parana/idoso-de-77-anos-fica-ferido-apos-capotamento-na-pr-445-em-tamarana-1150565",
+    "image": "https://cdn.tnonline.com.br/img/Artigo-Destaque/1150000/1200x630/o-veiculo-capotou-e-parou-no-canteiro-central-01150565-0-202609292356/ScaleProportionalFillBackground-1.jpg?fallback=https%3A%2F%2Fcdn.tnonline.com.br%2Fimg%2FArtigo-Destaque%2F1150000%2Fo-veiculo-capotou-e-parou-no-canteiro-central-01150565-0-202609292356.jpg%3Fxid%3D1837246&xid=1837246"
   },
   {
     "site": "CNN Brasil",
-    "title": "Quaest Senado SP: Derrite tem 18%; Tebet e Marina, 15%",
-    "url": "https://www.cnnbrasil.com.br/eleicoes/quaest-senado-sp-derrite-tem-18-tebet-e-marina-15/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/Guilherme-Derrite-Simone-Tebet-Marina-Sena-e-Andre-do-Prado.png?w=1200&h=630&crop=1"
+    "title": "Tarcísio e Haddad cobram “promessas” e divergem sobre “Selo Ouro do MEC”",
+    "url": "https://www.cnnbrasil.com.br/eleicoes/debate-governo-sp-3-bloco-eleicoes-2026/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/WhatsApp-Image-2026-09-29-at-22.55.34-e1790733396122.jpeg?w=1080&h=608&crop=1"
   },
   {
     "site": "Terra",
-    "title": "Frango caipira com quiabo: aprenda a fazer essa receita tradicional da culinária mineira",
-    "url": "https://www.terra.com.br/vida-e-estilo/degusta/receitas/frango-caipira-com-quiabo-aprenda-a-fazer-essa-receita-tradicional-da-culinaria-mineira,92961f3561379b68bd451c8c544c56052kdhcxwt.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/09/29/1955458376-frango-caipira-com-quiabo-2.png"
+    "title": "Ex-Vasco, Souza pode virar treinador-jogador na quarta divisão carioca",
+    "url": "https://www.terra.com.br/esportes/vasco/ex-vasco-souza-pode-virar-treinador-jogador-na-quarta-divisao-carioca,1ecd0a417f5ac04f36c8c4a6660f7314wg3gfmpf.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/09/30/166254749-539292874833f2da937bdo-610x400.jpg"
   },
   {
     "site": "BBC",
-    "title": "Fux derruba decisão de Dino sobre posts de Nossa Senhora Aparecida: entenda o vaivém a menos de uma semana da eleição",
-    "url": "https://www.bbc.com/portuguese/articles/c6r7dgeze8r0o?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/442e/live/d06b25d0-b8f4-11f1-bd4a-e9ce4be469f6.jpg"
+    "title": "Após 41 anos preso, homem condenado à morte nos EUA é solto graças a um teste de DNA",
+    "url": "https://www.bbc.com/portuguese/articles/cm9qr81255neo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/2704/live/51841780-bbfc-11f1-90b9-913e4354ed35.jpg"
   },
   {
     "site": "G1",
-    "title": "A cinco dias das eleições, governo lança Desenrola MEI e outras medidas de renegociação de dívidas",
-    "url": "https://g1.globo.com/economia/noticia/2026/09/29/a-cinco-dias-das-eleicoes-governo-lanca-desenrola-mei-e-outras-medidas-de-renegociacao-de-dividas.ghtml",
-    "image": "https://s2-g1.glbimg.com/DHNb5OaDrG-IvqcIF-pZHHIpX3U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/U/Y/jB4AF9QjSVcFM46UBkZA/fta20240520073-1-.jpg"
+    "title": "Debate entre candidatos ao governo de MT tem acusações e propostas para saúde, violência contra mulher e servidores públicos em Cuiabá",
+    "url": "https://g1.globo.com/mt/mato-grosso/eleicoes/2026/noticia/2026/09/30/candidatos-ao-governo-de-mato-grosso-participam-de-debate-na-tvca-veja-integra-debate-entre-candidatos-ao-governo-de-mt-tem-acusacoes-e-propostas-para-saude-violencia-contra-mulher-e-servidores-publicos-em-cuiaba.ghtml",
+    "image": "https://s2-g1.glbimg.com/1PoJgAkTWP3xcJdAQ-EDeklEXLc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/9/elz5YsQdSmxUCGZCKBBg/whatsapp-image-2026-09-29-at-22.02.01.jpeg"
   },
   {
     "site": "UOL",
-    "title": "Folha promove sessão do documentário 'Naza' na abertura do Cine Tutu",
-    "url": "https://www1.folha.uol.com.br/ilustrada/2026/09/folha-promove-sessao-do-documentario-naza-na-abertura-do-cine-tutu.shtml",
-    "image": "https://f.i.uol.com.br/fotografia/2026/09/29/17907070276abc0553f3b40_1790707027_3x2_xl.jpg"
+    "title": "Teto de quadra de tênis desaba e mata advogado durante tempestade no PR",
+    "url": "https://tnonline.uol.com.br/noticias/parana/teto-de-quadra-de-tenis-desaba-e-mata-advogado-durante-tempestade-no-pr-1150564",
+    "image": "https://cdn.tnonline.com.br/img/Artigo-Destaque/1150000/1200x630/rafael-marchiani-paiao-tinha-41-anos-e-jogava-teni-01150564-0-202609292349/ScaleProportionalFillBackground-1.jpg?fallback=https%3A%2F%2Fcdn.tnonline.com.br%2Fimg%2FArtigo-Destaque%2F1150000%2Frafael-marchiani-paiao-tinha-41-anos-e-jogava-teni-01150564-0-202609292349.jpg%3Fxid%3D1837236&xid=1837236"
   },
   {
     "site": "CNN Brasil",
-    "title": "“A Fazenda 18”: Ana Bruna confronta Sérgio após acusação de assédio",
-    "url": "https://www.cnnbrasil.com.br/pop/realities/a-fazenda-18-ana-bruna-confronta-sergio-apos-acusacao-de-assedio/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/ana-bruna-serginho-fazenda.png?w=1200&h=630&crop=1"
+    "title": "Virginia Fonseca: especialista explica procedimento de extração dos sisos",
+    "url": "https://www.cnnbrasil.com.br/saude/virginia-fonseca-especialista-explica-procedimento-de-extracao-dos-sisos/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/Design-sem-nome-13-1.jpg?w=1200&h=630&crop=1"
   },
   {
     "site": "Terra",
-    "title": "Para o Senado do PE Marília tem 19%; Humberto, 17%; Mendonça, 10%, aponta Quaest",
-    "url": "https://www.terra.com.br/noticias/brasil/politica/para-o-senado-do-pe-marilia-tem-19-humberto-17-mendonca-10-aponta-quaest,b2c7ba90cf36fff0d0e7da3506556b5dohdm65ij.html",
-    "image": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png"
+    "title": "Debate no Rio tem troca de acusações entre Ruas e Paes sobre agressão contra mulher",
+    "url": "https://www.terra.com.br/noticias/eleicoes/rio-de-janeiro/debate-no-rio-tem-troca-de-acusacoes-entre-ruas-e-paes-sobre-agressao-contra-mulher,72e37be8b2a5adb8ae0d1fc7dd96ddcdxtcg4qgb.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/09/30/captura-de-tela-2026-09-29-235018-toihdfd4iixu.jpg"
   },
   {
     "site": "BBC",
@@ -127,27 +157,27 @@
   },
   {
     "site": "G1",
-    "title": "Protestos interditam Avenida Mascarenhas de Morais e BR-101, no Recife; VÍDEO",
-    "url": "https://g1.globo.com/pe/pernambuco/noticia/2026/09/29/protestos-avenida-mascarenhas-de-morais-e-br-101-recife.ghtml",
-    "image": "https://s2-g1.glbimg.com/g6H13yn_y3YlBTmoCVAOiNk_0Qo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/5/UbpTXfTNaMrqOJiZshOQ/protesto-imbiribeira.jpg"
+    "title": "Debate ao governo do TO é marcado por confrontos e propostas para saúde, segurança e combate à corrupção",
+    "url": "https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/09/30/debate-ao-governo-do-to-e-marcado-por-confrontos-e-propostas-para-saude-seguranca-e-combate-a-corrupcao.ghtml",
+    "image": "https://s2-g1.glbimg.com/3NrsW5pu4XRiEEL5RFD5DUy31iQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/I/T1d8aNTl2mYdzevPtONQ/whatsapp-image-2026-09-29-at-22.15.43.jpeg"
   },
   {
     "site": "UOL",
-    "title": "Trump diz que não sabe se Irã vai \"ceder já\"",
-    "url": "https://noticias.uol.com.br/ultimas-noticias/reuters/2026/09/29/trump-diz-que-nao-sabe-se-ira-vai-ceder-ja.htm",
+    "title": "Elmano e Ciro trocam acusações sobre facções criminosas em debate no Ceará",
+    "url": "https://noticias.uol.com.br/eleicoes/2026/09/29/elmano-e-ciro-trocam-farpas-e-ataques-sobre-faccoes-em-debate-no-ceara.ghtm",
     "image": ""
   },
   {
     "site": "CNN Brasil",
-    "title": "Mesmo criticado, Otávio celebra estreia na Seleção Brasileira: “Mágico”",
-    "url": "https://www.cnnbrasil.com.br/esportes/futebol/selecao-brasileira/mesmo-criticado-otavio-celebra-estreia-na-selecao-brasileira-magico/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/29SET2026-AUSTRALUA-X-BRASIL-60-OTAVIO-e1790716957634.jpg?w=1200&h=630&crop=1"
+    "title": "Navio dos EUA vai pesquisar marés na Amazônia com autorização da Marinha",
+    "url": "https://www.cnnbrasil.com.br/nacional/norte/am/navio-dos-eua-vai-pesquisar-mares-na-amazonia-com-autorizacao-da-marinha/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/atlantic-navio-pesquisa-eua-amazona.jpeg?w=1200&h=630&crop=1"
   },
   {
     "site": "Terra",
-    "title": "A Nobreza do Amor: Salma vira milionária, para nos braços de Omar e cria família fora do Brasil",
-    "url": "https://www.terra.com.br/diversao/tv/novelas/a-nobreza-do-amor-salma-vira-milionaria-para-nos-bracos-de-omar-e-cria-familia-fora-do-brasil,edfafe7f01b48bd445ebbb7ad83b60e5z96jcvdr.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/09/29/714307714-20260929-capa-portais-2026-09-29t162014511.jpg"
+    "title": "O que é o Selo Ouro do MEC? Entenda certificação que rendeu discussão entre Tarcísio e Haddad",
+    "url": "https://www.terra.com.br/noticias/eleicoes/sao-paulo/o-que-e-o-selo-ouro-do-mec-entenda-certificacao-que-rendeu-discussao-entre-tarcisio-e-haddad,0938ea055879dadf2e16eb797063ddcaugihv64i.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/09/30/whatsapp-image-2026-09-29-at-22-03-50-1h7lyazt63b5k.jpeg"
   },
   {
     "site": "BBC",
@@ -157,57 +187,27 @@
   },
   {
     "site": "G1",
-    "title": "Corpo é encontrado enterrado durante investigação de homicídio em Pipa",
-    "url": "https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/09/29/corpo-e-encontrado-enterrado-durante-investigacao-de-homicidio-em-pipa.ghtml",
-    "image": "https://s2-g1.glbimg.com/UdO0bKitgI3xaPrcU-iY-jpuLx8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/u/10FNYEQ82qUkVGmdHqUg/capa-3-.png"
+    "title": "VÍDEOS: Candidatos ao governo de Goiás participam de debate",
+    "url": "https://g1.globo.com/go/goias/eleicoes/2026/edicao/2026/09/30/videos-candidatos-ao-governo-de-goias-participam-de-debate.ghtml",
+    "image": "https://s2-g1.glbimg.com/f19CnPlO_ry_GACufW1de7w6UOg=/s01.video.glbimg.com/deo/vi/57/55/15005557"
   },
   {
     "site": "UOL",
-    "title": "No 2º turno do DF, Flávio Bolsonaro tem 48% e Lula, 33%, segundo pesquisa Quaest",
-    "url": "https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2026/09/29/no-2-turno-do-df-flavio-bolsonaro-tem-48-e-lula-33-segundo-pesquisa-quaest.htm",
+    "title": "'Vocês querem o Milei aqui?', diz Haddad; Tarcísio defende argentino",
+    "url": "https://noticias.uol.com.br/eleicoes/2026/09/29/voces-querem-o-milei-aqui-diz-haddad-tarcisio-defende-argentino.ghtm",
     "image": ""
   },
   {
     "site": "CNN Brasil",
-    "title": "Marjorie Estiano relembra Vagabanda e recebe recado de ator de “Malhação”",
-    "url": "https://www.cnnbrasil.com.br/pop/celebridades/marjorie-estiano-relembra-vagabanda-e-recebe-recado-de-ator-de-malhacao/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/marjorie-estiano-natasha-malhacao.jpg?w=1200&h=630&crop=1"
+    "title": "Luis Roberto se solidariza com relato de Carolana: “Câncer tem cura”",
+    "url": "https://www.cnnbrasil.com.br/esportes/volei/luis-roberto-se-solidariza-com-relato-de-carolana-cancer-tem-cura/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/Design-sem-nome-7-1.png?w=1200&h=630&crop=1"
   },
   {
     "site": "Terra",
-    "title": "Empadão de palmito leve e saudável: receita deliciosa e sem segredos no preparo",
-    "url": "https://www.terra.com.br/vida-e-estilo/degusta/receitas/empadao-de-palmito-leve-e-saudavel-receita-deliciosa-e-sem-segredos-no-preparo,6973dcd14ed4159b5b4852f9d187598601905z08.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/09/29/879628910-quiche-de-palmito.jpg"
-  },
-  {
-    "site": "BBC",
-    "title": "Tropas dos EUA deixam o Iraque após 20 anos: por que agora, o que mudou e o que vem a seguir?",
-    "url": "https://www.bbc.com/portuguese/articles/cqp93d2m3g04o?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/499c/live/b9e586f0-bb49-11f1-a071-65d2e11c8f4a.png"
-  },
-  {
-    "site": "G1",
-    "title": "Arquiteto morre aos 39 anos após sofrer AVC e infarto",
-    "url": "https://g1.globo.com/go/goias/noticia/2026/09/29/arquiteto-morre-aos-39-anos-apos-sofrer-avc-e-infarto.ghtml",
-    "image": "https://s2-g1.glbimg.com/8jg4xZrN5S5gza768BCqZBmGqjc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/f/F1xvefSoGwQuiTvVBDWg/g1-2026-09-29t172917.747.jpg"
-  },
-  {
-    "site": "UOL",
-    "title": "RSF e outras ONGs pedem libertação de jornalista detido em Cuba",
-    "url": "https://noticias.uol.com.br/ultimas-noticias/afp/2026/09/29/rsf-e-outras-ongs-pedem-libertacao-de-jornalista-detido-em-cuba.htm",
-    "image": ""
-  },
-  {
-    "site": "CNN Brasil",
-    "title": "Bitcoin recua com investidores cautelosos e avanço dos Treasuries",
-    "url": "https://www.cnnbrasil.com.br/economia/money/mercado/bitcoin-recua-com-investidores-cautelosos-e-avanco-dos-treasuries/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/Reuters_Direct_Media/BrazilOnlineReportBusinessNews/tagreuters.com2025binary_LYNXMPELAN0ET-BASEIMAGE.jpg?w=800&h=533&crop=1"
-  },
-  {
-    "site": "Terra",
-    "title": "Quem Ama Cuida: segredo de Francesca está num caderno de receitas?",
-    "url": "https://www.terra.com.br/vida-e-estilo/quem-ama-cuida-segredo-de-francesca-esta-num-caderno-de-receitas,a2089c2427677f82ccad273aab7a9ea1cbafdodt.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/09/29/1794050475-cesca-e-joel-quem-ama-cuida.jpg"
+    "title": "Proibição das bets: governo de Minas anuncia R$ 32 milhões em patrocínios para Atlético, Cruzeiro e América",
+    "url": "https://www.terra.com.br/esportes/futebol/proibicao-das-bets-governo-de-minas-anuncia-r-32-milhoes-em-patrocinios-para-atletico-cruzeiro-e-america,663ee26ef7b5e8cff0e2e859970d0845j5dlkk51.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/09/30/416153562-atletico-mineiro-v-cruzeiro-brasileirao-2025-2048x1365.jpg"
   },
   {
     "site": "BBC",
@@ -217,27 +217,27 @@
   },
   {
     "site": "G1",
-    "title": "Alça de acesso do Vidoca, na Via Dutra, será interditada durante romarias para Aparecida (SP); veja como será",
-    "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/09/29/alca-de-acesso-do-vidoca-na-via-dutra-sera-interditada-durante-romarias-para-aparecida-sp-veja-como-sera.ghtml",
-    "image": "https://s2-g1.glbimg.com/VyNF5lE480UchXpk1GBynJJieFI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/N/jJt6xdSNSnCQbLuBSi9g/foto-g1-2-.jpg"
+    "title": "Materiais duráveis ajudam a preservar a casa e o investimento ao longo do tempo",
+    "url": "https://g1.globo.com/rj/regiao-dos-lagos/especial-publicitario/vilarejo/vilarejo-solucao-em-casa/noticia/2026/09/30/materiais-duraveis-ajudam-a-preservar-a-casa-e-o-investimento-ao-longo-do-tempo.ghtml",
+    "image": "https://s2-g1.glbimg.com/UN0XryC6MqwMk0RzGMQUy1--If0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/5/sfnDrPRBexT6AfBfGXAg/foto-1-11.png"
   },
   {
     "site": "UOL",
-    "title": "Nunes Marques muda resolução do TSE e permite que candidatos do Novo participem de debates eleitorais",
-    "url": "https://www1.folha.uol.com.br/colunas/painel/2026/09/nunes-marques-muda-resolucao-do-tse-e-permite-que-candidatos-do-novo-participem-de-debates-eleitorais.shtml",
-    "image": "https://f.i.uol.com.br/fotografia/2026/09/28/17906326666abae2da0f497_1790632666_3x2_rt.jpg"
+    "title": "Mãe acusada de matar filha envenenada em SP será levada a júri popular",
+    "url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/09/29/mae-filha-morte-juri-popular-sp.ghtm",
+    "image": ""
   },
   {
     "site": "CNN Brasil",
-    "title": "Calor extremo aumenta risco de doenças respiratórias em bebês; entenda",
-    "url": "https://www.cnnbrasil.com.br/saude/calor-extremo-aumenta-risco-de-doencas-respiratorias-em-bebes-entenda/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2023/05/asma-crianca-saude-e1682978925377.jpg?w=1200&h=630&crop=1"
+    "title": "Coreia do Norte ameaça Coreia do Sul após acusação por explosão de mina",
+    "url": "https://www.cnnbrasil.com.br/internacional/coreia-do-norte-ameaca-coreia-do-sul-apos-acusacao-por-explosao-de-mina/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2024/10/2024-10-14T141125Z_1_LYNXMPEK9D0EZ_RTROPTP_4_COREIAN-COREIAS-FRONTEIRA-e1728936142326.jpg?w=1200&h=630&crop=1"
   },
   {
     "site": "Terra",
-    "title": "Azul recebe primeira parcela de financiamento de fundo de aviação",
-    "url": "https://www.terra.com.br/economia/azul-recebe-primeira-parcela-de-financiamento-de-fundo-de-aviacao,aa69495e1eefe693c31eda86ddf8ac25mj93elqd.html",
-    "image": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png"
+    "title": "A esponja áspera risca o cooktop por indução sem remover melhor a sujeira, enquanto raspador próprio trabalha quase paralelo ao vidro",
+    "url": "https://www.terra.com.br/vida-e-estilo/a-esponja-aspera-risca-o-cooktop-por-inducao-sem-remover-melhor-a-sujeira-enquanto-raspador-proprio-trabalha-quase-paralelo-ao-vidro,9fdf51c7850ec16ec48ba2ba6f3da250tuetjra1.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/09/30/103632102-a-esponja-aspera-risca-o-cooktop-por-inducao-sem-remover-melhor-a-sujeira-enquanto-raspador-proprio-trabalha-quase-paralelo-ao-vidro-1-e1790633599828.png"
   },
   {
     "site": "BBC",
@@ -247,50 +247,50 @@
   },
   {
     "site": "G1",
-    "title": "Chuva destrói parte da estrutura de propriedade rural do cantor Zé Neto",
-    "url": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/09/29/danos-causados-por-chuva-em-ipigua.ghtml",
-    "image": "https://s2-g1.glbimg.com/JH_aybG6xYg-9hIgtrjzcAHSRLA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/j/PVjwCdSWqPKeNsLATJRg/design-sem-nome-2026-09-29t182218.406.jpg"
+    "title": "Frutos do cerrado e cozinha geraizeira fazem sucesso na Fenics, em Montes Claros",
+    "url": "https://g1.globo.com/mg/grande-minas/especial-publicitario/pm-montes-claro/noticia/2026/09/30/frutos-do-cerrado-e-cozinha-geraizeira-fazem-sucesso-na-fenics-em-montes-claros.ghtml",
+    "image": "https://s2-g1.glbimg.com/UN0JXseYm3QfHdCrkeBCCc05KQk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/q/bflYMHR5y2qv6caVSHiQ/sabores2.jpeg"
   },
   {
     "site": "UOL",
-    "title": "Suprema Corte autoriza Trump a deportar imigrantes para países terceiros",
-    "url": "https://www1.folha.uol.com.br/mundo/2026/09/suprema-corte-autoriza-trump-a-deportar-imigrantes-para-paises-terceiros.shtml",
-    "image": "https://f.i.uol.com.br/fotografia/2026/09/29/17907171766abc2cf89236f_1790717176_3x2_rt.jpg"
+    "title": "EUA passam a exigir redes sociais abertas de jornalistas que solicitarem visto",
+    "url": "https://www1.folha.uol.com.br/mundo/2026/09/eua-passam-a-exigir-redes-sociais-abertas-de-jornalistas-que-solicitarem-visto.shtml",
+    "image": "https://f.i.uol.com.br/fotografia/2026/08/26/17877700186a8f34a259085_1787770018_3x2_rt.jpg"
   },
   {
     "site": "CNN Brasil",
-    "title": "Após a proibição das bets, transações com Pix caem 10%, diz BC",
-    "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/apos-a-proibicao-das-bets-transacoes-com-pix-caem-10-diz-bc/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/Reuters_Direct_Media/BrazilOnlineReportBusinessNews/tagreuters.com2026binary_LYNXMPEM4O1CO-BASEIMAGE-e1784681406982.jpg?w=800&h=451&crop=1"
+    "title": "“A Fazenda 18”: Record toma decisão após pedidos de expulsão de Sergio",
+    "url": "https://www.cnnbrasil.com.br/pop/realities/a-fazenda-18-record-toma-decisao-apos-pedidos-de-expulsao-de-sergio/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/sergio-hondjakoff-cabecao-a-fazenda-18-.png?w=1200&h=630&crop=1"
   },
   {
     "site": "Terra",
-    "title": "Lithops: a suculenta que parece uma pequena pedra",
-    "url": "https://www.terra.com.br/vida-e-estilo/lithops-a-suculenta-que-parece-uma-pequena-pedra,4fb6635558a2085f05d0f1e42aedb5b65xn0kuy7.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/09/29/918125818-capa-bons-fluidos-16-12.jpg"
+    "title": "Vitória sofre prejuízo milionário com saída da 7K; saiba detalhes",
+    "url": "https://www.terra.com.br/esportes/vitoria/vitoria-sofre-prejuizo-milionario-com-saida-da-7k-saiba-detalhes,2e48a89d77ae4db7069c1a2fcdb274ebg8xeeryw.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/09/30/1633910781-2026-vitoria-perde-patrocinio-7k-bet.jpg"
   },
   {
     "site": "G1",
-    "title": "Homem é morto a tiros durante briga em loja de Tatuí",
-    "url": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2026/09/29/homem-e-morto-a-tiros-durante-briga-em-loja-de-tatui.ghtml",
-    "image": "https://s2-g1.glbimg.com/zvaZTnnmJTpJGefkZ093J3AoV-Y=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/g/h/YCBKsdQDiB5E8jVUtdwQ/1200-x-800-px-54-.png"
+    "title": "Macaé fortalece rede de saúde mental com atendimento gratuito e humanizado",
+    "url": "https://g1.globo.com/rj/regiao-dos-lagos/especial-publicitario/prefeitura-de-macae/capital-de-energia-e-do-orgulho-de-ser-macaense/noticia/2026/09/30/macae-fortalece-rede-de-saude-mental-com-atendimento-gratuito-e-humanizado.ghtml",
+    "image": "https://s2-g1.glbimg.com/OZDSy2KyrDVASXkDKdGVaDxjNJ0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/s/0mEbQ9Q0uaXwCQC4CGog/foto-1-saude-mental.jpg"
   },
   {
     "site": "UOL",
-    "title": "Fake news sobre Nossa Senhora chega aos palanques de Lula e Flávio Bolsonaro",
-    "url": "https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2026/09/29/fake-news-sobre-nossa-senhora-chega-aos-palanques-de-lula-e-flavio-bolsonaro.htm",
-    "image": ""
+    "title": "Mega-Sena 3064 acumula e prêmio vai a R$ 75 milhões no concurso 3065",
+    "url": "https://tnonline.uol.com.br/noticias/cotidiano/mega-sena-3064-acumula-e-premio-vai-a-r-75-milhoes-no-concurso-3065-1150563",
+    "image": "https://cdn.tnonline.com.br/img/Instant-Article/1080000/1200x630/o-premio-acumulou-e-esta-estimado-em-r-60-milhoes--01082191-0-202604162202/ScaleProportionalFillBackground-1.jpg?fallback=https%3A%2F%2Fcdn.tnonline.com.br%2Fimg%2FInstant-Article%2F1080000%2Fo-premio-acumulou-e-esta-estimado-em-r-60-milhoes--01082191-0-202604162202.jpg%3Fxid%3D1837227&xid=1837227"
   },
   {
     "site": "CNN Brasil",
-    "title": "Bebida com metanol faz consumidor perder a visão permanentemente em SP",
-    "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/bebida-com-metanol-faz-consumidor-perder-a-visao-permanentemente-em-sp/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/09/WhatsApp-Image-2025-09-30-at-08.45.22.jpeg?w=1200&h=630&crop=1"
+    "title": "Tarcísio e Haddad nacionalizam debate sobre controle fiscal e emprego",
+    "url": "https://www.cnnbrasil.com.br/eleicoes/tarcisio-e-haddad-nacionalizam-debate-sobre-controle-fiscal-e-emprego/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/1-1-Debate-Tarcisio-e-Haddad.jpeg?w=819&h=544&crop=1"
   },
   {
     "site": "Terra",
-    "title": "Quaest: No Distrito Federal Michelle tem 26% para o Senado; Leila, 20%; Bia, 18%; Erika, 16%",
-    "url": "https://www.terra.com.br/noticias/brasil/politica/quaest-no-distrito-federal-michelle-tem-26-para-o-senado-leila-20-bia-18-erika-16,1dad84d5581de3877a28ca1c28249baahkyxzeqa.html",
-    "image": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png"
+    "title": "Entenda por que Patrick, do Remo, pediu bloqueio dos ativos do Internacional",
+    "url": "https://www.terra.com.br/esportes/futebol/entenda-por-que-patrick-do-remo-pediu-bloqueio-dos-ativos-do-internacional,db3c52395ede50e9c160ad9c8d05449bid33ggs7.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/09/30/1398757962-remo-patrick-alef-manga.jpg"
   }
 ]
