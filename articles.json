@@ -1,123 +1,213 @@
 [
   {
     "site": "BBC",
-    "title": "Vorcaro forneceu jatinho e Moët Chandon a desembargador para viagem a Buenos Aires, mostram mensagens",
-    "url": "https://www.bbc.com/portuguese/articles/cmy4z41l1j3eo?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/21f1/live/19db12a0-bdd4-11f1-88d5-b903d805bdb1.png"
-  },
-  {
-    "site": "G1",
-    "title": "Homem é morto a tiros na Zona Oeste de Aracaju",
-    "url": "https://g1.globo.com/se/sergipe/noticia/2026/10/02/homem-e-morto-a-tiros-na-zona-oeste-de-aracaju.ghtml",
-    "image": "https://s2-g1.glbimg.com/ZitoX68yikJDqAqQ__HNo7jJAUI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/Q/PXA2m7TBOHzcyyOUMF8w/olaria.jpg"
-  },
-  {
-    "site": "UOL",
-    "title": "Brasil viu mão peluda da Justiça e fuga de Flávio diante de Renan",
-    "url": "https://noticias.uol.com.br/colunas/leonardo-sakamoto/2026/10/02/brasil-viu-mao-peluda-da-justica-e-fuga-de-flavio-diante-de-renan.htm",
-    "image": ""
-  },
-  {
-    "site": "CNN Brasil",
-    "title": "Lito Sousa e esposa se conheceram no Skype; conheça história de amor",
-    "url": "https://www.cnnbrasil.com.br/pop/celebridades/lito-sousa-e-esposa-se-conheceram-no-skype-conheca-historia-de-amor/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/08/lito-esposa.png?w=1152&h=564&crop=1"
-  },
-  {
-    "site": "Terra",
-    "title": "Morte de Lito Sousa, aos 59 anos: na TV, Angélica revela ajuda fundamental do influencer após acidente de avião da família com Luciano Huck há mais de uma década. 'Importante para os meus filhos e a recuperação deles'",
-    "url": "https://www.terra.com.br/diversao/tv/morte-de-lito-sousa-aos-59-anos-na-tv-angelica-revela-ajuda-fundamental-do-influencer-apos-acidente-de-aviao-da-familia-com-luciano-huck-ha-mais-de-uma-decada-importante-para-os-meus-filhos-e-a-recuperacao-deles,d8222b3e5bdff4e536ebe554c970ba178m3h9xf7.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/10/02/552644790-e9dfb12c21c0b297-1400x823-1.jpg"
-  },
-  {
-    "site": "BBC",
-    "title": "Globo cancela debate e cita decisões de Gilmar Mendes, do STF, e Estela Aranha, do TSE: o que dizem juristas",
-    "url": "https://www.bbc.com/portuguese/articles/cwddvdpm19q6o?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/3a6c/live/ab6e4730-bdfe-11f1-a64c-550be9e3c66b.jpg"
-  },
-  {
-    "site": "G1",
-    "title": "Goiás tem alerta de chuvas intensas e ventania de mais de 70 km/h com chegada de frente fria",
-    "url": "https://g1.globo.com/go/goias/noticia/2026/10/02/goias-tem-alerta-de-chuvas-intensas-e-ventania-de-mais-de-70-kmh-com-chegada-de-frente-fria.ghtml",
-    "image": "https://s2-g1.glbimg.com/bq_060Lg_OmaHPhWtZXGCTFK088=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/H/CqRAs4TJmnWXiiFnoXTA/copia-de-copia-de-copia-de-padrao-foto-g1-goias-1-.jpg"
-  },
-  {
-    "site": "UOL",
-    "title": "EUA suspendem atendimento em consulados e embaixada no Brasil nesta sexta-feira",
-    "url": "https://www1.folha.uol.com.br/mundo/2026/10/eua-suspendem-atendimento-em-consulados-e-embaixada-no-brasil-nesta-sexta-feira.shtml",
-    "image": "https://f.i.uol.com.br/fotografia/2026/10/02/17909399616abf9339b5f7a_1790939961_3x2_rt.jpg"
-  },
-  {
-    "site": "CNN Brasil",
-    "title": "Chuvas e temporais: veja como fica o tempo no Brasil nesta sexta",
-    "url": "https://www.cnnbrasil.com.br/nacional/brasil/chuvas-e-temporais-veja-como-fica-o-tempo-no-brasil-nesta-sexta/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2022/08/ENQ20220818018.jpg?w=1200&h=630&crop=1"
-  },
-  {
-    "site": "Terra",
-    "title": "Esquerda que ri de 'CEO de MEI' não entende os sonhos do novo trabalhador, diz antropóloga",
-    "url": "https://www.terra.com.br/noticias/brasil/esquerda-que-ri-de-ceo-de-mei-nao-entende-os-sonhos-do-novo-trabalhador-diz-antropologa,a0e7186e924893c7abcf60194cc108bdgrusp4zi.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/10/02/311389313-fc065000-bc25-11f1-a430-4d16ee157c41.jpg"
-  },
-  {
-    "site": "BBC",
     "title": "Esquerda que ri de 'CEO de MEI' não entende os sonhos do novo trabalhador, diz antropóloga",
     "url": "https://www.bbc.com/portuguese/articles/cjn5d90edrppo?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/0f0d/live/994d4d70-be4f-11f1-a64c-550be9e3c66b.png"
   },
   {
     "site": "G1",
-    "title": "Gato morre após ser jogado pela janela de carro no interior de SP; VÍDEO",
-    "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/10/02/gato-morre-apos-ser-jogado-pela-janela-de-carro-no-interior-de-sp-video.ghtml",
-    "image": "https://s2-g1.glbimg.com/kV6Z3nOE0EOdRm-QdTHh4jINfZY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/Z/Gs6hBYSeOgYPD2zvKVjA/vlcsnap-2026-10-02-08h19m30s457-1-.png"
+    "title": "Epidemia de ebola na República Democrática do Congo ultrapassa 4 mil mortos",
+    "url": "https://g1.globo.com/saude/noticia/2026/10/02/epidemia-de-ebola-na-republica-democratica-do-congo-ultrapassa-4-mil-mortos.ghtml",
+    "image": "https://s2-g1.glbimg.com/4wwUpFu7I1sS635K1mgd208bEUk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/I/zrOL17RTmd73xu0qFlBA/2026-09-15t125527z-1-lynxmpem8e16l-rtroptp-4-health-ebola-butembo-burial.jpg"
   },
   {
     "site": "UOL",
-    "title": "Mattel lançará primeiro parque aquático nos EUA com piscina de ondas da Barbie e toboágua de Hot Wheels",
-    "url": "https://c-level.folha.uol.com.br/negocios/2026/10/mattel-lancara-primeiro-parque-aquatico-nos-eua-com-piscina-de-ondas-da-barbie-e-toboagua-de-hot-wheels.shtml",
-    "image": "https://f.i.uol.com.br/fotografia/2026/10/02/17909401966abf942455b21_1790940196_3x2_lg.jpg"
-  },
-  {
-    "site": "CNN Brasil",
-    "title": "Eleições 2026: veja como será esquema de transporte público nas capitais",
-    "url": "https://www.cnnbrasil.com.br/nacional/brasil/eleicoes-2026-veja-como-sera-esquema-de-transporte-publico-nas-capitais/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2022/03/transito_sao_paulo_bela_vista-e1701119439301.jpg?w=1200&h=630&crop=1"
-  },
-  {
-    "site": "Terra",
-    "title": "Lito Sousa se apressou para realizar sonho antes de morrer: 'O recado pra mim foi dado'",
-    "url": "https://www.terra.com.br/diversao/gente/lito-sousa-se-apressou-para-realizar-sonho-antes-de-morrer-o-recado-pra-mim-foi-dado,7b683796447547c99349eb1fc71dfbc8l1fqavu9.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/10/02/1503192514-lito-sousa.jpg"
-  },
-  {
-    "site": "BBC",
-    "title": "As reações ao cancelamento do debate da Globo - e outros acontecimentos dessa quinta-feira pré-1º turno",
-    "url": "https://www.bbc.co.uk/portuguese/live/c9rk3kjvgy35t?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/480/cpsprodpb/09b8/live/bf445da0-bdf2-11f1-babe-4199b0e7ccea.jpg"
-  },
-  {
-    "site": "G1",
-    "title": "VÍDEOS: Bom Dia PE de sexta-feira, 2 de outubro de 2026",
-    "url": "https://g1.globo.com/pe/pernambuco/videos-bom-dia-pe/playlist/videos-bom-dia-pe-de-sexta-feira-2-de-outubro-de-2026.ghtml",
-    "image": "https://s2-g1.glbimg.com/H9JRg1EOSNHzg1GPDfuonJz-EWc=/s01.video.glbimg.com/deo/vi/58/29/15012958"
-  },
-  {
-    "site": "UOL",
-    "title": "Jornal: Trump corta verbas para Europa e manda a países latinos de direita",
-    "url": "https://noticias.uol.com.br/internacional/ultimas-noticias/2026/10/02/governo-trump-redireciona-us-52-mi-de-ajuda-militar-para-america-latina.ghtm",
+    "title": "Por que lesmas invadiram semáforos e causaram pane em cidade da Inglaterra?",
+    "url": "https://noticias.uol.com.br/internacional/ultimas-noticias/2026/10/02/em-busca-de-calor-lesmas-invadem-semaforos-e-causam-problema-na-inglaterra.ghtm",
     "image": ""
   },
   {
     "site": "CNN Brasil",
-    "title": "Atacante que empurrou Jesus explica homenagem a Cristiano Ronaldo: “Ídolo”",
-    "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/atacante-que-empurrou-jesus-explica-homenagem-a-cristiano-ronaldo-idolo/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/10/hojlund-empurra-jorge-jesus-dinamarca-portugal-e1790939347891.png?w=990&h=524&crop=1"
+    "title": "Brasil apoia texto na OEA sobre Nicarágua, mas nega tratar país como ameaça",
+    "url": "https://www.cnnbrasil.com.br/internacional/brasil-apoia-texto-na-oea-sobre-nicaragua-mas-nega-tratar-pais-como-ameaca/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/Reuters_Direct_Media/BrazilOnlineReportWorldNews/tagreuters.com2024binary_LYNXMPEK840SS-FILEDIMAGE-e1790960022362.jpg?w=1200&h=630&crop=1"
   },
   {
     "site": "Terra",
-    "title": "Jornalista solta o verbo e critica STF na Globo News: 'Situação absurda'",
-    "url": "https://www.terra.com.br/diversao/tv/jornalista-solta-o-verbo-e-critica-stf-na-globo-news-situacao-absurda,0ec884c8a52a85f74fa1558d5f41220dsre8jrrz.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/10/02/1950005525-malu-gaspar-na-globo-news.jpg"
+    "title": "Nº 1 na Netflix em apenas 2 dias e 7 episódios: a minissérie holandesa que adapta um thriller best-seller de grande sucesso",
+    "url": "https://www.terra.com.br/diversao/gente/n-1-na-netflix-em-apenas-2-dias-e-7-episodios-a-minisserie-holandesa-que-adapta-um-thriller-best-seller-de-grande-sucesso,87c5686370024a287af7ce639e8c790dxjj78qdb.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/10/02/1364226429-f54a3f350a9d2931-1400x823-1.jpg"
+  },
+  {
+    "site": "BBC",
+    "title": "O que os governos dos EUA e da Austrália dizem sobre fechamento de embaixadas e consulados no Brasil às vésperas da eleição",
+    "url": "https://www.bbc.com/portuguese/articles/cmewellkk7zyo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/e5fb/live/a34a7e80-be52-11f1-8828-9d9deece30a1.jpg"
+  },
+  {
+    "site": "G1",
+    "title": "Polícia Militar apreende 22 cestas básicas em ação com suspeita de crime eleitoral na Bahia",
+    "url": "https://g1.globo.com/ba/bahia/noticia/2026/10/02/apreensao-cestas-basicas-bahia.ghtml",
+    "image": "https://s2-g1.glbimg.com/3-6wiBgE4HBuf1md9Df0-3jxmjk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/N/6AcsWITxSiy3oqRJuAUg/tamanho-g1ba-67-.png"
+  },
+  {
+    "site": "UOL",
+    "title": "Messi desembarca na Argentina para despedida da seleção",
+    "url": "https://www1.folha.uol.com.br/esporte/2026/10/messi-desembarca-na-argentina-para-despedida-da-selecao.shtml",
+    "image": "https://f.i.uol.com.br/fotografia/2026/10/02/17909603586abfe2e65571b_1790960358_3x2_rt.jpg"
+  },
+  {
+    "site": "CNN Brasil",
+    "title": "Yudi Tamashiro e esposa celebram compra de casa no Japão: “Só o começo”",
+    "url": "https://www.cnnbrasil.com.br/pop/celebridades/yudi-tamashiro-e-esposa-celebram-compra-de-casa-no-japao-so-o-comeco/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/10/yudi-tamashiro-nova-casa-e1790958241120.jpg?w=1170&h=630&crop=1"
+  },
+  {
+    "site": "Terra",
+    "title": "O que é rooibos e para que serve? Conheça a bebida que é fonte de antioxidantes",
+    "url": "https://www.terra.com.br/vida-e-estilo/saude/o-que-e-rooibos-e-para-que-serve-conheca-a-bebida-que-e-fonte-de-antioxidantes,7cfb4a70ad4c18f676fbdae88135c275si06t9q9.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/10/02/1612300220-cha-de-rooibos.png"
+  },
+  {
+    "site": "BBC",
+    "title": "Vorcaro forneceu jatinho e Moët Chandon a desembargador para viagem a Buenos Aires, mostram mensagens",
+    "url": "https://www.bbc.com/portuguese/articles/cmy4z41l1j3eo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/21f1/live/19db12a0-bdd4-11f1-88d5-b903d805bdb1.png"
+  },
+  {
+    "site": "G1",
+    "title": "Alto Tietê cria 1.481 empregos formais em agosto; saldo aumenta 23,42%, aponta Caged",
+    "url": "https://g1.globo.com/sp/mogi-das-cruzes-suzano/concursos-e-emprego/noticia/2026/10/02/alto-tiete-cria-1481-empregos-formais-em-agosto-saldo-aumenta-2342percent-aponta-caged.ghtml",
+    "image": "https://s2-g1.glbimg.com/iLuGgFUbKyW4zL9_k8qkMKxf4uY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/K/4/T31aluSBAHt3TVal33GA/emprego.jpg-1-.webp"
+  },
+  {
+    "site": "UOL",
+    "title": "Líder árabe israelense desiste de candidatura sob pressão da Suprema Corte por declarações sobre 7 de outubro",
+    "url": "https://noticias.uol.com.br/ultimas-noticias/reuters/2026/10/02/lider-arabe-israelense-desiste-de-candidatura-sob-pressao-da-suprema-corte-por-declaracoes-sobre-7-de-outubro.htm",
+    "image": ""
+  },
+  {
+    "site": "CNN Brasil",
+    "title": "Quem trabalha no dia da eleição tem direito a folga? Veja o que diz a lei",
+    "url": "https://www.cnnbrasil.com.br/nacional/brasil/quem-trabalha-no-dia-da-eleicao-tem-direito-a-folga-veja-o-que-diz-a-lei/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2024/08/TRE-SP-MESARIO.jpeg?w=758&h=409&crop=1"
+  },
+  {
+    "site": "Terra",
+    "title": "Maçã caramelizada no micro-ondas: fica pronta em 5 minutos",
+    "url": "https://www.terra.com.br/vida-e-estilo/degusta/receitas/maca-caramelizada-no-micro-ondas-fica-pronta-em-5-minutos,ad8ae3233a5e47073dc631ea0da8d870gtygnjqp.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/10/02/788606969-maca-caramelizada-no-micro-ondas.jpg"
+  },
+  {
+    "site": "BBC",
+    "title": "Por que eleição presidencial de 1998 foi a única a não ter debate na TV — e o que ela teve em comum com a de 2026",
+    "url": "https://www.bbc.com/portuguese/articles/cr78088q1p5go?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/f16b/live/37d97140-be59-11f1-8828-9d9deece30a1.jpg"
+  },
+  {
+    "site": "G1",
+    "title": "Família procura por maranhense que está desaparecido há 7 dias em Cuiabá",
+    "url": "https://g1.globo.com/mt/mato-grosso/noticia/2026/10/02/familia-procura-por-maranhense-que-esta-desaparecido-em-cuiaba.ghtml",
+    "image": "https://s2-g1.glbimg.com/erF-qvlspVo5jLU9m6bC6cHs6LU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/V/znrNn7SRWQd3gomCgY3A/foto-g1-59-.jpg"
+  },
+  {
+    "site": "UOL",
+    "title": "Eleitor sabota o próprio voto",
+    "url": "https://redir.folha.com.br/redir/online/colunas/helioschwartsman/rss091/*https://www1.folha.uol.com.br/colunas/helioschwartsman/2026/10/eleitor-sabota-o-proprio-voto.shtml",
+    "image": "https://f.i.uol.com.br/fotografia/2026/10/01/17908915406abed614bb788_1790891540_3x2_rt.jpg"
+  },
+  {
+    "site": "CNN Brasil",
+    "title": "CNN Brasil supera GloboNews e se consolida como maior canal de notícias",
+    "url": "https://www.cnnbrasil.com.br/nacional/cnn-brasil-supera-globonews-e-se-consolida-como-maior-canal-de-noticias/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/05/WhatsApp-Image-2025-05-12-at-22.37.42.jpeg?w=1200&h=630&crop=1"
+  },
+  {
+    "site": "Terra",
+    "title": "'Estamos elaborando mandado de segurança para adiar eleições', afirma Augusto Cury",
+    "url": "https://www.terra.com.br/noticias/brasil/politica/estamos-elaborando-mandado-de-seguranca-para-adiar-eleicoes-afirma-augusto-cury,eac591c10d0bb32b0433e2fb081d6723uz1ti5jp.html",
+    "image": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png"
+  },
+  {
+    "site": "BBC",
+    "title": "O que deu errado para a Nike? Como gigante mundial de artigos esportivos perdeu 'brilho'",
+    "url": "https://www.bbc.com/portuguese/articles/cqrk3kkn406no?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/ca3a/live/a79a57d0-be2a-11f1-bc2e-018d645d8d21.jpg"
+  },
+  {
+    "site": "G1",
+    "title": "PM apreende carne de paca, cateto e jacaré e prende dois homens em MG",
+    "url": "https://g1.globo.com/mg/grande-minas/noticia/2026/10/02/pm-apreende-carne-de-paca-cateto-e-jacare-e-prende-dois-homens-em-mg.ghtml",
+    "image": "https://s2-g1.glbimg.com/GzBgxJ8VRhP87WxgiOBgc4RuzE8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/3/FS28oETmSmJloXqhzxjA/whatsapp-image-2026-10-01-at-23.27.13-2-.jpeg"
+  },
+  {
+    "site": "UOL",
+    "title": "Lula diz que eleição é 'luta da seriedade contra quem faz orgia'",
+    "url": "https://noticias.uol.com.br/eleicoes/2026/10/02/lula-diz-que-eleicao-e-luta-da-seriedade-contra-quem-faz-orgia.htm",
+    "image": ""
+  },
+  {
+    "site": "CNN Brasil",
+    "title": "Coordenadora é exonerada de creche onde bebê de 1 ano escapou em SC",
+    "url": "https://www.cnnbrasil.com.br/nacional/sul/sc/coordenadora-e-exonerada-de-creche-onde-bebe-de-1-ano-escapou-em-sc/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/bebe-creche-sc.jpg?w=1200&h=630&crop=1"
+  },
+  {
+    "site": "Terra",
+    "title": "Asfixia Social lança clipe de \"Baião de Dois\" e inicia turnê internacional",
+    "url": "https://www.terra.com.br/diversao/musica/meu-sonora/rock/asfixia-social-lanca-clipe-de-baiao-de-dois-e-inicia-turne-internacional,03dbbc17f1d3c76d15422a51815e306bv0g5k2vq.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/10/02/780201990-1790960007908-36qm8j.jpg"
+  },
+  {
+    "site": "BBC",
+    "title": "Distância entre Lula e Flávio Bolsonaro é de 3 pontos no 1º turno no Agregador de Pesquisas da BBC News Brasil",
+    "url": "https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/7ac5/live/9ab95820-bcb0-11f1-bc2e-018d645d8d21.jpg"
+  },
+  {
+    "site": "G1",
+    "title": "'Aqui é um ambiente que ele ama muito', diz esposa de Lito Sousa no velório do marido no Complexo do Aeroporto Campo de Marte",
+    "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/10/02/aqui-e-um-ambiente-que-ele-ama-muito-diz-esposa-de-lito-sousa-durante-velorio-do-marido-no-aeroporto-do-campo-de-marte-em-sp.ghtml",
+    "image": "https://s2-g1.glbimg.com/zSw1AoUbjDSHmBW-48PSuW7HX48=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/k/Ri3sDUSLGAfhvstF7dBA/whatsapp-image-2026-10-02-at-09.58.17.jpeg"
+  },
+  {
+    "site": "UOL",
+    "title": "OEA apoia apelo conjunto para que Nicarágua restaure as liberdades civis",
+    "url": "https://noticias.uol.com.br/ultimas-noticias/reuters/2026/10/02/oea-apoia-apelo-conjunto-para-que-nicaragua-restaure-as-liberdades-civis.htm",
+    "image": ""
+  },
+  {
+    "site": "CNN Brasil",
+    "title": "Biancardi compra “roupas baratinhas” em enxoval: “Não tem por que ser cara”",
+    "url": "https://www.cnnbrasil.com.br/pop/celebridades/biancardi-compra-roupas-baratinhas-em-enxoval-nao-tem-por-que-ser-cara/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/10/biancardi-enxoval.jpg?w=1200&h=630&crop=1"
+  },
+  {
+    "site": "Terra",
+    "title": "Os 10 melhores álbuns de heavy metal de todos os tempos, segundo Ozzy Osbourne",
+    "url": "https://www.terra.com.br/diversao/musica/os-10-melhores-albuns-de-heavy-metal-de-todos-os-tempos-segundo-ozzy-osbourne,82524ff05b5ccff1d899ba8cf529edd4lsr4tiwp.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/10/02/54224647-ozzy-osbourne-2024-foto-jeff-kravitz-filmmagic-2179719106.jpg"
+  },
+  {
+    "site": "BBC",
+    "title": "Preferência por Lula, cautela ao criticar Flávio: como a China (e a imprensa local) vê a eleição no Brasil",
+    "url": "https://www.bbc.com/portuguese/articles/c693e0lddp4po?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/31f9/live/d3605c90-bcbb-11f1-b3b2-8f83c947a78c.jpg"
+  },
+  {
+    "site": "G1",
+    "title": "Executiva Shivon Zilis diz que seu relacionamento com Elon Musk terminou: 'Vou sentir falta dele'",
+    "url": "https://g1.globo.com/tecnologia/noticia/2026/10/02/shivon-zilis-e-elon-musk.ghtml",
+    "image": "https://s2-g1.glbimg.com/rfNQGjES4ryq6OMbQTXHQPz-rN0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/i/i3plpsR3qOwi4VklAADg/ap26118555311492.jpg"
+  },
+  {
+    "site": "UOL",
+    "title": "Preferência por Lula, cautela ao criticar Flávio: como a China (e a imprensa local) vê a eleição no Brasil",
+    "url": "https://www1.folha.uol.com.br/poder/2026/10/preferencia-por-lula-cautela-ao-criticar-flavio-como-a-china-e-a-imprensa-local-ve-a-eleicao-no-brasil.shtml",
+    "image": "https://f.i.uol.com.br/fotografia/2026/10/02/17909577296abfd8a161807_1790957729_3x2_xl.jpg"
+  },
+  {
+    "site": "CNN Brasil",
+    "title": "Vídeo: cidades do Paraná registram tornado “landspout”; entenda",
+    "url": "https://www.cnnbrasil.com.br/nacional/sul/pr/video-cidades-do-parana-registram-tornado-landspout-entenda/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/10/TORNADO-PR-e1790955533747.png?w=372&h=210&crop=1"
+  },
+  {
+    "site": "Terra",
+    "title": "Mega-Sena: sorteio de domingo é antecipado por causa do 1º turno das eleições; veja dia e horário",
+    "url": "https://www.terra.com.br/economia/mega-sena-sorteio-de-domingo-e-antecipado-por-causa-do-1-turno-das-eleicoes-veja-dia-e-horario,976f82d0e02b618d879a9159f95db636knbhoglf.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/07/17/images-toa5ky5u09io.jpg"
   },
   {
     "site": "BBC",
@@ -127,170 +217,86 @@
   },
   {
     "site": "G1",
-    "title": "Com quase 42ºC, Piauí tem maior temperatura do Brasil pelo 2º dia seguido, aponta Inmet",
-    "url": "https://g1.globo.com/pi/piaui/noticia/2026/10/02/piaui-temperatura.ghtml",
-    "image": "https://s2-g1.glbimg.com/_7aPuS63qCMzqL7NtgWJKvArdQ8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/W/0HAiloQgeBwov4JbWEAg/bdrj-tempo2-4-.avif"
+    "title": "Detentos são flagrados com R$ 1 mil durante revista em presídio de Rio Branco",
+    "url": "https://g1.globo.com/ac/acre/noticia/2026/10/02/detentos-sao-flagrados-com-r-1-mil-durante-revista-em-presidio-de-rio-branco.ghtml",
+    "image": "https://s2-g1.glbimg.com/6YS3AKQa96cpYv6WsiG5wWK2XGc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/5/VAKZjjRNuXiWRye72E3w/midia-de-distribuicao-g1-2026-10-02t112426.913.png"
   },
   {
     "site": "UOL",
-    "title": "Expectativa de vida mundial recupera quase o nível anterior à pandemia de covid-19, afirma OMS",
-    "url": "https://noticias.uol.com.br/ultimas-noticias/afp/2026/10/02/expectativa-de-vida-mundial-recupera-quase-o-nivel-anterior-a-pandemia-de-covid-19-afirma-oms.htm",
+    "title": "Milei diz que 'está escrevendo uma página da história' argentina ao receber prêmio em Paris",
+    "url": "https://noticias.uol.com.br/ultimas-noticias/afp/2026/10/02/milei-diz-que-esta-escrevendo-uma-pagina-da-historia-argentina-ao-receber-premio-em-paris.htm",
     "image": ""
   },
   {
     "site": "CNN Brasil",
-    "title": "São Paulo x Corinthians: horário e onde ao jogo do Brasileirão Feminino",
-    "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/sao-paulo-x-corinthians-horario-e-onde-ao-jogo-do-brasileirao-feminino/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/Corinthians-sao-paulo3.png?w=960&h=630&crop=1"
+    "title": "CNA defende ajuste fiscal para impulsionar investimentos no agro",
+    "url": "https://www.cnnbrasil.com.br/agro/cna-defende-ajuste-fiscal-para-impulsionar-investimentos-no-agro/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/Reuters_Direct_Media/BrazilOnlineReportAgribusinessNews/tagreuters.com2026binary_LYNXMPEM3M135-BASEIMAGE.jpg?w=800&h=533&crop=1"
   },
   {
     "site": "Terra",
-    "title": "Arrasada, Angélica faz revelação sobre seu acidente de avião com filhos na morte de Lito Sousa",
-    "url": "https://www.terra.com.br/diversao/tv/arrasada-angelica-faz-revelacao-sobre-seu-acidente-de-aviao-com-filhos-na-morte-de-lito-sousa,72ca1b1e24e12ea2fea81ec2b55fbda9kt5qiix9.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/10/02/1205527569-angelica.jpg"
+    "title": "Índia x Brasil, AO VIVO, com a Voz do Esporte, às 9h30",
+    "url": "https://www.terra.com.br/esportes/brasil/india-x-brasil-ao-vivo-com-a-voz-do-esporte-as-9h30,93ed47e26be4af9d4c60c6ad21d75d34px992vwq.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/10/02/778952438-indxbraamist26-610x400.jpg"
   },
   {
     "site": "BBC",
-    "title": "Debate na Globo cancelado: as razões da emissora, as reações dos candidatos e as críticas de entidades de imprensa",
-    "url": "https://www.bbc.com/portuguese/articles/cm0rekknz957o?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/1838/live/46de37c0-bd14-11f1-babe-4199b0e7ccea.jpg"
+    "title": "Globo cancela debate e cita decisões de Gilmar Mendes, do STF, e Estela Aranha, do TSE: o que dizem juristas",
+    "url": "https://www.bbc.com/portuguese/articles/cwddvdpm19q6o?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/3a6c/live/ab6e4730-bdfe-11f1-a64c-550be9e3c66b.jpg"
   },
   {
     "site": "G1",
-    "title": "Carro bate em poste de câmera do CSI e danifica semáforo na Avenida Andrômeda, em São José dos Campos",
-    "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/10/02/carro-bate-em-poste-de-camera-do-csi-e-danifica-semaforo-na-avenida-andromeda-em-sao-jose-dos-campos.ghtml",
-    "image": "https://s2-g1.glbimg.com/AWAtn0_-ApF3AMOKmEbwjB431UY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/t/c7fSwvTOGXGcGAFl86nw/texto-do-seu-paragrafo-2026-10-02t081900.305.png"
+    "title": "PRF apreende mais de 100 m³ de madeira irregular na BR-010, no Maranhão",
+    "url": "https://g1.globo.com/ma/maranhao/regiao-tocantina/noticia/2026/10/02/prf-apreende-mais-de-100-m-de-madeira-irregular-na-br-010-no-maranhao.ghtml",
+    "image": "https://s2-g1.glbimg.com/i8xVaKD9Q3wFUIyxbIFZtj0AO_4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/t/wAXsqXRVKABVhKEJdZDw/montagens-1920-x-1080-px-10-.png"
   },
   {
     "site": "UOL",
-    "title": "Mercado futuro de soja tem recorde de contratos em aberto na CBOT em setembro",
-    "url": "https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2026/10/02/mercado-futuro-de-soja-tem-recorde-de-contratos-em-aberto-na-cbot-em-setembro.htm",
+    "title": "Lei Seca nas eleições de 2026: entenda como funciona e quais Estados terão restrições",
+    "url": "https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2026/10/02/lei-seca-nas-eleicoes-de-2026-entenda-como-funciona-e-quais-estados-terao-restricoes.htm",
     "image": ""
   },
   {
     "site": "CNN Brasil",
-    "title": "Saiba por que Globo cancelou o que seria o último debate antes do 1º turno",
-    "url": "https://www.cnnbrasil.com.br/eleicoes/por-que-a-globo-cancelou-o-que-seria-o-ultimo-debate-antes-do-1o-turno/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/Lula-Flavio-Cury-Caiado-Renan-Santos-Zema-.png?w=1200&h=630&crop=1"
+    "title": "Suspeitos de matar PM morrem em confronto com a polícia em SP",
+    "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/suspeitos-de-matar-pm-morrem-em-confronto-com-a-policia-em-sp/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/10/MATA-PM-TIETE.jpg?w=1200&h=630&crop=1"
   },
   {
     "site": "Terra",
-    "title": "Fazer apenas abdominal não é o mesmo que fortalecer o centro do corpo: prancha, carga e estabilidade exigem funções diferentes",
-    "url": "https://www.terra.com.br/vida-e-estilo/saude/fazer-apenas-abdominal-nao-e-o-mesmo-que-fortalecer-o-centro-do-corpo-prancha-carga-e-estabilidade-exigem-funcoes-diferentes,42cc1dd5ce036d6cf5eeacef563ec60bfywgzofu.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/10/02/988396154-man-performing-front-plank.jpg"
+    "title": "Mila Seidl, esposa de Lito, diz que marido deixou vídeos gravados para o filho",
+    "url": "https://www.terra.com.br/diversao/gente/mila-seidl-esposa-de-lito-diz-que-marido-deixou-videos-gravados-para-o-filho,d1690fa553faf7583ee2446fa36336b154b9d9zg.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/10/02/whatsapp-image-2026-10-02-at-13-45-21-uvbwpjsypwkz.jpeg"
   },
   {
     "site": "BBC",
-    "title": "Morre Lito Sousa, o youtuber que fez milhões se apaixonarem por aviação",
-    "url": "https://www.bbc.com/portuguese/articles/cqz0z0epzdrxo?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/63c0/live/298d88c0-a008-11f1-a291-b542ee92de7c.png"
+    "title": "Clique aqui",
+    "url": "https://www.bbc.com/portuguese/articles/cwly7mke0mpdo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/9533/live/7b3289f0-bc19-11f1-bd21-bdf910f2cec6.jpg"
   },
   {
     "site": "G1",
-    "title": "Mulher de Lito Sousa fala pela primeira vez após a morte do influencer",
-    "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/10/02/mulher-de-lito-sousa-fala-pela-primeira-vez-apos-a-morte-do-influencer.ghtml",
-    "image": "https://s2-g1.glbimg.com/PGMo0X8H2oUAKJH4DKMBR7gFlWw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/F/iC0aZOTWWDFIhai4vVXA/montagem-horizontal-1200px-31-.jpg"
+    "title": "Projeto oferece tecnologia para modernizar produção têxtil em Nova Friburgo",
+    "url": "https://g1.globo.com/rj/regiao-serrana/noticia/2026/10/02/projeto-oferece-tecnologia-para-modernizar-producao-textil-em-nova-friburgo.ghtml",
+    "image": "https://s2-g1.glbimg.com/-Bzi0agcthHzZ7WDEyyUQInMeQo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/D/uJW9i5QQWrA1V3vYbghg/nova-friburgo-1-.png"
   },
   {
     "site": "UOL",
-    "title": "'Não poderia deixar todas as pessoas morrerem', diz piloto da Flydubai ao premiê indiano",
-    "url": "https://noticias.uol.com.br/ultimas-noticias/rfi/2026/10/02/nao-poderia-deixar-todas-as-pessoas-morrerem-diz-piloto-da-flydubai-ao-premie-indiano.htm",
-    "image": ""
+    "title": "Voltei a correr depois que meu filho nasceu; se me faz tão bem, por que sinto culpa?",
+    "url": "https://www1.folha.uol.com.br/colunas/marina-izidro/2026/10/voltei-a-correr-depois-que-meu-filho-nasceu-se-me-faz-tao-bem-por-que-sinto-culpa.shtml",
+    "image": "https://f.i.uol.com.br/fotografia/2026/10/02/17909602086abfe250374e3_1790960208_3x2_rt.jpg"
   },
   {
     "site": "CNN Brasil",
-    "title": "“E se eu não morrer?”: o que acontece agora com Christa Pike",
-    "url": "https://www.cnnbrasil.com.br/internacional/e-se-eu-nao-morrer-o-que-acontece-agora-com-christa-pike/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/Christa-Pike.jpg?w=630&h=480&crop=1"
+    "title": "Inadimplência no agro deve demorar a cair em meio a juros altos, diz Serasa",
+    "url": "https://www.cnnbrasil.com.br/agro/inadimplencia-no-agro-deve-demorar-a-cair-em-meio-a-juros-altos-diz-serasa/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/08/ChatGPT-Image-3-de-ago.-de-2026-07_23_17.png?w=1200&h=630&crop=1"
   },
   {
     "site": "Terra",
-    "title": "Fluminense já acumula prêmio milionário na Libertadores; veja valor",
-    "url": "https://www.terra.com.br/esportes/fluminense/fluminense-ja-acumula-premio-milionario-na-libertadores-veja-valor,3e6446b61f7c6a9af0e76b49ad14d6d1txh5pgf9.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/10/02/940537078-2026-copa-libertadores-da-america-fluminense.jpg"
-  },
-  {
-    "site": "BBC",
-    "title": "Trump diz que está acompanhando as eleições presidenciais no Brasil 'muito de perto'",
-    "url": "https://www.bbc.com/portuguese/articles/cwm2q2yd1jp8o?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/6b65/live/c118fa90-bdc6-11f1-babe-4199b0e7ccea.jpg"
-  },
-  {
-    "site": "G1",
-    "title": "Maior juro do mercado, uso do rotativo bate recorde; Lula quer limitar a um cartão de crédito por pessoa",
-    "url": "https://g1.globo.com/economia/noticia/2026/10/02/maior-juro-do-mercado-uso-do-rotativo-bate-recorde-lula-quer-limitar-a-um-cartao-de-credito-por-pessoa.ghtml",
-    "image": "https://s2-g1.glbimg.com/9NBpo5i_LwZy3ARL-_J2P1nDFKk=/800x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/S/rsN1z8TAOOoScxRuhZZw/e7b59cb0-3a5b-11f1-b0fd-19d0757b0008.jpg.webp"
-  },
-  {
-    "site": "UOL",
-    "title": "Azul inicia voos para o litoral leste do Ceará",
-    "url": "https://aeromagazine.uol.com.br/artigo/azul-inicia-voos-aracati-confins-embraaer-e195-e2.html?utm_source=Feed%20UOL&utm_medium=site&xid=0821",
-    "image": "https://aeromagazine.uol.com.br/media/_versions/azul_embraer_195-e2_widelg.jpg"
-  },
-  {
-    "site": "CNN Brasil",
-    "title": "Eliminada de “A Fazenda”, Adryana descobre morte de Rick e web se revolta",
-    "url": "https://www.cnnbrasil.com.br/pop/realities/eliminada-de-a-fazenda-adryana-descobre-morte-de-rick-e-web-se-revolta/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/10/adryana-e-carol.jpg?w=1200&h=630&crop=1"
-  },
-  {
-    "site": "Terra",
-    "title": "Atlético-MG pode aumentar prêmio milionário na Copa Sul-Americana; veja",
-    "url": "https://www.terra.com.br/esportes/atletico-mg/atletico-mg-pode-aumentar-premio-milionario-na-copa-sul-americana-veja,f6f3952fd8dff41e8f0ee81cfada8dffsi6em1bb.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/10/02/599144943-2026-copa-sul-americana-atletico-mg.jpg"
-  },
-  {
-    "site": "BBC",
-    "title": "Flávio Bolsonaro volta a aparecer à frente de Lula no 2º turno no Agregador de Pesquisas da BBC News Brasil",
-    "url": "https://www.bbc.com/portuguese/articles/czd2prld130o?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/7ac5/live/9ab95820-bcb0-11f1-bc2e-018d645d8d21.jpg"
-  },
-  {
-    "site": "G1",
-    "title": "VÍDEOS: Bom Dia Minas de sexta-feira, 2 de outubro de 2026",
-    "url": "https://g1.globo.com/mg/minas-gerais/videos-bom-dia-minas/playlist/videos-bom-dia-minas-de-sexta-feira-2-de-outubro-de-2026.ghtml",
-    "image": "https://s.glbimg.com/jo/g1/static/live/imagens/img_facebook.png?g1"
-  },
-  {
-    "site": "UOL",
-    "title": "Mulher usa garrafa para se defender de agressão do marido em Sabáudia",
-    "url": "https://tnonline.uol.com.br/noticias/arapongas/mulher-usa-garrafa-para-se-defender-de-agressao-do-marido-em-sabaudia-1151373",
-    "image": "https://cdn.tnonline.com.br/img/Artigo-Destaque/1150000/1200x630/mulher-usa-garrafa-para-se-defender-de-agressao-do-01151373-0-202610020820/ScaleProportionalFillBackground-1.jpg?fallback=https%3A%2F%2Fcdn.tnonline.com.br%2Fimg%2FArtigo-Destaque%2F1150000%2Fmulher-usa-garrafa-para-se-defender-de-agressao-do-01151373-0-202610020820.jpg%3Fxid%3D1839041&xid=1839041"
-  },
-  {
-    "site": "CNN Brasil",
-    "title": "Por que ninguém fala alto no Japão? Entenda como um antigo conceito ensina a não ser um incômodo para os outros",
-    "url": "https://www.cnnbrasil.com.br/curiosidades/por-que-ninguem-fala-alto-no-japao-entenda-como-um-antigo-conceito-ensina-a-nao-ser-um-incomodo-para-os-outros/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/Toquio-Japao-ruas-freepik.jpg?w=936&h=600&crop=1"
-  },
-  {
-    "site": "Terra",
-    "title": "Vasco está a um passo de prêmio milionário na Copa Sul-Americana; veja",
-    "url": "https://www.terra.com.br/esportes/vasco/vasco-esta-a-um-passo-de-premio-milionario-na-copa-sul-americana-veja,4056184faffc03625ab3627aec2576bb7enxb4p5.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/10/02/432613717-2026-copa-sul-americana-vasco.jpg"
-  },
-  {
-    "site": "G1",
-    "title": "Maior espécie de tartaruga marinha é encontrada morta em praia do litoral de SP; VEJA",
-    "url": "https://g1.globo.com/sp/santos-regiao/noticia/2026/10/02/maior-especie-de-tartaruga-marinha-e-encontrada-morta-em-praia-do-litoral-de-sp-veja.ghtml",
-    "image": "https://s2-g1.glbimg.com/Hkx09WZidayFunGQhvYYf27Eu78=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/q/eDA1WBRtunTjHkZXvZYQ/tartaruga-morta.jpg"
-  },
-  {
-    "site": "UOL",
-    "title": "Combates no sudoeste do Iêmen deixaram mais de 80 mortos em 24 horas",
-    "url": "https://noticias.uol.com.br/ultimas-noticias/afp/2026/10/02/combates-no-sudoeste-do-iemen-deixaram-mais-de-80-mortos-em-24-horas.htm",
-    "image": ""
-  },
-  {
-    "site": "CNN Brasil",
-    "title": "Crédito, seguro e logística: os desafios do próximo presidente para o agro",
-    "url": "https://www.cnnbrasil.com.br/agro/credito-seguro-e-logistica-os-desafios-do-proximo-presidente-para-o-agro/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/08/Candidatos-e1787296224829.png?w=503&h=340&crop=1"
-  },
-  {
-    "site": "Terra",
-    "title": "Palmeiras mira prêmio milionário na Libertadores; veja",
-    "url": "https://www.terra.com.br/esportes/palmeiras/palmeiras-mira-premio-milionario-na-libertadores-veja,88192e448f9f49bc767320da1d567f52j7vb02k0.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/10/02/2006778361-2026-copa-libertadores-da-america-palmeiras-vitor-roque-flaco-lopez.jpg"
+    "title": "'Nem Lula nem Bolsonaro têm projeto para futuro do Brasil', diz Matarazzo",
+    "url": "https://www.terra.com.br/noticias/brasil/nem-lula-nem-bolsonaro-tem-projeto-para-futuro-do-brasil-diz-matarazzo,a2fa56a78ad7c9cb7d8aeef177e0c344ei3430ab.html",
+    "image": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png"
   }
 ]
