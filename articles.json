@@ -1,63 +1,213 @@
 [
   {
     "site": "BBC",
+    "title": "Projeto do fim da escala 6x1 será derrotado no Senado, mas virará último ativo eleitoral de Lula, avalia historiador",
+    "url": "https://www.bbc.com/portuguese/articles/cxp8gl2zlez7o?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/ecb1/live/7c3c88b0-c073-11f1-a64c-550be9e3c66b.jpg"
+  },
+  {
+    "site": "G1",
+    "title": "Resultado das eleições 2026 em Cataguases (MG): como foi a votação no 1º turno",
+    "url": "https://g1.globo.com/mg/minas-gerais/eleicoes/2026/noticia/2026/10/05/resultado-das-eleicoes-2026-em-cataguases-mg-como-foi-a-votacao-no-1o-turno.ghtml",
+    "image": "https://s2-g1.glbimg.com/WVvhI-aXx03RnHt4856ANYRuYAc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/V/TlO7yzR12E9L4oYBRwjQ/lacracao-urnas-eletronicas-mcamgo-abr-210920221818-4.jpg"
+  },
+  {
+    "site": "UOL",
+    "title": "Lula defende debate com Flávio Bolsonaro na TV: 'Agora é tête-à-tête'",
+    "url": "https://noticias.uol.com.br/eleicoes/2026/10/05/lula-defende-debate-com-flavio-bolsonaro-na-tv-agora-e-tete-a-tete.ghtm",
+    "image": ""
+  },
+  {
+    "site": "CNN Brasil",
+    "title": "TSE cobra Meta por áudio que dizia que eleitores de Lula votariam dia 11",
+    "url": "https://www.cnnbrasil.com.br/eleicoes/tse-cobra-meta-por-audio-que-dizia-que-eleitores-de-lula-votariam-dia-11/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/10/ministro-andre-mendonca-tse.jpg?w=1200&h=630&crop=1"
+  },
+  {
+    "site": "Terra",
+    "title": "Antes do beijo, uma declaração de amor: semana eletrizante de 'Quem Ama Cuida' aproxima Mau Mau e Fernando, mas detalhe pode afastar o casal",
+    "url": "https://www.terra.com.br/diversao/tv/antes-do-beijo-uma-declaracao-de-amor-semana-eletrizante-de-quem-ama-cuida-aproxima-mau-mau-e-fernando-mas-detalhe-pode-afastar-o-casal,05ce462d77efa86be9d80a73849447937ttqvp07.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/10/05/1970825576-2453c3ea267ff9fa-1400x823-2.jpg"
+  },
+  {
+    "site": "BBC",
+    "title": "O que está por trás da euforia do mercado com vantagem de Flávio Bolsonaro no 1º turno",
+    "url": "https://www.bbc.com/portuguese/articles/c933xvxj7dryo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/6458/live/f601d790-c0dc-11f1-8cf3-7dbc6a5861dd.jpg"
+  },
+  {
+    "site": "G1",
+    "title": "Resultado das eleições 2026 em Cedro do Abaeté (MG): como foi a votação no 1º turno",
+    "url": "https://g1.globo.com/mg/minas-gerais/eleicoes/2026/noticia/2026/10/05/resultado-das-eleicoes-2026-em-cedro-do-abaete-mg-como-foi-a-votacao-no-1o-turno.ghtml",
+    "image": "https://s2-g1.glbimg.com/WVvhI-aXx03RnHt4856ANYRuYAc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/V/TlO7yzR12E9L4oYBRwjQ/lacracao-urnas-eletronicas-mcamgo-abr-210920221818-4.jpg"
+  },
+  {
+    "site": "UOL",
+    "title": "Kassio quer julgar soltura de Bolsonaro após 2º turno e avalia libertar ex-presidente com liminar",
+    "url": "https://www1.folha.uol.com.br/poder/2026/10/kassio-quer-julgar-soltura-de-bolsonaro-apos-2o-turno-e-avalia-libertar-ex-presidente-com-liminar.shtml",
+    "image": "https://f.i.uol.com.br/fotografia/2026/10/05/17912377956ac41ea3c92b0_1791237795_3x2_rt.jpg"
+  },
+  {
+    "site": "CNN Brasil",
+    "title": "Wall Street sobe impulsionada por techs e juros dos Treasuries no radar",
+    "url": "https://www.cnnbrasil.com.br/economia/money/mercado/wall-street-sobe-impulsionada-por-techs-e-juros-dos-treasuries-no-radar/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/Reuters_Direct_Media/BrazilOnlineReportBusinessNews/tagreuters.com2026binary_LYNXMPEM3E0W1-BASEIMAGE.jpg?w=800&h=546&crop=1"
+  },
+  {
+    "site": "Terra",
+    "title": "Yamal supera Messi e Cristiano Ronaldo em números aos 19 anos",
+    "url": "https://www.terra.com.br/esportes/futebol/internacional/espanha/yamal-supera-messi-e-cristiano-ronaldo-em-numeros-aos-19-anos,23c410b7b80e5190e57054646e98565e3vi6lm91.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/10/05/1951343706-htaqzfcwiaat3zieasy-resizecom-610x400.jpg"
+  },
+  {
+    "site": "BBC",
+    "title": "Como PL e Michelle Bolsonaro contribuíram com bancada feminina recorde na Câmara",
+    "url": "https://www.bbc.com/portuguese/articles/c6d938105009o?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/f239/live/5406ba00-c0fa-11f1-812d-715b1c9a79e7.jpg"
+  },
+  {
+    "site": "G1",
+    "title": "Clóvis Curubão é eleito e será o primeiro indígena a ocupar o cargo de deputado na Assembleia do Amazonas",
+    "url": "https://g1.globo.com/am/amazonas/eleicoes/2026/noticia/2026/10/05/clovis-curubao-e-eleito-e-sera-o-primeiro-indigena-a-ocupar-o-cargo-de-deputado-na-assembleia-do-amazonas.ghtml",
+    "image": "https://s2-g1.glbimg.com/fNUgcyLVaiiE6VRFATTCJxAnqWk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/S/ud9tXgRFuI7q8KihMUOg/g1-clovis-curubao-deputado-am.jpg"
+  },
+  {
+    "site": "UOL",
+    "title": "Garotinho desiste de recurso e abre caminho para Ruas ser declarado eleito em 1º turno",
+    "url": "https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2026/10/05/garotinho-desiste-de-recurso-e-abre-caminho-para-ruas-ser-declarado-eleito-em-1-turno.htm",
+    "image": ""
+  },
+  {
+    "site": "CNN Brasil",
+    "title": "Djokovic x De Minaur: horário e onde assistir à final do ATP 500 de Pequim",
+    "url": "https://www.cnnbrasil.com.br/esportes/tenis/djokovic-x-de-minaur-horario-e-onde-assistir-a-final-do-atp-500-de-pequim/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/10/djokovic-de-minaur-atp-500-pequim.png?w=1200&h=630&crop=1"
+  },
+  {
+    "site": "Terra",
+    "title": "Com desistência de Garotinho, Douglas Ruas já será declarado novo governador do RJ? Advogados explicam",
+    "url": "https://www.terra.com.br/noticias/eleicoes/com-desistencia-de-garotinho-douglas-ruas-ja-sera-declarado-novo-governador-do-rj-advogados-explicam,56ff933c282b0194c2b61d7b187783e709ux9fb3.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/10/05/fta20261004209-1h7rhe3loz2oz.jpg"
+  },
+  {
+    "site": "BBC",
+    "title": "Trump diz que liderança de Flávio no primeiro turno foi 'grande vitória'",
+    "url": "https://www.bbc.co.uk/portuguese/live/c94g1vj6j2z8t?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/480/cpsprodpb/a91b/live/c73cda40-c104-11f1-9ff2-3b6c88884537.jpg"
+  },
+  {
+    "site": "G1",
+    "title": "Resultado das eleições 2026 em Divisópolis (MG): como foi a votação no seu local de votação; consulte por zona eleitoral",
+    "url": "https://g1.globo.com/mg/minas-gerais/eleicoes/2026/noticia/2026/10/05/resultado-das-eleicoes-2026-em-divisopolis-mg-como-foi-a-votacao-no-seu-local-de-votacao-consulte-por-zona-eleitoral.ghtml",
+    "image": "https://s2-g1.glbimg.com/WVvhI-aXx03RnHt4856ANYRuYAc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/V/TlO7yzR12E9L4oYBRwjQ/lacracao-urnas-eletronicas-mcamgo-abr-210920221818-4.jpg"
+  },
+  {
+    "site": "UOL",
+    "title": "Cidade de 230 mil habitantes é reduto eleitoral de governador, senador e deputada mais votada de MG",
+    "url": "https://www1.folha.uol.com.br/colunas/painel/2026/10/cidade-de-230-mil-habitantes-e-reduto-eleitoral-de-governador-senador-e-deputada-mais-votada-de-mg.shtml",
+    "image": "https://f.i.uol.com.br/fotografia/2026/10/02/17909506106abfbcd20f89d_1790950610_3x2_xl.jpg"
+  },
+  {
+    "site": "CNN Brasil",
+    "title": "Coordenador de Flávio liga para Ciro Nogueira por apoio no 2º turno",
+    "url": "https://www.cnnbrasil.com.br/eleicoes/coordenador-de-flavio-liga-para-ciro-nogueira-por-apoio-no-2o-turno/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/05/54657523443_e9ba10da39_b.jpg?w=1024&h=630&crop=1"
+  },
+  {
+    "site": "Terra",
+    "title": "Queen se aposentará das turnês, diz Brian May",
+    "url": "https://www.terra.com.br/diversao/musica/queen-se-aposentara-das-turnes-diz-brian-may,73e202e0f16d940ff2082275bfab04fe2969htto.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/10/05/994135945-z7blxiol3zjidnbonqy6kbc2ke.jpg"
+  },
+  {
+    "site": "BBC",
     "title": "Perda de votos no Nordeste e outros obstáculos de Lula para tentar virada inédita no 2º turno",
     "url": "https://www.bbc.com/portuguese/articles/cwly3l9rykj5o?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/fb04/live/7096dc50-c0b3-11f1-bc2e-018d645d8d21.png"
   },
   {
     "site": "G1",
-    "title": "Lula vence em todas as cidades da Paraíba no 1º turno das Eleições 2026",
-    "url": "https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/10/05/lula-vence-em-todas-as-cidades-da-paraiba-no-1o-turno-das-eleicoes-2026.ghtml",
-    "image": "https://s2-g1.glbimg.com/RW1Y5sMLdOQtppv3lyrGAvlIg2s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/X/3JVUIMTqyXUmPdRbWAkw/fotojet-1-.jpg"
+    "title": "Resultado das eleições 2026 em Cascalho Rico (MG): como foi a votação no 1º turno",
+    "url": "https://g1.globo.com/mg/minas-gerais/eleicoes/2026/noticia/2026/10/05/resultado-das-eleicoes-2026-em-cascalho-rico-mg-como-foi-a-votacao-no-1o-turno.ghtml",
+    "image": "https://s2-g1.glbimg.com/WVvhI-aXx03RnHt4856ANYRuYAc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/V/TlO7yzR12E9L4oYBRwjQ/lacracao-urnas-eletronicas-mcamgo-abr-210920221818-4.jpg"
   },
   {
     "site": "UOL",
-    "title": "Flávio vira favorito em 2026 fazendo caminho distinto do pai em 2018",
-    "url": "https://noticias.uol.com.br/eleicoes/2026/10/05/flavio-vira-favorito-em-2026-fazendo-caminho-distinto-do-pai-em-2018.ghtm",
+    "title": "Tarcísio diz que fará 'toda a força' para que o Republicanos apoie Flávio Bolsonaro",
+    "url": "https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2026/10/05/tarcisio-diz-que-fara-toda-a-forca-para-que-o-republicanos-apoie-flavio-bolsonaro.htm",
     "image": ""
   },
   {
     "site": "CNN Brasil",
-    "title": "“Nunca subestime um piá”, diz Nikolas após ter sido deputado mais votado",
-    "url": "https://www.cnnbrasil.com.br/eleicoes/nikolas-comemora-votacao-para-deputado-nunca-subestime-um-pia/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/07/img20250520200236426.jpg?w=1200&h=630&crop=1"
+    "title": "PF prende 3 por suspeita de corrupção eleitoral no Pará",
+    "url": "https://www.cnnbrasil.com.br/eleicoes/pf-prende-3-por-suspeita-de-corrupcao-eleitoral-no-para/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/10/policia-federal-eleicoes.jpeg?w=768&h=576&crop=1"
   },
   {
     "site": "Terra",
-    "title": "Flávio Bolsonaro larga na frente de Lula e ADRs avançam no exterior",
-    "url": "https://www.terra.com.br/economia/flavio-bolsonaro-larga-na-frente-de-lula-e-adrs-avancam-no-exterior,68bd7d7432f765ef7fa07f68595efc71tlcstbyl.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/10/05/flavio-rhiuci87j19u.jpg"
+    "title": "Vídeo usado para alegar ataque com ovos a carro de Janja foi feito na Albânia",
+    "url": "https://www.terra.com.br/noticias/brasil/politica/video-usado-para-alegar-ataque-com-ovos-a-carro-de-janja-foi-feito-na-albania,09e89975c91f24376bfdc53b6736edc0r0o3oe70.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/10/05/1212172363-mji4ehmlcvcgrcmqipg5yxlija.png"
   },
   {
     "site": "BBC",
-    "title": "Resultado das eleições 2026: O dia seguinte do 1º turno, as reações e o que esperar do 2º turno",
-    "url": "https://www.bbc.co.uk/portuguese/live/ck3r5l2dxrnet?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/480/cpsprodpb/2875/live/55056e50-c097-11f1-babe-4199b0e7ccea.png"
+    "title": "Lula x Flávio no 2º turno: para onde vão os votos de Cury, Renan e Caiado?",
+    "url": "https://www.bbc.com/portuguese/articles/cm209062n3wgo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/d7ae/live/049472c0-bd10-11f1-babe-4199b0e7ccea.jpg"
   },
   {
     "site": "G1",
-    "title": "Corpo é encontrado no mar próximo à Gruta da Sacristia, em Maricá",
-    "url": "https://g1.globo.com/rj/regiao-dos-lagos/noticia/2026/10/05/corpo-e-encontrado-no-mar-proximo-a-gruta-da-sacristia-em-marica.ghtml",
-    "image": "https://s2-g1.glbimg.com/zDsdI_nkLXgooYJMyv3D2p64GME=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/3/wLOJ3aRraN6FcBrSClSA/guarda-vidas.jpg"
+    "title": "Resultado das eleições 2026 em Cássia (MG): como foi a votação no 1º turno",
+    "url": "https://g1.globo.com/mg/minas-gerais/eleicoes/2026/noticia/2026/10/05/resultado-das-eleicoes-2026-em-cassia-mg-como-foi-a-votacao-no-1o-turno.ghtml",
+    "image": "https://s2-g1.glbimg.com/WVvhI-aXx03RnHt4856ANYRuYAc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/V/TlO7yzR12E9L4oYBRwjQ/lacracao-urnas-eletronicas-mcamgo-abr-210920221818-4.jpg"
   },
   {
     "site": "UOL",
-    "title": "Casal é preso após bebê de oito meses ser morto asfixiado",
-    "url": "https://tnonline.uol.com.br/noticias/cotidiano/casal-e-preso-apos-bebe-de-oito-meses-ser-morto-asfixiado-1152136",
-    "image": "https://cdn.tnonline.com.br/img/Artigo-Destaque/1150000/1200x630/a-mulher-tambem-confessou-que-a-crianca-ja-havia-s-01152136-0-202610051007/ScaleProportionalFillBackground-1.jpg?fallback=https%3A%2F%2Fcdn.tnonline.com.br%2Fimg%2FArtigo-Destaque%2F1150000%2Fa-mulher-tambem-confessou-que-a-crianca-ja-havia-s-01152136-0-202610051007.jpg%3Fxid%3D1841172&xid=1841172"
+    "title": "Agenda de debates do 2º turno tem encontros marcados para o mesmo dia; veja datas",
+    "url": "https://noticias.uol.com.br/eleicoes/2026/10/05/agenda-de-debates-do-2-turno-tem-encontros-marcados-para-o-mesmo-dia-veja-datas.ghtm",
+    "image": ""
   },
   {
     "site": "CNN Brasil",
-    "title": "Tempestade violenta revela destroços de navio histórico que naufragou em 1884 em praia dos EUA",
-    "url": "https://www.cnnbrasil.com.br/curiosidades/tempestade-violenta-revela-destrocos-de-navio-historico-que-naufragou-em-1884-em-praia-dos-eua/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/10/naufragio-nantucket.webp?w=640&h=360&crop=1"
+    "title": "Não há razão econômica, social e política para eu não ser eleito, diz Lula",
+    "url": "https://www.cnnbrasil.com.br/eleicoes/nao-ha-razao-economica-social-e-politica-para-eu-nao-ser-eleito-diz-lula/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/Lula_4ca470.jpg?w=1200&h=630&crop=1"
   },
   {
     "site": "Terra",
-    "title": "RuneScape 4 é anunciado e está sendo feito na Unreal Engine",
-    "url": "https://www.terra.com.br/gameon/plataformas-e-consoles/runescape-4-e-anunciado-e-esta-sendo-feito-na-unreal-engine,b63dafb93055f256f88a14576ed5398cuxq7yq5q.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/10/05/runescape4-1hruv0ijogu9j.jpg"
+    "title": "Rogério Marinho: Flávio quer debater com Lula e avalia convites para confrontos",
+    "url": "https://www.terra.com.br/noticias/brasil/politica/rogerio-marinho-flavio-quer-debater-com-lula-e-avalia-convites-para-confrontos,01c5ade1b0b82a4985f2ab91fb1c68e0zkgwrmip.html",
+    "image": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png"
+  },
+  {
+    "site": "BBC",
+    "title": "A multiplicação de 'Nikolas': a 'fórmula' por trás das votações históricas de deputados do PL",
+    "url": "https://www.bbc.com/portuguese/articles/c32l4nxgpvq2o?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/90de/live/ec40d580-c073-11f1-babe-4199b0e7ccea.jpg"
+  },
+  {
+    "site": "G1",
+    "title": "Resultado das eleições 2026 em Água Comprida (MG): como foi a votação no seu local de votação; consulte por zona eleitoral",
+    "url": "https://g1.globo.com/mg/minas-gerais/eleicoes/2026/noticia/2026/10/05/resultado-das-eleicoes-2026-em-agua-comprida-mg-como-foi-a-votacao-no-seu-local-de-votacao-consulte-por-zona-eleitoral.ghtml",
+    "image": "https://s2-g1.glbimg.com/WVvhI-aXx03RnHt4856ANYRuYAc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/V/TlO7yzR12E9L4oYBRwjQ/lacracao-urnas-eletronicas-mcamgo-abr-210920221818-4.jpg"
+  },
+  {
+    "site": "UOL",
+    "title": "'Estamos carregando nas costas a promiscuidade da Suprema Corte', diz Lula",
+    "url": "https://noticias.uol.com.br/eleicoes/2026/10/05/nao-ha-razao-para-nao-sermos-eleitos-no-2-turno-diz-lula-a-aliados.ghtm",
+    "image": ""
+  },
+  {
+    "site": "CNN Brasil",
+    "title": "EUA testam tecnologia antidrones contra cartéis na fronteira com o México",
+    "url": "https://www.cnnbrasil.com.br/internacional/eua-testam-tecnologia-antidrones-contra-carteis-na-fronteira-com-o-mexico/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/10/EUA-testam-tecnologia-antidrones-na-fronteira-com-o-Mexico.png?w=1200&h=630&crop=1"
+  },
+  {
+    "site": "Terra",
+    "title": "Digger: O jeito inusitado que o diretor de Harry Potter encontrou para defender o novo filme de Tom Cruise",
+    "url": "https://www.terra.com.br/diversao/entre-telas/digger-o-jeito-inusitado-que-o-diretor-de-harry-potter-encontrou-para-defender-o-novo-filme-de-tom-cruise,7a38eb182cc6a7c556e61293faf1ee3b9lxvx1ef.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/10/05/436546612-27e4a28ff54fbcd96c3345a9939999c8.jpg"
   },
   {
     "site": "BBC",
@@ -67,87 +217,27 @@
   },
   {
     "site": "G1",
-    "title": "Resultado das eleições 2026 em Tabuleiro do Norte (CE): como foi a votação no 1º turno",
-    "url": "https://g1.globo.com/ce/ceara/eleicoes/2026/noticia/2026/10/05/resultado-das-eleicoes-2026-em-tabuleiro-do-norte-ce-como-foi-a-votacao-no-1o-turno.ghtml",
-    "image": "https://s2-g1.glbimg.com/WVvhI-aXx03RnHt4856ANYRuYAc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/V/TlO7yzR12E9L4oYBRwjQ/lacracao-urnas-eletronicas-mcamgo-abr-210920221818-4.jpg"
+    "title": "Goiânia Mostra Curtas: festival de cinema homenageia Linn da Quebrada e escola de artes",
+    "url": "https://g1.globo.com/go/goias/noticia/2026/10/05/goiania-mostra-curtas-festival-de-cinema-homenageia-linn-da-quebrada-e-escola-de-artes.ghtml",
+    "image": "https://s2-g1.glbimg.com/3OhX_MXSlM3xSpqxkOD3SNDAsrk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/K/AVelboRfmnXWIrrWi96w/copia-de-copia-de-copia-de-padrao-foto-g1-goias-18-.jpg"
   },
   {
     "site": "UOL",
-    "title": "Alemanha corre o risco de um conflito violento com a Rússia, diz chefe de inteligência",
-    "url": "https://noticias.uol.com.br/ultimas-noticias/reuters/2026/10/05/alemanha-corre-o-risco-de-um-conflito-violento-com-a-russia-diz-chefe-de-inteligencia.htm",
+    "title": "Rogério Marinho: Partidos no meio do caminho sabem que há responsabilidade",
+    "url": "https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2026/10/05/rogerio-marinho-partidos-no-meio-do-caminho-sabem-que-ha-responsabilidade.htm",
     "image": ""
   },
   {
     "site": "CNN Brasil",
-    "title": "Lembra dele? Renault 8 Gordini volta como cupê elétrico de 270 cv",
-    "url": "https://www.cnnbrasil.com.br/auto/lembra-dele-renault-8-gordini-volta-como-cupe-eletrico-de-270-cv/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/Renault-Gordini-Concept5.jpeg?w=1200&h=630&crop=1"
+    "title": "Aplicativo de segurança do Rio de Janeiro recebe 150 denúncias eleitorais",
+    "url": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/aplicativo-de-seguranca-do-rio-de-janeiro-recebe-150-denuncias-eleitorais/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2024/10/29211044130_864ffce858_o.jpg?w=1200&h=630&crop=1"
   },
   {
     "site": "Terra",
-    "title": "Renault Boreal tem potência reduzida para 160 cv após ajuste no motor 1.3 turbo",
-    "url": "https://www.terra.com.br/mobilidade/renault-boreal-tem-potencia-reduzida-para-160-cv-apos-ajuste-no-motor-13-turbo,84b0a3036dd0f363085f98e6abbc1b072ogwmwgf.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/11/05/renault-boreal-t4q5ocscgsis.jpg"
-  },
-  {
-    "site": "BBC",
-    "title": "Flávio Bolsonaro x Lula: os contrastes dos projetos de Brasil que vão para o 2º turno",
-    "url": "https://www.bbc.com/portuguese/articles/cmpwg82gwd2zo?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/402c/live/9bef5f00-be90-11f1-a64c-550be9e3c66b.jpg"
-  },
-  {
-    "site": "G1",
-    "title": "Três homens são mortos a tiros em Feira de Santana no domingo",
-    "url": "https://g1.globo.com/ba/feira-de-santana-regiao/noticia/2026/10/05/homicidios-feira-de-santana.ghtml",
-    "image": "https://s2-g1.glbimg.com/O4ObVHfNbUrWs--06M_RWRtvxyk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/N/0bKBKORQWX5eibPi8QVg/whatsapp-image-2026-06-04-at-14.48.45.jpeg"
-  },
-  {
-    "site": "UOL",
-    "title": "Dois morrem e 11 são resgatados após incêndio a bordo de navio no Mar Negro, afirma Romênia",
-    "url": "https://noticias.uol.com.br/ultimas-noticias/reuters/2026/10/05/dois-morrem-e-11-sao-resgatados-apos-incendio-a-bordo-de-navio-no-mar-negro-afirma-romenia.htm",
-    "image": ""
-  },
-  {
-    "site": "CNN Brasil",
-    "title": "Oferta pressiona milho, enquanto soja tem suporte da demanda chinesa",
-    "url": "https://www.cnnbrasil.com.br/agro/oferta-pressiona-milho-enquanto-soja-tem-suporte-da-demanda-chinesa/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/Reuters_Direct_Media/BrazilOnlineReportAgribusinessNews/tagreuters.com2026binary_LYNXMPEM3F0XA-BASEIMAGE.jpg?w=800&h=533&crop=1"
-  },
-  {
-    "site": "Terra",
-    "title": "Primeiro turno teve maior abstenção eleitoral em 28 anos",
-    "url": "https://www.terra.com.br/noticias/primeiro-turno-teve-maior-abstencao-eleitoral-em-28-anos,87f002883d0893d3425f638d2527b6847v0l77oq.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/10/05/1372963025-79537422354.jpg"
-  },
-  {
-    "site": "BBC",
-    "title": "'Virada surpreendente': como imprensa internacional repercutiu vitória de Flávio Bolsonaro sobre Lula no 1º turno",
-    "url": "https://www.bbc.com/portuguese/articles/ckj0l4dgd24lo?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/01c3/live/ae9c8fd0-c087-11f1-a4af-19dbf5352a59.jpg"
-  },
-  {
-    "site": "G1",
-    "title": "Anielle Franco é eleita deputada federal pelo RJ em sua primeira disputa eleitoral",
-    "url": "https://g1.globo.com/rj/rio-de-janeiro/eleicoes/2026/noticia/2026/10/05/anielle-franco-e-eleita-deputada-federal-pelo-rj.ghtml",
-    "image": "https://s2-g1.glbimg.com/VpvipgOhJjgpssYu48kgJa-LEOA=/3000x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/9/Y/AQuGgTTEiUeh0xDzE4xQ/fup20230111406.jpg"
-  },
-  {
-    "site": "UOL",
-    "title": "Preso, Bolsonaro emerge como protagonista da eleição de 2026",
-    "url": "https://noticias.uol.com.br/colunas/josias-de-souza/2026/10/05/preso-bolsonaro-emerge-como-protagonista-da-eleicao-de-2026.htm",
-    "image": ""
-  },
-  {
-    "site": "CNN Brasil",
-    "title": "Andrew processa polícia britânica após prisão ligada ao caso Epstein",
-    "url": "https://www.cnnbrasil.com.br/internacional/andrew-processa-policia-britanica-apos-prisao-ligada-ao-caso-epstein/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/10/Andrew-Mountbatten-Windsor.jpg?w=1200&h=630&crop=1"
-  },
-  {
-    "site": "Terra",
-    "title": "Setor de serviços do Brasil volta a contrair em setembro com demanda menor, aponta PMI",
-    "url": "https://www.terra.com.br/economia/setor-de-servicos-do-brasil-volta-a-contrair-em-setembro-com-demanda-menor-aponta-pmi,966d569a06d34a4a183f78b55e10112fn5zfoond.html",
-    "image": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png"
+    "title": "Motorista de ônibus se recusa a deixar passageira com deficiência desembarcar, mesmo após ela apresentar documentos, e só para quatro pontos depois; prolongar o trajeto de forma desnecessária pode terminar em R$ 1,5 mil de indenização",
+    "url": "https://www.terra.com.br/vida-e-estilo/motorista-de-onibus-se-recusa-a-deixar-passageira-com-deficiencia-desembarcar-mesmo-apos-ela-apresentar-documentos-e-so-para-quatro-pontos-depois-prolongar-o-trajeto-de-forma-desnecessaria-pode-terminar-em-r-15-mil-de-indenizacao,976c16fe538c1b1176affeb38a14af94u4aeusvh.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/10/05/798705130-bus-driver-denies-passenger-dise.jpg"
   },
   {
     "site": "BBC",
@@ -157,140 +247,56 @@
   },
   {
     "site": "G1",
-    "title": "Eleições 2026: Veja o resultado do 1º turno por local de votação em Campina Grande",
-    "url": "https://g1.globo.com/pb/paraiba/eleicoes/2022/noticia/2026/10/05/eleicoes-2026-veja-o-resultado-do-1o-turno-por-local-de-votacao-em-campina-grande.ghtml",
-    "image": "https://s2-g1.glbimg.com/qpptrL3pFkY7UQj9PSFL594XYOU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/0/J/plz59ZTNeMSqQuh1xi2w/urna-eletronica.jpeg"
-  },
-  {
-    "site": "UOL",
-    "title": "Homem é condenado a 28 anos de prisão por matar trabalhador rural a golpes de foice no PR",
-    "url": "https://tnonline.uol.com.br/noticias/parana/homem-e-condenado-a-28-anos-de-prisao-por-matar-trabalhador-rural-a-golpes-de-foice-no-pr-1152135",
-    "image": "https://cdn.tnonline.com.br/img/Artigo-Destaque/1150000/1200x630/roberto-cornelio-de-almeida-de-39-anos-01152135-0-202610051001/ScaleProportionalFillBackground-1.jpg?fallback=https%3A%2F%2Fcdn.tnonline.com.br%2Fimg%2FArtigo-Destaque%2F1150000%2Froberto-cornelio-de-almeida-de-39-anos-01152135-0-202610051001.jpg%3Fxid%3D1841168&xid=1841168"
-  },
-  {
-    "site": "CNN Brasil",
-    "title": "De Silvia Abravanel a MC Gui: famosos que perderam nas eleições",
-    "url": "https://www.cnnbrasil.com.br/pop/celebridades/de-silvia-abravanel-a-mc-gui-famosos-que-perderam-nas-eleicoes/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/10/silvia-abravanel-mc-gui-sheherazade.jpg?w=1200&h=630&crop=1"
-  },
-  {
-    "site": "Terra",
-    "title": "França e Alemanha propõem novo instrumento de resposta rápida da UE em comércio",
-    "url": "https://www.terra.com.br/economia/franca-e-alemanha-propoem-novo-instrumento-de-resposta-rapida-da-ue-em-comercio,89b2660a622f550a19840ec1f828c74f3xgkdggr.html",
-    "image": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png"
-  },
-  {
-    "site": "BBC",
-    "title": "Quem são os governadores eleitos em 2026 e quais Estados terão 2º turno: veja os resultados",
-    "url": "https://www.bbc.com/portuguese/articles/c6lyk4jgljv9o?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/4282/live/f076c490-c053-11f1-babe-4199b0e7ccea.png"
-  },
-  {
-    "site": "G1",
-    "title": "Resultado das eleições 2026 em Solonópole (CE): como foi a votação no 1º turno",
-    "url": "https://g1.globo.com/ce/ceara/eleicoes/2026/noticia/2026/10/05/resultado-das-eleicoes-2026-em-solonopole-ce-como-foi-a-votacao-no-1o-turno.ghtml",
+    "title": "Resultado das eleições 2026 em Carmo da Cachoeira (MG): como foi a votação no 1º turno",
+    "url": "https://g1.globo.com/mg/minas-gerais/eleicoes/2026/noticia/2026/10/05/resultado-das-eleicoes-2026-em-carmo-da-cachoeira-mg-como-foi-a-votacao-no-1o-turno.ghtml",
     "image": "https://s2-g1.glbimg.com/WVvhI-aXx03RnHt4856ANYRuYAc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/V/TlO7yzR12E9L4oYBRwjQ/lacracao-urnas-eletronicas-mcamgo-abr-210920221818-4.jpg"
   },
   {
     "site": "UOL",
-    "title": "CallMed prevê R$ 150 milhões de faturamento, impulsionada por fundo equity",
-    "url": "https://www1.folha.uol.com.br/colunas/painelsa/2026/10/callmed-preve-r-150-milhoes-de-faturamento-impulsionada-por-fundo-equity.shtml",
-    "image": "https://f.i.uol.com.br/fotografia/2026/10/04/17911578566ac2e660c8376_1791157856_3x2_rt.jpg"
+    "title": "Veja o resultado da Lotofácil concurso 3797 desta segunda-feira (05)",
+    "url": "https://tnonline.uol.com.br/noticias/cotidiano/veja-o-resultado-da-lotofacil-concurso-3797-desta-segunda-feira-05-1152266",
+    "image": "https://cdn.tnonline.com.br/img/Artigo-Destaque/1150000/1200x630/as-chances-de-ganhar-variam-conforme-a-quantidade--01152266-0-202610052002/ScaleProportionalFillBackground-1.jpg?fallback=https%3A%2F%2Fcdn.tnonline.com.br%2Fimg%2FArtigo-Destaque%2F1150000%2Fas-chances-de-ganhar-variam-conforme-a-quantidade--01152266-0-202610052002.jpg%3Fxid%3D1841607&xid=1841607"
   },
   {
     "site": "CNN Brasil",
-    "title": "Análise: Os fatores que resultaram no 2º lugar de Lula no primeiro turno",
-    "url": "https://www.cnnbrasil.com.br/eleicoes/analise-os-fatores-que-resultaram-no-2o-lugar-de-lula-no-primeiro-turno/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/Lula_8d9e9d.jpg?w=1200&h=630&crop=1"
+    "title": "Como ficam os trabalhos do Congresso até 2027? Cientista político explica",
+    "url": "https://www.cnnbrasil.com.br/politica/como-ficam-os-trabalhos-do-congresso-ate-2027-cientista-politico-explica/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/08/CONGRESSO-NACIONAL-04-08-26-e1789075570748.jpg?w=1200&h=630&crop=1"
   },
   {
     "site": "Terra",
-    "title": "Mercado volta a prever inflação acima de 5% e reduz projeção para o PIB",
-    "url": "https://www.terra.com.br/economia/mercado-volta-a-prever-inflacao-acima-de-5-e-reduz-projecao-para-o-pib,bce1045fd08650c3689c98083c1dec836mwhgijk.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/10/05/1464038394-sbxtd6lavrcfzmhqfdiovn33py.jpg"
+    "title": "Advogada quebra recorde mundial ao correr distância 30% maior do que a circunferência da Terra",
+    "url": "https://www.terra.com.br/vida-e-estilo/advogada-quebra-recorde-mundial-ao-correr-distancia-30-maior-do-que-a-circunferencia-da-terra,ebdab9e16234151dbd066c02cfa363a7ggisztwu.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/10/05/design-sem-nome-2026-10-05t195846-485-u85pf38ano6u.png"
   },
   {
     "site": "BBC",
-    "title": "Nikolas Ferreira e Lucas Pavanato são os deputados mais votados da história: veja os 10 no topo da lista",
-    "url": "https://www.bbc.com/portuguese/articles/c3y0elvd819lo?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/cc50/live/6ec09fb0-c045-11f1-babe-4199b0e7ccea.jpg"
-  },
-  {
-    "site": "G1",
-    "title": "Humberto Martins, Inês Brasil, MC Gui... os artistas que não conseguiram se eleger em 2026",
-    "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/05/humberto-martins-ines-brasil-mc-gui-os-artistas-que-nao-conseguiram-se-eleger-em-2026.ghtml",
-    "image": "https://s2-g1.glbimg.com/zbtzBVxrAF34jx3t9pO5U0qV8Vk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/V/AUptkFSEKL0QMx1wYOfw/montagem-celular-lado-a-lado-1-.png"
-  },
-  {
-    "site": "UOL",
-    "title": "Confira os candidatos a deputado estadual que receberam voto em Apucarana",
-    "url": "https://tnonline.uol.com.br/noticias/apucarana/confira-os-candidatos-a-deputado-estadual-que-receberam-voto-em-apucarana-1152134",
-    "image": "https://cdn.tnonline.com.br/img/Instant-Article/1150000/1200x630/confira-os-candidatos-a-deputado-estadual-que-rece-01152134-0-202610050958/ScaleProportionalFillBackground-1.jpg?fallback=https%3A%2F%2Fcdn.tnonline.com.br%2Fimg%2FInstant-Article%2F1150000%2Fconfira-os-candidatos-a-deputado-estadual-que-rece-01152134-0-202610050958.jpg%3Fxid%3D1841164&xid=1841164"
-  },
-  {
-    "site": "CNN Brasil",
-    "title": "Chefe da inteligência alemã alerta para risco de conflito com Rússia",
-    "url": "https://www.cnnbrasil.com.br/internacional/chefe-da-inteligencia-alema-alerta-para-risco-de-conflito-com-russia/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/10/Alemanha-corre-risco-de-conflito-violento-com-a-Russia-diz-chefe-da-inteligencia.jpg?w=960&h=540&crop=1"
-  },
-  {
-    "site": "Terra",
-    "title": "Meloni registra pedido para proteger própria voz de deepfakes de IA",
-    "url": "https://www.terra.com.br/noticias/mundo/meloni-registra-pedido-para-proteger-propria-voz-de-deepfakes-de-ia,7d5b48929e31b99bc675c454cabf4fe69ym8f2ui.html",
-    "image": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png"
-  },
-  {
-    "site": "BBC",
-    "title": "MAPA mostra o resultado para presidente e governador por Estado e cidade",
+    "title": "Clique aqui",
     "url": "https://www.bbc.com/portuguese/articles/cwly7mke0mpdo?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/7b45/live/d9a237d0-c036-11f1-bc2e-018d645d8d21.jpg"
   },
   {
     "site": "G1",
-    "title": "Sine oferece mais de 100 vagas de emprego em cinco cidades do Piauí nesta segunda (5); veja cargos",
-    "url": "https://g1.globo.com/pi/piaui/trabalho-e-carreira/noticia/2026/10/05/vagas-de-emprego-piaui.ghtml",
-    "image": "https://s2-g1.glbimg.com/3JMmbCWAgl_54cyBlp311RCdjVM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/Y/L0QhU8RyqAAu6DX7WAkg/cateira-1.jpg"
+    "title": "VÍDEOS: Jornal Anhanguera 2ª Edição de segunda-feira, 05 de outubro de 2026",
+    "url": "https://g1.globo.com/go/goias/edicao/2026/10/05/videos-jornal-anhanguera-2-edicao-de-segunda-feira-05-de-outubro-de-2026.ghtml",
+    "image": "https://s2-g1.glbimg.com/la6Acc6YaEWILE_7PKkQCHA2EBE=/s01.video.glbimg.com/deo/vi/64/63/15026364"
   },
   {
     "site": "UOL",
-    "title": "Cinco deputados federais mais votados de SP têm menos de 40 anos",
-    "url": "https://www.redetv.uol.com.br/jornalismo/politica/cinco-deputados-federais-mais-votados-de-sp-tem-menos-de-40-anos",
-    "image": "https://images.redetv.uol.com.br/public/jornalismo/redetvinoticias/20261005095511Ug0BuyD9AW.jpg"
-  },
-  {
-    "site": "CNN Brasil",
-    "title": "Alimentos devem seguir pressionando inflação em 2027, aponta Focus",
-    "url": "https://www.cnnbrasil.com.br/agro/alimentos-devem-seguir-pressionando-inflacao-em-2027-aponta-focus/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2022/09/supermercado.jpg?w=1200&h=630&crop=1"
-  },
-  {
-    "site": "Terra",
-    "title": "Manter eleitorado motivado e confronto direto com Lula: os desafios de Flávio Bolsonaro no 2º turno",
-    "url": "https://www.terra.com.br/noticias/eleicoes/manter-eleitorado-motivado-e-confronto-direto-com-lula-os-desafios-de-flavio-bolsonaro-no-2-turno,1afe302ffc10fba1d19cb050c2517e00d04it7uj.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/10/05/age20261004130-1hblj0w75j2ut.jpg"
-  },
-  {
-    "site": "G1",
-    "title": "Resultado das eleições 2026 em Senador Sá (CE): como foi a votação no 1º turno",
-    "url": "https://g1.globo.com/ce/ceara/eleicoes/2026/noticia/2026/10/05/resultado-das-eleicoes-2026-em-senador-sa-ce-como-foi-a-votacao-no-1o-turno.ghtml",
-    "image": "https://s2-g1.glbimg.com/WVvhI-aXx03RnHt4856ANYRuYAc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/V/TlO7yzR12E9L4oYBRwjQ/lacracao-urnas-eletronicas-mcamgo-abr-210920221818-4.jpg"
-  },
-  {
-    "site": "UOL",
-    "title": "Flávio Bolsonaro vence na América Latina em número de votos; Lula ganha em Buenos Aires",
-    "url": "https://noticias.uol.com.br/ultimas-noticias/rfi/2026/10/05/flavio-bolsonaro-vence-na-america-latina-em-numero-de-votos-lula-ganha-em-buenos-aires.htm",
+    "title": "'Não merece meu apoio', diz Nikolas sobre Carlos Bolsonaro",
+    "url": "https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2026/10/05/nikolas-sobre-carlos-uma-pessoa-que-fala-que-tentei-matar-o-pai-dele-nao-merece-meu-apoio.htm",
     "image": ""
   },
   {
     "site": "CNN Brasil",
-    "title": "Eleições 2026: Datena não se elege deputado federal por São Paulo",
-    "url": "https://www.cnnbrasil.com.br/eleicoes/datena-perde-eleicoes-a-deputado-federal-por-sao-paulo/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2024/09/ATO20240901078.jpg?w=1200&h=630&crop=1"
+    "title": "Estimativa é de 16,7 milhões de veículos nas rodovias estaduais no feriado",
+    "url": "https://www.cnnbrasil.com.br/nacional/brasil/estimativa-e-de-167-milhoes-de-veiculos-nas-rodovias-estaduais-no-feriado/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/10/Rodovias-.png?w=1029&h=630&crop=1"
   },
   {
     "site": "Terra",
-    "title": "Migração de votos para Flávio e comparecimento nas urnas: os desafios de Lula no 2º turno",
-    "url": "https://www.terra.com.br/noticias/eleicoes/migracao-de-votos-para-flavio-e-comparecimento-nas-urnas-os-desafios-de-lula-no-2-turno,62cc25f39c89cbc32b081b83e307b095n52nksrl.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/10/05/ato20261004183-qy1m51ye0p4i.jpg"
+    "title": "Flávia Alessandra expõe decisão dolorosa e revela o que ninguém sabia sobre fim com Marcos Paulo",
+    "url": "https://www.terra.com.br/diversao/gente/flavia-alessandra-expoe-decisao-dolorosa-e-revela-o-que-ninguem-sabia-sobre-fim-com-marcos-paulo,5b2e4437277462f09d9435a7c7a95380u2isre18.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/10/05/1073072924-whatsapp-image-2026-10-05-at-184330.jpg"
   }
 ]
