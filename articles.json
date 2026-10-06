@@ -1,33 +1,243 @@
 [
   {
     "site": "BBC",
-    "title": "Avanço da direita em eleição no Brasil é vitória de Trump?",
-    "url": "https://www.bbc.com/portuguese/articles/cq8ezl2j0380o?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/51f5/live/50696600-c15d-11f1-bc2e-018d645d8d21.png"
+    "title": "Como o agro-bolsonarismo na Amazônia e no Centro-Oeste equilibrou a disputa com Nordeste lulista, segundo professor de universidade britânica",
+    "url": "https://www.bbc.com/portuguese/articles/c5vgyl2gk7jyo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/d236/live/c0365c70-b818-11f1-bc1f-3f186ca4140c.png"
   },
   {
     "site": "G1",
-    "title": "Resultado das eleições 2026 em Sentinela do Sul (RS): como foi a votação no 1º turno",
-    "url": "https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-sentinela-do-sul-rs-como-foi-a-votacao-no-1o-turno.ghtml",
-    "image": "https://s2-g1.glbimg.com/WVvhI-aXx03RnHt4856ANYRuYAc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/V/TlO7yzR12E9L4oYBRwjQ/lacracao-urnas-eletronicas-mcamgo-abr-210920221818-4.jpg"
+    "title": "Primeira sessão da Assembleia Legislativa de Roraima após as eleições é cancelada",
+    "url": "https://g1.globo.com/rr/roraima/noticia/2026/10/06/primeira-sessao-da-assembleia-legislativa-de-roraima-apos-as-eleicoes-nao-e-realizada.ghtml",
+    "image": "https://s2-g1.glbimg.com/Plbqy_qeal2ydC0vG-mWkt6kBmE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/i/P/hBAWo5SJactDZLWuW3rw/foto-7-2-.jpg"
   },
   {
     "site": "UOL",
-    "title": "Veículo militar tomba e mata soldado em treino na Austrália",
-    "url": "https://noticias.uol.com.br/internacional/ultimas-noticias/2026/10/06/veiculo-militar-tomba-e-mata-soldado-em-treino-na-australia.ghtm",
+    "title": "PSOL, Rede e PDT não alcançaram cláusula de barreira: o que acontece agora?",
+    "url": "https://noticias.uol.com.br/eleicoes/2026/10/06/psol-rede-e-pdt-nao-alcancaram-clausula-de-barreira-o-que-acontece-agora.ghtm",
     "image": ""
   },
   {
     "site": "CNN Brasil",
-    "title": "Alberto Valentim admite que fama de “bonitão” atrapalhou sua carreira",
-    "url": "https://www.cnnbrasil.com.br/esportes/futebol/alberto-valentim-admite-que-fama-de-bonitao-atrapalhou-sua-carreira/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/10/alberto-valentim-e1791287628189.jpg?w=1080&h=608&crop=1"
+    "title": "Cleitinho faz procedimento estético um dia após ser eleito governador de MG",
+    "url": "https://www.cnnbrasil.com.br/eleicoes/cleitinho-faz-procedimento-estetico-um-dia-apos-ser-eleito-governador-de-mg/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/10/Cleitinho-Azevedo-governador-eleito-de-Minas-Gerais.jpeg?w=900&h=562&crop=1"
   },
   {
     "site": "Terra",
-    "title": "Círculos de fadas: fenômeno misterioso ainda desafia os cientistas",
-    "url": "https://www.terra.com.br/noticias/circulos-de-fadas-fenomeno-misterioso-ainda-desafia-os-cientistas,4075e7729868eae507b1275f7e810651yfq8ccyd.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/10/06/809920285-fairycirclesnamibia-e1696008120380.jpg"
+    "title": "Ex-vendedor ambulante, MC Binn supera infância humilde na música, compra baita apê de frente para o mar e celebra conquista de refúgio praiano no litoral paulista",
+    "url": "https://www.terra.com.br/diversao/ex-vendedor-ambulante-mc-binn-supera-infancia-humilde-na-musica-compra-baita-ape-de-frente-para-o-mar-e-celebra-conquista-de-refugio-praiano-no-litoral-paulista,8f7ae01b68d833f9dc7bc97d06816195lgylutrl.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/10/06/331662464-20261006-capa-portais-2026-10-06t181940721.jpg"
+  },
+  {
+    "site": "BBC",
+    "title": "Deputada mais votada de SP apresentou projetos de lei que repetem textos de outros políticos e erra até a própria cidade",
+    "url": "https://www.bbc.com/portuguese/articles/crwyd10307kjo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/6765/live/48df9df0-c1b2-11f1-8839-076338316de3.png"
+  },
+  {
+    "site": "G1",
+    "title": "EPTV 2 Campinas ao vivo",
+    "url": "https://g1.globo.com/sp/campinas-regiao/ao-vivo/veja-o-eptv-2-campinas-ao-vivo.ghtml",
+    "image": "https://s2-g1.glbimg.com/4nJ1rXm8Nk5tISd6_Cqg47RgRtY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/V/h/hFmDSxS6m7LBBPA0SAlg/still0418-00010.jpg"
+  },
+  {
+    "site": "UOL",
+    "title": "'Faltou': mensagem no site do TSE não significa que eleitor não votou",
+    "url": "https://noticias.uol.com.br/eleicoes/2026/10/06/faltou-mensagem-no-site-do-tse-nao-significa-que-eleitor-nao-votou.ghtm",
+    "image": ""
+  },
+  {
+    "site": "CNN Brasil",
+    "title": "Flávio diz que usará maioria no Congresso para “mudar Constituição”",
+    "url": "https://www.cnnbrasil.com.br/eleicoes/flavio-diz-que-usara-maioria-no-congresso-para-mudar-constituicao/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/10/FLAVIO3.jpg?w=1200&h=630&crop=1"
+  },
+  {
+    "site": "Terra",
+    "title": "Mais de 105 mil eleitores digitaram '22' para governador em São Paulo; número foi registrado como nulo",
+    "url": "https://www.terra.com.br/noticias/eleicoes/mais-de-105-mil-eleitores-digitaram-22-para-governador-em-sao-paulo-numero-foi-registrado-como-nulo,b44bea6391bfaa0b34aa579890d0093c9wnre2aj.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/10/05/413344504-vfysnbco5jaupalstfkd4c7lxy.jpeg"
+  },
+  {
+    "site": "BBC",
+    "title": "Mulher condenada à morte nos EUA está consciente após tentativa de execução fracassada, dizem advogados",
+    "url": "https://www.bbc.com/portuguese/articles/cked39wwg4glo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/226c/live/7221efd0-c1c9-11f1-b8a9-47f21beea0a3.jpg"
+  },
+  {
+    "site": "G1",
+    "title": "Assista ao Jornal Vanguarda ao vivo no g1",
+    "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/ao-vivo/assista-ao-jornal-vanguarda-ao-vivo-no-g1.ghtml",
+    "image": "https://s2-g1.glbimg.com/JUlrL8xbxN4SRa6eMbFfPbSqi4I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/R/R/SdP4NhSuG9lQDEyOl9pg/texto-do-seu-paragrafo-21-.png"
+  },
+  {
+    "site": "UOL",
+    "title": "Tenente-coronel réu por morte da esposa contesta perícia e mensagens sobre separação",
+    "url": "https://www1.folha.uol.com.br/cotidiano/2026/10/tenente-coronel-reu-por-morte-da-esposa-contesta-pericia-e-mensagens-sobre-separacao.shtml",
+    "image": "https://f.i.uol.com.br/fotografia/2026/02/21/1771704621699a112d65135_1771704621_3x2_lg.jpg"
+  },
+  {
+    "site": "CNN Brasil",
+    "title": "Ex de Hayden Panettiere diz que bens de atriz foram penhorados por estranho",
+    "url": "https://www.cnnbrasil.com.br/pop/celebridades/ex-de-hayden-panettiere-diz-que-bens-de-atriz-foram-penhoradas-por-estranho/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/08/Hayden-Panettiere.avif?w=1200&h=630&crop=1"
+  },
+  {
+    "site": "Terra",
+    "title": "A declaração de Hulk direcionada ao Palmeiras",
+    "url": "https://www.terra.com.br/esportes/palmeiras/a-declaracao-de-hulk-direcionada-ao-palmeiras,e38dd39528d9d36f9a54410755284c76oi1mp98t.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/10/06/7789970-55274599448e0d839c27dk.jpg"
+  },
+  {
+    "site": "BBC",
+    "title": "Peste peneumônica: o que se sabe sobre a morte de pesquisadora russa",
+    "url": "https://www.bbc.com/portuguese/articles/cmqxnw3nxn4vo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/2d23/live/9dd2e180-c100-11f1-af3c-abf7beab7214.jpg"
+  },
+  {
+    "site": "G1",
+    "title": "Siga o EPTV 2 Ribeirão e Franca",
+    "url": "https://g1.globo.com/sp/ribeirao-preto-franca/ao-vivo/eptv-2-ribeirao-e-franca-ao-vivo.ghtml",
+    "image": "https://s2-g1.glbimg.com/4nJ1rXm8Nk5tISd6_Cqg47RgRtY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/V/h/hFmDSxS6m7LBBPA0SAlg/still0418-00010.jpg"
+  },
+  {
+    "site": "UOL",
+    "title": "Lula teve 126 decisões favoráveis no TSE em 8 meses de campanha",
+    "url": "https://redir.folha.com.br/redir/online/colunas/monicabergamo/rss091/*https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/lula-teve-126-decisoes-favoraveis-no-tse-em-8-meses-de-campanha.shtml",
+    "image": "https://f.i.uol.com.br/fotografia/2026/10/05/17912425446ac4313026957_1791242544_3x2_rt.jpg"
+  },
+  {
+    "site": "CNN Brasil",
+    "title": "Temos que trazer eleitores moderados para Lula, diz Marília Arraes à CNN",
+    "url": "https://www.cnnbrasil.com.br/eleicoes/temos-que-trazer-eleitores-moderados-para-lula-diz-marilia-arraes-a-cnn/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/img20250813133038760.jpg?w=1200&h=630&crop=1"
+  },
+  {
+    "site": "Terra",
+    "title": "Alerta ligado! Botafogo poderá perder seis jogadores de graça",
+    "url": "https://www.terra.com.br/esportes/botafogo/alerta-ligado-botafogo-podera-perder-seis-jogadores-de-graca,a2653449ae279c5741d4d1cb5e62422fxalxum2q.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/10/06/976041894-555380862464b75af3e95k-1.jpg"
+  },
+  {
+    "site": "BBC",
+    "title": "Fim da escala 6x1 vai prejudicar a economia? Exemplos de países europeus e do próprio Brasil indicam que não",
+    "url": "https://www.bbc.com/portuguese/articles/c9861jj5l58o?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/e444/live/477af550-a70d-11f1-adb7-ad73f5f76a76.jpg"
+  },
+  {
+    "site": "G1",
+    "title": "Homem suspeito de furtar cozinha comunitária e quadra é preso em Paraíba do Sul",
+    "url": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/10/06/homem-suspeito-de-furtar-cozinha-comunitaria-e-quadra-e-preso-em-paraiba-do-sul.ghtml",
+    "image": "https://s2-g1.glbimg.com/yCHvemJcFo2qguym34XR5SYlQIE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/V/O/0ocXpATnufnkxGFc5Ghw/image-1-.png"
+  },
+  {
+    "site": "UOL",
+    "title": "Edinho diz ter conversado com Kassab e Marcos Pereira sobre 2º turno",
+    "url": "https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2026/10/06/edinho-diz-ter-conversado-com-kassab-e-marcos-pereira-sobre-2-turno.htm",
+    "image": ""
+  },
+  {
+    "site": "CNN Brasil",
+    "title": "Messi, Maradona, Pelé e outros: veja a comparação entre números dos craques",
+    "url": "https://www.cnnbrasil.com.br/esportes/futebol/messi-maradona-pele-e-outros-veja-a-comparacao-entre-numeros-dos-craques/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/09/messi_cristiano_ronaldo.png?w=1200&h=630&crop=1"
+  },
+  {
+    "site": "Terra",
+    "title": "Cachorros rebaixados: 6 raças que se destacam pelas pernas curtas",
+    "url": "https://www.terra.com.br/vida-e-estilo/pets/cachorros-rebaixados-6-racas-que-se-destacam-pelas-pernas-curtas,1096ffc3f2842bc9f71a96ee5a771daej7kmi77k.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/10/06/2003191025-scottishterrier.png"
+  },
+  {
+    "site": "BBC",
+    "title": "O que são as 'partículas fantasma' que deram Nobel de Física a professor da Bélgica",
+    "url": "https://www.bbc.com/portuguese/articles/c6kglr3wy2zgo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/73fd/live/3d7299c0-c16e-11f1-a003-8be783290413.jpg"
+  },
+  {
+    "site": "G1",
+    "title": "Abstenção cai no 1º turno no Acre na comparação com 2022; mais de 125 mil eleitores não foram votar",
+    "url": "https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/10/06/abstencao-no-acre-1-turno.ghtml",
+    "image": "https://s2-g1.glbimg.com/MSGLUeCV-0wuQZCWF5Oj7qbomSI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/K/yCCx7dSSeRYsr7WT5Alg/midia-de-distribuicao-g1-2026-10-05t185358.860.jpg"
+  },
+  {
+    "site": "UOL",
+    "title": "Quais as propostas de Flávio Bolsonaro e Lula para a saúde? Veja projetos",
+    "url": "https://noticias.uol.com.br/eleicoes/2026/10/06/quais-as-propostas-de-flavio-bolsonaro-e-lula-para-a-saude-veja-projetos.ghtm",
+    "image": ""
+  },
+  {
+    "site": "CNN Brasil",
+    "title": "Leila do Vôlei pede licença médica do Senado e não retornará ao mandato",
+    "url": "https://www.cnnbrasil.com.br/politica/leila-do-volei-pede-licenca-medica-do-senado-e-nao-retornara-ao-mandato/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/06/54612016270_b9f243b56e_o.jpg?w=1200&h=630&crop=1"
+  },
+  {
+    "site": "Terra",
+    "title": "EUA prendem pessoa ligada a tiroteio em escola no Canadá, dizem autoridades",
+    "url": "https://www.terra.com.br/noticias/mundo/eua-prendem-pessoa-ligada-a-tiroteio-em-escola-no-canada-dizem-autoridades,0e2ef40c8e6fbdec42634036d7592722msnegzpj.html",
+    "image": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png"
+  },
+  {
+    "site": "BBC",
+    "title": "Debates no segundo turno: datas, o que se sabe e o que falta definir sobre a participação de Lula e Flávio Bolsonaro",
+    "url": "https://www.bbc.com/portuguese/articles/cmd93nkj51pgo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/cd78/live/099be6d0-c1cb-11f1-bf14-1b690680309f.jpg"
+  },
+  {
+    "site": "G1",
+    "title": "Tempestade deixa animais mortos e casas destelhadas em distrito na fronteira",
+    "url": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/10/06/tempestade-deixa-animais-mortos-e-casas-destelhadas-em-distrito-na-fronteira.ghtml",
+    "image": "https://s2-g1.glbimg.com/SAk-kzmI5_Tx0jT1mx9p9GUGOfs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/l/Hq42WSTjy6GZBQv3xsYg/para-o-g1-2026-10-06t174024.019.jpg"
+  },
+  {
+    "site": "UOL",
+    "title": "Wall Street fecha em alta, com recordes do S&P 500 e do Nasdaq",
+    "url": "https://noticias.uol.com.br/ultimas-noticias/afp/2026/10/06/wall-street-fecha-em-alta-com-recordes-do-sp-500-e-do-nasdaq.htm",
+    "image": ""
+  },
+  {
+    "site": "CNN Brasil",
+    "title": "PGR se manifesta a favor de Bolsonaro receber visita de Flávio",
+    "url": "https://www.cnnbrasil.com.br/politica/pgr-se-manifesta-a-favor-de-bolsonaro-receber-visita-de-flavio/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/12/GettyImages-1239548438-e1768359383186.jpg?w=1200&h=630&crop=1"
+  },
+  {
+    "site": "Terra",
+    "title": "Polícia reprime protesto da oposição indiana que exigia renúncia do chefe da comissão eleitoral",
+    "url": "https://www.terra.com.br/noticias/mundo/policia-reprime-protesto-da-oposicao-indiana-que-exigia-renuncia-do-chefe-da-comissao-eleitoral,cf3fb7d58026dcd709b4d1661619201aw1p7j0im.html",
+    "image": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png"
+  },
+  {
+    "site": "BBC",
+    "title": "O que explica a diferença entre o resultado das urnas e as pesquisas",
+    "url": "https://www.bbc.com/portuguese/articles/cq5ynrke17mdo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/f458/live/e8c31230-c1ac-11f1-8fa2-19a1e9b6288f.jpg"
+  },
+  {
+    "site": "G1",
+    "title": "Homem é detido por suspeita de furtar os objetos da mãe em Barra Mansa",
+    "url": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/10/06/homem-e-detido-por-suspeita-de-furtar-os-objetos-da-mae-em-barra-mansa.ghtml",
+    "image": "https://s2-g1.glbimg.com/_tK9Uy79xaF3PD0Em5ADik1oXsE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/L/3xDF8NRZyqkAoSUIvPAg/whatsapp-image-2026-10-06-at-18.48.44-1-.jpeg"
+  },
+  {
+    "site": "UOL",
+    "title": "Documento sobre fundo secreto de Trump contra o STF cita lobby de Eduardo",
+    "url": "https://noticias.uol.com.br/colunas/mariana-sanches/2026/10/06/documento-sobre-fundo-secreto-de-trump-contra-o-stf-cita-lobby-de-eduardo.htm",
+    "image": ""
+  },
+  {
+    "site": "CNN Brasil",
+    "title": "Sem Sinner, Zverev tem caminho aberto para terminar o ano como número 1",
+    "url": "https://www.cnnbrasil.com.br/esportes/tenis/sem-sinner-zverev-tem-caminho-aberto-para-terminar-o-ano-como-numero-1/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/07/zverev_wimbledon-e1783453248236.jpg?w=1200&h=630&crop=1"
+  },
+  {
+    "site": "Terra",
+    "title": "Suárez manda recado para Messi antes da despedida da Argentina",
+    "url": "https://www.terra.com.br/esportes/futebol/internacional/argentina/suarez-manda-recado-para-messi-antes-da-despedida-da-argentina,ab80c4107ec51de7a1d35680dc27de8155l402pu.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/10/06/1978960910-inter-miami-cf-v-san-diego-fc-1-610x400.jpg"
   },
   {
     "site": "BBC",
@@ -37,237 +247,27 @@
   },
   {
     "site": "G1",
-    "title": "Resultado das eleições 2026 em Palmitinho (RS): como foi a votação no seu local de votação; consulte por zona eleitoral",
-    "url": "https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-palmitinho-rs-como-foi-a-votacao-no-seu-local-de-votacao-consulte-por-zona-eleitoral.ghtml",
+    "title": "Resultado das eleições 2026 em Tocantínia (TO): como foi a votação no seu local de votação; consulte por zona eleitoral",
+    "url": "https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-tocantinia-to-como-foi-a-votacao-no-seu-local-de-votacao-consulte-por-zona-eleitoral.ghtml",
     "image": "https://s2-g1.glbimg.com/WVvhI-aXx03RnHt4856ANYRuYAc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/V/TlO7yzR12E9L4oYBRwjQ/lacracao-urnas-eletronicas-mcamgo-abr-210920221818-4.jpg"
   },
   {
     "site": "UOL",
-    "title": "Rússia nega ter ordenado restrições devido a suposto caso de peste pneumônica",
-    "url": "https://noticias.uol.com.br/ultimas-noticias/afp/2026/10/06/russia-nega-ter-ordenado-restricoes-devido-a-suposto-caso-de-peste-pneumonica.htm",
-    "image": ""
+    "title": "TSE desmente fraude nas eleições e explica pausa de 50 minutos na divulgação de resultados",
+    "url": "https://tnonline.uol.com.br/eleicoes/2026/tse-desmente-fraude-nas-eleicoes-e-explica-pausa-de-50-minutos-na-divulgacao-de-resultados-1152575",
+    "image": "https://cdn.tnonline.com.br/img/Instant-Article/1150000/1200x630/eleitor-vota-na-urna-eletronica-01151452-0-202610021318/ScaleProportionalFillBackground-1.jpg?fallback=https%3A%2F%2Fcdn.tnonline.com.br%2Fimg%2FInstant-Article%2F1150000%2Feleitor-vota-na-urna-eletronica-01151452-0-202610021318.jpg%3Fxid%3D1842706&xid=1842706"
   },
   {
     "site": "CNN Brasil",
-    "title": "Loja de “Inconveniência”: como um antigo mercado trocou a eficiência para vender o puro absurdo",
-    "url": "https://www.cnnbrasil.com.br/curiosidades/loja-de-inconveniencia-como-um-antigo-mercado-trocou-a-eficiencia-para-vender-o-puro-absurdo/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/10/Incovenience-Store.jpg?w=1200&h=630&crop=1"
+    "title": "OEA aponta interferência externa e desinformação na eleição brasileira",
+    "url": "https://www.cnnbrasil.com.br/eleicoes/oea-aponta-interferencia-externa-e-desinformacao-na-eleicao-brasileira/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2022/09/bandeira-oea-e1664229441643.jpg?w=1200&h=630&crop=1"
   },
   {
     "site": "Terra",
-    "title": "Ajuda urgente: a batalha de Josevan pela vida após infarto durante jogo de Beach Tênis",
-    "url": "https://www.terra.com.br/noticias/ajuda-urgente-a-batalha-de-josevan-pela-vida-apos-infarto-durante-jogo-de-beach-tenis,3fadd300f158a8d1f1bab714061d25d6faofxxll.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/10/06/1576044024-cover-ajude-nosso-amigo-josevan.jpg"
-  },
-  {
-    "site": "BBC",
-    "title": "Ressurgimento de Bolsonaro expõe a fraqueza de Lula, diz jornal econômico mais importante do mundo",
-    "url": "https://www.bbc.com/portuguese/articles/cwe9lgvx3mj0o?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/a5f8/live/d4582380-c170-11f1-a003-8be783290413.jpg"
-  },
-  {
-    "site": "G1",
-    "title": "Resultado das eleições 2026 em Passo Fundo (RS): como foi a votação no 1º turno",
-    "url": "https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-passo-fundo-rs-como-foi-a-votacao-no-1o-turno.ghtml",
-    "image": "https://s2-g1.glbimg.com/WVvhI-aXx03RnHt4856ANYRuYAc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/V/TlO7yzR12E9L4oYBRwjQ/lacracao-urnas-eletronicas-mcamgo-abr-210920221818-4.jpg"
-  },
-  {
-    "site": "UOL",
-    "title": "Mãe da Araponguense Bianca Andrade revela avanço de câncer e pede orações pela filha",
-    "url": "https://tnonline.uol.com.br/noticias/arapongas/mae-da-araponguense-bianca-andrade-revela-avanco-de-cancer-e-pede-oracoes-pela-filha-1152319",
-    "image": "https://cdn.tnonline.com.br/img/Artigo-Destaque/1150000/1200x630/mae-da-araponguense-bianca-andrade-revela-avanco-d-01152319-0-202610060917/ScaleProportionalFillBackground-1.jpg?fallback=https%3A%2F%2Fcdn.tnonline.com.br%2Fimg%2FArtigo-Destaque%2F1150000%2Fmae-da-araponguense-bianca-andrade-revela-avanco-d-01152319-0-202610060917.jpg%3Fxid%3D1841760&xid=1841760"
-  },
-  {
-    "site": "CNN Brasil",
-    "title": "Espanha analisa novas regras para o mercado imobiliário após protestos",
-    "url": "https://www.cnnbrasil.com.br/internacional/espanha-analisa-novas-regras-para-o-mercado-imobiliario-apos-protestos/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/Protestos-em-Madri-por-novas-politicas-de-habitacao-na-Espanha.jpg?w=1200&h=630&crop=1"
-  },
-  {
-    "site": "Terra",
-    "title": "O vento derrubou a nossa casa, mas não a nossa fé",
-    "url": "https://www.terra.com.br/noticias/o-vento-derrubou-a-nossa-casa-mas-nao-a-nossa-fe,4f01ccd03f770dec20af22e8eba149f8pe2rqyj1.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/10/06/952953652-cover-o-vento-levou-a-casa-mas-nao-a-nossa-fe.jpg"
-  },
-  {
-    "site": "BBC",
-    "title": "Como a guerra aumentou a violência sexual e os casamentos forçados de meninas e mulheres em Gaza",
-    "url": "https://www.bbc.com/portuguese/articles/c8ly4yd5xkkpo?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/7adb/live/a6e48140-b717-11f1-bc1f-3f186ca4140c.jpg"
-  },
-  {
-    "site": "G1",
-    "title": "VÍDEOS: Bom Dia Cidade Sul de Minas de terça-feira, 6 de outubro de 2026",
-    "url": "https://g1.globo.com/mg/sul-de-minas/edicao/2026/10/06/videos-bom-dia-cidade-sul-de-minas-de-terca-feira-6-de-outubro-de-2026.ghtml",
-    "image": "https://s2-g1.glbimg.com/hqo3tflaoWjRaActkwAXGL4hZik=/s01.video.glbimg.com/deo/vi/21/00/15030021"
-  },
-  {
-    "site": "UOL",
-    "title": "Como o ataque de 7 de outubro de 2023 mudou o destino da Palestina",
-    "url": "https://noticias.uol.com.br/ultimas-noticias/rfi/2026/10/06/como-o-ataque-de-7-de-outubro-de-2023-mudou-o-destino-da-palestina.htm",
-    "image": ""
-  },
-  {
-    "site": "CNN Brasil",
-    "title": "Lucro da Cargill recua 52% no primeiro trimestre fiscal de 2027",
-    "url": "https://www.cnnbrasil.com.br/agro/lucro-da-cargill-recua-52-no-primeiro-trimestre-fiscal-de-2027/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/Reuters_Direct_Media/BrazilOnlineReportAgribusinessNews/tagreuters.com2021binary_LYNXMPEH820I3-VIEWIMAGE.jpg?w=450&h=271&crop=1"
-  },
-  {
-    "site": "Terra",
-    "title": "A luta de Beatriz contra o câncer e a busca por apoio financeiro",
-    "url": "https://www.terra.com.br/noticias/a-luta-de-beatriz-contra-o-cancer-e-a-busca-por-apoio-financeiro,d89f31533d2a1e059f6ad3032ce12677oi9z7253.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/10/06/506645801-cover-ajude-a-beatriz-nos-custos-da-luta-contra-o-cancer.jpg"
-  },
-  {
-    "site": "BBC",
-    "title": "O que está por trás da euforia do mercado com vantagem de Flávio Bolsonaro no 1º turno",
-    "url": "https://www.bbc.com/portuguese/articles/c933xvxj7dryo?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/6458/live/f601d790-c0dc-11f1-8cf3-7dbc6a5861dd.jpg"
-  },
-  {
-    "site": "G1",
-    "title": "Resultado das eleições 2026 em Nova Petrópolis (RS): como foi a votação no seu local de votação; consulte por zona eleitoral",
-    "url": "https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-nova-petropolis-rs-como-foi-a-votacao-no-seu-local-de-votacao-consulte-por-zona-eleitoral.ghtml",
-    "image": "https://s2-g1.glbimg.com/WVvhI-aXx03RnHt4856ANYRuYAc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/V/TlO7yzR12E9L4oYBRwjQ/lacracao-urnas-eletronicas-mcamgo-abr-210920221818-4.jpg"
-  },
-  {
-    "site": "UOL",
-    "title": "Flávio Bolsonaro consolida apoios e Lula reorganiza estratégia para o segundo turno",
-    "url": "https://www.redetv.uol.com.br/jornalismo/geral/flavio-bolsonaro-consolida-apoios-e-lula-reorganiza-estrategia-para-o-segun",
-    "image": "https://images.redetv.uol.com.br/public/jornalismo/redetvinoticias/202610020902017WW0eOR9Ja.jpg"
-  },
-  {
-    "site": "CNN Brasil",
-    "title": "Hugo Calderano vence com tranquilidade e avança às oitavas do China Smash",
-    "url": "https://www.cnnbrasil.com.br/esportes/outros-esportes/hugo-calderano-vence-com-tranquilidade-e-avanca-as-oitavas-do-china-smash/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/10/Hugo-Calderano-e1791286894912.jpg?w=1150&h=630&crop=1"
-  },
-  {
-    "site": "Terra",
-    "title": "Ajude a Jade: uma luta pela vida e esperança",
-    "url": "https://www.terra.com.br/noticias/ajude-a-jade-uma-luta-pela-vida-e-esperanca,f7fa9965cf5b34c1c6f7f4f132431068q7lgbhex.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/10/06/145246346-cover-ajude-a-jade-byanca-lima-do-nascimento.jpg"
-  },
-  {
-    "site": "BBC",
-    "title": "Projeto do fim da escala 6x1 será derrotado no Senado, mas virará último ativo eleitoral de Lula, avalia historiador",
-    "url": "https://www.bbc.com/portuguese/articles/cxp8gl2zlez7o?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/ecb1/live/7c3c88b0-c073-11f1-a64c-550be9e3c66b.jpg"
-  },
-  {
-    "site": "G1",
-    "title": "Resultado das eleições 2026 em Palmitinho (RS): como foi a votação nos locais de votação da 94ª Zona Eleitoral",
-    "url": "https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-palmitinho-rs-como-foi-a-votacao-nos-locais-de-votacao-da-94a-zona-eleitoral.ghtml",
-    "image": "https://s2-g1.glbimg.com/WVvhI-aXx03RnHt4856ANYRuYAc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/V/TlO7yzR12E9L4oYBRwjQ/lacracao-urnas-eletronicas-mcamgo-abr-210920221818-4.jpg"
-  },
-  {
-    "site": "UOL",
-    "title": "França testa novo míssil nuclear após ameaças da Rússia; veja vídeo",
-    "url": "https://www1.folha.uol.com.br/mundo/2026/10/franca-testa-novo-missil-nuclear-apos-ameacas-da-russia-veja-video.shtml",
-    "image": "https://f.i.uol.com.br/fotografia/2026/10/06/17912888446ac4e60c1558e_1791288844_3x2_xl.jpg"
-  },
-  {
-    "site": "CNN Brasil",
-    "title": "Rússia diz que nenhum caso de peste foi detectado após morte de cientista",
-    "url": "https://www.cnnbrasil.com.br/internacional/russia-descarta-peste-em-contatos-de-pesquisadora-morta-na-siberia/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/10/A-bacteria-Yersinia-pestis-causa-a-peste-incluindo-a-mais-comum-a-peste-bubonica-que-geralmente-resulta-da-picada-de-uma-pulga-infectada.-A-peste-pneumonica-e-a-forma-mais-grave-da-doenca.jpg?w=1200&h=630&crop=1"
-  },
-  {
-    "site": "Terra",
-    "title": "Juntos por Robson: A luta de um pai contra o câncer de pulmão",
-    "url": "https://www.terra.com.br/noticias/juntos-por-robson-a-luta-de-um-pai-contra-o-cancer-de-pulmao,fcc6840c8befa373aa2e2088a949551a4bnowkf6.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/10/06/1481933957-cover-apoio-para-o-robson-luta-contra-o-cancer-de-pulmao.jpg"
-  },
-  {
-    "site": "BBC",
-    "title": "Trump diz que liderança de Flávio foi 'grande vitória'; veja essa e outras notícias do dia seguinte ao 1º turno",
-    "url": "https://www.bbc.co.uk/portuguese/live/c94g1vj6j2z8t?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/480/cpsprodpb/a91b/live/c73cda40-c104-11f1-9ff2-3b6c88884537.jpg"
-  },
-  {
-    "site": "G1",
-    "title": "Resultado das eleições 2026 em Panambi (RS): votação para presidente na Comunidade Videira, na 115ª zona eleitoral",
-    "url": "https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-panambi-rs-votacao-para-presidente-na-comunidade-videira-na-115a-zona-eleitoral.ghtml",
-    "image": "https://s2-g1.glbimg.com/7w12ioKBWCJs7tHKe_8RIINwK4I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/z/5hNswWTj2bYFJAOlm1og/260916-info-como-consultar-zona-eleitoral-1.jpg"
-  },
-  {
-    "site": "UOL",
-    "title": "Trump ordena que atirador que matou 13 pessoas no Texas seja executado por fuzilamento",
-    "url": "https://noticias.uol.com.br/ultimas-noticias/reuters/2026/10/06/trump-ordena-que-atirador-que-matou-13-pessoas-no-texas-seja-executado-por-fuzilamento.htm",
-    "image": ""
-  },
-  {
-    "site": "CNN Brasil",
-    "title": "Corinthians suspende patrocínio de conteúdo adulto após decisão da Justiça",
-    "url": "https://www.cnnbrasil.com.br/esportes/futebol/corinthians/corinthians-suspende-patrocinio-de-conteudo-adulto-apos-decisao-da-justica/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/Neo-Quimica-Arena-e1789596568876.jpg?w=1200&h=630&crop=1"
-  },
-  {
-    "site": "Terra",
-    "title": "'Rubber Soul' pode recolocar os Beatles no topo das paradas",
-    "url": "https://www.terra.com.br/diversao/musica/meu-sonora/rock/rubber-soul-pode-recolocar-os-beatles-no-topo-das-paradas,16a10aa09fcf6cbe2a49388e27ce16aasx9by7a3.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/10/06/161800654-1791255534295-or1whd.jpg"
-  },
-  {
-    "site": "BBC",
-    "title": "Perda de votos no Nordeste e outros obstáculos de Lula para tentar virada inédita no 2º turno",
-    "url": "https://www.bbc.com/portuguese/articles/cwly3l9rykj5o?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/fb04/live/7096dc50-c0b3-11f1-bc2e-018d645d8d21.png"
-  },
-  {
-    "site": "G1",
-    "title": "Resultado das eleições 2026 em Panambi (RS): votação para presidente no Centro Comunitário Linha Maranei, na 115ª zona eleitoral",
-    "url": "https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-panambi-rs-votacao-para-presidente-no-centro-comunitario-linha-maranei-na-115a-zona-eleitoral.ghtml",
-    "image": "https://s2-g1.glbimg.com/7w12ioKBWCJs7tHKe_8RIINwK4I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/z/5hNswWTj2bYFJAOlm1og/260916-info-como-consultar-zona-eleitoral-1.jpg"
-  },
-  {
-    "site": "UOL",
-    "title": "Estudantes são denunciados por falas racistas e misóginas em grupo de mensagens de universidade",
-    "url": "https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2026/10/06/estudantes-sao-denunciados-por-falas-racistas-e-misoginas-em-grupo-de-mensagens-de-universidade.htm",
-    "image": ""
-  },
-  {
-    "site": "CNN Brasil",
-    "title": "“Quem Ama Cuida”: entenda por que Heitor fingiu estar morto",
-    "url": "https://www.cnnbrasil.com.br/pop/tv/quem-ama-cuida-entenda-por-que-heitor-fingiu-estar-morto/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/10/heitor.jpg?w=1200&h=630&crop=1"
-  },
-  {
-    "site": "Terra",
-    "title": "Mercúrio e Vênus em Escorpião: o que esperar desse encontro astrológico?",
-    "url": "https://www.terra.com.br/vida-e-estilo/horoscopo/mercurio-e-venus-em-escorpiao-o-que-esperar-desse-encontro-astrologico,3d6ad87ed83a9f357b870ee05a288b6bdfkdgq08.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/10/06/1998590730-1791225361.jpg"
-  },
-  {
-    "site": "BBC",
-    "title": "Lula x Flávio no 2º turno: para onde vão os votos de Cury, Renan e Caiado?",
-    "url": "https://www.bbc.com/portuguese/articles/cm209062n3wgo?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/d7ae/live/049472c0-bd10-11f1-babe-4199b0e7ccea.jpg"
-  },
-  {
-    "site": "G1",
-    "title": "Resultado das eleições 2026 em Panambi (RS): votação para presidente na Escola Municipal de Ensino Fundamental Mauricio Cardoso, na 115ª zona eleitoral",
-    "url": "https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-panambi-rs-votacao-para-presidente-na-escola-municipal-de-ensino-fundamental-mauricio-cardoso-na-115a-zona-eleitoral.ghtml",
-    "image": "https://s2-g1.glbimg.com/7w12ioKBWCJs7tHKe_8RIINwK4I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/z/5hNswWTj2bYFJAOlm1og/260916-info-como-consultar-zona-eleitoral-1.jpg"
-  },
-  {
-    "site": "UOL",
-    "title": "Morador armado com facão assusta vizinhos, mobiliza PM e é preso em prédio de Maringá",
-    "url": "https://tnonline.uol.com.br/noticias/parana/morador-armado-com-facao-assusta-vizinhos-mobiliza-pm-e-e-preso-em-predio-de-maringa-1152318",
-    "image": "https://cdn.tnonline.com.br/img/Artigo-Destaque/1150000/1200x630/caso-foi-registrado-em-maringa-01152318-0-202610060911/ScaleProportionalFillBackground-1.jpg?fallback=https%3A%2F%2Fcdn.tnonline.com.br%2Fimg%2FArtigo-Destaque%2F1150000%2Fcaso-foi-registrado-em-maringa-01152318-0-202610060911.webp%3Fxid%3D1841756&xid=1841756"
-  },
-  {
-    "site": "CNN Brasil",
-    "title": "Eleições 2026: Taxa de renovação na Câmara atinge 35,6% em 2026",
-    "url": "https://www.cnnbrasil.com.br/eleicoes/eleicoes-2026-taxa-de-renovacao-na-camara-atinge-356-em-2026/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/07/PLENARIO-CAMARA-15-07-26.jpg?w=1200&h=630&crop=1"
-  },
-  {
-    "site": "Terra",
-    "title": "Ela dormiu 8 horas, acordou cansada e não entendeu por quê. Um estudo encontrou uma pista nos sonhos",
-    "url": "https://www.terra.com.br/vida-e-estilo/saude/ela-dormiu-8-horas-acordou-cansada-e-nao-entendeu-por-que-um-estudo-encontrou-uma-pista-nos-sonhos,f3153a6bdf72367f7758c6c4ea89c911rmo6suoh.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/10/06/803196086-qualidade-do-sono-e-sonhos.jpg"
+    "title": "Neymar e Bruna Biancardi comemoram aniversário de Mavie com festa de luxo em São Paulo",
+    "url": "https://www.terra.com.br/diversao/gente/neymar-e-bruna-biancardi-comemoram-aniversario-de-mavie-com-festa-de-luxo-em-sao-paulo,0208386962277c9ca401b4719905fbfbh2eeisro.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/10/06/neymar-e-bruna-1iaxmrnac35tl.png"
   },
   {
     "site": "BBC",
@@ -277,26 +277,26 @@
   },
   {
     "site": "G1",
-    "title": "Resultado das eleições 2026 em Panambi (RS): votação para presidente na Escola Municipal de Ensino Fundamental 21 de Abril, na 115ª zona eleitoral",
-    "url": "https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-panambi-rs-votacao-para-presidente-na-escola-municipal-de-ensino-fundamental-21-de-abril-na-115a-zona-eleitoral.ghtml",
-    "image": "https://s2-g1.glbimg.com/7w12ioKBWCJs7tHKe_8RIINwK4I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/z/5hNswWTj2bYFJAOlm1og/260916-info-como-consultar-zona-eleitoral-1.jpg"
+    "title": "Resultado das eleições 2026 em Peixe (TO): como foi a votação no seu local de votação; consulte por zona eleitoral",
+    "url": "https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-peixe-to-como-foi-a-votacao-no-seu-local-de-votacao-consulte-por-zona-eleitoral.ghtml",
+    "image": "https://s2-g1.glbimg.com/WVvhI-aXx03RnHt4856ANYRuYAc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/V/TlO7yzR12E9L4oYBRwjQ/lacracao-urnas-eletronicas-mcamgo-abr-210920221818-4.jpg"
   },
   {
     "site": "UOL",
-    "title": "Vendas de veículos novos batem recorde em setembro com alta de 1,15%, diz Fenabrave",
-    "url": "https://www1.folha.uol.com.br/mercado/2026/10/vendas-de-veiculos-novos-batem-recorde-em-setembro-com-alta-de-115-diz-fenabrave.shtml",
-    "image": "https://f.i.uol.com.br/fotografia/2026/10/06/17912884496ac4e4811a8be_1791288449_3x2_rt.jpg"
+    "title": "Fim da 6x1 revela os dois projetos de Brasil de Lula e Flávio",
+    "url": "https://noticias.uol.com.br/colunas/leonardo-sakamoto/2026/10/06/fim-da-6x1-revela-os-dois-projetos-de-brasil-de-lula-e-flavio.htm",
+    "image": ""
   },
   {
     "site": "CNN Brasil",
-    "title": "XP monta Fiagro de R$ 5,3 bilhões para investir em crédito do agronegócio",
-    "url": "https://www.cnnbrasil.com.br/noticias/xp-monta-fiagro-de-r-53-bilhoes-para-investir-em-credito-do-agronegocio/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/02/ChatGPT-Image-27-de-fev.-de-2026-11_00_22.png?w=1200&h=630&crop=1"
+    "title": "Por que bocejamos quando alguém boceja?",
+    "url": "https://www.cnnbrasil.com.br/noticias/por-que-bocejamos-quando-alguem-boceja/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/10/Por-que-bocejamos-quando-alguem-boceja.jpg?w=1200&h=630&crop=1"
   },
   {
     "site": "Terra",
-    "title": "Rehn, do BCE, diz que rendimentos elevados devem atenuar repasse dos preços da energia",
-    "url": "https://www.terra.com.br/economia/rehn-do-bce-diz-que-rendimentos-elevados-devem-atenuar-repasse-dos-precos-da-energia,8de5347adf738f5a5f13b0d3b2ab6f8dca6w3ril.html",
-    "image": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png"
+    "title": "Atlético x Palmeiras (Sub-17): onde assistir, escalações e arbitragem",
+    "url": "https://www.terra.com.br/esportes/atletico-mg/atletico-x-palmeiras-sub-17-onde-assistir-escalacoes-e-arbitragem,55198db949668cc1686e155a75474670p5ulg0xz.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/10/06/1434947683-atlxpalbr26-sub17-610x400.jpg"
   }
 ]
