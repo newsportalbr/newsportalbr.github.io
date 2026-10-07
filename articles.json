@@ -1,63 +1,123 @@
 [
   {
     "site": "BBC",
+    "title": "'Desafio de Flávio é ser presidente de direita normal', avalia economista Samuel Pessôa",
+    "url": "https://www.bbc.com/portuguese/articles/crn8w7jw76djo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/146e/live/10d91f50-be72-11f1-8a45-cd59664d243b.jpg"
+  },
+  {
+    "site": "G1",
+    "title": "Quatro dias após temporais, 8,4 mil imóveis continuam sem luz no Paraná; no auge, total passou de 308 mil",
+    "url": "https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/10/07/temporais-imoveis-sem-luz-sem-energia-parana.ghtml",
+    "image": "https://s2-g1.glbimg.com/JPIdQE1JR_ZLnlM8EaEBOgqK6n8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/i/s1IMabT02aBP1RfF3Sjg/g1-1-.png"
+  },
+  {
+    "site": "UOL",
+    "title": "Jovem é preso pela PF ao receber encomenda com notas falsas compradas pela internet",
+    "url": "https://tnonline.uol.com.br/noticias/parana/jovem-e-preso-pela-pf-ao-receber-encomenda-com-notas-falsas-compradas-pela-internet-1152811",
+    "image": "https://cdn.tnonline.com.br/img/Artigo-Destaque/1150000/1200x630/dinheiro-falso-foi-apreendido-pela-policia-01152811-0-202610070919/ScaleProportionalFillBackground-1.jpg?fallback=https%3A%2F%2Fcdn.tnonline.com.br%2Fimg%2FArtigo-Destaque%2F1150000%2Fdinheiro-falso-foi-apreendido-pela-policia-01152811-0-202610070919.jpg%3Fxid%3D1843093&xid=1843093"
+  },
+  {
+    "site": "CNN Brasil",
+    "title": "Mulher de Medina desabafa sobre pressão para ter filho após perda de bebê",
+    "url": "https://www.cnnbrasil.com.br/pop/celebridades/mulher-de-medina-desabafa-sobre-pressao-para-ter-filho-apos-perda-de-bebe/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/08/medina-isabella-e1786133916547.jpg?w=1170&h=630&crop=1"
+  },
+  {
+    "site": "Terra",
+    "title": "Economia? Saiba qual foi o cardápio da festa da filha de Neymar e Bruna Biancardi",
+    "url": "https://www.terra.com.br/diversao/gente/economia-saiba-qual-foi-o-cardapio-da-festa-da-filha-de-neymar-e-bruna-biancardi,d27d630fe1a53ce1361e3677acfe458fm8s6ngya.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/10/07/59004151-economia-saiba-qual-foi-o-cardapio-da-festa-da-filha-de-neymar-e-bruna-biancardi.png"
+  },
+  {
+    "site": "BBC",
+    "title": "'Entrevistei Christa Pike há 20 anos e não consigo parar de pensar nela'",
+    "url": "https://www.bbc.com/portuguese/articles/cm3el8z947dgo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/3f5c/live/962e6a20-be63-11f1-b36c-81ad410b221e.jpg"
+  },
+  {
+    "site": "G1",
+    "title": "Papa menciona Nossa Senhora Aparecida em audiência geral no Vaticano",
+    "url": "https://g1.globo.com/mundo/noticia/2026/10/07/papa-menciona-nossa-senhora-aparecida-em-audiencia-geral-no-vaticano.ghtml",
+    "image": "https://s2-g1.glbimg.com/Qx9r72xWjjVEKp84cbhASpg0Vuo=/3089x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/G/mNiRH4QpaYnlMVBqBmAA/2026-10-07t075830z-316687081-rc27ynanj3g4-rtrmadp-3-pope-audience.jpg"
+  },
+  {
+    "site": "UOL",
+    "title": "\"Ideias\" dos EUA sobre programa nuclear do Irã estão em desacordo com demandas de Teerã, diz autoridade iraniana à Reuters",
+    "url": "https://noticias.uol.com.br/ultimas-noticias/reuters/2026/10/07/ideias-dos-eua-sobre-programa-nuclear-do-ira-estao-em-desacordo-com-demandas-de-teera-diz-autoridade-iraniana-a-reuters.htm",
+    "image": ""
+  },
+  {
+    "site": "CNN Brasil",
+    "title": "“A Fazenda 18”: após 11 votos, Ariela deixa casa sem água de propósito",
+    "url": "https://www.cnnbrasil.com.br/pop/realities/a-fazenda-18-apos-11-votos-ariela-deixa-casa-sem-agua-de-proposito/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/10/ARIELA.jpg?w=1200&h=630&crop=1"
+  },
+  {
+    "site": "Terra",
+    "title": "'Quem Ama Cuida': Brigitte acha documento proibido e descobre golpe macabro de Pilar",
+    "url": "https://www.terra.com.br/diversao/tv/novelas/quem-ama-cuida-brigitte-acha-documento-proibido-e-descobre-golpe-macabro-de-pilar,a4888595bf6f7d1b6ea9a9adfeea3351p1tew1wo.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/10/07/1096311244-brigitte.jpg"
+  },
+  {
+    "site": "BBC",
+    "title": "O professor que causa furor entre os adolescentes chineses (e a razão do seu sucesso)",
+    "url": "https://www.bbc.com/portuguese/articles/cjx2z2wgwg1lo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/ce40/live/61061820-bd87-11f1-ab03-fd866f8788d0.jpg"
+  },
+  {
+    "site": "G1",
+    "title": "Iluminação em condomínios de Cuiabá: mudanças a partir de outubro",
+    "url": "https://g1.globo.com/mt/mato-grosso/especial-publicitario/energisa-mt/noticia/2026/10/07/iluminacao-em-condominios-de-cuiaba-mudancas-a-partir-de-outubro.ghtml",
+    "image": "https://s2-g1.glbimg.com/22hAb8Eoqf9HMp9X6XjGqqRQWq8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/Z/4c3rN9QxAlK4TL616ZYQ/foto-acervo.jpeg"
+  },
+  {
+    "site": "UOL",
+    "title": "Tempestade Isaias pode virar furacão e atingir Golfo dos EUA",
+    "url": "https://noticias.uol.com.br/internacional/ultimas-noticias/2026/10/07/tempestade-isaias-pode-virar-furacao-e-atingir-golfo-dos-eua.ghtm",
+    "image": ""
+  },
+  {
+    "site": "CNN Brasil",
+    "title": "Arsenal anuncia a renovação de contrato de Mikel Arteta até 2030",
+    "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-ingles/arsenal-anuncia-a-renovacao-de-contrato-de-mikel-arteta-ate-2030/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/05/Arteta-2-e1780053870217.jpeg?w=1080&h=608&crop=1"
+  },
+  {
+    "site": "Terra",
+    "title": "Scaloni sinaliza renovação com a Argentina e projeta seleção sem Messi: 'Temos grandes jogadores'",
+    "url": "https://www.terra.com.br/esportes/craques/messi/scaloni-sinaliza-renovacao-com-a-argentina-e-projeta-selecao-sem-messi-temos-grandes-jogadores,643aa2c2406ca4ed9e57d06cca29169e960japlr.html",
+    "image": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png"
+  },
+  {
+    "site": "BBC",
     "title": "Como o agro-bolsonarismo na Amazônia e no Centro-Oeste equilibrou a disputa com Nordeste lulista, segundo professor de universidade britânica",
     "url": "https://www.bbc.com/portuguese/articles/c5vgyl2gk7jyo?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/d236/live/c0365c70-b818-11f1-bc1f-3f186ca4140c.png"
   },
   {
     "site": "G1",
-    "title": "A reação do mercado ao 1º turno: da euforia à incerteza - O Assunto #1820",
-    "url": "https://g1.globo.com/podcast/o-assunto/noticia/2026/10/07/a-reacao-do-mercado-ao-1o-turno-da-euforia-a-incerteza-o-assunto-1820.ghtml",
-    "image": "https://s2-g1.glbimg.com/2BtBylssQmAnuTnZAf-Rg6VC8mM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/O/i/O5xlnlQBaCnXv9gROBug/ato20240712025.jpg"
+    "title": "Trio armado com facão invade posto e ameaça frentistas em Teresópolis",
+    "url": "https://g1.globo.com/rj/regiao-serrana/noticia/2026/10/07/trio-armado-com-facao-invade-posto-e-ameaca-frentistas-em-teresopolis.ghtml",
+    "image": "https://s2-g1.glbimg.com/yzGTuWex9QMA6OUQYxgVojJ4i68=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/T/XYsAv9Qb6gqch8WgI6NA/02fdf9f5-20a4-49aa-a2a9-c21a4b433c67-1-.jpg"
   },
   {
     "site": "UOL",
-    "title": "Colômbia vence Peru (2-0) no encerramento dos amistosos",
-    "url": "https://noticias.uol.com.br/ultimas-noticias/afp/2026/10/07/colombia-vence-peru-2-0-no-encerramento-dos-amistosos.htm",
-    "image": ""
+    "title": "Rússia faz mega-ataque com mísseis e mata 19 na Ucrânia",
+    "url": "https://www1.folha.uol.com.br/mundo/2026/10/russia-faz-mega-ataque-com-misseis-e-mata-19-na-ucrania.shtml",
+    "image": "https://f.i.uol.com.br/fotografia/2026/10/07/17913749266ac6364eb49eb_1791374926_3x2_rt.jpg"
   },
   {
     "site": "CNN Brasil",
-    "title": "Bloqueios em colégios viram onda de protestos nacionais na França",
-    "url": "https://www.cnnbrasil.com.br/internacional/bloqueios-em-colegios-viram-onda-de-protestos-nacionais-na-franca/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/10/2026-10-06T160219Z_1_LOP794706102026RP1_RTRMADP_BASEIMAGE-960X540_FRANCE-PROTEST-PARIS-UPDATE.jpg?w=960&h=540&crop=1"
+    "title": "Por que achamos a voz diferente quando ela é gravada e ouvida depois?",
+    "url": "https://www.cnnbrasil.com.br/curiosidades/por-que-achamos-a-voz-diferente-quando-ela-e-gravada-e-ouvida-depois/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/10/Por-que-achamos-a-voz-diferente-quando-ela-e-gravada-e-ouvida-depois.jpg?w=1200&h=630&crop=1"
   },
   {
     "site": "Terra",
-    "title": "Silvia Abravanel se manifesta após ser derrotada na eleição: 'A descrença foi muito grande'",
-    "url": "https://www.terra.com.br/diversao/gente/silvia-abravanel-se-manifesta-apos-ser-derrotada-na-eleicao-a-descrenca-foi-muito-grande,558e3309529239104de5a40658dc5f95cduy4zct.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/10/07/1636330094-silvia-abravanel.jpg"
-  },
-  {
-    "site": "BBC",
-    "title": "Deputada mais votada de SP apresentou projetos de lei que repetem textos de outros políticos e erra até a própria cidade",
-    "url": "https://www.bbc.com/portuguese/articles/crwyd10307kjo?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/6765/live/48df9df0-c1b2-11f1-8839-076338316de3.png"
-  },
-  {
-    "site": "G1",
-    "title": "Resultado das eleições 2026 em Lagoa Grande do Maranhão (MA): como foi a votação no seu local de votação; consulte por zona eleitoral",
-    "url": "https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/10/07/resultado-das-eleicoes-2026-em-lagoa-grande-do-maranhao-ma-como-foi-a-votacao-no-seu-local-de-votacao-consulte-por-zona-eleitoral.ghtml",
-    "image": "https://s2-g1.glbimg.com/WVvhI-aXx03RnHt4856ANYRuYAc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/V/TlO7yzR12E9L4oYBRwjQ/lacracao-urnas-eletronicas-mcamgo-abr-210920221818-4.jpg"
-  },
-  {
-    "site": "UOL",
-    "title": "Houthis atacam aeroporto de Aden, no Iêmen, com drones e mísseis, diz imprensa estatal",
-    "url": "https://noticias.uol.com.br/ultimas-noticias/afp/2026/10/07/houthis-atacam-aeroporto-de-aden-no-iemen-com-drones-e-misseis-diz-imprensa-estatal.htm",
-    "image": ""
-  },
-  {
-    "site": "CNN Brasil",
-    "title": "Incêndio atinge fábrica na Zona Sul de SP e 27 viaturas tentam controlar",
-    "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/incendio-atinge-fabrica-na-zona-sul-de-sp-e-27-viaturas-tentam-controlar/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/10/FERNANDA-APURACAO-CNN-BRASIL-2.png?w=1200&h=630&crop=1"
-  },
-  {
-    "site": "Terra",
-    "title": "Provar um pouco da massa crua do bolo ou do biscoito parece um hábito sem risco, mas no Canadá a orientação é evitar: a farinha é um ingrediente cru e pode carregar bactérias como E. coli antes do cozimento",
-    "url": "https://www.terra.com.br/vida-e-estilo/provar-um-pouco-da-massa-crua-do-bolo-ou-do-biscoito-parece-um-habito-sem-risco-mas-no-canada-a-orientacao-e-evitar-a-farinha-e-um-ingrediente-cru-e-pode-carregar-bacterias-como-e-coli-antes-do-cozimento,156e61f6a0a846cebd0cf517d2e9d3f4sdgw1vhr.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/10/07/1523005031-red-x-over-spoon-batter-1.jpg"
+    "title": "Ajude a Raissa: Uma cirurgia que pode salvar vidas",
+    "url": "https://www.terra.com.br/noticias/ajude-a-raissa-uma-cirurgia-que-pode-salvar-vidas,57a34dd4ece191602716be9759723c033524p4gx.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/10/07/188672827-cover-ajuda-raissa-gabryel-miller.jpg"
   },
   {
     "site": "BBC",
@@ -67,57 +127,27 @@
   },
   {
     "site": "G1",
-    "title": "Resultado das eleições 2026 em Lagoa Grande do Maranhão (MA): como foi a votação nos locais de votação da 74ª Zona Eleitoral",
-    "url": "https://g1.globo.com/ma/maranhao/eleicoes/2026/noticia/2026/10/07/resultado-das-eleicoes-2026-em-lagoa-grande-do-maranhao-ma-como-foi-a-votacao-nos-locais-de-votacao-da-74a-zona-eleitoral.ghtml",
-    "image": "https://s2-g1.glbimg.com/WVvhI-aXx03RnHt4856ANYRuYAc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/V/TlO7yzR12E9L4oYBRwjQ/lacracao-urnas-eletronicas-mcamgo-abr-210920221818-4.jpg"
+    "title": "Homem é preso por manter clínica estética clandestina em Goiânia, diz polícia",
+    "url": "https://g1.globo.com/go/goias/noticia/2026/10/07/homem-e-preso-por-manter-clinica-estetica-clandestina-em-goiania-diz-policia.ghtml",
+    "image": "https://s2-g1.glbimg.com/0q2AdFEBkeK08JM6I_fcQU_eLzY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/1/WVXSocSxAnhhfiYQHrBg/imagens-g1-52-.png"
   },
   {
     "site": "UOL",
-    "title": "Veja em quais países Flávio Bolsonaro e Lula tiveram mais votos no exterior",
-    "url": "https://www1.folha.uol.com.br/poder/2026/10/veja-em-quais-paises-flavio-bolsonaro-e-lula-tiveram-mais-votos-no-exterior.shtml",
-    "image": "https://f.i.uol.com.br/fotografia/2026/09/07/17888137076a9f218bcb339_1788813707_3x2_xl.jpg"
+    "title": "UE avalia criar imposto sobre grandes empresas para atingir big techs dos EUA",
+    "url": "https://www1.folha.uol.com.br/mercado/2026/10/ue-avalia-criar-imposto-sobre-grandes-empresas-para-atingir-big-techs-dos-eua.shtml",
+    "image": "https://f.i.uol.com.br/fotografia/2026/10/02/17909410126abf9754ea549_1790941012_3x2_rt.jpg"
   },
   {
     "site": "CNN Brasil",
-    "title": "Galvão Bueno crava: “Messi foi o maior jogador na história da Argentina”",
-    "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/galvao-bueno-crava-messi-foi-o-maior-jogador-na-historia-da-argentina/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/10/despedida-messi-argentina-benin-e1791332968335.jpeg?w=1080&h=608&crop=1"
+    "title": "RS volta a ter previsão de temporais e ventos de até 100 km/h",
+    "url": "https://www.cnnbrasil.com.br/nacional/sul/rs/rs-volta-a-ter-previsao-de-temporais-e-ventos-de-ate-100-km-h/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/10/chuvas_rs.png?w=354&h=223&crop=1"
   },
   {
     "site": "Terra",
-    "title": "'Vítima de uma violência humanamente inexplicável', diz Boulos sobre morte do tio após atropelamento",
-    "url": "https://www.terra.com.br/noticias/brasil/cidades/vitima-de-uma-violencia-humanamente-inexplicavel-diz-boulos-sobre-morte-do-tio-apos-atropelamento,5dad73e1c4b721c455ae4bc7ddb47a71z5zvf76u.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/10/07/602723454-llk5ad5webgjffmiukehhbfvum.jpg"
-  },
-  {
-    "site": "BBC",
-    "title": "Mulher condenada à morte nos EUA está consciente após tentativa de execução fracassada, dizem advogados",
-    "url": "https://www.bbc.com/portuguese/articles/cked39wwg4glo?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/226c/live/7221efd0-c1c9-11f1-b8a9-47f21beea0a3.jpg"
-  },
-  {
-    "site": "G1",
-    "title": "Resultado das eleições 2026 em Belo Horizonte (MG): como foi a votação no seu local de votação; consulte por zona eleitoral",
-    "url": "https://g1.globo.com/mg/minas-gerais/eleicoes/2026/noticia/2026/10/07/resultado-das-eleicoes-2026-em-belo-horizonte-mg-como-foi-a-votacao-no-seu-local-de-votacao-consulte-por-zona-eleitoral.ghtml",
-    "image": "https://s2-g1.glbimg.com/WVvhI-aXx03RnHt4856ANYRuYAc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/V/TlO7yzR12E9L4oYBRwjQ/lacracao-urnas-eletronicas-mcamgo-abr-210920221818-4.jpg"
-  },
-  {
-    "site": "UOL",
-    "title": "Entenda a disputa entre Lula e Flávio Bolsonaro pelo Brasil em 16 gráficos",
-    "url": "https://www1.folha.uol.com.br/poder/2026/10/entenda-a-disputa-entre-lula-e-flavio-bolsonaro-pelo-brasil-em-16-graficos.shtml",
-    "image": "https://f.i.uol.com.br/fotografia/2026/10/05/17912262966ac3f1b89f3dc_1791226296_3x2_xl.jpg"
-  },
-  {
-    "site": "CNN Brasil",
-    "title": "Lionel Messi se aposenta da Argentina: veja todos os títulos pela seleção",
-    "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/lionel-messi-se-aposenta-da-argentina-veja-todos-os-titulos-pela-selecao/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/10/despedida-messi-argentina-benin-4-e1791333597996.jpeg?w=1200&h=630&crop=1"
-  },
-  {
-    "site": "Terra",
-    "title": "Despedida de Messi tem festa argentina em Copacabana",
-    "url": "https://www.terra.com.br/esportes/craques/messi/despedida-de-messi-tem-festa-argentina-em-copacabana,d5eb741df656fbe4af4489ee0b82401afd8zlkww.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/10/07/562422547-argentinos-no-rio-despedida-messi-09.jpg"
+    "title": "Ajude Tigrinho a voltar a ser feliz após brutal agressão",
+    "url": "https://www.terra.com.br/noticias/ajude-tigrinho-a-voltar-a-ser-feliz-apos-brutal-agressao,f82a202578ef83caf353004daacc6559m8cywml0.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/10/07/1628973344-cover-ajude-o-tigrinho-a-se-recuperar.jpg"
   },
   {
     "site": "BBC",
@@ -127,27 +157,27 @@
   },
   {
     "site": "G1",
-    "title": "Resultado das eleições 2026 em Goiânia (GO): como foi a votação no seu local de votação; consulte por zona eleitoral",
-    "url": "https://g1.globo.com/go/goias/eleicoes/2026/noticia/2026/10/07/resultado-das-eleicoes-2026-em-goiania-go-como-foi-a-votacao-no-seu-local-de-votacao-consulte-por-zona-eleitoral.ghtml",
-    "image": "https://s2-g1.glbimg.com/WVvhI-aXx03RnHt4856ANYRuYAc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/V/TlO7yzR12E9L4oYBRwjQ/lacracao-urnas-eletronicas-mcamgo-abr-210920221818-4.jpg"
+    "title": "VÍDEO: Motorista perde controle de carro e atinge loja de autopeças em Timon, no MA",
+    "url": "https://g1.globo.com/ma/maranhao/noticia/2026/10/07/motorista-perde-controle-de-carro-e-atinge-loja-de-autopecas-em-timon-no-ma.ghtml",
+    "image": "https://s2-g1.glbimg.com/XrckCYxF-K5M8c_jYmvMIBL5L9I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/D/sEAVetQASIBYSd91Ag9g/montagens-1920-x-1080-px-2026-10-07t090141.444.jpg"
   },
   {
     "site": "UOL",
-    "title": "Janones reúne 1 milhão em tropa digital e quer mostrar Lula com mais calçada e menos helicóptero",
-    "url": "https://www1.folha.uol.com.br/poder/2026/10/janones-reune-1-milhao-em-tropa-digital-e-quer-mostrar-lula-com-mais-calcada-e-menos-helicoptero.shtml",
-    "image": "https://f.i.uol.com.br/fotografia/2023/02/16/167658347263eea23054e06_1676583472_3x2_rt.jpg"
+    "title": "Incêndio de grandes proporções atinge fábrica no Jabaquara, na zona sul de São Paulo",
+    "url": "https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2026/10/07/incendio-de-grandes-proporcoes-atinge-fabrica-no-jabaquara-na-zona-sul-de-sao-paulo.htm",
+    "image": ""
   },
   {
     "site": "CNN Brasil",
-    "title": "Veja o último gol de Messi pela seleção da Argentina",
-    "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/veja-o-ultimo-gol-de-messi-pela-selecao-da-argentina/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/10/despedida-messi-argentina-benin-5-e1791336386756.jpg?w=1200&h=630&crop=1"
+    "title": "EUA enviam drones militares à Colômbia e ao Equador, diz jornal",
+    "url": "https://www.cnnbrasil.com.br/internacional/eua-drones-colombia-equador-militares/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/MILITARES-DA-FORCA-AEREA-AMERICANA.png?w=1200&h=630&crop=1"
   },
   {
     "site": "Terra",
-    "title": "Com derrota de Roseana, família Sarney fica sem mandato pela primeira vez em 72 anos",
-    "url": "https://www.terra.com.br/noticias/brasil/politica/com-derrota-de-roseana-familia-sarney-fica-sem-mandato-pela-primeira-vez-em-72-anos,ebaedd747ef84e884a0435e99b0f38c12dd1mon4.html",
-    "image": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png"
+    "title": "A batalha da Helena: Ajude a salvar uma vida em Arcos, MG",
+    "url": "https://www.terra.com.br/noticias/a-batalha-da-helena-ajude-a-salvar-uma-vida-em-arcos-mg,0e56120811f88915312bb979bbfb06c6u2lvmdt9.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/10/07/133908846-cover-recuperacao-e-reabilitacao-da-helena.jpg"
   },
   {
     "site": "BBC",
@@ -157,27 +187,27 @@
   },
   {
     "site": "G1",
-    "title": "Crédito empresarial: Descubra 5 cuidados essenciais antes de contratar",
-    "url": "https://g1.globo.com/rj/norte-fluminense/especial-publicitario/sicoob-sul-sicoob-mais-que-uma-escolha-financeira/noticia/2026/10/07/credito-empresarial-descubra-5-cuidados-essenciais-antes-de-contratar.ghtml",
-    "image": "https://s2-g1.glbimg.com/T1yGiKoyzKwWAAQ9kTvSPq54ouM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/W/CEiKDLQZAAC5Awg7YCnQ/img-1834.jpg.jpg"
+    "title": "Influenciador brasileiro preso ao tentar entrar nos Estados Unidos já passou por sete unidades de detenção, está magro e abalado, diz família",
+    "url": "https://g1.globo.com/go/goias/noticia/2026/10/07/influenciador-brasileiro-preso-ao-tentar-entrar-nos-estados-unidos-ja-passou-por-sete-unidades-de-detencao-esta-magro-e-abalado-diz-familia.ghtml",
+    "image": "https://s2-g1.glbimg.com/ibdrd1AYLEdOP36_PAOZ6q3rRns=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/w/IHBTvuQBAlUpRU3kZsfQ/imagens-g1-1-.png"
   },
   {
     "site": "UOL",
-    "title": "Após acumular nesta terça, Mega-Sena concurso 3068 vai sortear R$ 100 milhões",
-    "url": "https://tnonline.uol.com.br/noticias/cotidiano/apos-acumular-nesta-terca-mega-sena-concurso-3068-vai-sortear-r-100-milhoes-1152772",
-    "image": "https://cdn.tnonline.com.br/img/Instant-Article/1140000/1200x630/veja-o-resultado-da-lotofacil-concurso-3771-desta--01140439-0-202608251951/ScaleProportionalFillBackground-1.jpg?fallback=https%3A%2F%2Fcdn.tnonline.com.br%2Fimg%2FInstant-Article%2F1140000%2Fveja-o-resultado-da-lotofacil-concurso-3771-desta--01140439-0-202608251951.jpg%3Fxid%3D1843002&xid=1843002"
+    "title": "Homem é preso após agredir e ameaçar a companheira em Arapongas",
+    "url": "https://tnonline.uol.com.br/noticias/arapongas/homem-e-preso-apos-agredir-e-ameacar-a-companheira-em-arapongas-1152806",
+    "image": "https://cdn.tnonline.com.br/img/Instant-Article/1140000/1200x630/mulher-foi-agredida-pelo-companheiro-em-arapongas-01143321-0-202609040749/ScaleProportionalFillBackground-1.jpg?fallback=https%3A%2F%2Fcdn.tnonline.com.br%2Fimg%2FInstant-Article%2F1140000%2Fmulher-foi-agredida-pelo-companheiro-em-arapongas-01143321-0-202609040749.jpg%3Fxid%3D1843081&xid=1843081"
   },
   {
     "site": "CNN Brasil",
-    "title": "Veja os números e recordes de Messi com a camisa da seleção argentina",
-    "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/veja-os-numeros-e-recordes-de-messi-com-a-camisa-da-selecao-argentina/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/10/despedida-messi-argentina-benin-5-e1791336386756.jpg?w=1200&h=630&crop=1"
+    "title": "EUA anunciam US$ 180 milhões para ampliar pesquisa genética de sementes",
+    "url": "https://www.cnnbrasil.com.br/agro/eua-anunciam-us-180-milhoes-para-ampliar-pesquisa-genetica-de-sementes/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/10/seed-sovereignty-initiative-1_crop.jpg?w=600&h=400&crop=1"
   },
   {
     "site": "Terra",
-    "title": "Messi se emociona em despedida, relembra o pai e diz: \"Foi um orgulho\"",
-    "url": "https://www.terra.com.br/esportes/argentina/messi-se-emociona-em-despedida-relembra-o-pai-e-diz-foi-um-orgulho,54dd0445b06f8bbe15cc7cb2edb43000rank807x.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/10/07/1968020631-argentina-v-benin-international-friendly-610x400.jpg"
+    "title": "Vaquinha dos estudantes de Divinópolis busca apoio para garantir votos no segundo turno",
+    "url": "https://www.terra.com.br/noticias/vaquinha-dos-estudantes-de-divinopolis-busca-apoio-para-garantir-votos-no-segundo-turno,083e1509896438b01ef64223338be86dl64vacvs.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/10/07/2024341244-cover-segundo-turno-ufsj-cco.jpg"
   },
   {
     "site": "BBC",
@@ -187,57 +217,27 @@
   },
   {
     "site": "G1",
-    "title": "Resultado das eleições 2026 em Belo Horizonte (MG): como foi a votação nos locais de votação da 331ª Zona Eleitoral",
-    "url": "https://g1.globo.com/mg/minas-gerais/eleicoes/2026/noticia/2026/10/07/resultado-das-eleicoes-2026-em-belo-horizonte-mg-como-foi-a-votacao-nos-locais-de-votacao-da-331a-zona-eleitoral.ghtml",
-    "image": "https://s2-g1.glbimg.com/WVvhI-aXx03RnHt4856ANYRuYAc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/V/TlO7yzR12E9L4oYBRwjQ/lacracao-urnas-eletronicas-mcamgo-abr-210920221818-4.jpg"
+    "title": "Operação da Polícia Federal mira crimes previdenciários em Sergipe",
+    "url": "https://g1.globo.com/se/sergipe/noticia/2026/10/07/operacao-da-policia-federal-mira-crimes-previdenciarios-em-sergipe.ghtml",
+    "image": "https://s2-g1.glbimg.com/2r8wPYATq8QM_vGpe7rdTGu9ZW4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/S/B/2qCcNiTRy62sBYIdzXKQ/pf.jpg"
   },
   {
     "site": "UOL",
-    "title": "Os grandes momentos de Messi pela seleção da Argentina",
-    "url": "https://noticias.uol.com.br/ultimas-noticias/afp/2026/10/06/os-grandes-momentos-de-messi-pela-selecao-da-argentina.htm",
+    "title": "Renan se revolta contra 'direita' e deixa 2,6 milhões de votos em aberto",
+    "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/10/07/renan-se-revolta-contra-direita-e-deixa-26-milhoes-de-votos-em-aberto.ghtm",
     "image": ""
   },
   {
     "site": "CNN Brasil",
-    "title": "Bia Haddad Maia passa por cirurgia no ombro e promete retorno às quadras",
-    "url": "https://www.cnnbrasil.com.br/esportes/tenis/bia-haddad-maia-passa-por-cirurgia-no-ombro-e-promete-retorno-as-quadras/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/10/Bia.jpg?w=671&h=433&crop=1"
+    "title": "Messi se aposenta da Argentina com mais do que o dobro de gols de Batistuta",
+    "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/messi-se-aposenta-da-argentina-com-mais-do-que-o-dobro-de-gols-de-batistuta/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/10/despedida-messi-argentina-benin-5-e1791336386756.jpg?w=1200&h=630&crop=1"
   },
   {
     "site": "Terra",
-    "title": "Flexões na parede são um começo válido para fortalecer braços e peito, desde que o corpo avance junto e a distância aumente aos poucos",
-    "url": "https://www.terra.com.br/vida-e-estilo/saude/flexoes-na-parede-sao-um-comeco-valido-para-fortalecer-bracos-e-peito-desde-que-o-corpo-avance-junto-e-a-distancia-aumente-aos-poucos,378414081ee28e677aadaacb60a9ba40nfmo327a.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/10/07/18314213-flexoes-na-parede-em-casa-2-e1791234341790.png"
-  },
-  {
-    "site": "BBC",
-    "title": "O que explica a diferença entre o resultado das urnas e as pesquisas",
-    "url": "https://www.bbc.com/portuguese/articles/cq5ynrke17mdo?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/f458/live/e8c31230-c1ac-11f1-8fa2-19a1e9b6288f.jpg"
-  },
-  {
-    "site": "G1",
-    "title": "Resultado das eleições 2026 em Belo Horizonte (MG): como foi a votação nos locais de votação da 33ª Zona Eleitoral",
-    "url": "https://g1.globo.com/mg/minas-gerais/eleicoes/2026/noticia/2026/10/07/resultado-das-eleicoes-2026-em-belo-horizonte-mg-como-foi-a-votacao-nos-locais-de-votacao-da-33a-zona-eleitoral.ghtml",
-    "image": "https://s2-g1.glbimg.com/WVvhI-aXx03RnHt4856ANYRuYAc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/V/TlO7yzR12E9L4oYBRwjQ/lacracao-urnas-eletronicas-mcamgo-abr-210920221818-4.jpg"
-  },
-  {
-    "site": "UOL",
-    "title": "Eu não quero ir embora, diz Messi após se despedir da Argentina",
-    "url": "https://www1.folha.uol.com.br/esporte/2026/10/eu-nao-quero-ir-embora-diz-messi-apos-se-despedir-da-argentina.shtml",
-    "image": "https://f.i.uol.com.br/fotografia/2026/10/06/17913395486ac5ac1c10856_1791339548_3x2_rt.jpg"
-  },
-  {
-    "site": "CNN Brasil",
-    "title": "Messi se despede da seleção argentina com gol, assistências e muita emoção",
-    "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/messi-se-despede-da-selecao-argentina-com-gol-assistencias-e-muita-emocao/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/10/despedida-messi-argentina-benin-6-e1791336398923.jpg?w=1200&h=630&crop=1"
-  },
-  {
-    "site": "Terra",
-    "title": "Adeus a Messi com 'look' especial: jogo de despedida tem uniforme inédito da Argentina, com referências à independência iniciada em 1810, craque aos prantos e gol; camisa custa quase 190 dólares",
-    "url": "https://www.terra.com.br/diversao/gente/adeus-a-messi-com-look-especial-jogo-de-despedida-tem-uniforme-inedito-da-argentina-com-referencias-a-independencia-iniciada-em-1810-craque-aos-prantos-e-gol-camisa-custa-quase-190-dolares,d2dd0295bab72c8fd6057bc0f55600c8hj6lnnxq.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/10/07/60205769-6ef7cbca7d88e58b-1400x823-1.png"
+    "title": "A luta de Bryan, 5 anos, pela bomba de fusão que garante sua alimentação",
+    "url": "https://www.terra.com.br/noticias/a-luta-de-bryan-5-anos-pela-bomba-de-fusao-que-garante-sua-alimentacao,b9a7ed2e349cfa95194368da3c10b0fanu15d62h.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/10/07/586268889-cover-ajuda-bryan-compra-sua-bomba-de-fusao.jpg"
   },
   {
     "site": "BBC",
@@ -247,27 +247,27 @@
   },
   {
     "site": "G1",
-    "title": "Resultado das eleições 2026 em Belo Horizonte (MG): como foi a votação nos locais de votação da 32ª Zona Eleitoral",
-    "url": "https://g1.globo.com/mg/minas-gerais/eleicoes/2026/noticia/2026/10/07/resultado-das-eleicoes-2026-em-belo-horizonte-mg-como-foi-a-votacao-nos-locais-de-votacao-da-32a-zona-eleitoral.ghtml",
-    "image": "https://s2-g1.glbimg.com/WVvhI-aXx03RnHt4856ANYRuYAc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/V/TlO7yzR12E9L4oYBRwjQ/lacracao-urnas-eletronicas-mcamgo-abr-210920221818-4.jpg"
+    "title": "Incêndio atinge casas e estabelecimentos comerciais em Buriticupu, no MA",
+    "url": "https://g1.globo.com/ma/maranhao/regiao-sul/noticia/2026/10/07/incendio-atinge-casas-e-estabelecimentos-comerciais-em-buriticupu-no-ma.ghtml",
+    "image": "https://s2-g1.glbimg.com/MNA0fuAVB4K7qhvg4uiXOabkHmM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/0/X3rcCOTJqM0MH8hthQoA/montagens-1920-x-1080-px-2026-10-07t082747.027.jpg"
   },
   {
     "site": "UOL",
-    "title": "'Gracias eternas': imprensa internacional celebra despedida de Messi",
-    "url": "https://www1.folha.uol.com.br/esporte/2026/10/gracias-eternas-imprensa-internacional-celebra-despedida-de-messi.shtml",
-    "image": "https://f.i.uol.com.br/fotografia/2026/10/06/17913393656ac5ab6512c1a_1791339365_3x2_rt.jpg"
+    "title": "Ex-funcionários da Casas Bahia pedem revisão da lista de credores trabalhistas",
+    "url": "https://c-level.folha.uol.com.br/negocios/2026/10/ex-funcionarios-da-casas-bahia-pedem-revisao-da-lista-de-credores-trabalhistas.shtml",
+    "image": "https://f.i.uol.com.br/fotografia/2026/09/09/17889830986aa1b73a06153_1788983098_3x2_rt.jpg"
   },
   {
     "site": "CNN Brasil",
-    "title": "“Homem-Aranha: Um Novo Dia” chega aos streamings; veja onde assistir",
-    "url": "https://www.cnnbrasil.com.br/pop/streaming/homem-aranha-um-novo-dia-chega-aos-streamings-veja-onde-assistir/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/08/homem-aranha-um-novo-dia-2.jpg?w=1200&h=630&crop=1"
+    "title": "Soja brasileira registra queda de 1,53% em um único dia",
+    "url": "https://www.cnnbrasil.com.br/agro/soja-brasileira-registra-queda-de-153-em-um-unico-dia/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/Imagem-do-ChatGPT-28-de-set.-de-2026-10_56_30.png?w=1200&h=630&crop=1"
   },
   {
     "site": "Terra",
-    "title": "Confira as reações de Messi em sua despedida da Seleção Argentina",
-    "url": "https://www.terra.com.br/esportes/futebol/internacional/confira-as-reacoes-de-messi-em-sua-despedida-da-selecao-argentina,8a42cdc849c7c01c8245c375e8d755c39bhicway.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/10/07/965491093-argentina-v-benin-international-friendly-2-2048x1365.jpg"
+    "title": "A luta de Ingrid: novos tratamentos para vencer o câncer e o apoio da comunidade",
+    "url": "https://www.terra.com.br/noticias/a-luta-de-ingrid-novos-tratamentos-para-vencer-o-cancer-e-o-apoio-da-comunidade,53882de9c76f1c9ac3361b0161633190lybj4iam.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/10/07/1128034183-cover-novo-tratamento-ingrid.jpg"
   },
   {
     "site": "BBC",
@@ -277,26 +277,26 @@
   },
   {
     "site": "G1",
-    "title": "Resultado das eleições 2026 em Belo Horizonte (MG): como foi a votação nos locais de votação da 38ª Zona Eleitoral",
-    "url": "https://g1.globo.com/mg/minas-gerais/eleicoes/2026/noticia/2026/10/07/resultado-das-eleicoes-2026-em-belo-horizonte-mg-como-foi-a-votacao-nos-locais-de-votacao-da-38a-zona-eleitoral.ghtml",
-    "image": "https://s2-g1.glbimg.com/WVvhI-aXx03RnHt4856ANYRuYAc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/V/TlO7yzR12E9L4oYBRwjQ/lacracao-urnas-eletronicas-mcamgo-abr-210920221818-4.jpg"
+    "title": "Lucas Ribeiro diz que vai deixar disputas partidárias da campanha para trás: 'minha bandeira é a da Paraíba'",
+    "url": "https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/10/07/lucas-ribeiro-diz-que-vai-deixar-disputas-partidarias-da-campanha-para-tras-minha-bandeira-e-a-da-paraiba.ghtml",
+    "image": "https://s2-g1.glbimg.com/1mOlKFXQFPTEygA57oY83mTbCtU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/u/8mi07CTduB91d9Icuqfw/whatsapp-image-2026-10-07-at-09.02.23-1-.jpeg"
   },
   {
     "site": "UOL",
-    "title": "Incêndio atinge fábrica em SP; 18 viaturas dos Bombeiros são acionadas",
-    "url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/10/06/incendio-fogo-fabrica-jabaquara-sao-paulo.ghtm",
+    "title": "Ataque com faca em escola na Polônia deixa ao menos sete feridos",
+    "url": "https://noticias.uol.com.br/internacional/ultimas-noticias/2026/10/07/ataque-com-faca-em-escola-na-polonia-deixa-sete-feridos-diz-policia.ghtm",
     "image": ""
   },
   {
     "site": "CNN Brasil",
-    "title": "Arqueólogos encontram mosaico de 1.800 anos com 15 cenas, mas um gato e um cachorro chamam atenção por detalhe incomum",
-    "url": "https://www.cnnbrasil.com.br/curiosidades/arqueologos-encontram-mosaico-de-1-800-anos-com-15-cenas-mas-um-gato-e-um-cachorro-chamam-atencao-por-detalhe-incomum/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/10/Mosaico-Turquia-2.jpg?w=1200&h=630&crop=1"
+    "title": "Descoberto na Síria, possível brinquedo mais antigo da história era usado para distrair crianças e afastar maus espíritos",
+    "url": "https://www.cnnbrasil.com.br/curiosidades/descoberto-na-siria-possivel-brinquedo-mais-antigo-da-historia-era-usado-para-distrair-criancas-e-afastar-maus-espiritos/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/10/Foto-de-John-Fhaer-Engedal-Nissen-the-National-Museum-of-Denmark.jpg?w=903&h=630&crop=1"
   },
   {
     "site": "Terra",
-    "title": "Pedrinho diz que \"vai incomodar muito mais\" o consórcio do Maracanã",
-    "url": "https://www.terra.com.br/esportes/vasco/pedrinho-diz-que-vai-incomodar-muito-mais-o-consorcio-do-maracana,ee43457dd2545d6f6a476f5d02ad4e97n7v5z249.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/10/07/40338682-53996253937d2a7fcc0a5o-1-610x400.jpg"
+    "title": "A luta de Teacher Zélia pela recuperação e a mobilização da comunidade",
+    "url": "https://www.terra.com.br/noticias/a-luta-de-teacher-zelia-pela-recuperacao-e-a-mobilizacao-da-comunidade,eede2e9e64121da659c512eff427b7b36ytxxoa1.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/10/07/895921021-cover-ajude-a-zelia-na-sua-recuperacao.jpg"
   }
 ]
