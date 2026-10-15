@@ -1,63 +1,123 @@
 [
   {
     "site": "BBC",
-    "title": "Senado aprova fim da escala 6x1 em votação quase unânime; siga em tempo real",
+    "title": "Brasil aprova maior mudança da jornada de trabalho desde 1988",
+    "url": "https://www.bbc.com/portuguese/articles/cqdr85xvxgdro?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/8018/live/9783cee0-c851-11f1-ac20-b3366629877a.jpg"
+  },
+  {
+    "site": "G1",
+    "title": "Bom Dia Cidade Piracicaba",
+    "url": "https://g1.globo.com/sp/piracicaba-regiao/ao-vivo/bom-dia-cidade-piracicaba-ao-vivo.ghtml",
+    "image": "https://s2-g1.glbimg.com/iFRAXowX711muXSRe9a74qUKT0Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/7/2/avngEMQqydNpL2REx0ow/bomdiacidade.jpg"
+  },
+  {
+    "site": "UOL",
+    "title": "Dia do Professor: renovação desafia a educação no Brasil",
+    "url": "https://tnonline.uol.com.br/noticias/apucarana/dia-do-professor-renovacao-desafia-a-educacao-no-brasil-1164787",
+    "image": "https://cdn.tnonline.com.br/img/Artigo-Destaque/1160000/1200x630/em-2015-havia-aproximadamente-um-professor-de-ate--01164787-0-202610141521/ScaleProportionalFillBackground-1.jpg?fallback=https%3A%2F%2Fcdn.tnonline.com.br%2Fimg%2FArtigo-Destaque%2F1160000%2Fem-2015-havia-aproximadamente-um-professor-de-ate--01164787-0-202610141521.jpg%3Fxid%3D1847904&xid=1847904"
+  },
+  {
+    "site": "CNN Brasil",
+    "title": "Elenco de “Avenida Brasil 2” se reúne pela primeira vez em público; veja",
+    "url": "https://www.cnnbrasil.com.br/pop/tv/elenco-de-avenida-brasil-2-se-reune-pela-primeira-vez-em-publico-veja/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/02/Nina-e-Carminha-.jpg?w=1200&h=630&crop=1"
+  },
+  {
+    "site": "Terra",
+    "title": "Botafogo: como Danilo virou o meia mais goleador do Brasileirão? Veja",
+    "url": "https://www.terra.com.br/esportes/botafogo/botafogo-como-danilo-virou-o-meia-mais-goleador-do-brasileirao-veja,326c2a243c5cf503291f9d3ed878e626ad59ogrb.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/10/15/65648191-2026-botafogo-volante-danilo-santos-desempenho-brasileirao.jpg"
+  },
+  {
+    "site": "BBC",
+    "title": "Como foi a votação do Senado que aprovou fim da escala 6x1: veja repercussão",
     "url": "https://www.bbc.co.uk/portuguese/live/c6gelgd1w93zt?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/ace/standard/480/cpsprodpb/48d4/live/38d3b0f0-c837-11f1-948b-e76b4f24fa5b.jpg"
   },
   {
     "site": "G1",
-    "title": "Quatro pessoas são detidas e avião é apreendido em investigação de homicídio em Roraima",
-    "url": "https://g1.globo.com/rr/roraima/noticia/2026/10/14/quatro-pessoas-sao-detidas-e-aviao-e-apreendido-em-investigacao-de-homicidio-em-roraima.ghtml",
-    "image": "https://s2-g1.glbimg.com/WEKHtfe6QXsC5_xKh_1yYnaCNeQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/M/b3WashQwyoYbXJ5uxAqw/apreensao-de-aviao.jpeg"
+    "title": "'Street Fighter' e 'Dentro da Baleia' estreiam nos cinemas da Paraíba",
+    "url": "https://g1.globo.com/pb/paraiba/noticia/2026/10/15/street-fighter-e-dentro-da-baleia-estreiam-nos-cinemas-da-paraiba.ghtml",
+    "image": "https://s2-g1.glbimg.com/TXkvWz9FDYeHC4WCoh0o4RcorPU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/d/UydtO8T0q9ucZ4FM3Mxw/street-fighter-noah-centineo-andrew-koji.jpg"
   },
   {
     "site": "UOL",
-    "title": "Indústria critica fim da escala 6x1, e Fiesp fala em 'PEC boca de urna'",
-    "url": "https://www1.folha.uol.com.br/mercado/2026/10/industria-critica-fim-da-escala-6x1-e-fiesp-fala-em-pec-boca-de-urna.shtml",
-    "image": "https://f.i.uol.com.br/fotografia/2026/10/14/17920286066ad02fbe640a9_1792028606_3x2_rt.jpg"
-  },
-  {
-    "site": "CNN Brasil",
-    "title": "Aprovação no Senado coroa esforço histórico, diz Hugo Motta sobre 6×1",
-    "url": "https://www.cnnbrasil.com.br/politica/aprovacao-no-senado-coroa-esforco-historico-diz-hugo-motta-sobre-6x1/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/05/HUGO-MOTTA-20-05-26.jpg?w=1200&h=630&crop=1"
-  },
-  {
-    "site": "Terra",
-    "title": "'Não falei que ia dar certo?', diz Alcolumbre a Camilo Santana após aprovação do fim da escala 6x1",
-    "url": "https://www.terra.com.br/economia/nao-falei-que-ia-dar-certo-diz-alcolumbre-a-camilo-santana-apos-aprovacao-do-fim-da-escala-6x1,d6e6a0acd9d243d1dc3a2fb1d8745735lxitf3k3.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/10/15/708358360-hoh3yrdse5gwvpxzuud6sb643i.jpg"
-  },
-  {
-    "site": "BBC",
-    "title": "Brasil aprova maior mudança da jornada de trabalho desde 1988",
-    "url": "https://www.bbc.com/portuguese/articles/cqdr85xvxgdro?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/b093/live/d30a4600-c82f-11f1-8e38-652ea68472d1.jpg"
-  },
-  {
-    "site": "G1",
-    "title": "Fim da escala 6x1: veja como votaram os senadores do Pará",
-    "url": "https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/10/14/fim-da-escala-6x1-veja-como-votaram-os-senadores-do-para.ghtml",
-    "image": "https://s2-g1.glbimg.com/EjHeB5IV_bifXVK1KJIZBy6KpBU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/4/pzixI2RzaJbeaLgbO2Aw/1792030605474694.jpg"
-  },
-  {
-    "site": "UOL",
-    "title": "Flamengo visita Estudiantes na ida das semifinais da Libertadores",
-    "url": "https://noticias.uol.com.br/ultimas-noticias/afp/2026/10/14/flamengo-visita-estudiantes-na-ida-das-semifinais-da-libertadores.htm",
+    "title": "Alcolumbre anuncia votação da PEC da Segurança Pública para esta quinta-feira",
+    "url": "https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2026/10/15/alcolumbre-anuncia-votacao-da-pec-da-seguranca-publica-para-esta-quinta-feira.htm",
     "image": ""
   },
   {
     "site": "CNN Brasil",
-    "title": "Palmeiras é letal, vence o Fluminense e abre vantagem na Libertadores",
-    "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/libertadores-da-america/palmeiras-e-letal-vence-o-fluminense-e-abre-vantagem-na-libertadores/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/10/flaco_lopez_gol_palmeiras_libertadores.jpeg?w=1200&h=630&crop=1"
+    "title": "Trump usa ferramentas de pressão sobre Zelensky, diz especialista",
+    "url": "https://www.cnnbrasil.com.br/internacional/trump-usa-ferramentas-de-pressao-sobre-zelensky-diz-especialista-sobre-gue/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/07/volodymyr-zelensky-donald-trump-casa-branca-e1785252998397.jpeg?w=1200&h=630&crop=1"
   },
   {
     "site": "Terra",
-    "title": "Lula comemora aprovação da PEC da escala 6x1 no Senado: 'Resultado extraordinário'",
-    "url": "https://www.terra.com.br/noticias/eleicoes/lula-comemora-aprovacao-da-pec-da-escala-6x1-no-senado-resultado-extraordinario,ff55cec471a7522497fb6e8efc85f8a8n1qzx9go.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/10/15/fta20261013090-uv8n2u4ebwhh.jpg"
+    "title": "Cauly deve deixar o São Paulo após empréstimo; entenda o motivo",
+    "url": "https://www.terra.com.br/esportes/sao-paulo/cauly-deve-deixar-o-sao-paulo-apos-emprestimo-entenda-o-motivo,0418c8e49e471ecd575a10c8ea032627w9fz43j2.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/10/15/1249008406-1422-1536x1067-1.jpg"
+  },
+  {
+    "site": "BBC",
+    "title": "Aplicativo BBC News Brasil: como baixar e receber alerta de notícias e análises",
+    "url": "https://www.bbc.com/portuguese/articles/cqe9l2z988g5o?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/801d/live/94e04980-c71a-11f1-a82f-35874a3aae81.jpg"
+  },
+  {
+    "site": "G1",
+    "title": "TV Integração de Divinópolis ao vivo: assista aos telejornais",
+    "url": "https://g1.globo.com/mg/centro-oeste/ao-vivo/tv-integracao-de-divinopolis-ao-vivo-assista-aos-telejornais.ghtml",
+    "image": "https://s2-g1.glbimg.com/9hEoPSqoDb260srgd528tqUb9oY=/smart/filters:strip_icc()/s2-g1.glbimg.com/5IHB1qNW4zNZC6I6TPVncYju0Jo%3D/1280x0/filters%3Aformat%28jpeg%29/https%3A//thumbor.globoi.com/unsafe/fit-in/1280x720/s03.video.glbimg.com/deo/vi/98/42/14004298"
+  },
+  {
+    "site": "UOL",
+    "title": "Mãe é flagrada bebendo em bar com três filhos em Jandaia do Sul",
+    "url": "https://tnonline.uol.com.br/noticias/vale-do-ivai/mae-e-flagrada-bebendo-em-bar-com-tres-filhos-em-jandaia-do-sul-1165050",
+    "image": "https://cdn.tnonline.com.br/img/Artigo-Destaque/1160000/1200x630/conselho-tutelar-de-jandaia-do-sul-foi-acionado-01165050-0-202610150724/ScaleProportionalFillBackground-1.jpg?fallback=https%3A%2F%2Fcdn.tnonline.com.br%2Fimg%2FArtigo-Destaque%2F1160000%2Fconselho-tutelar-de-jandaia-do-sul-foi-acionado-01165050-0-202610150724.jpg%3Fxid%3D1848373&xid=1848373"
+  },
+  {
+    "site": "CNN Brasil",
+    "title": "Guerra contra o Irã terminará “assim que eu quiser”, diz Trump",
+    "url": "https://www.cnnbrasil.com.br/internacional/guerra-contra-o-ira-terminara-assim-que-eu-quiser-diz-trump/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/10/Donald-Trump-helicoptero.jpg?w=1200&h=630&crop=1"
+  },
+  {
+    "site": "Terra",
+    "title": "União Europeia discute China, energia e orçamento em cúpula marcada por pressão eleitoral",
+    "url": "https://www.terra.com.br/noticias/mundo/uniao-europeia-discute-china-energia-e-orcamento-em-cupula-marcada-por-pressao-eleitoral,dd8a6b6c029ba9c5bb2ec7b76f0dc15ebt0eaj5k.html",
+    "image": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png"
+  },
+  {
+    "site": "BBC",
+    "title": "Mães solo celebram fim da escala 6x1: 'Estava vendo a vida dos meus filhos passar'",
+    "url": "https://www.bbc.com/portuguese/articles/c617krelxj7do?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/0b5b/live/cf511420-c867-11f1-971b-634f423608e9.jpg"
+  },
+  {
+    "site": "G1",
+    "title": "Morre Nego Jader, segurança de Deolane Bezerra",
+    "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/10/15/morre-nego-jader-seguranca-de-deolane-bezerra.ghtml",
+    "image": "https://s2-g1.glbimg.com/imHP9C1uXqbQKypL_GLc06ApCxI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/3/VptiCLQQmqMQqFSTBzUQ/hoje-e-o-aniversario-do-amor-da-minha-vida-quero-que-papai-do-ceu-te-abencoe-nesse-seu-dia-tao-e.jpg"
+  },
+  {
+    "site": "UOL",
+    "title": "Nunes Marques determina reativação do canal 'Exército do Lula'",
+    "url": "https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2026/10/15/nunes-marques-determina-reativacao-do-canal-exercito-do-lula.htm",
+    "image": ""
+  },
+  {
+    "site": "CNN Brasil",
+    "title": "Bolsas da Ásia despencam com ações de tecnologia após inflação dos EUA",
+    "url": "https://www.cnnbrasil.com.br/economia/money/mercado/bolsas-da-asia-despencam-com-acoes-de-tecnologia-apos-inflacao-dos-eua/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/Reuters_Direct_Media/BrazilOnlineReportBusinessNews/tagreuters.com2026binary_LYNXMPEM4P0XX-BASEIMAGE.jpg?w=800&h=534&crop=1"
+  },
+  {
+    "site": "Terra",
+    "title": "SP tem alerta de tempestade nesta quinta-feira após chuva causar alagamentos e morte",
+    "url": "https://www.terra.com.br/noticias/brasil/cidades/sp-tem-alerta-de-tempestade-nesta-quinta-feira-apos-chuva-causar-alagamentos-e-morte,7dcc109fac1d6179623908ff21c37b43m66yprmy.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/10/15/1928156154-uwzcugdg7zgbhmgq3ahlcez3e4.jpg"
   },
   {
     "site": "BBC",
@@ -67,87 +127,27 @@
   },
   {
     "site": "G1",
-    "title": "JAM 2 entrevista candidatos ao governo do Amazonas no 2º turno das eleições",
-    "url": "https://g1.globo.com/am/amazonas/eleicoes/2026/ao-vivo/entrevista-candidatos-am-segundo-turno.ghtml",
-    "image": "https://s2-g1.glbimg.com/hMjvbLqQhepiBP04oJsZ9hDHd2I=/smart/filters:strip_icc()/s2-g1.glbimg.com/k86imMgNXxpCcf-giExs86BDD0I%3D/1280x0/filters%3Aformat%28jpeg%29/https%3A//thumbor.globoi.com/unsafe/fit-in/1280x720/s01.video.glbimg.com/deo/vi/80/65/2126580"
+    "title": "TV Integração de Juiz de Fora ao vivo: assista aos telejornais",
+    "url": "https://g1.globo.com/mg/zona-da-mata/ao-vivo/assista-ao-vivo-a-tv-integracao-de-juiz-de-fora.ghtml",
+    "image": "https://s2-g1.glbimg.com/1ih9ObONrhYs6UgLbdwXGPRt4Gw=/smart/filters:strip_icc()/s2-g1.glbimg.com/8BY1nO5JMvEYXlbKfDzw5EYqqsY%3D/1280x0/filters%3Aformat%28jpeg%29/https%3A//thumbor.globoi.com/unsafe/fit-in/1280x720/s04.video.glbimg.com/deo/vi/27/74/3667427"
   },
   {
     "site": "UOL",
-    "title": "Senado aprova PEC do fim da escala 6x1",
-    "url": "https://noticias.uol.com.br/ultimas-noticias/afp/2026/10/14/senado-aprova-pec-do-fim-da-escala-6x1.htm",
-    "image": ""
+    "title": "Mulher agredida no MS denuncia perseguição de ex em Apucarana",
+    "url": "https://tnonline.uol.com.br/noticias/apucarana/mulher-agredida-no-ms-denuncia-perseguicao-de-ex-em-apucarana-1165045",
+    "image": "https://cdn.tnonline.com.br/img/Instant-Article/1140000/1200x630/mulher-foi-agredida-pelo-companheiro-em-arapongas-01143321-0-202609040749/ScaleProportionalFillBackground-1.jpg?fallback=https%3A%2F%2Fcdn.tnonline.com.br%2Fimg%2FInstant-Article%2F1140000%2Fmulher-foi-agredida-pelo-companheiro-em-arapongas-01143321-0-202609040749.jpg%3Fxid%3D1848369&xid=1848369"
   },
   {
     "site": "CNN Brasil",
-    "title": "Corinthians se solidariza com equipe de TV após ameaças e ataques no CT",
-    "url": "https://www.cnnbrasil.com.br/esportes/futebol/corinthians/corinthians-se-solidariza-com-equipe-de-tv-apos-ameacas-e-ataques-no-ct/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/01/joaquim-grava.webp?w=1000&h=563&crop=1"
+    "title": "Como carregar a bateria do celular quando acaba a luz em casa? Descubra 5 métodos práticos",
+    "url": "https://www.cnnbrasil.com.br/curiosidades/como-carregar-a-bateria-do-celular-quando-acaba-a-luz-em-casa-descubra-5-metodos-praticos/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2024/03/iphone-carregando.jpg?w=1200&h=630&crop=1"
   },
   {
     "site": "Terra",
-    "title": "Fim da escala 6x1: Veja como votou cada senador nos dois turnos da PEC",
-    "url": "https://www.terra.com.br/economia/fim-da-escala-6x1-veja-como-votou-cada-senador-nos-dois-turnos-da-pec,ab61bd2f15cfdc2761b041000dca94a9fuodz6tv.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/10/15/1381679327-uvgcnwaen5cr3lbeygpvc6urzm.jpg"
-  },
-  {
-    "site": "BBC",
-    "title": "O que acontece após fim da 6x1 ser aprovado no Senado?",
-    "url": "https://www.bbc.com/portuguese/articles/cmp3gnwvlwv1o?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/1517/live/7dc66820-c836-11f1-948b-e76b4f24fa5b.jpg"
-  },
-  {
-    "site": "G1",
-    "title": "Fim da escala 6x1: Veja como votaram os senadores da Bahia nos dois turnos",
-    "url": "https://g1.globo.com/ba/bahia/noticia/2026/10/14/fim-da-escala-6x1-veja-como-votaram-os-senadores-da-bahia-nos-dois-turnos.ghtml",
-    "image": "https://s2-g1.glbimg.com/EUSlBxCTMmIDVxdDlYN05jrWTj4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/z/OCjqSPQAyQGAwzcYyjsw/jacques-otto-angelo-coronel.png"
-  },
-  {
-    "site": "UOL",
-    "title": "Em campanha no RS, Flávio vota à distância a favor do fim da 6x1",
-    "url": "https://noticias.uol.com.br/eleicoes/2026/10/14/em-campanha-no-rs-flavio-vota-a-distancia-a-favor-do-fim-da-6x1.ghtm",
-    "image": ""
-  },
-  {
-    "site": "CNN Brasil",
-    "title": "Messi dá assistência, e Inter Miami se classifica aos playoffs da MLS; veja",
-    "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/messi-da-assistencia-e-inter-miami-se-classifica-aos-playoffs-da-mls-veja/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/10/lionel-messi-inter-miami-classificado-playoffs-champions-league-e1792030948531.jpeg?w=1080&h=608&crop=1"
-  },
-  {
-    "site": "Terra",
-    "title": "Globo anuncia novidades na programação para 2027 com Marina Ruy Barbosa e Maisa",
-    "url": "https://www.terra.com.br/diversao/tv/globo-anuncia-novidades-na-programacao-para-2027-com-marina-ruy-barbosa-e-maisa,d91feaeed97c8ba2bdf7d52973fc457c65nhug2c.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/10/15/design-sem-nome-2026-10-14t225900-382-1iyc861q23tpt.png"
-  },
-  {
-    "site": "BBC",
-    "title": "A impressionante descoberta do naufrágio mais antigo do mundo na costa da Turquia",
-    "url": "https://www.bbc.com/portuguese/articles/cmy0rk9e23r3o?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/19d5/live/72e7aa00-c71d-11f1-a82f-35874a3aae81.jpg"
-  },
-  {
-    "site": "G1",
-    "title": "Justiça prorroga prisão temporária de Milton Leite, investigado por elo com o PCC",
-    "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/10/14/justica-prorroga-prisao-temporaria-de-milton-leite-investigado-por-elo-com-o-pcc.ghtml",
-    "image": "https://s2-g1.glbimg.com/BjSj6A0hwL-ZJ2rVwdfNMlVsU4s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/B/xDBsTBRYmAmxS2sjj9Ew/videoframe-797773.png"
-  },
-  {
-    "site": "UOL",
-    "title": "Lula vai comprar celular se canal no WhatsApp chegar a 5 milhões, diz Janones",
-    "url": "https://www1.folha.uol.com.br/poder/2026/10/lula-vai-comprar-celular-se-canal-no-whatsapp-chegar-a-5-milhoes-diz-janones.shtml",
-    "image": "https://f.i.uol.com.br/fotografia/2026/10/14/17920298356ad0348b999b6_1792029835_3x2_rt.jpg"
-  },
-  {
-    "site": "CNN Brasil",
-    "title": "Veja o que o Atlético-MG precisa fazer para ir à final da Sul-Americana",
-    "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/sulamericana/veja-o-que-o-atletico-mg-precisa-fazer-para-ir-a-final-da-sul-americana/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/10/lance-e1792023043999.jpg?w=799&h=450&crop=1"
-  },
-  {
-    "site": "Terra",
-    "title": "Pedrinho registra chapa para disputar reeleição no Vasco",
-    "url": "https://www.terra.com.br/esportes/vasco/pedrinho-registra-chapa-para-disputar-reeleicao-no-vasco,55ea5018d2ec46cb91f4f3917cccd88b4z5ygg6q.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/10/15/2083706705-posse-pedrinho-vasco-2-610x400.jpg"
+    "title": "PS Plus Extra e Deluxe recebem Mafia: The Old Country e mais em outubro",
+    "url": "https://www.terra.com.br/gameon/plataformas-e-consoles/ps-plus-extra-e-deluxe-recebem-mafia-the-old-country-e-mais-em-outubro,c4e6f6c6b0ad99af59dc5d7687e42bd8aaabttbm.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/10/14/mafia-1-1-qec6l7vy7odx.jpg"
   },
   {
     "site": "BBC",
@@ -157,27 +157,57 @@
   },
   {
     "site": "G1",
-    "title": "VÍDEO: advogado é flagrado fumando cigarro ao vivo durante defesa de cliente em audiência virtual do TJMT",
-    "url": "https://g1.globo.com/mt/mato-grosso/noticia/2026/10/14/video-advogado-e-flagrado-fumando-cigarro-ao-vivo-durante-defesa-de-cliente-em-audiencia-virtual-do-tjmt.ghtml",
-    "image": "https://s2-g1.glbimg.com/JTH20qaAiWBg2EsHdrGRH-BscT0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/y/bdrgFqSBKsX772ejMIZg/videos-g1-3-.gif"
+    "title": "VÍDEO: 'água fervendo' brotando do chão chama a atenção em Caldas Novas: 'Olha a fumaça'",
+    "url": "https://g1.globo.com/go/goias/noticia/2026/10/15/video-agua-fervendo-brotando-do-chao-chama-a-atencao-em-caldas-novas-olha-a-fumaca.ghtml",
+    "image": "https://s2-g1.glbimg.com/IuPqT77GSGozqlPuzKV-0VPavps=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/D/B8zmAJRAKppLMlP4hTgw/padrao-g1cbn-foto-9-.png"
   },
   {
     "site": "UOL",
-    "title": "Prefeitura diz que bombas do Anhangabaú não suportaram volume de chuva",
-    "url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/10/14/prefeitura-diz-que-bombas-do-anhangabau-nao-suportaram-volume-de-chuva.ghtm",
+    "title": "União Europeia discute China, energia e orçamento em cúpula marcada por pressão eleitoral",
+    "url": "https://noticias.uol.com.br/ultimas-noticias/rfi/2026/10/15/uniao-europeia-discute-china-energia-e-orcamento-em-cupula-marcada-por-pressao-eleitoral.htm",
     "image": ""
   },
   {
     "site": "CNN Brasil",
-    "title": "Suspeito de matar jovem a tiros tem prisão mantida pela Justiça de SP",
-    "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/suspeito-de-matar-jovem-a-tiros-tem-prisao-mantida-pela-justica-de-sp/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/10/MORRE-MULHER-TABOAO.png?w=1200&h=630&crop=1"
+    "title": "Costa Rica inaugura mega prisão inspirada em modelo de El Salvador",
+    "url": "https://www.cnnbrasil.com.br/internacional/costa-rica-inaugura-mega-prisao-inspirada-em-modelo-de-el-salvador/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/03/el-salvador-3.png?w=1200&h=630&crop=1"
   },
   {
     "site": "Terra",
-    "title": "Virginia na Vila Isabel? Entenda presença de influenciadora em quadra da escola",
-    "url": "https://www.terra.com.br/diversao/gente/virginia-na-vila-isabel-entenda-presenca-de-influenciadora-em-quadra-da-escola,3e0f1c5a679e9b5cdb6ab70c3fc13fdber2mimfo.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/10/15/captura-de-tela-2026-10-14-225944-1h7whgjov77so.jpg"
+    "title": "Flu terá de alcançar feito inédito em terreno \"hostil\" para ir à final",
+    "url": "https://www.terra.com.br/esportes/futebol/libertadores/flu-tera-de-alcancar-feito-inedito-em-terreno-hostil-para-ir-a-final,466b864933b8bcfd54bac8d13c1077e4ttvv51ez.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/10/15/1424021559-55589310807915592ed35oeasy-resizecom-610x400.jpg"
+  },
+  {
+    "site": "BBC",
+    "title": "Fim da escala 6x1 é 'vitória' e dá 'impulso eleitoral' para Lula, destaca imprensa internacional",
+    "url": "https://www.bbc.com/portuguese/articles/cvrlyj213l53o?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/c9b7/live/19c46fc0-c87c-11f1-bf46-d13a9e06695d.jpg"
+  },
+  {
+    "site": "G1",
+    "title": "Parte de muro de condomínio, em BH, cai e atinge dois carros em estacionamento",
+    "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/10/15/parte-de-muro-de-condominio-em-bh-cai-e-atinge-dois-carros-em-estacionamento.ghtml",
+    "image": "https://s2-g1.glbimg.com/s2oyYm5lxak9eBd9O4tlGL9Vx5o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/d/bPm4UXQtKwwpHqogFeBA/chuva-distrito-paulo-camilo-1-20-.png"
+  },
+  {
+    "site": "UOL",
+    "title": "PF mira grupo que enviava drogas para SP em eletrodomésticos pela internet",
+    "url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/10/15/mpsp-e-pf-investigam-grupo-que-enviava-drogas-em-eletrodomesticos.ghtm",
+    "image": ""
+  },
+  {
+    "site": "CNN Brasil",
+    "title": "O Grande Debate: Congresso deveria esperar o fim da eleição para votar 6×1?",
+    "url": "https://www.cnnbrasil.com.br/politica/o-grande-debate-congresso-deveria-esperar-o-fim-da-eleicao-para-votar-6x1/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/10/Captura-de-tela-2026-10-15-071314.png?w=1200&h=447&crop=1"
+  },
+  {
+    "site": "Terra",
+    "title": "'Rosebush Pruning', novo filme de Karim Aïnouz, estreia nos cinemas brasileiros",
+    "url": "https://www.terra.com.br/diversao/entre-telas/rosebush-pruning-novo-filme-de-karim-ainouz-estreia-nos-cinemas-brasileiros,98a7624cc4a627477ac7f752b00d62732l5k9mhs.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/10/15/602570808-rosebush-pruning-novo-filme-de-karim-ainouz-estreia-nos-cinemas-brasileiros-divulgacaomubifilmes-do-estacao.jpg"
   },
   {
     "site": "BBC",
@@ -187,27 +217,27 @@
   },
   {
     "site": "G1",
-    "title": "Após aprovação do fim da escala 6x1, Alcolumbre diz a líder do PT: 'Eu não falei que ia dar certo?'",
-    "url": "https://g1.globo.com/politica/noticia/2026/10/14/camilo-santana-lider-do-pt-no-senado-agradece-a-alcolumbre-pela-aprovacao-do-fim-da-escala-6x1-voce-e-o-grande-responsavel-por-isso-aqui.ghtml",
-    "image": "https://s2-g1.glbimg.com/CmmKUflP7pPFSU4_xZ6yX784FPo=/1280x0/filters:format(jpeg)/https://thumbor.globoi.com/unsafe/fit-in/1280x720/s01.video.glbimg.com/deo/vi/52/97/15059752"
+    "title": "TV Integração de Uberaba ao vivo: assista aos telejornais",
+    "url": "https://g1.globo.com/mg/triangulo-mineiro/ao-vivo/assista-ao-vivo-a-tv-integracao-de-uberaba.ghtml",
+    "image": "https://s2-g1.glbimg.com/2aVZGZx6t0HSoKBbqo01LuqlRgQ=/smart/filters:strip_icc()/s2-g1.glbimg.com/lha2IcQkjsR7UVOHoxEl82hrlxE%3D/1280x0/filters%3Aformat%28jpeg%29/https%3A//thumbor.globoi.com/unsafe/fit-in/1280x720/s02.video.glbimg.com/deo/vi/85/53/12945385"
   },
   {
     "site": "UOL",
-    "title": "Ucrânia acusa EUA de limitar Starlink em meio a ataque russo",
-    "url": "https://noticias.uol.com.br/internacional/ultimas-noticias/2026/10/14/ucrania-acusa-eua-de-limitar-starlink-em-meio-a-ataque-russo.ghtm",
-    "image": ""
+    "title": "Reduzir horário das lojas é saída para o fim da escala 6x1, diz CEO da Chiquinho Sorvetes",
+    "url": "https://c-level.folha.uol.com.br/c-level-entrevista/2026/10/reduzir-horario-das-lojas-e-saida-para-o-fim-da-escala-6x1-diz-ceo-da-chiquinho-sorvetes.shtml",
+    "image": "https://f.i.uol.com.br/fotografia/2026/10/14/17920324736ad03ed9eddae_1792032473_3x2_xl.jpg"
   },
   {
     "site": "CNN Brasil",
-    "title": "Polícia Civil do Rio prende figurante durante gravação de novela",
-    "url": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/policia-civil-do-rio-prende-figurante-durante-gravacao-de-novela/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/12/pcrj.png?w=1200&h=630&crop=1"
+    "title": "Operação em SP mira quadrilha que enviava drogas em eletrodomésticos",
+    "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/operacao-em-sp-mira-quadrilha-que-enviava-drogas-em-eletrodomesticos/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2024/11/mpsp-2-e1738061088424.jpg?w=852&h=480&crop=1"
   },
   {
     "site": "Terra",
-    "title": "Já assisti VisionQuest completa e posso dizer: a série faz jus a WandaVision com algumas das maiores ironias da Marvel",
-    "url": "https://www.terra.com.br/diversao/entre-telas/ja-assisti-visionquest-completa-e-posso-dizer-a-serie-faz-jus-a-wandavision-com-algumas-das-maiores-ironias-da-marvel,ecdc3e45ed4fa7974ef468d711a130b5ot934qmh.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/10/15/2079797006-04d5401e12e0e755fd1bbbd1cd47a4e8.jpg"
+    "title": "Saiba como votaram os senadores na PEC do fim da escala 6x1",
+    "url": "https://www.terra.com.br/noticias/brasil/policia/saiba-como-votaram-os-senadores-na-pec-do-fim-da-escala-6x1,a46509c90cbd818e99cf411a87914b8eiviq4e5o.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/10/15/309115675-saiba-como-votaram-os-senadores-na-pec-do-fim-da-escala-6x1-1.jpg"
   },
   {
     "site": "BBC",
@@ -217,86 +247,50 @@
   },
   {
     "site": "G1",
-    "title": "Áudio revela que bombeiros não tinham viatura para atender incêndio no AM",
-    "url": "https://g1.globo.com/am/amazonas/noticia/2026/10/14/audio-revela-que-bombeiros-nao-tinham-viatura-para-atender-incendio-no-am.ghtml",
-    "image": "https://s2-g1.glbimg.com/x7P5rw_drukLmk0mUdiIdIX8NUI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/t/H6KfLMQBm8eTkqrldbtg/captura-de-tela-2026-10-14-212231.png"
+    "title": "TV Integração de Uberlândia ao vivo: assista aos telejornais",
+    "url": "https://g1.globo.com/mg/triangulo-mineiro/ao-vivo/assista-ao-vivo-a-tv-integracao-de-uberlandia.ghtml",
+    "image": "https://s2-g1.glbimg.com/jKSAbWCGRyu_4HQZQKxLpXZJQTQ=/smart/filters:strip_icc()/s2-g1.glbimg.com/dRL9eLVN98WejN6hWba_6oYEi8M%3D/1280x0/filters%3Aformat%28jpeg%29/https%3A//thumbor.globoi.com/unsafe/fit-in/1280x720/s02.video.glbimg.com/deo/vi/81/86/4218681"
   },
   {
     "site": "UOL",
-    "title": "'Flávio Bolsonaro vai retomar a 6x1 se eleito presidente', diz Erika Hilton",
-    "url": "https://noticias.uol.com.br/colunas/leticia-casado/2026/10/14/erika-hilton-flavio-bolsonaro.htm",
+    "title": "Palver: Flávio Bolsonaro tem 50% e Lula, 49% no segundo turno",
+    "url": "https://noticias.uol.com.br/eleicoes/2026/10/15/palver-flavio-bolsonaro-tem-50-e-lula-49-no-segundo-turno.ghtm",
     "image": ""
   },
   {
     "site": "CNN Brasil",
-    "title": "Veja como votou cada senador na PEC que acaba com a escala 6×1",
-    "url": "https://www.cnnbrasil.com.br/politica/veja-como-votou-cada-senador-na-pec-que-acaba-com-a-escala-6x1/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/10/plenario_do_senado.jpg?w=1200&h=630&crop=1"
+    "title": "“Quem Ama Cuida”: Heitor entra em guerra, disputa herança e abala romance",
+    "url": "https://www.cnnbrasil.com.br/pop/tv/quem-ama-cuida-heitor-entra-em-guerra-disputa-heranca-e-abala-romance/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/10/adriana-heitor-pedro-quem-ama-cuida.jpg?w=1200&h=630&crop=1"
   },
   {
     "site": "Terra",
-    "title": "Ticiane Pinheiro e Rafa Justus são detonadas por divulgação de programa da Globo: 'Que vergonha'",
-    "url": "https://www.terra.com.br/diversao/tv/ticiane-pinheiro-e-rafa-justus-sao-detonadas-por-divulgacao-de-programa-da-globo-que-vergonha,b0dc87b58f86fec995856ff7b4d911b265h874hh.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/10/15/152402395-ticiane-pinheiro-e-rafa-justus.jpg"
-  },
-  {
-    "site": "BBC",
-    "title": "Ex-ministro de FHC não declara voto, mas vê em Flávio risco de concentração de poder",
-    "url": "https://www.bbc.com/portuguese/articles/cmn06wpypkn8o?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/639a/live/9e40f590-c7a3-11f1-a624-a3d8608fc192.jpg"
+    "title": "Confira os próximos jogos do Palmeiras na temporada de 2026",
+    "url": "https://www.terra.com.br/esportes/palmeiras/confira-os-proximos-jogos-do-palmeiras-na-temporada-de-2026,ef4970f841cf297806a755a2085bd82bnwzbsd8d.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/10/15/873668254-14102026cgpalmeirasdestaque985025.jpg"
   },
   {
     "site": "G1",
-    "title": "Senado aprova PEC que prevê o fim da escala 6x1; texto segue para promulgação",
-    "url": "https://g1.globo.com/trabalho-e-carreira/ao-vivo/senado-pec-fim-escalada-6x1.ghtml",
-    "image": "https://s2-g1.glbimg.com/b3JJg-Tq5NW0Rqy1PPLl0NoSigU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/K/AgJx9UT02X1tSGBZ3nuA/captura-de-tela-2026-10-14-215443.png"
+    "title": "Buzinas de trens: MPF recorre para acelerar ações contra poluição sonora no interior de SP",
+    "url": "https://g1.globo.com/sp/sao-carlos-regiao/noticia/2026/10/15/buzinas-de-trens-mpf-recorre-para-acelerar-acoes-contra-poluicao-sonora-no-interior-de-sp.ghtml",
+    "image": "https://s2-g1.glbimg.com/BYuljzWexxENI1VgxezY14waVws=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/M/orKVeCSLmHDVUY7nJcTg/design-sem-nome-2026-10-14t112614.671.png"
   },
   {
     "site": "UOL",
-    "title": "Número de mortos pela tempestade tropical Rachel no México sobe para oito",
-    "url": "https://noticias.uol.com.br/ultimas-noticias/afp/2026/10/14/numero-de-mortos-pela-tempestade-tropical-rachel-no-mexico-sobe-para-oito.htm",
-    "image": ""
+    "title": "Moro mostra força com prefeitos",
+    "url": "https://tnonline.uol.com.br/blogs/coluna-da-tribuna/moro-mostra-forca-com-prefeitos-1165043",
+    "image": "https://cdn.tnonline.com.br/img/Artigo-Destaque/1160000/1200x630/moro-mostra-forca-com-prefeitos-01165043-0-202610150643/ScaleProportionalFillBackground-1.jpg?fallback=https%3A%2F%2Fcdn.tnonline.com.br%2Fimg%2FArtigo-Destaque%2F1160000%2Fmoro-mostra-forca-com-prefeitos-01165043-0-202610150643.jpg%3Fxid%3D1848364&xid=1848364"
   },
   {
     "site": "CNN Brasil",
-    "title": "Inteligência Artificial já esbarra em reforma tributária",
-    "url": "https://www.cnnbrasil.com.br/economia/money/tecnologia/inteligencia-artificial-ja-esbarra-em-reforma-tributaria/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/08/lci-ou-cdb.jpeg?w=1200&h=630&crop=1"
+    "title": "Aprosoja cobra dos presidenciáveis medidas para conter endividamento rural",
+    "url": "https://www.cnnbrasil.com.br/agro/aprosoja-cobra-dos-presidenciaveis-medidas-para-conter-endividamento-rural/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/Reuters_Direct_Media/BrazilOnlineReportBusinessNews/tagreuters.com2026binary_LYNXMPEM96111-BASEIMAGE.jpg?w=800&h=534&crop=1"
   },
   {
     "site": "Terra",
-    "title": "Torcedores do Corinthians soltam rojões e apontam arma para repórter em protesto no CT",
-    "url": "https://www.terra.com.br/esportes/corinthians/torcedores-do-corinthians-soltam-rojoes-e-apontam-arma-para-reporter-em-protesto-no-ct,5bab5235d72c03d988913c40ee363f99j2d38dlg.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/10/15/433516943-jk5u3uzh7fhulkjjpj3fkxornu.jpeg"
-  },
-  {
-    "site": "BBC",
-    "title": "Manifestações de rua podem mudar os rumos do segundo turno?",
-    "url": "https://www.bbc.com/portuguese/articles/c9gkvg235r0vo?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/a480/live/c5d19b10-c752-11f1-b4d5-87f9c6c95a29.jpg"
-  },
-  {
-    "site": "G1",
-    "title": "Em meio a casos de manchas na pele sem causa definida, moradores de Brodowski vivem infestação de pernilongos",
-    "url": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/10/14/em-meio-a-casos-de-manchas-na-pele-sem-causa-definida-moradores-de-brodowski-vivem-infestacao-de-pernilongos.ghtml",
-    "image": "https://s2-g1.glbimg.com/XrPR7jWe-f0_rIVlg7IUWcHvuEE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/N/9UzptCSl2einW7pG1Hcg/vlcsnap-2026-10-14-16h09m50s689.png"
-  },
-  {
-    "site": "UOL",
-    "title": "Desinformação sobre urnas recua, e falso apoio a candidatos cresce em 2026, diz Lupa",
-    "url": "https://www1.folha.uol.com.br/poder/2026/10/desinformacao-sobre-urnas-recua-e-falso-apoio-a-candidatos-cresce-em-2026-diz-lupa.shtml",
-    "image": "https://f.i.uol.com.br/fotografia/2026/09/23/17901966606ab43bb477043_1790196660_3x2_rt.jpg"
-  },
-  {
-    "site": "CNN Brasil",
-    "title": "Boletim aponta risco de inundação em três cidades do Rio Grande do Sul",
-    "url": "https://www.cnnbrasil.com.br/nacional/sul/rs/boletim-aponta-risco-de-inundacao-em-tres-cidades-do-rio-grande-do-sul/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/07/BOLETIM-%E2%80%93-DEFESA-CIVIL-SAO-BORJA-Sao-Borja-923-metros-subindo-ultima-atualizacao-as-18hCot-2-e1783287124945.jpg?w=1170&h=585&crop=1"
-  },
-  {
-    "site": "Terra",
-    "title": "Como aliviar a energia pesada da sua casa com 4 truques simples de Feng Shui",
-    "url": "https://www.terra.com.br/vida-e-estilo/horoscopo/como-aliviar-a-energia-pesada-da-sua-casa-com-4-truques-simples-de-feng-shui,0317c5315914ff5284f394e2b981fa78w8opmfge.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/10/15/329128105-capa-bons-fluidos-10-8.jpg"
+    "title": "Seedorf identifica pontos que podem mudar cenário do Corinthians",
+    "url": "https://www.terra.com.br/esportes/corinthians/seedorf-identifica-pontos-que-podem-mudar-cenario-do-corinthians,0f497230aadcad29016cbc065ed9ed26x1hriuyb.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/10/15/1399005420-249830-2048x1554.jpg"
   }
 ]
