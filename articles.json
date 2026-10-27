@@ -1,33 +1,93 @@
 [
   {
     "site": "BBC",
+    "title": "Ian Bremmer: 'Se Lula não agir rápido na economia, o mercado vai castigá-lo duramente'",
+    "url": "https://www.bbc.com/portuguese/articles/cvglw5x8760ro?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/b397/live/80cf2830-d1e2-11f1-8e07-c79267b33d55.jpg"
+  },
+  {
+    "site": "G1",
+    "title": "Mortos e feridos em acidente na PB estavam em van a caminho de tratamento contra o câncer",
+    "url": "https://g1.globo.com/pb/paraiba/noticia/2026/10/27/mortos-e-feridos-em-acidente-na-pb-estavam-em-van-a-caminho-de-tratamento-contra-o-cancer.ghtml",
+    "image": "https://s2-g1.glbimg.com/EYOC3P26NDnFCY-ci6uqGzmazaw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/u/xA3VcWRh6z3Zj1QiOnBg/acidente-soledade-271026.jpg"
+  },
+  {
+    "site": "UOL",
+    "title": "Mundo gerará menos energia renovável pela primeira vez em cinco anos, diz presidente de agência",
+    "url": "https://c-level.folha.uol.com.br/economia-sustentavel/2026/10/mundo-gerara-menos-energia-renovavel-pela-primeira-vez-em-cinco-anos-diz-presidente-de-agencia.shtml",
+    "image": "https://f.i.uol.com.br/fotografia/2026/10/27/17930991036ae0855fb4db2_1793099103_3x2_rt.jpg"
+  },
+  {
+    "site": "CNN Brasil",
+    "title": "Países querem reduzir dependência de proteínas e mudam comércio global",
+    "url": "https://www.cnnbrasil.com.br/agro/paises-querem-reduzir-dependencia-de-proteinas-e-mudam-comercio-global/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/12/peru-de-natal.jpg?w=1200&h=630&crop=1"
+  },
+  {
+    "site": "Terra",
+    "title": "Volkswagen T-Cross tem descontos de até R$ 37,5 mil para PCD em outubro",
+    "url": "https://www.terra.com.br/mobilidade/volkswagen-t-cross-tem-descontos-de-ate-r-375-mil-para-pcd-em-outubro,7a7634e8a4847fab662a1479d19de61fueqkzjlo.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/09/08/vw-t-cross-200-tsi-2026-1if114ll5a81l.jpg"
+  },
+  {
+    "site": "BBC",
+    "title": "Israel vai às urnas, e legado do 7 de outubro pode definir se Netanyahu terá seu sétimo mandato",
+    "url": "https://www.bbc.com/portuguese/articles/cm4g1qpnkv11o?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/9543/live/7b21c3e0-d1cc-11f1-837e-832a94a7445c.png"
+  },
+  {
+    "site": "G1",
+    "title": "Justiça concede liberdade a motociclista atropelado por viatura da PM e manda investigar agentes em SC",
+    "url": "https://g1.globo.com/sc/santa-catarina/noticia/2026/10/27/justica-concede-liberdade-motociclista-atropelado-viatura-pm-manda-investigar-agentes-sc.ghtml",
+    "image": "https://s2-g1.glbimg.com/5R7oVNU3wabMYuuXNad0I8er1kE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/v/frKDznS3qfxuBkAA1NpQ/whatsapp-image-2026-10-26-at-09.19.03.jpeg"
+  },
+  {
+    "site": "UOL",
+    "title": "Direita tem a chance de sair da relação tóxica com o clã Bolsonaro",
+    "url": "https://noticias.uol.com.br/colunas/leonardo-sakamoto/2026/10/27/direita-tem-a-chance-de-sair-da-relacao-toxica-com-o-cla-bolsonaro.htm",
+    "image": ""
+  },
+  {
+    "site": "CNN Brasil",
+    "title": "“Tô certo ou tô errado?” O gás brasileiro e a lógica de Sinhozinho Malta",
+    "url": "https://www.cnnbrasil.com.br/infra/to-certo-ou-to-errado-o-gas-brasileiro-e-a-logica-de-sinhozinho-malta/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/07/2_GASODUTO.jpg?w=1200&h=630&crop=1"
+  },
+  {
+    "site": "Terra",
+    "title": "Grêmio vence o Coritiba fora de casa e ultrapassa o Corinthians",
+    "url": "https://www.terra.com.br/esportes/gremio-vence-o-coritiba-fora-de-casa-e-ultrapassa-o-corinthians,42369f5ac0119ea6899a728cfb30721av8tx1zkn.html",
+    "image": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png"
+  },
+  {
+    "site": "BBC",
     "title": "BBC identifica 33,8 mil votos durante prorrogação ordenada por Zanin, menos de 0,03% dos votos totais",
     "url": "https://www.bbc.com/portuguese/articles/crp3g2ynkp1xo?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/438b/live/f1949a30-d176-11f1-9d71-6d5ae0660afe.jpg"
   },
   {
     "site": "G1",
-    "title": "Reeleito, presidente Lula poderá indicar quatro nomes ao Supremo",
-    "url": "https://g1.globo.com/jornal-nacional/noticia/2026/10/26/reeleito-presidente-lula-podera-indicar-quatro-nomes-ao-supremo.ghtml",
-    "image": "https://s2-g1.glbimg.com/rhrra_GxMnEEL5bNh6T5jgZXpnA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/t/HUfEe9T0a5hRhsS6rqSA/globo-canal-4-20261026-2000-frame-145332.jpeg"
+    "title": "Homem com mandado de prisão por homicídio é preso após atirar contra a PM em Três Rios",
+    "url": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/10/27/homem-com-mandado-de-prisao-por-homicidio-e-preso-apos-atirar-contra-a-pm-em-tres-rios.ghtml",
+    "image": "https://s2-g1.glbimg.com/o9jwloQ8L5CEexB-713TCnIOTEs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/R/gPYm35TEayV6wwFXDPqw/whatsapp-image-2026-10-27-at-07.11.18.jpeg"
   },
   {
     "site": "UOL",
-    "title": "Israel vai às urnas em eleição dividida que pode tirar cargo de Netanyahu",
-    "url": "https://noticias.uol.com.br/internacional/ultimas-noticias/2026/10/27/israel-vai-as-urnas-com-grande-numero-de-indecisos-para-escolher-primeiro-ministro.ghtm",
+    "title": "China repudia Mbappé, acusado de ofender 'sentimentos nacionais'",
+    "url": "https://noticias.uol.com.br/ultimas-noticias/afp/2026/10/27/china-repudia-mbappe-acusado-de-ofender-sentimentos-nacionais.htm",
     "image": ""
   },
   {
     "site": "CNN Brasil",
-    "title": "Renato analisa briga para fugir do Z4: “Estão deixando o Grêmio chegar”",
-    "url": "https://www.cnnbrasil.com.br/esportes/futebol/gremio/renato-analisa-briga-para-fugir-do-z4-estao-deixando-o-gremio-chegar/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/10/renato.webp?w=658&h=362&crop=1"
+    "title": "Direito Delas: onde denunciar assédio no trabalho e como reunir as provas",
+    "url": "https://www.cnnbrasil.com.br/nacional/brasil/direito-delas-onde-denunciar-assedio-no-trabalho-e-como-reunir-as-provas/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/ChatGPT-Image-14-de-set.-de-2026-07_21_14.png?w=1200&h=630&crop=1"
   },
   {
     "site": "Terra",
-    "title": "Grupo Globo comete gafe ao vivo durante cobertura das eleições",
-    "url": "https://www.terra.com.br/noticias/eleicoes/grupo-globo-comete-gafe-ao-vivo-durante-cobertura-das-eleicoes,68efa207a0809aa9b1782f63ea78e7f5ne8jji28.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/10/27/1313533715-globo-2.jpg"
+    "title": "Corinthians vê risco de rebaixamento saltar para 66%; veja probabilidades",
+    "url": "https://www.terra.com.br/esportes/corinthians/corinthians-ve-risco-de-rebaixamento-saltar-para-66-veja-probabilidades,98e53f074df397e27947a58e1be8f9a0uw6s2v5r.html",
+    "image": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png"
   },
   {
     "site": "BBC",
@@ -37,27 +97,27 @@
   },
   {
     "site": "G1",
-    "title": "Relação com Congresso está entre os principais desafios do governo Lula nos próximos 4 anos; entenda",
-    "url": "https://g1.globo.com/jornal-nacional/noticia/2026/10/26/relacao-com-congresso-esta-entre-os-principais-desafios-do-governo-lula-nos-proximos-4-anos-entenda.ghtml",
-    "image": "https://s2-g1.glbimg.com/wwnGjof7rrFD4G5aJoNHO764raE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/L/aFgNsJQwicTF05EWmsFw/globo-canal-4-20261026-2000-frame-134349.jpeg"
+    "title": "Mulheres relatam dificuldade para marcar consulta com ginecologista na rede pública da cidade de SP; espera dura até 1 ano",
+    "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/10/27/mulheres-relatam-dificuldade-para-marcar-consulta-com-ginecologista-na-rede-publica-da-cidade-de-sp-espera-dura-ate-1-ano.ghtml",
+    "image": "https://s2-g1.glbimg.com/T_tz_stU1wxslYzLiL0lMiGnev4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/r/nJcUqtS0Wu2vtSyaBMXQ/fotojet-2026-10-27t074912.747.jpg"
   },
   {
     "site": "UOL",
-    "title": "Começa trégua humanitária na cidade ucraniana de Oleshky, ocupada pela Rússia",
-    "url": "https://noticias.uol.com.br/ultimas-noticias/afp/2026/10/26/comeca-tregua-humanitaria-na-cidade-ucraniana-de-oleshky-ocupada-pela-russia.htm",
+    "title": "Flávio teria viajado à Argentina para ir para os EUA, diz site; aliado nega",
+    "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/10/27/flavio-bolsonaro-argentina-eua.ghtm",
     "image": ""
   },
   {
     "site": "CNN Brasil",
-    "title": "Arrascaeta valoriza vitória do Flamengo sobre Atlético-MG: “Era uma final”",
-    "url": "https://www.cnnbrasil.com.br/esportes/futebol/flamengo/arrascaeta-valoriza-vitoria-do-flamengo-sobre-atletico-mg-era-uma-final/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/10/flamengo-atletico-mg-brasileirao-3-e1793059029849.jpeg?w=1200&h=630&crop=1"
+    "title": "O relevante impacto da Reforma Tributária para o segmento de transmissão",
+    "url": "https://www.cnnbrasil.com.br/infra/o-relevante-impacto-da-reforma-tributaria-para-o-segmento-de-transmissao/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/JoaoEduardoGrecoPinheiro_20210826_170018.jpg-e1790794393212.jpeg?w=1200&h=630&crop=1"
   },
   {
     "site": "Terra",
-    "title": "'A Fazenda 18': Gabriel revela motivo que o fez desistir do reality: 'Você não imagina o tamanho'",
-    "url": "https://www.terra.com.br/diversao/tv/a-fazenda/a-fazenda-18-gabriel-revela-motivo-que-o-fez-desistir-do-reality-voce-nao-imagina-o-tamanho,850025c4b2eab3a9bc3e8addc89e6e8bt9rx52f9.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/10/27/693409590-gabriel-em-a-fazenda-18.jpg"
+    "title": "Catar afirma que Irã precisa demonstrar boas intenções para que esforços de mediação tenham sucesso",
+    "url": "https://www.terra.com.br/noticias/mundo/catar-afirma-que-ira-precisa-demonstrar-boas-intencoes-para-que-esforcos-de-mediacao-tenham-sucesso,5f666ba2497e105d99019e0beee6808d2v8ca75c.html",
+    "image": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png"
   },
   {
     "site": "BBC",
@@ -67,57 +127,57 @@
   },
   {
     "site": "G1",
-    "title": "Mercado financeiro reage à vitória de Lula com queda da bolsa de valores e alta do dólar",
-    "url": "https://g1.globo.com/jornal-nacional/noticia/2026/10/26/mercado-financeiro-reage-a-vitoria-de-lula-com-queda-da-bolsa-de-valores-e-alta-do-dolar.ghtml",
-    "image": "https://s2-g1.glbimg.com/Ubg1K0bB_He8wqM892c3ws0sOns=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/Q/ZCK9dMTVqgKZh8QCpQ5w/globo-canal-4-20261026-2000-frame-128002.jpeg"
+    "title": "VÍDEOS: Bom Dia Rio de terça, 27 de outubro de 2026",
+    "url": "https://g1.globo.com/rj/rio-de-janeiro/bom-dia-rio/playlist/videos-bom-dia-rio-de-terca-27-de-outubro-de-2026.ghtml",
+    "image": "https://s2-g1.glbimg.com/IBwmAe5GsHz7qBOalPfw5l5mlz8=/s01.video.glbimg.com/deo/vi/41/32/15133241"
   },
   {
     "site": "UOL",
-    "title": "Bombardeios jordanianos deixam seis mortos na Síria após ataque a igreja",
-    "url": "https://noticias.uol.com.br/ultimas-noticias/afp/2026/10/26/bombardeios-jordanianos-deixam-seis-mortos-na-siria-apos-ataque-a-igreja.htm",
+    "title": "Governo renovará a subvenção de R$ 2,12 do diesel por um mês",
+    "url": "https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2026/10/27/governo-renovara-a-subvencao-de-r-212-do-diesel-por-um-mes.htm",
     "image": ""
   },
   {
     "site": "CNN Brasil",
-    "title": "Polícia Civil combate golpe bancário contra idosos no Rio de Janeiro",
-    "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/policia-civil-combate-golpe-bancario-contra-idosos-no-rio-de-janeiro/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/10/WhatsApp-Image-2026-10-26-at-23.06.31.jpeg?w=1200&h=630&crop=1"
+    "title": "O que é a cláusula de barreira nas eleições de Israel?",
+    "url": "https://www.cnnbrasil.com.br/internacional/o-que-e-a-clausula-de-barreira-nas-eleicoes-de-israel/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/11/bandeira-israel-parlamento-knesset-e1762890877608.jpg?w=1024&h=577&crop=1"
   },
   {
     "site": "Terra",
-    "title": "Dupla Sena 3025: sete apostas levam mais de R$ 11 mil no 2º sorteio",
-    "url": "https://www.terra.com.br/noticias/dupla-sena-3025-sete-apostas-levam-mais-de-r-11-mil-no-2-sorteio,1f1c8249bbb109560f9dd85e6042f6f0yk7j78eo.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/10/27/292678502-painel-com-volantes-de-loterias-em-loterica.jpg"
+    "title": "Adriane Galisteu detona elenco de 'A Fazenda 18' e dá opinião corajosa: 'Militância'",
+    "url": "https://www.terra.com.br/diversao/tv/a-fazenda/adriane-galisteu-detona-elenco-de-a-fazenda-18-e-da-opiniao-corajosa-militancia,62769f9f80c588b6b8e269c976b569d85l1ltupj.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/10/27/930284593-images-2026-10-27t074941283.jpg"
   },
   {
     "site": "BBC",
-    "title": "Trump diz que pleito no Brasil 'pareceu ter fraude'; as notícias da 2ªf pós-eleição",
+    "title": "Trump diz que pleito no Brasil 'pareceu ter fraude'; as notícias pós-eleição",
     "url": "https://www.bbc.co.uk/portuguese/live/c6vg0rrxzx13t?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/ace/standard/480/cpsprodpb/7fba/live/95c0e210-d179-11f1-9d71-6d5ae0660afe.jpg"
   },
   {
     "site": "G1",
-    "title": "Governo federal autoriza envio de Força Nacional para Tabatinga, no Amazonas",
-    "url": "https://g1.globo.com/am/amazonas/noticia/2026/10/26/governo-federal-autoriza-envio-de-forca-nacional-para-tabatinga-no-amazonas.ghtml",
-    "image": "https://s2-g1.glbimg.com/2PCUB5iBMVQMo329XG3YiifU9zQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/2/T/dXZokbTMaEL1zXwamAjQ/whatsapp-image-2024-09-20-at-20.50.05.jpeg"
+    "title": "Deputado Marcelo Queiroz volta a ser alvo da PF em inquérito sobre programa de castração de animais",
+    "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/10/27/pf-deflagra-a-2a-fase-da-operacao-castratio.ghtml",
+    "image": "https://s2-g1.glbimg.com/lgam5qQbP4DpzHTXElnJ8kEztcY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/O/ySevbvSAeBiFDLV4nknA/g1-operacao1-2-.jpg"
   },
   {
     "site": "UOL",
-    "title": "Diplomatas bolsonaristas propuseram plano de demissão voluntária após ameaça de Eduardo",
-    "url": "https://www1.folha.uol.com.br/colunas/painel/2026/10/diplomatas-bolsonaristas-propuseram-plano-de-demissao-voluntaria-apos-ameaca-de-eduardo.shtml",
-    "image": "https://f.i.uol.com.br/fotografia/2026/10/02/17909875426ac04d165e4c3_1790987542_3x2_rt.jpg"
+    "title": "Raízen prevê emitir ações e captar até R$ 39,8 bilhões",
+    "url": "https://economia.uol.com.br/noticias/redacao/2026/10/27/raizen-propoe-emitir-acoes-e-captar-ate-r-398-bilhoes.ghtm",
+    "image": ""
   },
   {
     "site": "CNN Brasil",
-    "title": "Governo de SP inicia demolição de imóveis afetados por explosão no Jaguaré",
-    "url": "https://www.cnnbrasil.com.br/nacional/governo-de-sp-inicia-demolicao-de-imoveis-afetados-por-explosao-no-jaguare/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/05/galeria-9.png?w=1178&h=630&crop=1"
+    "title": "Gases de efeito estufa batem novo recorde e aumentam aquecimento global, aponta ONU",
+    "url": "https://www.cnnbrasil.com.br/ciencia/gases-de-efeito-estufa-batem-novo-recorde-e-aumentam-aquecimento-global-aponta-onu/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/10/AGRESSOES-GOIAS-1.png?w=1200&h=630&crop=1"
   },
   {
     "site": "Terra",
-    "title": "Flávia Pavanelli revela que sofreu acidente",
-    "url": "https://www.terra.com.br/diversao/gente/flavia-pavanelli-revela-que-sofreu-acidente,583915df6abf33ed2178432f0f0038d8y52qo67o.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/10/27/612191719-image-29.png"
+    "title": "Como Amy Winehouse promoveu uma revolução em 'Back to Black'",
+    "url": "https://www.terra.com.br/diversao/musica/como-amy-winehouse-promoveu-uma-revolucao-em-back-to-black,167d5314d03f8aa3258a24b4ebfeaebf2iv3t16o.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/10/27/266525399-amy-winehouse-back-to-black-2006-foto-mischa-richter.jpg"
   },
   {
     "site": "BBC",
@@ -127,27 +187,27 @@
   },
   {
     "site": "G1",
-    "title": "Moraes determina que Flávio Bolsonaro entregue os passaportes à PF e proíbe senador de ter contato com Willer Tomaz",
-    "url": "https://g1.globo.com/jornal-nacional/noticia/2026/10/26/moraes-determina-que-flavio-bolsonaro-entregue-os-passaportes-a-pf-e-proibe-senador-de-ter-contato-com-willer-tomaz.ghtml",
-    "image": "https://s2-g1.glbimg.com/sh-ztxeGwdVRRb2AfvD58Zletss=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/q/th3iMgTdaRMEOZRPAAyg/globo-canal-4-20261026-2000-frame-122021.jpeg"
+    "title": "Colisão entre ambulância e caminhão deixa paciente de 68 anos morta no interior do Ceará",
+    "url": "https://g1.globo.com/ce/ceara/noticia/2026/10/27/colisao-entre-ambulancia-e-caminhao-deixa-mulher-de-68-anos-morta-no-interior-do-ceara.ghtml",
+    "image": "https://s2-g1.glbimg.com/mKtEFniaio3FXmMnkWsjs-AIZ68=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/6/S9TiFRSC279S5wz9ZH3g/acidente-deixa-mulher-morta-no-ceara.jpg"
   },
   {
     "site": "UOL",
-    "title": "Lula deve remanejar ministros e terá desafio de abrigar no governo aliados derrotados em eleições",
-    "url": "https://www1.folha.uol.com.br/poder/2026/10/lula-deve-remanejar-ministros-e-tera-desafio-de-abrigar-no-governo-aliados-derrotados-em-eleicoes.shtml",
-    "image": "https://f.i.uol.com.br/fotografia/2026/10/26/17930515776adfcbb9859dd_1793051577_3x2_rt.jpg"
+    "title": "Gestor de fundo americano vê queda da Bolsa como exagerada e aproveita para comprar ações",
+    "url": "https://c-level.folha.uol.com.br/financas/2026/10/gestor-de-fundo-americano-ve-queda-da-bolsa-como-exagerada-e-aproveita-para-comprar-acoes.shtml",
+    "image": "https://f.i.uol.com.br/fotografia/2026/10/26/17930560196adfdd1330561_1793056019_3x2_rt.jpg"
   },
   {
     "site": "CNN Brasil",
-    "title": "Estudante agredido após ato político em Santos morre em hospital",
-    "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/estudante-agredido-apos-ato-politico-em-santos-morre-em-hospital/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/10/marcelo-de-oliveira-rocha.png?w=1200&h=630&crop=1"
+    "title": "Jay-Z é confirmado como atração no intervalo do Super Bowl 2027",
+    "url": "https://www.cnnbrasil.com.br/pop/celebridades/jay-z-e-confirmado-como-atracao-no-intervalo-do-super-bowl-2027/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/07/jay-z.jpg?w=1200&h=630&crop=1"
   },
   {
     "site": "Terra",
-    "title": "Lotomania 2992: duas apostas ficam a um número do prêmio máximo",
-    "url": "https://www.terra.com.br/noticias/lotomania-2992-duas-apostas-ficam-a-um-numero-do-premio-maximo,41a46e7e51557e3417153a7dc501efd9qb1s9tua.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/10/27/872586425-oportunidade-2025-12-11t190809919.jpg"
+    "title": "Gaúcha morre após sofrer mal súbito em hotel de Barcelona",
+    "url": "https://www.terra.com.br/noticias/brasil/gaucha-morre-apos-sofrer-mal-subito-em-hotel-de-barcelona,aa62ea47aa2a15212bdc226e08a261afvwxiarz4.html",
+    "image": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png"
   },
   {
     "site": "BBC",
@@ -157,27 +217,27 @@
   },
   {
     "site": "G1",
-    "title": "Um dia após derrota na eleição, Flávio Bolsonaro volta a questionar resultado das urnas",
-    "url": "https://g1.globo.com/jornal-nacional/noticia/2026/10/26/um-dia-apos-derrota-na-eleicao-flavio-bolsonaro-volta-a-questionar-resultado-das-urnas.ghtml",
-    "image": "https://s2-g1.glbimg.com/NjN_LlQS0xs-U5WnUT7OMUdTceU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/c/8XRAfATm2CprJW17W8zA/globo-canal-4-20261026-2000-frame-114886.jpeg"
+    "title": "Noah Wyle é eleito o homem mais sexy do mundo de 2026 pela revista 'People'",
+    "url": "https://g1.globo.com/pop-arte/noticia/2026/10/27/noah-wyle-e-eleito-o-homem-mais-sexy-do-mundo-de-2026-pela-revista-people.ghtml",
+    "image": "https://s2-g1.glbimg.com/Q1bjOKYCHOLu6Sph0huabrKxGRM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/3/HM3CSTQQKNwqdQDBoeQg/noah-wiley-globo-de-ouro-2026.jpg"
   },
   {
     "site": "UOL",
-    "title": "Flávio Bolsonaro enfrentará dois inquéritos criminais sem foro especial a partir de fevereiro",
-    "url": "https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-enfrentara-dois-inqueritos-criminais-sem-foro-especial-a-partir-de-fevereiro.shtml",
-    "image": "https://f.i.uol.com.br/fotografia/2026/10/21/17925969956ad8dc036f559_1792596995_3x2_rt.jpg"
+    "title": "Sergio Moro anuncia Fátima Gavioli como nova secretária da Educação do Paraná",
+    "url": "https://tnonline.uol.com.br/noticias/parana/sergio-moro-anuncia-fatima-gavioli-como-nova-secretaria-da-educacao-do-parana-1168639",
+    "image": "https://cdn.tnonline.com.br/img/Artigo-Destaque/1160000/1200x630/aparecida-de-fatima-gavioli-01168639-0-202610270800/ScaleProportionalFillBackground-1.jpg?fallback=https%3A%2F%2Fcdn.tnonline.com.br%2Fimg%2FArtigo-Destaque%2F1160000%2Faparecida-de-fatima-gavioli-01168639-0-202610270800.webp%3Fxid%3D1856319&xid=1856319"
   },
   {
     "site": "CNN Brasil",
-    "title": "Lodi assume pênalti cometido na derrota do Atlético-MG: “Chutei o pé dele”",
-    "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/lodi-assume-penalti-cometido-na-derrota-do-atletico-mg-chutei-o-pe-dele/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/10/lodi.webp?w=660&h=371&crop=1"
+    "title": "Colisão entre carretas provoca incêndio e interdição no Rodoanel, em SP",
+    "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/colisao-entre-carretas-provoca-incendio-e-interdicao-no-rodoanel-em-sp/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/10/WhatsApp-Image-2026-10-27-at-5.57.53-AM.jpeg?w=1200&h=630&crop=1"
   },
   {
     "site": "Terra",
-    "title": "Bola de Ouro: imprensa internacional repercurte vitória de Harry Kane",
-    "url": "https://www.terra.com.br/esportes/futebol/internacional/bola-de-ouro-imprensa-internacional-repercurte-vitoria-de-harry-kane,f21a1159f4a64a88700bf2658203e26d62g2784p.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/10/27/1190435523-869208917186424207690475309172161941427851225n-610x400.jpg"
+    "title": "'A Fazenda 18': Galisteu perde a paciência e repreende Murilo: 'Consegue me ouvir?'",
+    "url": "https://www.terra.com.br/diversao/tv/a-fazenda/a-fazenda-18-galisteu-perde-a-paciencia-e-repreende-murilo-consegue-me-ouvir,83cce4f8fd9e7e6aa8eabfe321545410tybdgd8z.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/10/27/95921054-murilo-em-a-fazenda-18.jpg"
   },
   {
     "site": "BBC",
@@ -187,116 +247,56 @@
   },
   {
     "site": "G1",
-    "title": "Quatro municípios do Amazonas recebem R$ 13,3 milhões em multas por poluição do ar",
-    "url": "https://g1.globo.com/am/amazonas/noticia/2026/10/26/quatro-municipios-do-amazonas-recebem-r-133-milhoes-em-multas-por-poluicao-do-ar.ghtml",
-    "image": "https://s2-g1.glbimg.com/KhxmvwgoHPVLw5hSShADHEzFfCQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/G/4VW7uSQ46PoA8VMl8TAg/whatsapp-image-2026-10-26-at-21.09.35.jpeg"
+    "title": "Moradores de Atibaia enfrentam alagamento pelo 2º dia seguido e ficam com água até os joelhos",
+    "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/10/27/moradores-de-atibaia-enfrentam-alagamento-pelo-2o-dia-seguido-e-ficam-com-agua-ate-os-joelhos.ghtml",
+    "image": "https://s2-g1.glbimg.com/qeKWaaEAtLQstRb_2PVizhtqAUA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/A/vlyk1fSvCfS3BGA9VnJg/texto-do-seu-paragrafo-2026-10-27t075338.963.png"
   },
   {
     "site": "UOL",
-    "title": "Lula vira eleição em Osasco com barracas no calçadão e mobilização de estudantes e idosos",
-    "url": "https://www1.folha.uol.com.br/poder/2026/10/lula-vira-eleicao-em-osasco-com-barracas-no-calcadao-e-mobilizacao-de-estudantes-e-idosos.shtml",
-    "image": "https://f.i.uol.com.br/fotografia/2026/10/26/17930574696adfe2bd34b37_1793057469_3x2_rt.jpg"
+    "title": "Revendo o desenho dos leilões de gás natural da União",
+    "url": "https://www1.folha.uol.com.br/colunas/joisa-dutra/2026/10/revendo-o-desenho-dos-leiloes-de-gas-natural-da-uniao.shtml",
+    "image": "https://f.i.uol.com.br/fotografia/2026/05/28/17800030226a18b0ce11259_1780003022_3x2_rt.jpg"
   },
   {
     "site": "CNN Brasil",
-    "title": "Macklemore inicia turnê após ser retirado de shows de Ed Sheeran",
-    "url": "https://www.cnnbrasil.com.br/pop/musica/macklemore-inicia-turne-apos-ser-retirado-de-shows-de-ed-sheeran/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/10/macklemore.jpg?w=1200&h=630&crop=1"
+    "title": "Benjamin Netanyahu vota em eleições de Israel",
+    "url": "https://www.cnnbrasil.com.br/internacional/benjamin-netanyahu-vota-em-eleicoes-de-israel-2026/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/10/voto-eleicoes-netanyahu.jpeg?w=1200&h=630&crop=1"
   },
   {
     "site": "Terra",
-    "title": "Alex Poatan indica possível plano para a carreira no MMA: \"O melhor a fazer\"",
-    "url": "https://www.terra.com.br/esportes/lutas/alex-poatan-indica-possivel-plano-para-a-carreira-no-mma-o-melhor-a-fazer,17cfd57485af816479591dfc8ed735aauwk33zrv.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/10/27/1397583300-alexpoatanufc307cinturao.jpg"
+    "title": "'A Fazenda 18': Mônica Fonseca chama Ana Bruna de 'porca' e é confrontada ao vivo",
+    "url": "https://www.terra.com.br/diversao/tv/a-fazenda/a-fazenda-18-monica-fonseca-chama-ana-bruna-de-porca-e-e-confrontada-ao-vivo,cec1580a17944d01fd77633399c88b3ecjas7pdf.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/10/27/152560434-a-fazenda-18-monica-fonseca-chama-ana-bruna-de-porca-e-e-confrontada-ao-vivo.png"
   },
   {
     "site": "BBC",
-    "title": "Partidos aliados de Flávio reconhecem a vitória de Lula; Zema fala em golpe",
-    "url": "https://www.bbc.com/portuguese/articles/cmvgx3k00d5yo?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/cc5c/live/98eb8630-d15a-11f1-9f24-99bf1cc18b1d.jpg"
+    "title": "A eleição de 2026 em gráficos: de onde veio a virada de Lula",
+    "url": "https://www.bbc.com/portuguese/articles/cq4g10kx77dro?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/cf27/live/02a29a10-d1e6-11f1-8e07-c79267b33d55.jpg"
   },
   {
     "site": "G1",
-    "title": "Após votação ser ampliada por duas horas, TSE confirma vitória de Lula e diz que eleição transcorreu em segurança",
-    "url": "https://g1.globo.com/jornal-nacional/noticia/2026/10/26/apos-votacao-ser-ampliada-por-duas-horas-tse-confirma-vitoria-de-lula-e-diz-que-eleicao-transcorreu-em-seguranca.ghtml",
-    "image": "https://s2-g1.glbimg.com/RXmALDOyvpd6AKPzJ_WVTCTEt4Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/A/V7rAjETNmyB3ImWy5Wsg/globo-canal-4-20261026-2000-frame-109864.jpeg"
+    "title": "Assista ao Bom Dia Vanguarda ao vivo no g1",
+    "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/ao-vivo/assista-ao-bom-dia-vanguarda-ao-vivo-no-g1.ghtml",
+    "image": "https://s2-g1.glbimg.com/eNmYHfknzzliwQJLsNi8qyf2BDM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/p/r/qhMVONTJuDaQtelrYKjA/a64b4644-73da-40c5-b2f0-17b0321381f0.jpg"
   },
   {
     "site": "UOL",
-    "title": "Aliados de Flávio Bolsonaro adiam mea-culpa e atribuem derrota a pacote de Lula",
-    "url": "https://www1.folha.uol.com.br/poder/2026/10/aliados-de-flavio-bolsonaro-adiam-mea-culpa-e-atribuem-derrota-a-pacote-de-lula.shtml",
-    "image": "https://f.i.uol.com.br/fotografia/2026/10/26/17930290996adf73eb91cd9_1793029099_3x2_rt.jpg"
+    "title": "Indústria e ciência não devem sentar juntas à mesa",
+    "url": "https://www1.folha.uol.com.br/colunas/bruno-gualano/2026/10/industria-e-ciencia-nao-devem-sentar-juntas-a-mesa.shtml",
+    "image": "https://f.i.uol.com.br/fotografia/2021/05/31/162249534160b5506d2ae76_1622495341_3x2_rt.jpg"
   },
   {
     "site": "CNN Brasil",
-    "title": "Flamengo 3 x 2 Atlético-MG: veja os melhores momentos pelo Brasileirão",
-    "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/flamengo-3-x-2-atletico-mg-veja-os-melhores-momentos-pelo-brasileirao/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/10/flamengo-atletico-mg-brasileirao-1-e1793059094296.jpeg?w=1200&h=630&crop=1"
+    "title": "Marcas chinesas rompem com Mbappé após suposta fala sobre Mao Tsé-Tung",
+    "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/marcas-chinesas-rompem-com-mbappe-apos-suposta-fala-sobre-mao-tse-tung/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/07/SaveClip.App_747643965_18617825602030731_1873598727309659990_n-e1784238319596.jpg?w=1200&h=630&crop=1"
   },
   {
     "site": "Terra",
-    "title": "Famoso jornalista da Record vai deixar a emissora após 56 de carreira",
-    "url": "https://www.terra.com.br/diversao/famoso-jornalista-da-record-vai-deixar-a-emissora-apos-56-de-carreira,8edaff298e5fb618456dcbfbaf8e1c1encvvaopo.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/10/27/1040550381-tv-record.jpg"
-  },
-  {
-    "site": "BBC",
-    "title": "Do 'risco-Flávio' à campanha de mobilização: 4 trunfos usados por Lula para virar o jogo no 2º turno",
-    "url": "https://www.bbc.com/portuguese/articles/ckjwe156n3gpo?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/46d2/live/50631300-d138-11f1-93e1-3b657b665bcf.jpg"
-  },
-  {
-    "site": "G1",
-    "title": "Jordânia ataca grupos terroristas na Síria após atentado contra igreja; 8 morrem em bombardeios",
-    "url": "https://g1.globo.com/mundo/noticia/2026/10/26/jordania-ataca-grupos-terroristas-na-siria-apos-atentado-contra-igreja-8-morrem-em-bombardeios.ghtml",
-    "image": "https://s2-g1.glbimg.com/MHOzNAcT1X3ZtmOQNJEaqmR5vm8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/g/q4OqaLTgi3XATAM45Rwg/afp-20261026-d4h98pa-v2-highres-palestinianjordanisraelconflictunrestshootingre.jpg"
-  },
-  {
-    "site": "UOL",
-    "title": "Aos 70, Mercedes reforça portfólio de caminhões para construção, agronegócio e ecommerce",
-    "url": "https://c-level.folha.uol.com.br/negocios/2026/10/aos-70-mercedes-reforca-portfolio-de-caminhoes-para-construcao-agronegocio-e-ecommerce.shtml",
-    "image": "https://f.i.uol.com.br/fotografia/2026/10/26/17930535486adfd36cb9010_1793053548_3x2_rt.jpg"
-  },
-  {
-    "site": "CNN Brasil",
-    "title": "Após Trump alegar “fraude”, Boulos diz que Brasil “não será colônia”",
-    "url": "https://www.cnnbrasil.com.br/eleicoes/apos-trump-alegar-fraude-boulos-diz-que-brasil-nao-sera-colonia/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/10/Boulos-e-Trump.png?w=1200&h=630&crop=1"
-  },
-  {
-    "site": "Terra",
-    "title": "Flamengo garante classificação para Libertadores 2027",
-    "url": "https://www.terra.com.br/esportes/flamengo/flamengo-garante-classificacao-para-libertadores-2027,d26106b8ef9415ea96cf7721360696f3jse6v9f6.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/10/27/1960502450-whatsapp-image-2026-10-26-at-220555-610x400.jpeg"
-  },
-  {
-    "site": "BBC",
-    "title": "O que vai acontecer com dólar e juros após derrocada dos mercados financeiros com vitória de Lula",
-    "url": "https://www.bbc.com/portuguese/articles/cr20wjpvye31o?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/1718/live/c239c980-d172-11f1-9d71-6d5ae0660afe.jpg"
-  },
-  {
-    "site": "G1",
-    "title": "Resumão diário do JN: Após reeleição, Lula reúne líderes do Congresso; PF intima Flávio Bolsonaro a entregar passaportes; sem provas, Trump afirma que eleição no Brasil pareceu 'fraudada'",
-    "url": "https://g1.globo.com/jornal-nacional/noticia/2026/10/26/resumao-diario-do-jn-apos-reeleicao-lula-reune-lideres-do-congresso-pf-intima-flavio-bolsonaro-a-entregar-passaportes-sem-provas-trump-afirma-que-eleicao-no-brasil-pareceu-fraudada.ghtml",
-    "image": "https://s2-g1.glbimg.com/TdgdJdEM3JRrBbaV1hw7IRhavzk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/g/K/veduPgSMS9lmE0MbwC1Q/resumao-jn-capa.png"
-  },
-  {
-    "site": "UOL",
-    "title": "Investidores estrangeiros cobram rapidez em anúncio de ajuste fiscal de Lula",
-    "url": "https://www1.folha.uol.com.br/mercado/2026/10/investidores-estrangeiros-cobram-rapidez-em-anuncio-de-ajuste-fiscal-de-lula.shtml",
-    "image": "https://f.i.uol.com.br/fotografia/2026/10/11/17917335186acbaf0e419bb_1791733518_3x2_rt.jpg"
-  },
-  {
-    "site": "CNN Brasil",
-    "title": "‘Cara de culpado’ dos cachorros pode dizer mais sobre você do que sobre eles, indica estudo",
-    "url": "https://www.cnnbrasil.com.br/curiosidades/cara-de-culpado-dos-cachorros-pode-dizer-mais-sobre-voce-do-que-sobre-eles-indica-estudo/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/10/cachorro-cara-culpado-e1792959553584.jpg?w=1200&h=630&crop=1"
-  },
-  {
-    "site": "Terra",
-    "title": "Quina 7152: acumulou, e agora? Próximo prêmio é de R$ 2 milhões",
-    "url": "https://www.terra.com.br/noticias/quina-7152-acumulou-e-agora-proximo-premio-e-de-r-2-milhoes,1d15999fd9f308c10d282394e0561d80e440pu9y.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/10/27/1400762480-cartao-da-quina.jpg"
+    "title": "Temporais devem atingir parte do país até o feriado; veja a previsão do tempo",
+    "url": "https://www.terra.com.br/noticias/temporais-devem-atingir-parte-do-pais-ate-o-feriado-veja-a-previsao-do-tempo,e9f7752c95b68d100bdbeadf5923a49ca8oib1ul.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/10/27/19969329-capa-bons-fluidos-2026-10-27t074220160.jpg"
   }
 ]
