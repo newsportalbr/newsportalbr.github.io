@@ -1,33 +1,63 @@
 [
   {
     "site": "BBC",
+    "title": "A crise de identidade que ameaça ambição dos democratas em eleição crucial para Trump",
+    "url": "https://www.bbc.com/portuguese/articles/ck87zqyqqdjlo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/0713/live/e5afedc0-d48f-11f1-9a20-f717db279e3e.jpg"
+  },
+  {
+    "site": "G1",
+    "title": "Homem entra em lanchonete e atira em funcionário, no DF",
+    "url": "https://g1.globo.com/df/distrito-federal/noticia/2026/11/01/homem-entra-em-lanchonete-e-atira-em-funcionario-no-df.ghtml",
+    "image": "https://s2-g1.glbimg.com/89_XyCxZjROrW2ZenicG7v12q3s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/x/I08TrWT5yKB2AB1pZCwg/design-sem-nome-81-.png"
+  },
+  {
+    "site": "UOL",
+    "title": "Manifestantes israelenses exigem que oposição se alie aos árabes para tirar Netanyahu do poder",
+    "url": "https://noticias.uol.com.br/ultimas-noticias/afp/2026/11/01/manifestantes-israelenses-exigem-que-oposicao-se-alie-aos-arabes-para-tirar-netanyahu-do-poder.htm",
+    "image": ""
+  },
+  {
+    "site": "CNN Brasil",
+    "title": "Influenciador Liam Fitzgerald morre, aos 29 anos, após acidente de moto",
+    "url": "https://www.cnnbrasil.com.br/pop/celebridades/influenciador-liam-fitzgerald-morre-aos-29-anos-apos-acidente-de-moto/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/liam-fitzgerald.png?w=1200&h=630&crop=1"
+  },
+  {
+    "site": "Terra",
+    "title": "Você sabia que existem diversos tipos de terapia? Conheça alguns",
+    "url": "https://www.terra.com.br/vida-e-estilo/saude/voce-sabia-que-existem-diversos-tipos-de-terapia-conheca-alguns,bbc4bc0d973ca68c520ad775cec8c38euxrnw1xi.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/11/01/1198665334-capa-bons-fluidos-2025-10-30t164905910.jpg"
+  },
+  {
+    "site": "BBC",
     "title": "O que são as eleições de meio de mandato dos EUA e por que elas podem selar futuro de Trump?",
     "url": "https://www.bbc.com/portuguese/articles/cwg7xpyd1jrgo?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/0722/live/5cb72e20-be3c-11f1-a64c-550be9e3c66b.png"
   },
   {
     "site": "G1",
-    "title": "Nova Friburgo dá novo passo na medicina e entra no mapa da cirurgia robótica",
-    "url": "https://g1.globo.com/rj/regiao-serrana/especial-publicitario/unimed-serrana-rj/noticia/2026/11/01/nova-friburgo-da-novo-passo-na-medicina-e-entra-no-mapa-da-cirurgia-robotica.ghtml",
-    "image": "https://s2-g1.glbimg.com/pr1ReQgLw4PaAhdMXWKQqvblolU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/Z/ezMQVWQmq7XuLsOY565w/materia-6-cirurgia-robotica-1-.jpg"
+    "title": "Vídeo mostra acidente entre dois carros que interditou Avenida Beira Rio, em João Pessoa",
+    "url": "https://g1.globo.com/pb/paraiba/noticia/2026/11/01/video-mostra-acidente-entre-dois-carros-que-interditou-avenida-beira-rio-em-joao-pessoa.ghtml",
+    "image": "https://s2-g1.glbimg.com/RaK_lLNs-NAt3_2uKrtPBCE_gg0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/p/nHBPQfQmmRo6kvhNGZUQ/whatsapp-image-2026-10-31-at-14.31.09.jpeg"
   },
   {
     "site": "UOL",
-    "title": "Bolívia decreta estado de emergência por secas e enchentes do Super El Niño",
-    "url": "https://noticias.uol.com.br/internacional/ultimas-noticias/2026/11/01/bolivia-decreta-estado-de-emergencia-por-secas-e-enchentes-do-super-el-nino.ghtm",
-    "image": ""
+    "title": "Farmacêutica 4BIO, vendida pela RD ao Grupo Profarma, se reposiciona com foco em hospitais e planos",
+    "url": "https://www1.folha.uol.com.br/colunas/painelsa/2026/11/farmaceutica-4bio-vendida-pela-rd-ao-grupo-profarma-se-reposiciona-com-foco-em-hospitais-e-planos.shtml",
+    "image": "https://f.i.uol.com.br/fotografia/2026/10/30/17933903066ae4f6e237503_1793390306_3x2_lg.jpg"
   },
   {
     "site": "CNN Brasil",
-    "title": "Cruzeiro campeão da Libertadores feminina; veja o ranking de títulos",
-    "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/libertadores-da-america/cruzeiro-campeao-da-libertadores-feminina-veja-o-ranking-de-titulos/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/10/libertadores-e1793500500503.jpg?w=640&h=361&crop=1"
+    "title": "Como vazamentos de petróleo podem afetar água potável nos Emirados Árabes",
+    "url": "https://www.cnnbrasil.com.br/internacional/como-vazamentos-de-petroleo-podem-afetar-agua-potavel-nos-emirados-arabes/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/10/EMIRADOS-PETROLEO.png?w=392&h=222&crop=1"
   },
   {
     "site": "Terra",
-    "title": "Zanotti lamenta perda de título do Corinthians e ano difícil: 'Tem de reconstruir'",
-    "url": "https://www.terra.com.br/esportes/corinthians/zanotti-lamenta-perda-de-titulo-do-corinthians-e-ano-dificil-tem-de-reconstruir,59077657203b49ad543e77982d208b53u2x0lchm.html",
-    "image": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png"
+    "title": "A crise de identidade que ameaça ambição dos democratas em eleição crucial para Trump",
+    "url": "https://www.terra.com.br/noticias/mundo/a-crise-de-identidade-que-ameaca-ambicao-dos-democratas-em-eleicao-crucial-para-trump,7685023048c8029c64ab51f7f4642f41k1w50e7i.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/11/01/169136884-e5afedc0-d48f-11f1-9a20-f717db279e3e.jpg"
   },
   {
     "site": "BBC",
@@ -37,57 +67,27 @@
   },
   {
     "site": "G1",
-    "title": "Unimed Serrana RJ amplia sua presença por meio de esporte, cultura e cidadania",
-    "url": "https://g1.globo.com/rj/regiao-serrana/especial-publicitario/unimed-serrana-rj/noticia/2026/11/01/unimed-serrana-rj-amplia-sua-presenca-por-meio-de-esporte-cultura-e-cidadania.ghtml",
-    "image": "https://s2-g1.glbimg.com/xy4cSStHYVNfhpNu-gVa49Vxplk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/b/EVrzJ4RxOOBl5PS6mfUw/br4-forteapache-6gbm-maiode2026-thalleskadett-135-1-.jpg"
+    "title": "Dia de Finados: veja horários de missas em Mato Grosso",
+    "url": "https://g1.globo.com/mt/mato-grosso/noticia/2026/11/01/dia-de-finados-veja-horarios-de-missas-em-mato-grosso.ghtml",
+    "image": "https://s2-g1.glbimg.com/xzIVg9BhgWa4E2vHBHVrgY71Qxg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/p/jfwdXmQ6GWgjJLKgOA5Q/img-ec-37.jpg"
   },
   {
     "site": "UOL",
-    "title": "Juiz rejeita ação de Trump contra Wall Street Journal sobre suposta carta para Epstein",
-    "url": "https://www1.folha.uol.com.br/mundo/2026/10/juiz-rejeita-acao-de-trump-contra-wall-street-journal-sobre-suposta-carta-para-epstein.shtml",
-    "image": "https://f.i.uol.com.br/fotografia/2025/07/16/175266534368778cff22e37_1752665343_3x2_rt.jpg"
+    "title": "Missão nuclear a Marte segue programada para 2028, diz Nasa",
+    "url": "https://www1.folha.uol.com.br/blogs/mensageiro-sideral/2026/11/missao-nuclear-a-marte-segue-programada-para-2028-diz-nasa.shtml",
+    "image": "https://f.i.uol.com.br/fotografia/2026/10/30/17933861596ae4e6af2700c_1793386159_3x2_xl.jpg"
   },
   {
     "site": "CNN Brasil",
-    "title": "Cruzeiro leva prêmio milionário com título da Libertadores feminina; veja",
-    "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/libertadores-da-america/cruzeiro-leva-premio-milionario-com-titulo-da-libertadores-feminina-veja/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/10/decisao-e1793500361651.jpg?w=640&h=360&crop=1"
+    "title": "FBI atribui à Coreia do Norte roubo de US$ 6,3 bi em cripto da Binance",
+    "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/fbi-atribui-a-coreia-do-norte-roubo-de-us-63-bi-em-cripto-da-binance/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2021/08/51728_F11701DC5F134A17.jpg?w=1200&h=630&crop=1"
   },
   {
     "site": "Terra",
-    "title": "Após vencer a Libertadores, Cruzeiro enfrentará o Barcelona em 'Mundial Feminino'; saiba mais",
-    "url": "https://www.terra.com.br/esportes/cruzeiro/apos-vencer-a-libertadores-cruzeiro-enfrentara-o-barcelona-em-mundial-feminino-saiba-mais,4064557b2c49e5487253ce6f26e409c13t4u5zs2.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/11/01/1631248568-corinthians-v-cruzeiro-final-copa-conmebol-libertadores-femenina-2026-3-2048x1366.jpg"
-  },
-  {
-    "site": "BBC",
-    "title": "'Bolsonarismo não está derrotado, está disseminado. Basta ver os patrões demitindo funcionários que votaram no Lula', diz filósofo Renato Lessa",
-    "url": "https://www.bbc.com/portuguese/articles/cwzd679v845vo?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/715b/live/f1ac15a0-d3ee-11f1-9b46-0570989d0351.jpg"
-  },
-  {
-    "site": "G1",
-    "title": "Hospital Unimed Nova Friburgo recebe uma das principais certificações da saúde",
-    "url": "https://g1.globo.com/rj/regiao-serrana/especial-publicitario/unimed-serrana-rj/noticia/2026/11/01/hospital-unimed-nova-friburgo-recebe-uma-das-principais-certificacoes-da-saude.ghtml",
-    "image": "https://s2-g1.glbimg.com/GMmlpUQdDe0cB39RsDgrO4BB0T8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/V/bmbWFQSDyllgMHXKoHEw/ona.jpg"
-  },
-  {
-    "site": "UOL",
-    "title": "Propostas de Lula para as ferrovias focam trens urbanos e metrôs",
-    "url": "https://www1.folha.uol.com.br/blogs/sobre-trilhos/2026/10/propostas-de-lula-para-as-ferrovias-focam-trens-urbanos-e-metros.shtml",
-    "image": "https://f.i.uol.com.br/fotografia/2025/02/26/174062253567bfcac779359_1740622535_3x2_rt.jpg"
-  },
-  {
-    "site": "CNN Brasil",
-    "title": "Cruzeiro bate Corinthians nos pênaltis e conquista a Libertadores feminina",
-    "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/libertadores-da-america/cruzeiro-bate-corinthians-nos-penaltis-e-conquista-a-libertadores-feminina/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/10/corinthians-e1793498094678.jpg?w=799&h=450&crop=1"
-  },
-  {
-    "site": "Terra",
-    "title": "Cruzeiro perde para o Corinthians por 3 a 0 e terá de buscar virada na final do Brasileiro Sub-17",
-    "url": "https://www.terra.com.br/esportes/futebol/cruzeiro-perde-para-o-corinthians-por-3-a-0-e-tera-de-buscar-virada-na-final-do-brasileiro-sub-17,d7a461359208837beb9f7cc2530df15bxtcs9714.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/11/01/1095599475-17934911922b7b82a7ec6de40781fd6ef338b41892.jpeg"
+    "title": "Giovana: \"Grupo consciente do que quer e buscando sempre mais\"",
+    "url": "https://www.terra.com.br/esportes/volei/giovana-grupo-consciente-do-que-quer-e-buscando-sempre-mais,4c964e2a3119c3b26af085b19e6e4c7d7xulfm12.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/11/01/451555208-giovanalorena1-6zh3w1-610x400.jpg"
   },
   {
     "site": "BBC",
@@ -97,27 +97,27 @@
   },
   {
     "site": "G1",
-    "title": "Hospital Unimed Nova Friburgo amplia cuidado intensivo com nova UTI",
-    "url": "https://g1.globo.com/rj/regiao-serrana/especial-publicitario/unimed-serrana-rj/noticia/2026/11/01/hospital-unimed-nova-friburgo-amplia-cuidado-intensivo-com-nova-uti.ghtml",
-    "image": "https://s2-g1.glbimg.com/C6_-e2skdsfe_3UrHpV5gABkWmA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/g/gzYBGhQPmDn0BYLZxW6A/capa-da-materia-3-uti.jpg"
+    "title": "Quatro jovens morrem após carro capotar na AMG-1205, em Ferros",
+    "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/11/01/quatro-jovens-morrem-apos-carro-capotar-na-amg-1205-em-ferros.ghtml",
+    "image": "https://s2-g1.glbimg.com/a2EkJjT9SPUAiH3jNsBiLr6KrAc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/8/ecWe3PTlWgC7BxXdAA9A/acidente-ferros.png"
   },
   {
     "site": "UOL",
-    "title": "Trump diz que Flávio pode ficar nos EUA pelo tempo que quiser",
-    "url": "https://noticias.uol.com.br/internacional/ultimas-noticias/2026/10/31/trump-diz-que-flavio-pode-ficar-nos-eua-pelo-tempo-que-quiser.ghtm",
+    "title": "Suposto bombardeio da Venezuela contra guerrilha colombiana do ELN deixa vários mortos",
+    "url": "https://noticias.uol.com.br/ultimas-noticias/afp/2026/11/01/suposto-bombardeio-da-venezuela-contra-guerrilha-colombiana-do-eln-deixa-varios-mortos.htm",
     "image": ""
   },
   {
     "site": "CNN Brasil",
-    "title": "Calvície e transplante capilar: por que os homens são mais afetados e os fios podem voltar a cair após a cirurgia?",
-    "url": "https://www.cnnbrasil.com.br/curiosidades/calvicie-e-transplante-capilar-por-que-os-homens-sao-mais-afetados-e-os-fios-podem-voltar-a-cair-apos-a-cirurgia/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/10/Calvicie-masculina-e-queda-de-cabelo.jpg?w=1200&h=630&crop=1"
+    "title": "Carro de aplicativo, leilão ou antigo: O que muda ao contratar seguro?",
+    "url": "https://www.cnnbrasil.com.br/economia/carro-de-aplicativo-leilao-ou-antigo-o-que-muda-ao-contratar-seguro/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/8MjZ6UzM0YTZ5ojci5SbvNmLsl2chJnYu52YA9GbsVWbuUmck5WY4VGbhpTMzYDM5MTN4QjM6cWZwpmL39GbyQWN2YTYmNDZlVTNwMGO3Q2NjlzY1YWMyM2YjhDM5MjRyUCM5MjRyUCN4YDOyYkMlYTM1IjN4gDNy8VL1ETLf9VLwITLfpjN-e1788381990698.jpg?w=799&h=450&crop=1"
   },
   {
     "site": "Terra",
-    "title": "Artilheira do Cruzeiro, Byanka Brasil chora e revela que pensou em não ir para a Libertadores",
-    "url": "https://www.terra.com.br/esportes/cruzeiro/artilheira-do-cruzeiro-byanka-brasil-chora-e-revela-que-pensou-em-nao-ir-para-a-libertadores,c20d28daa6f9cd11d63a1ae100aea967ijebiv8j.html",
-    "image": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png"
+    "title": "Stysiak sobre o Liberatti: \"Atmosfera diferente, energia muito boa\"",
+    "url": "https://www.terra.com.br/esportes/volei/stysiak-sobre-o-liberatti-atmosfera-diferente-energia-muito-boa,4ad029a04373a5d4943adf8e24449df2xqs37lb6.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/11/01/934597064-stysiakosascolondrina2-hkl6sw-610x400.jpg"
   },
   {
     "site": "BBC",
@@ -127,27 +127,27 @@
   },
   {
     "site": "G1",
-    "title": "Unimed Serrana RJ investe em expansão do Hospital Unimed Nova Friburgo",
-    "url": "https://g1.globo.com/rj/regiao-serrana/especial-publicitario/unimed-serrana-rj/noticia/2026/11/01/unimed-serrana-rj-investe-em-expansao-do-hospital-unimed-nova-friburgo.ghtml",
-    "image": "https://s2-g1.glbimg.com/NwErcCWLUJmCwxCSo4LNgws15Oo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/B/hkIuCHTZC6NAfk1vchVQ/expansao-hunf-hemodinamica-1-.jpg"
+    "title": "VÍDEO: Incêndio destrói apartamento na Bela Vista e leva centenas de moradores à rua durante a madrugada; não houve feridos",
+    "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/11/01/video-incendio-destroi-apartamento-na-bela-vista-e-leva-centenas-de-moradores-a-rua-durante-a-madrugada-nao-houve-feridos.ghtml",
+    "image": "https://s2-g1.glbimg.com/Y4sA1UYnyKNTETYmZ-iHWzEkHiU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/0/85jzpKT5iflfAnYat8RQ/fotojet-62-.jpg"
   },
   {
     "site": "UOL",
-    "title": "Veja todos os campeões da Libertadores feminina",
-    "url": "https://www1.folha.uol.com.br/esporte/2026/10/veja-todos-os-campeoes-da-libertadores-feminina.shtml",
-    "image": "https://f.i.uol.com.br/fotografia/2026/10/31/17934574316ae5fd1716ecb_1793457431_3x2_rt.jpg"
+    "title": "FBI acusa Coreia do Norte de roubar US$ 6 bi em criptomoedas da Binance",
+    "url": "https://noticias.uol.com.br/ultimas-noticias/afp/2026/11/01/fbi-acusa-coreia-do-norte-de-roubar-us-6-bi-em-criptomoedas-da-binance.htm",
+    "image": ""
   },
   {
     "site": "CNN Brasil",
-    "title": "Racing Santander x Real Madrid: horário e onde assistir ao jogo de La Liga",
-    "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/futebol-espanhol/racing-santander-x-real-madrid-horario-e-onde-assistir-ao-jogo-de-la-liga/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/01/unnamed-1-e1768442631111.webp?w=680&h=383&crop=1"
+    "title": "Quem tem a mordida mais forte da natureza? De répteis a aves minúsculas, a força da mandíbula varia por músculos, dentes e tamanho do corpo",
+    "url": "https://www.cnnbrasil.com.br/curiosidades/quem-tem-a-mordida-mais-forte-da-natureza-de-repteis-a-aves-minusculas-a-forca-da-mandibula-varia-por-musculos-dentes-e-tamanho-do-corpo/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/10/Credito-da-imagem-Martin-Shields-via-Alamy-Stock-Photo.jpg?w=757&h=505&crop=1"
   },
   {
     "site": "Terra",
-    "title": "Cruzeiro humilha o favoritismo do Corinthians e conquista a América",
-    "url": "https://www.terra.com.br/esportes/futebol/futebol-feminino/cruzeiro-humilha-o-favoritismo-do-corinthians-e-conquista-a-america,f7e68a36df82b9f95ddde0e1bd4f65e2wvanmyod.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/11/01/1824684334-agencia-rti-esporte-wilson-pimentel-jornalista-colunista.jpg"
+    "title": "Termina nesta semana prazo para inscrição em concurso da prefeitura de Porto Alegre",
+    "url": "https://www.terra.com.br/noticias/brasil/termina-nesta-semana-prazo-para-inscricao-em-concurso-da-prefeitura-de-porto-alegre,6c259e4f6d973f838e3f0e667f8d350612me51fu.html",
+    "image": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png"
   },
   {
     "site": "BBC",
@@ -157,27 +157,27 @@
   },
   {
     "site": "G1",
-    "title": "Ginásio Poliesportivo de Macaé recebe campeonato de jiu-jítsu em novembro",
-    "url": "https://g1.globo.com/rj/regiao-dos-lagos/especial-publicitario/prefeitura-de-macae/capital-de-energia-e-do-orgulho-de-ser-macaense/noticia/2026/11/01/ginasio-poliesportivo-de-macae-recebe-campeonato-de-jiu-jitsu-em-novembro.ghtml",
-    "image": "https://s2-g1.glbimg.com/_zuCwnMwm_wmJLNwMHQKzASED2A=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/5/NKBMKrST6WBPBnBzYoZQ/foto-1-jiu-jitsu.jpg"
+    "title": "Goiás tem alerta por chuva com vento intenso e queda de granizo; veja cidades",
+    "url": "https://g1.globo.com/go/goias/noticia/2026/11/01/goias-tem-alerta-por-chuva-com-vento-intenso-e-queda-de-granizo-veja-cidades.ghtml",
+    "image": "https://s2-g1.glbimg.com/qDlo59ItmhxcBT9afzN1salfb6Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/E/oQB83UQnW6eRI91eBYAw/bussolachuvagoianianuvempredios.jpg"
   },
   {
     "site": "UOL",
-    "title": "Cruzeiro reage após levar três gols, vence Corinthians nos pênaltis e conquista Libertadores Feminina",
-    "url": "https://www1.folha.uol.com.br/esporte/2026/10/cruzeiro-reage-apos-levar-tres-gols-vence-corinthians-nos-penaltis-e-conquista-libertadores-feminina.shtml",
-    "image": "https://f.i.uol.com.br/fotografia/2026/10/31/17935014796ae6a92771be6_1793501479_3x2_rt.jpg"
+    "title": "Sargento da PM é levado à UTI após ataque de abelhas no rio São Francisco",
+    "url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/11/01/militar-e-internado-apos-ataque-de-abelhas-a-equipe-policial-na-ba.ghtm",
+    "image": ""
   },
   {
     "site": "CNN Brasil",
-    "title": "Donald Trump diz que não tem planos de se encontrar com Flávio Bolsonaro",
-    "url": "https://www.cnnbrasil.com.br/internacional/donald-trump-diz-que-nao-tem-planos-de-se-encontrar-com-flavio-bolsonaro/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/05/Flavio-Bolsonaro-e-Donald-Trump.jpg?w=1200&h=630&crop=1"
+    "title": "Análise: Trump condiciona aceitação de resultado eleitoral à “honestidade”",
+    "url": "https://www.cnnbrasil.com.br/internacional/analise-trump-condiciona-aceitacao-de-resultado-eleitoral-a-honestidade/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/10/2026-10-30T115429Z_1_LYNXNPEM9T16K_RTROPTP_4_TRUTH-SOCIAL-WALL-STREET.jpg?w=1200&h=630&crop=1"
   },
   {
     "site": "Terra",
-    "title": "UFC Vegas 123: Tom Nolan consegue virada e derrota Renato Moicano",
-    "url": "https://www.terra.com.br/esportes/lutas/ufc-vegas-123-tom-nolan-consegue-virada-e-derrota-renato-moicano,e19655c496fcc085597efc86dd7acad9vxsx97du.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/11/01/1329407335-ufcvegas123resultados.jpeg"
+    "title": "Tigres mira Memphis Depay para substituir ídolo em 2027",
+    "url": "https://www.terra.com.br/esportes/corinthians/tigres-mira-memphis-depay-para-substituir-idolo-em-2027,95b16c5abb35eb74f9316de869f292cbv857p5pq.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/11/01/817396815-2026-tigres-corinthians-atacante-memphis-depay-corinthians-contrato-salario.jpg"
   },
   {
     "site": "BBC",
@@ -187,27 +187,27 @@
   },
   {
     "site": "G1",
-    "title": "Wingover, tonneau invertido e espelhão: conheça as manobras mais difíceis da Esquadrilha",
-    "url": "https://g1.globo.com/sp/sao-carlos-regiao/noticia/2026/11/01/wingover-tonneau-invertido-e-espelhao-conheca-as-manobras-mais-dificeis-da-esquadrilha.ghtml",
-    "image": "https://s2-g1.glbimg.com/uekqwH9K_NZSsH2tvobxYSE-YsY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/r/LcR6LSRZyFCGoBnoSYlw/manobras-esquadrilha-da-fumaca-1-.jpg"
+    "title": "Domingo Aéreo: acompanhe daqui a pouco a transmissão ao vivo da Esquadrilha da Fumaça",
+    "url": "https://g1.globo.com/sp/sao-carlos-regiao/ao-vivo/domingo-aereo-g1-transmite-ao-vivo-a-apresentacao-da-esquadrilha-da-fumaca.ghtml",
+    "image": "https://s2-g1.glbimg.com/TzdmC-nYquf9Qktgstg15KRKNEk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/O/7Fv3aOT3mZnLkKBBbRDA/domingo-aereo-pirassununga.jpg"
   },
   {
     "site": "UOL",
-    "title": "Cruzeiro vence Corinthians nos pênaltis e conquista Libertadores feminina",
-    "url": "https://noticias.uol.com.br/ultimas-noticias/afp/2026/10/31/cruzeiro-vence-corinthians-nos-penaltis-e-conquista-libertadores-feminina-pldclaam.htm",
-    "image": ""
+    "title": "Novo diz ter recebido mais de 2 mil filiados após não reconhecer vitória de Lula",
+    "url": "https://www1.folha.uol.com.br/colunas/painel/2026/11/novo-diz-ter-recebido-mais-de-2-mil-filiados-apos-nao-reconhecer-vitoria-de-lula.shtml",
+    "image": "https://f.i.uol.com.br/fotografia/2026/04/08/177566020269d66caac7c3e_1775660202_3x2_rt.jpg"
   },
   {
     "site": "CNN Brasil",
-    "title": "Hamilton conquista 1ª pole com a Ferrari, cita Schumacher e se emociona",
-    "url": "https://www.cnnbrasil.com.br/esportes/automobilismo/hamilton-conquista-1a-pole-com-a-ferrari-cita-schumacher-e-se-emociona/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/10/hamilton-e1793494212714.webp?w=660&h=372&crop=1"
+    "title": "Gestão de pessoas: Práticas de liderança que podem ajudar empreendedores",
+    "url": "https://www.cnnbrasil.com.br/economia/seu-bolso/empreendedorismo-e-trabalho/gestao-de-pessoas-praticas-de-lideranca-que-podem-ajudar-empreendedores/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2022/03/trabalho.jpg?w=1200&h=630&crop=1"
   },
   {
     "site": "Terra",
-    "title": "Cruzeiro fatura premiação milionária após título da Libertadores Feminina em cima do Corinthians; veja valor",
-    "url": "https://www.terra.com.br/esportes/futebol/cruzeiro-fatura-premiacao-milionaria-apos-titulo-da-libertadores-feminina-em-cima-do-corinthians-veja-valor,8a62bfb35f5cf8eb9f8ba8aa375535223dosaic4.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/11/01/image-2026-10-31t235844-032-1h820lwf064hj.png"
+    "title": "Nintendo recomenda álcool a 70% para limpar seus consoles, mas alguém testou um a 99,9% no Switch 2 de Zelda",
+    "url": "https://www.terra.com.br/mobilidade/nintendo-recomenda-alcool-a-70-para-limpar-seus-consoles-mas-alguem-testou-um-a-999-no-switch-2-de-zelda,62d3fce6695d05b18cab8bc21c4835b0u2qopn3w.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/11/01/253620264-13662000.jpeg"
   },
   {
     "site": "BBC",
@@ -217,27 +217,27 @@
   },
   {
     "site": "G1",
-    "title": "Domingo Aéreo espera 80 mil pessoas com voos de Super Tucanos e Gripen; g1 transmite ao vivo a Esquadrilha da Fumaça",
-    "url": "https://g1.globo.com/sp/sao-carlos-regiao/noticia/2026/11/01/domingo-aereo-espera-80-mil-pessoas-com-voos-de-super-tucanos-e-gripen-g1-transmite-ao-vivo-a-esquadrilha-da-fumaca.ghtml",
-    "image": "https://s2-g1.glbimg.com/PtTOWFCCFY6qW4t30FsKVtYC5vc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/r/eitwSpTIWYOlhGZ0ix2A/domingo-aereo.jpg"
+    "title": "Estiagem severa destrói lavouras e reduz produção de abacaxi em 80% em Porto Grande, no Amapá",
+    "url": "https://g1.globo.com/ap/amapa/noticia/2026/11/01/estiagem-severa-destroi-lavouras-e-reduz-producao-de-abacaxi-em-80percent-em-porto-grande-no-amapa.ghtml",
+    "image": "https://s2-g1.glbimg.com/bdcwKYWOXAR40ddD96XIUPSRrL0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/T/YfDhWlREWC9WVJmldZFQ/aleixo-g1-19-.jpg"
   },
   {
     "site": "UOL",
-    "title": "Gaúcha Miolo exporta vinho a 32 países e reforça aposta global do vinho brasileiro",
-    "url": "https://c-level.folha.uol.com.br/negocios/2026/10/gaucha-miolo-exporta-vinho-a-32-paises-e-reforca-aposta-global-do-vinho-brasileiro.shtml",
-    "image": "https://f.i.uol.com.br/fotografia/2026/10/07/17913880286ac6697c33ffd_1791388028_3x2_xl.jpg"
+    "title": "Sonho da medicina de precisão alcança SUS",
+    "url": "https://www1.folha.uol.com.br/colunas/marceloleite/2026/11/sonho-da-medicina-de-precisao-alcanca-sus.shtml",
+    "image": "https://f.i.uol.com.br/fotografia/2026/10/30/17933950176ae509496b063_1793395017_3x2_rt.jpg"
   },
   {
     "site": "CNN Brasil",
-    "title": "Cientistas afirmam que teoria sobre a origem da vida pode estar errada; nova simulações contradizem ‘bombardeio’ de cometas",
-    "url": "https://www.cnnbrasil.com.br/ciencia/cientistas-afirmam-que-teoria-sobre-a-origem-da-vida-pode-estar-errada-nova-simulacoes-contradizem-teoria-dos-cometas/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/10/perseids-2023-preston-dyches-6048x4024-1.avif?w=1200&h=630&crop=1"
+    "title": "Putin atenderia ligação de Zelensky, diz assessor do governo russo",
+    "url": "https://www.cnnbrasil.com.br/internacional/putin-atenderia-ligacao-de-zelensky-diz-assessor-do-governo-russo/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2023/07/zelensky-e-putin.png?w=904&h=513&crop=1"
   },
   {
     "site": "Terra",
-    "title": "Quanto a Libertadores feminina paga? Veja as premiações do campeão Cruzeiro e do vice Corinthians",
-    "url": "https://www.terra.com.br/esportes/futebol/futebol-feminino/quanto-a-libertadores-feminina-paga-veja-as-premiacoes-do-campeao-cruzeiro-e-do-vice-corinthians,1b39ebe7005faef037ab865576bcc494peaypgb5.html",
-    "image": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png"
+    "title": "Virginia Fonseca vive adolescência tardia? Especialista analisa comportamento após separação",
+    "url": "https://www.terra.com.br/diversao/gente/virginia-fonseca-vive-adolescencia-tardia-especialista-analisa-comportamento-apos-separacao,9606d8bcf149dd4dda8076d31c8339b64o3cfwyu.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/11/01/1345493781-maisnovela-virginia-fonseca.png"
   },
   {
     "site": "BBC",
@@ -247,27 +247,27 @@
   },
   {
     "site": "G1",
-    "title": "Unimed Serrana RJ amplia sua estrutura e reforça atendimento na Região Serrana",
-    "url": "https://g1.globo.com/rj/regiao-serrana/especial-publicitario/unimed-serrana-rj/noticia/2026/11/01/unimed-serrana-rj-amplia-sua-estrutura-e-reforca-atendimento-na-regiao-serrana.ghtml",
-    "image": "https://s2-g1.glbimg.com/zL4RKAP6cS2vHME9NzT_Bj9XKRM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/A/Lprn0fSsWfj8BFgIHxFA/ceu-nf-1-.jpg"
+    "title": "Homem é morto a tiros e outro fica ferido em ataque no Sudeste do Piauí; suspeito é preso",
+    "url": "https://g1.globo.com/pi/piaui/noticia/2026/11/01/homem-morto-piaui.ghtml",
+    "image": "https://s2-g1.glbimg.com/q44AAHhC1NXxlL2hgDNiYZ76v8w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/t/JYaAXFSoivEAtJ2MWlqQ/edicao-imagens-g1-2026-11-01t085853.449.png"
   },
   {
     "site": "UOL",
-    "title": "Dólar alto após eleições se soma a El Niño e ameaça inflação",
-    "url": "https://www1.folha.uol.com.br/mercado/2026/10/dolar-alto-apos-eleicoes-se-soma-a-el-nino-e-ameaca-inflacao.shtml",
-    "image": "https://f.i.uol.com.br/fotografia/2026/05/11/17785375546a025452b6a72_1778537554_3x2_rt.jpg"
+    "title": "Crise na Polônia: juiz afastado vai ao tribunal, é vetado e diz que voltará",
+    "url": "https://noticias.uol.com.br/internacional/ultimas-noticias/2026/11/01/crise-na-polonia-juiz-afastado-tenta-entrar-no-tribunal-e-diz-que-voltara.ghtm",
+    "image": ""
   },
   {
     "site": "CNN Brasil",
-    "title": "Califórnia pede que Justiça barre tentativas de Trump de confiscar votos",
-    "url": "https://www.cnnbrasil.com.br/internacional/california-pede-que-justica-barre-tentativas-de-trump-de-confiscar-votos/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/09/Donald-Trump-e1790874404957.jpg?w=1200&h=630&crop=1"
+    "title": "Pote plástico engordurado: como tirar a gordura e o cheiro de comida",
+    "url": "https://www.cnnbrasil.com.br/comportamento/pote-plastico-engordurado-como-tirar-a-gordura-e-o-cheiro-de-comida/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/10/Pote-de-plastico-sujo.png?w=748&h=418&crop=1"
   },
   {
     "site": "Terra",
-    "title": "Mônica vai perder o cachê de 'A Fazenda 18'? Record TV toma drástica e importante decisão após expulsão da jornalista; medida é diferente de edições anteriores",
-    "url": "https://www.terra.com.br/diversao/tv/reality-shows/monica-vai-perder-o-cache-de-a-fazenda-18-record-tv-toma-drastica-e-importante-decisao-apos-expulsao-da-jornalista-medida-e-diferente-de-edicoes-anteriores,6a18c0aa46d2218a02e7d7d546f34b39l69s8tfz.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/11/01/2139359007-02738336733d56cf-1400x823-1.jpg"
+    "title": "Grêmio x Atlético, AO VIVO, com a Voz do Esporte, às 16h",
+    "url": "https://www.terra.com.br/esportes/futebol/copa-do-brasil/gremio-x-atletico-ao-vivo-com-a-voz-do-esporte-as-16h,eaa31a843c18359f65468fbd38359e64b11t0igd.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/11/01/1719364988-grexatlcdb26-610x400.jpg"
   },
   {
     "site": "BBC",
@@ -277,26 +277,26 @@
   },
   {
     "site": "G1",
-    "title": "Quais são os feriados de novembro de 2026? Veja calendário e datas",
-    "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/11/01/quais-sao-os-feriados-de-novembro-de-2026-veja-calendario-e-datas.ghtml",
-    "image": "https://s2-g1.glbimg.com/cRRMLxiBEcs3vPj_NuIeusJl_kY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/R/I/WABsAHQFSMRGWuiEYgKA/globo-canal-4-20251120-2000-frame-137186.jpeg"
+    "title": "Você viu? Mailza Assis é reeleita no 2º turno, comissária recebe homenagem, Outubro Rosa e mais",
+    "url": "https://g1.globo.com/ac/acre/noticia/2026/11/01/voce-viu-mailza-assis-e-reeleita-no-2o-turno-comissaria-recebe-homenagem-outubro-rosa-e-mais.ghtml",
+    "image": "https://s2-g1.glbimg.com/vAwRd_eJrgLwO4RtzNc1zjSyLco=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/U/Vs8jdlQgmkI4iTD5m0Kg/befunky-collage-2026-10-31t144456.510.jpg"
   },
   {
     "site": "UOL",
-    "title": "Mercado de saúde premium aposta em check-up mental, exames preditivos e anéis inteligentes",
-    "url": "https://c-level.folha.uol.com.br/negocios/2026/10/mercado-de-saude-premium-aposta-em-check-up-mental-exames-preditivos-e-aneis-inteligentes.shtml",
-    "image": "https://f.i.uol.com.br/fotografia/2026/10/30/17933902616ae4f6b5469c4_1793390261_3x2_xl.jpg"
+    "title": "Bombardeios israelenses em Gaza matam oito pessoas, afirmam equipes de resgate e hospitais",
+    "url": "https://noticias.uol.com.br/ultimas-noticias/afp/2026/11/01/bombardeios-israelenses-em-gaza-matam-oito-pessoas-afirmam-equipes-de-resgate-e-hospitais.htm",
+    "image": ""
   },
   {
     "site": "CNN Brasil",
-    "title": "Malu Mader e Tony Bellotto prestigiam peça no Rio e posam com filho caçula",
-    "url": "https://www.cnnbrasil.com.br/pop/celebridades/malu-mader-e-tony-bellotto-prestigiam-peca-no-rio-e-posam-com-filho-cacula/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/10/Malu-Mader-com-a-familia-.jpg?w=1200&h=630&crop=1"
+    "title": "Análise: O Federal Reserve cometeu um erro ao manter a taxa de juros?",
+    "url": "https://www.cnnbrasil.com.br/economia/money/mercado/analise-o-federal-reserve-cometeu-um-erro-ao-manter-a-taxa-de-juros/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/10/Fed-Federal-Reserve-IA.png?w=1200&h=630&crop=1"
   },
   {
     "site": "Terra",
-    "title": "Cruzeiro Feminino: Quantos títulos Jonas Urias já conquistou na carreira? Veja",
-    "url": "https://www.terra.com.br/esportes/futebol/futebol-feminino/cruzeiro-feminino-quantos-titulos-jonas-urias-ja-conquistou-na-carreira-veja,0d5d2f50f19be24dd4b4eee6025fb7e7w4a8bifq.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/11/01/2070042806-2026-copa-libertadores-da-america-feminina-cruzeiro-tecnico-jonas-urias-1.jpg"
+    "title": "A esperança de Bruno: vaquinha Bruno para custear ressonância e tratamento",
+    "url": "https://www.terra.com.br/noticias/a-esperanca-de-bruno-vaquinha-bruno-para-custear-ressonancia-e-tratamento,1c8e35aab8764a21bbc83d2117561497t3e6z9lp.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/11/01/1589783115-cover-ressonancia-e-tratamento-bruno.jpg"
   }
 ]
