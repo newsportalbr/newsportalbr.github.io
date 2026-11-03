@@ -1,153 +1,213 @@
 [
   {
     "site": "BBC",
+    "title": "Eleições nos EUA: economia é principal preocupação dos americanos ao votar, aponta pesquisa; primeiras urnas fecham em breve; siga",
+    "url": "https://www.bbc.co.uk/portuguese/live/c6073r14jp7gt?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/480/cpsprodpb/874b/live/20103e10-d7d4-11f1-8cb0-d304936875f3.png"
+  },
+  {
+    "site": "G1",
+    "title": "BR-324 é totalmente fechada após surgimento de buraco na BA; PRF aponta rotas alternativas",
+    "url": "https://g1.globo.com/ba/bahia/noticia/2026/11/03/buraco-na-br-324-na-bahia.ghtml",
+    "image": "https://s2-g1.glbimg.com/GBPqzTZZM6ZitKvsRlwNFy1mKWI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/2/ahSaOlRhmPlKqr2SNfkQ/novo-projeto-2026-11-03t192604.990.jpg"
+  },
+  {
+    "site": "UOL",
+    "title": "Com sim de Flávio, Senado aprova PEC da Segurança; veja como cada um votou",
+    "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/11/03/como-cada-um-votou-pec-seguranca-publica-senado.ghtm",
+    "image": ""
+  },
+  {
+    "site": "CNN Brasil",
+    "title": "Morre paciente que cantou Legião Urbana durante cirurgia no cérebro em SP",
+    "url": "https://www.cnnbrasil.com.br/saude/morre-paciente-que-cantou-legiao-urbana-durante-cirurgia-no-cerebro-em-sp/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/Design-sem-nome.jpg?w=1200&h=630&crop=1"
+  },
+  {
+    "site": "Terra",
+    "title": "Morre Eliana Rocha, atriz de Pé na Cova, aos 82 anos",
+    "url": "https://www.terra.com.br/diversao/musica/meu-sonora/k-pop/morre-eliana-rocha-atriz-de-pe-na-cova-aos-82-anos,c8e1e7116734556f90978ae318735702xpbvsaus.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/11/03/design-sem-nome-2026-11-03t192156-942-1k1x91ucsw9x0.png"
+  },
+  {
+    "site": "BBC",
+    "title": "Quando sairão os resultados das eleições de meio de mandato nos EUA?",
+    "url": "https://www.bbc.com/portuguese/articles/cwm26g6x0r72o?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/e286/live/58c44510-d6d2-11f1-b441-2b33b063138f.jpg"
+  },
+  {
+    "site": "G1",
+    "title": "Tráfico e associação para o tráfico são os atos infracionais mais comuns entre adolescentes que aguardam internação no RJ",
+    "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/11/03/atos-infracionais-mais-comuns-entre-adolescentes-que-aguardam-internacao-no-rj.ghtml",
+    "image": "https://s2-g1.glbimg.com/blH1QKpiG2VADFQvciksCyJweqQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/3/TAzIrpTtGZaXNzxxObxQ/whatsapp-image-2026-11-03-at-19.32.37-1-.jpeg"
+  },
+  {
+    "site": "UOL",
+    "title": "Proibir as bets funciona?",
+    "url": "https://www1.folha.uol.com.br/colunas/marilizpereirajorge/2026/11/proibir-as-bets-funciona.shtml",
+    "image": "https://f.i.uol.com.br/fotografia/2026/09/25/17903524086ab69c18b26b4_1790352408_3x2_rt.jpg"
+  },
+  {
+    "site": "CNN Brasil",
+    "title": "Morre atriz Eliana Rocha, de “Pé na Cova”, aos 82 anos",
+    "url": "https://www.cnnbrasil.com.br/pop/celebridades/morre-atriz-eliana-rocha-de-pe-na-cova-aos-82-anos/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/eliana-rocha-luz-divina-pe-na-cova.jpg?w=1200&h=630&crop=1"
+  },
+  {
+    "site": "Terra",
+    "title": "Após ameaças a estrangeiros, ICE confirma 14 prisões durante eleições",
+    "url": "https://www.terra.com.br/noticias/mundo/apos-ameacas-a-estrangeiros-ice-confirma-14-prisoes-durante-eleicoes,f8d526fb604b426328d4a3437b1fc97c6qlv2pgz.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/11/03/captura-de-tela-2026-11-03-191831-rl2u7tcomjc5.jpg"
+  },
+  {
+    "site": "BBC",
+    "title": "A vitória de Lula explicada matematicamente",
+    "url": "https://www.bbc.com/portuguese/articles/cxvgdjneg9g5o?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/0f77/live/9c005980-d6fb-11f1-b983-c357054e4d1e.jpg"
+  },
+  {
+    "site": "G1",
+    "title": "Prefeitura anuncia criação da Guarda Municipal de Rio Branco e concurso para 80 agentes",
+    "url": "https://g1.globo.com/ac/acre/noticia/2026/11/03/prefeitura-anuncia-criacao-de-guarda-municipal-em-rio-branco-e-concurso-para-80-agentes.ghtml",
+    "image": "https://s2-g1.glbimg.com/rzfPPS1RoqJ02nLyI5jCdnr7od0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/5/EAmB5IShqdMcBBM9cA6g/guarda-municipal-80-vagas-20.jpeg"
+  },
+  {
+    "site": "UOL",
+    "title": "Flávio Bolsonaro pode votar no Senado mesmo morando nos EUA? Entenda regras",
+    "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/11/03/nos-eua-flavio-pode-votar-no-senado-entenda-o-que-dizem-as-regras.ghtm",
+    "image": ""
+  },
+  {
+    "site": "CNN Brasil",
+    "title": "Wagner Moura e Lázaro Ramos se encontram em sessão de “Feito Pipa” em LA",
+    "url": "https://www.cnnbrasil.com.br/pop/cinema/wagner-moura-e-lazaro-ramos-se-encontram-em-sessao-de-feito-pipa-em-la/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/1-Mais-um-soldado-entrou-pra-campanha-de-Feito-Pipa-no-Oscar-%E2%9D%A4%EF%B8%8FAh-e-olha-quem-veio-do-meu-lado-no-1.jpg?w=1200&h=630&crop=1"
+  },
+  {
+    "site": "Terra",
+    "title": "Segredo da longevidade: britânica completa 105 anos e revela hábito inusitado",
+    "url": "https://www.terra.com.br/vida-e-estilo/saude/segredo-da-longevidade-britanica-completa-105-anos-e-revela-habito-inusitado,9c076f64ee342e3925b22fb96c413de79ugozjoa.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/11/03/1160900220-abre-perfil-brasil-2026-11-03t155814667.jpg"
+  },
+  {
+    "site": "BBC",
+    "title": "Governo Lula impõe sigilo a documentos do 'pacote de bondades' lançado nas eleições",
+    "url": "https://www.bbc.com/portuguese/articles/cmz654z66gplo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/58af/live/47baaa50-d7c9-11f1-a719-bf3dc3a3d5b5.jpg"
+  },
+  {
+    "site": "G1",
+    "title": "Em vitória do governo, Senado aprova PEC da Segurança Pública; texto segue para promulgação",
+    "url": "https://g1.globo.com/politica/ao-vivo/pec-seguranca-publica-senado.ghtml",
+    "image": "https://s2-g1.glbimg.com/QCDe4xs61d9cdpABN6JNyye9QOQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/x/rg9TG0SKOtFWAqwCBEMg/55629449422-9300271c3f-k.jpg"
+  },
+  {
+    "site": "UOL",
+    "title": "Alcolumbre: Se Câmara deliberar redução da maioridade penal, pautarei um dia depois no Senado",
+    "url": "https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2026/11/03/alcolumbre-se-camara-deliberar-reducao-da-maioridade-penal-pautarei-um-dia-depois-no-senado.htm",
+    "image": ""
+  },
+  {
+    "site": "CNN Brasil",
+    "title": "A primeira caneta esferográfica do mundo foi vendida por mais de R$ 60, e mais de 30 mil unidades foram comercializadas",
+    "url": "https://www.cnnbrasil.com.br/curiosidades/a-primeira-caneta-esferografica-do-mundo-foi-vendida-por-mais-de-r-60-e-mais-de-30-mil-unidades-foram-comercializadas/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/caneta-esferografica-e1793656738389.jpg?w=1200&h=630&crop=1"
+  },
+  {
+    "site": "Terra",
+    "title": "Babu Santana surge com novo amor e detalhe chama atenção",
+    "url": "https://www.terra.com.br/diversao/gente/babu-santana-surge-com-novo-amor-e-detalhe-chama-atencao,ab5ddf31e2101b1de1b17804eebc44a3031odnih.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/11/03/835081836-babu-santana.jpg"
+  },
+  {
+    "site": "BBC",
+    "title": "Quem eram as 9 vítimas fatais da queda de avião na Flórida",
+    "url": "https://www.bbc.com/portuguese/articles/cmvg7l75y321o?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/c7a9/live/7173e670-d7cb-11f1-a701-fddedf244c16.jpg"
+  },
+  {
+    "site": "G1",
+    "title": "Caso 'Dom Diego': acusado de matar o próprio irmão por disputa de herança em RO tem julgamento marcado",
+    "url": "https://g1.globo.com/ro/rondonia/noticia/2026/11/03/caso-dom-diego-acusado-de-matar-o-proprio-irmao-por-disputa-de-heranca-em-ro-tem-julgamento-marcado.ghtml",
+    "image": "https://s2-g1.glbimg.com/B9LAq7aXfmB5QbjVbRZuGIc5Knk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/F/x/ILzUyrQCuSXE9bl6LCkg/whatsapp-image-2024-12-02-at-14.56.31.jpeg"
+  },
+  {
+    "site": "UOL",
+    "title": "Entenda a PEC da Segurança Pública aprovada em primeiro turno pelo Senado",
+    "url": "https://www1.folha.uol.com.br/cotidiano/2026/11/entenda-a-pec-da-seguranca-publica-aprovada-em-primeiro-turno-pelo-senado.shtml",
+    "image": "https://f.i.uol.com.br/fotografia/2026/10/14/17920275466ad02b9a02d93_1792027546_3x2_rt.jpg"
+  },
+  {
+    "site": "CNN Brasil",
+    "title": "Motorista confunde entrada de rio com pista e avança; um morre e outro some",
+    "url": "https://www.cnnbrasil.com.br/nacional/centro-oeste/ms/motorista-confunde-entrada-de-rio-com-pista-e-avanca-um-morre-e-outro-some/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/APURACAO-CNN-7-1.png?w=1200&h=630&crop=1"
+  },
+  {
+    "site": "Terra",
+    "title": "Inter bate Feyenoord na Champions; Roma abre 2 a 0, mas leva virada do United",
+    "url": "https://www.terra.com.br/esportes/inter-bate-feyenoord-na-champions-roma-abre-2-a-0-mas-leva-virada-do-united,60aa3dc9d380b90b0171564d52b3981axzh5d9hb.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/11/03/902420269-4b04fb94e9d2204ed211f2db8f8ca6b9.jpg"
+  },
+  {
+    "site": "BBC",
+    "title": "3 cenários possíveis para os resultados das eleições de meio de mandato nos EUA",
+    "url": "https://www.bbc.com/portuguese/articles/cwj346dy3kplo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/50a9/live/ece0d370-d787-11f1-b441-2b33b063138f.jpg"
+  },
+  {
+    "site": "G1",
+    "title": "Calor poder chegar a 40 °C no interior de PE; veja a previsão climática para Agreste e Sertão",
+    "url": "https://g1.globo.com/pe/caruaru-regiao/noticia/2026/11/03/calor-poder-chegar-a-40-c-no-interior-de-pe-veja-a-previsao-climatica-para-agreste-e-sertao.ghtml",
+    "image": "https://s2-g1.glbimg.com/Q6gUG64X4p8pnObW_WAwy8pd25E=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/K/l/RvwwetSuANB5i1wiklzg/tempo-juiz-de-fora-juliana-netto.jpg"
+  },
+  {
+    "site": "UOL",
+    "title": "Ex-de Vorcaro, Martha Graeff é intimada a depor e entregar documentos em processo do Master nos EUA",
+    "url": "https://c-level.folha.uol.com.br/financas/2026/11/ex-de-vorcaro-martha-graeff-e-intimada-a-depor-e-entregar-documentos-em-processo-do-master-nos-eua.shtml",
+    "image": "https://f.i.uol.com.br/fotografia/2026/11/03/17937427606aea57a8544df_1793742760_3x2_lg.jpg"
+  },
+  {
+    "site": "CNN Brasil",
+    "title": "Senado aprova PEC da Segurança Pública sem discutir redução da maioridade",
+    "url": "https://www.cnnbrasil.com.br/politica/senado-aprova-pec-da-seguranca-publica/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/10/senado-federal_c79b93.jpg?w=1200&h=630&crop=1"
+  },
+  {
+    "site": "Terra",
+    "title": "Em noite de Matheus Cunha, United vira contra Roma",
+    "url": "https://www.terra.com.br/esportes/futebol/internacional/em-noite-de-matheus-cunha-united-vira-contra-roma,edc82f61550c0f12c77c2ff5fe290aado9ar4kne.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/11/03/175455363-manchester-united-v-as-roma-uefa-champions-league-2026-27-league-phase-md4-2048x1404.jpg"
+  },
+  {
+    "site": "BBC",
     "title": "Quem vai ganhar as midterms? Os gráficos que mostram como a eleição dos EUA será decidida",
     "url": "https://www.bbc.com/portuguese/articles/crlyklw8xxnyo?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/f64c/live/4e58ab20-c552-11f1-bc2e-018d645d8d21.jpg"
   },
   {
     "site": "G1",
-    "title": "Empresa de transporte coletivo de Prudente firma acordo com MPT após assédio moral contra funcionários",
-    "url": "https://g1.globo.com/sp/presidente-prudente-e-regiao/noticia/2026/11/03/empresa-de-transporte-coletivo-de-prudente-firma-acordo-com-mpt-apos-assedio-moral-contra-funcionarios.ghtml",
-    "image": "https://s2-g1.glbimg.com/2Y3RAmY4S6A41zdJ-9lrQZxQSVU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/G/A23knNQ1OzmOcdHtM7jA/1200-x-800-px-2-100-.png"
+    "title": "Adolescente denuncia estupro coletivo durante encontro em SC; polícia investiga",
+    "url": "https://g1.globo.com/sc/santa-catarina/noticia/2026/11/03/adolescente-denuncia-estupro-coletivo-durante-sc-policia-investiga.ghtml",
+    "image": "https://s2-g1.glbimg.com/K-_ehar6HYYiOa4-qrEvY6EZwBM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/i/UfgAXOTqynyAo4CqS4ug/g1-1-.png"
   },
   {
     "site": "UOL",
-    "title": "Motociclista de 23 anos morre preso em bueiro durante temporal em BH",
-    "url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/11/03/motociclista-de-23-anos-morre-preso-em-bueiro-durante-temporal-em-bh.ghtm",
+    "title": "Senado aprova, por 38 a 36, que maioridade penal tramite em projeto à parte de PEC da Segurança",
+    "url": "https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2026/11/03/senado-aprova-por-38-a-36-que-maioridade-penal-tramite-em-projeto-a-parte-de-pec-da-seguranca.htm",
     "image": ""
   },
   {
     "site": "CNN Brasil",
-    "title": "Atual do ex de Marina Ruy Barbosa curte post que chama atriz de narcisista",
-    "url": "https://www.cnnbrasil.com.br/pop/celebridades/atual-do-ex-de-marina-ruy-barbosa-curte-post-que-chama-atriz-de-narcisista/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/elisa-zarzur-marina-ruy-barbosa.jpg?w=1200&h=630&crop=1"
+    "title": "O que está em jogo nas Midterms? Professor avalia as eleições",
+    "url": "https://www.cnnbrasil.com.br/internacional/o-que-esta-em-jogo-nas-midterms-professor-avalia-as-eleicoes/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2024/11/EDC_ARN_051124_IL_GERAL_VOTACAO_EUA_frame_1475.jpeg?w=1200&h=630&crop=1"
   },
   {
     "site": "Terra",
-    "title": "Marina Ruy Barbosa é detonada por Lala Rudge em meio a polêmica com Luma Costa",
-    "url": "https://www.terra.com.br/diversao/gente/marina-ruy-barbosa-e-detonada-por-lala-rudge-em-meio-a-polemica-com-luma-costa,1b962c41b9fe15cbe8956bff9f7b6e0eoi2ofdrn.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/11/03/1793711668996993-sl9hhwgvv709.JPG"
-  },
-  {
-    "site": "BBC",
-    "title": "Eleições de meio de mandato nos EUA: o que está em jogo para o governo de Donald Trump",
-    "url": "https://www.bbc.co.uk/portuguese/live/c6073r14jp7gt?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/480/cpsprodpb/d5c2/live/8794e510-d700-11f1-91df-b96ca3dbd380.jpg"
-  },
-  {
-    "site": "G1",
-    "title": "Campanha de vacinação contra a raiva começa em Alagoas e segue até 7 de dezembro",
-    "url": "https://g1.globo.com/al/alagoas/noticia/2026/11/03/campanha-de-vacinacao-contra-a-raiva-comeca-em-alagoas-e-segue-ate-7-de-dezembro.ghtml",
-    "image": "https://s2-g1.glbimg.com/IxdPmtwtpSNSLKe-q1f8Zxp5FBs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/I/dZB1PISJikvhimKAoABQ/antirabica.png"
-  },
-  {
-    "site": "UOL",
-    "title": "Terremoto de magnitude 5,6 atinge a Colômbia",
-    "url": "https://noticias.uol.com.br/ultimas-noticias/reuters/2026/11/03/terremoto-de-magnitude-56-atinge-a-colombia.htm",
-    "image": ""
-  },
-  {
-    "site": "CNN Brasil",
-    "title": "Djokovic vê evolução física após temporada marcada por lesões",
-    "url": "https://www.cnnbrasil.com.br/esportes/tenis/djokovic-ve-evolucao-fisica-apos-temporada-marcada-por-lesoes/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/10/djokovic-pequim-e1791291608471.jpg?w=1200&h=630&crop=1"
-  },
-  {
-    "site": "Terra",
-    "title": "Peu destaca preparação do Minas para sequência da Superliga",
-    "url": "https://www.terra.com.br/esportes/volei/peu-destaca-preparacao-do-minas-para-sequencia-da-superliga,615d823b5f40ea9fce1d7e6918d08da3rxewcdd7.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/11/03/1307710028-556190658600363eb5a8bo-scaled-1-pm0kos-610x400.jpg"
-  },
-  {
-    "site": "BBC",
-    "title": "Quem é Jesus de Miguel, jogador de futebol espanhol que morreu após choque com goleiro em partida",
-    "url": "https://www.bbc.com/portuguese/articles/cv1j3177ren3o?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/0671/live/df2634f0-d773-11f1-a956-ff083523ef77.jpg"
-  },
-  {
-    "site": "G1",
-    "title": "Estudante de agronomia é encontrado morto em moradia universitária da Ufersa em Mossoró",
-    "url": "https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/11/03/estudante-de-agronomia-e-encontrado-morto-em-moradia-universitaria-da-ufersa-em-mossoro.ghtml",
-    "image": "https://s2-g1.glbimg.com/iNGtXYfJWGqS9BXVcAUz42vr2cI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/U/r/krxclqSuqDwUesKTHUYA/ufersa.jpg"
-  },
-  {
-    "site": "UOL",
-    "title": "Visita de Janones à Argentina foi precipitada e prejudica Lula",
-    "url": "https://noticias.uol.com.br/colunas/janaina-figueiredo/2026/11/03/visita-de-janones-a-argentina-foi-precipitada-e-prejudica-lula.htm",
-    "image": ""
-  },
-  {
-    "site": "CNN Brasil",
-    "title": "“Quem Ama Cuida’: Ulisses confessa roubo e implora por silêncio de Adriana",
-    "url": "https://www.cnnbrasil.com.br/pop/tv/quem-ama-cuida-ulisses-confessa-roubo-e-implora-por-silencio-de-adriana/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/ulisses.jpg?w=1200&h=630&crop=1"
-  },
-  {
-    "site": "Terra",
-    "title": "Dileo elogia postura do Vôlei Renata após estreia na Superliga",
-    "url": "https://www.terra.com.br/esportes/volei/dileo-elogia-postura-do-volei-renata-apos-estreia-na-superliga,060393b06e3a14d4823d1573f846b1f97zzdih0y.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/11/03/1871776006-pedroteixeiravoleirenataxsuzan-xhk3kn-610x400.jpg"
-  },
-  {
-    "site": "BBC",
-    "title": "Filha de brasileiros era copilota do avião que caiu na Flórida e deixou 9 mortos; o que se sabe",
-    "url": "https://www.bbc.com/portuguese/articles/cqe8rl260ep2o?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/3d62/live/a2d187b0-d6ed-11f1-a741-236ee91c2e25.jpg"
-  },
-  {
-    "site": "G1",
-    "title": "Aveiro decreta emergência por incêndios que destroem lavouras e afetam terras indígenas no Pará",
-    "url": "https://g1.globo.com/pa/santarem-regiao/noticia/2026/11/03/aveiro-decreta-emergencia-por-incendios-que-destroem-lavouras-e-afetam-terras-indigenas-no-para.ghtml",
-    "image": "https://s2-g1.glbimg.com/hi2rObZkJs7HkZF1wMPZ4D_ZmW0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/K/dwuCHFRJmtMHvWJ06Xfg/aveiro.jpg"
-  },
-  {
-    "site": "UOL",
-    "title": "Lula convoca militância nas redes sociais para pressionar STF contra bets",
-    "url": "https://c-level.folha.uol.com.br/negocios/2026/11/lula-convoca-militancia-nas-redes-sociais-para-pressionar-stf-contra-bets.shtml",
-    "image": "https://f.i.uol.com.br/fotografia/2026/09/01/17882953846a9738d830c2c_1788295384_3x2_rt.jpg"
-  },
-  {
-    "site": "CNN Brasil",
-    "title": "Sessão da Tarde: veja quais filmes serão exibidos de 2 a 6 de novembro",
-    "url": "https://www.cnnbrasil.com.br/pop/tv/sessao-da-tarde-veja-quais-filmes-serao-exibidos-de-2-a-6-de-novembro/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2021/08/45726_4FAA4CFC9B3D5D26.jpg?w=1200&h=630&crop=1"
-  },
-  {
-    "site": "Terra",
-    "title": "Capturaram uma única partícula de antimatéria ao longo de meses; se alcançarem seu objetivo, será \"a maior descoberta do século\"",
-    "url": "https://www.terra.com.br/byte/ciencia/capturaram-uma-unica-particula-de-antimateria-ao-longo-de-meses-se-alcancarem-seu-objetivo-sera-a-maior-descoberta-do-seculo,2db2601ce2af561395ddd09018abd3dfprlzaqy8.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/11/03/2035454911-13662000.jpeg"
-  },
-  {
-    "site": "BBC",
-    "title": "EUA lançam ataque contra ilha no Irã na véspera de eleições",
-    "url": "https://www.bbc.com/portuguese/articles/cwnv0n61q72vo?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/935d/live/479e54b0-d745-11f1-b441-2b33b063138f.jpg"
-  },
-  {
-    "site": "G1",
-    "title": "Melania Trump vai receber representantes da Rússia e Ucrânia juntos, diz Casa Branca",
-    "url": "https://g1.globo.com/mundo/noticia/2026/11/03/melania-trump-russia-ucrania-casa-branca.ghtml",
-    "image": "https://s2-g1.glbimg.com/SAR6whS0JqM_3EsuTDCoZZ_fQyM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/8/OxTMTDQ42y6gubv1iAfg/imagem1.png"
-  },
-  {
-    "site": "UOL",
-    "title": "Relembre jogadores que morreram devido a incidentes durante partidas",
-    "url": "https://www1.folha.uol.com.br/esporte/2026/11/relembre-jogadores-que-morreram-devido-a-incidentes-durante-partidas.shtml",
-    "image": "https://f.i.uol.com.br/fotografia/2024/08/22/172437185166c7d38bb7d42_1724371851_3x2_rt.jpg"
-  },
-  {
-    "site": "CNN Brasil",
-    "title": "SC: Operação mira fraude em sistema nacional para ocultar mandado de prisão",
-    "url": "https://www.cnnbrasil.com.br/nacional/sul/sc/sc-operacao-mira-fraude-em-sistema-nacional-para-ocultar-mandado-de-prisao/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/WhatsApp-Image-2026-11-03-at-07.30.16-e1793703616899.jpeg?w=1200&h=630&crop=1"
-  },
-  {
-    "site": "Terra",
-    "title": "Ucrânia, Europa e EUA discutirão garantias de segurança na 4ª-feira, diz fonte",
-    "url": "https://www.terra.com.br/noticias/mundo/ucrania-europa-e-eua-discutirao-garantias-de-seguranca-na-4-feira-diz-fonte,7d727ff7a9da3486e56a4d42e57bdac0vq88z6qe.html",
-    "image": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png"
+    "title": "Matheus Cunha comanda virada épica do Manchester United",
+    "url": "https://www.terra.com.br/esportes/futebol/internacional/equipes/manchester-united/matheus-cunha-comanda-virada-epica-do-manchester-united,1720ae90ed76c6c9cb8f0163d55e94a3xjryvsqa.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/11/03/82727222-manchester-united-v-as-roma-uefa-1-610x400.jpg"
   },
   {
     "site": "BBC",
@@ -157,27 +217,27 @@
   },
   {
     "site": "G1",
-    "title": "'Mais tatuado do Brasil' pede namorada em casamento antes de 2ª sessão de quimioterapia contra câncer na bexiga",
-    "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/11/03/mais-tatuado-do-brasil-quimioterapia-2-sessao.ghtml",
-    "image": "https://s2-g1.glbimg.com/4T9xm-dvxwRiscfNUXj4xHPd_dA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/i/NNupgyRHGTb7xeXtbYGA/g1-13-.jpg"
+    "title": "Van apreendida com 174 tabletes de maconha é alugada por prefeitura de cidade na Paraíba com contrato de R$ 261 mil",
+    "url": "https://g1.globo.com/pb/paraiba/noticia/2026/11/03/van-apreendida-com-174-tabletes-de-maconha-e-alugada-pela-prefeitura-de-cidade-na-paraiba-com-contrato-de-r-261-mil.ghtml",
+    "image": "https://s2-g1.glbimg.com/5ic3to2UV35LDWlpoPfntN3KF04=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/1/vb984fSBuBbzM9F1mG8Q/van-maconha-apreendida-jp-011126.png"
   },
   {
     "site": "UOL",
-    "title": "Brasil encerra presidência da COP, entrega mapas do caminho e cobra ação",
-    "url": "https://noticias.uol.com.br/ultimas-noticias/reuters/2026/11/03/brasil-encerra-presidencia-da-cop-entrega-mapas-do-caminho-e-cobra-acao.htm",
+    "title": "Barcelona vence Aston Villa (3-0) e sobe na tabela da Champions",
+    "url": "https://noticias.uol.com.br/ultimas-noticias/afp/2026/11/03/barcelona-vence-aston-villa-3-0-e-sobe-na-tabela-da-champions.htm",
     "image": ""
   },
   {
     "site": "CNN Brasil",
-    "title": "Advogados do caso Master buscam gabinete de Fachin para destravar demandas",
-    "url": "https://www.cnnbrasil.com.br/politica/advogados-do-caso-master-buscam-gabinete-de-fachin-para-destravar-demandas/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/11/2-Banco-Master2-UPLOAD-e1743446591221.jpeg?w=1200&h=630&crop=1"
+    "title": "Mega da Virada: Prêmio é estimado em R$ 1 bilhão; veja quanto rende",
+    "url": "https://www.cnnbrasil.com.br/economia/seu-bolso/meu-dinheiro/mega-da-virada-premio-e-estimado-em-r-1-bilhao-veja-quanto-rende/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2023/12/dsc7957.jpg?w=1200&h=630&crop=1"
   },
   {
     "site": "Terra",
-    "title": "Compartilhamento de inteligência nos EUA sofreu rupturas sob Trump, dizem autoridades",
-    "url": "https://www.terra.com.br/noticias/mundo/compartilhamento-de-inteligencia-nos-eua-sofreu-rupturas-sob-trump-dizem-autoridades,ff77b82cc30e38af4a8b3781ee5235ae6jgyd26v.html",
-    "image": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png"
+    "title": "Felipe na mira da polícia e segredo horrível sobre pai de Brigitte: reta final de 'Quem Ama Cuida' traz 2 reviravoltas chocantes que deixam dupla em pânico",
+    "url": "https://www.terra.com.br/diversao/tv/felipe-na-mira-da-policia-e-segredo-horrivel-sobre-pai-de-brigitte-reta-final-de-quem-ama-cuida-traz-2-reviravoltas-chocantes-que-deixam-dupla-em-panico,9119c5493add612ebdb4d1240976c6cdvt9q28qw.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/11/03/95849018-fa80feda7957246b-1400x823-2.jpg"
   },
   {
     "site": "BBC",
@@ -187,27 +247,27 @@
   },
   {
     "site": "G1",
-    "title": "Aliados querem que Lula use pronunciamento para afastar rumores sobre nova política econômica e defender equilíbrio",
-    "url": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/11/03/aliados-querem-que-lula-use-pronunciamento-para-afastar-rumores-sobre-nova-politica-economica-e-defender-equilibrio.ghtml",
-    "image": "https://s2-g1.glbimg.com/bjcYWe0ae5iJye-3Mmm0YR62h2k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/J/8eZmKyQvq3x8m8SkBa0Q/55249070125-d993e54025-k.jpg"
+    "title": "O que acontece com o navio de petróleo do Amapá após o fim das perfurações no leito marinho",
+    "url": "https://g1.globo.com/ap/amapa/noticia/2026/11/03/o-que-acontece-com-o-navio-de-petroleo-do-amapa-apos-o-fim-das-perfuracoes-no-leito-marinho.ghtml",
+    "image": "https://s2-g1.glbimg.com/MkKMiNj50FaFVe0OGY-2WgkgIRw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/C/T3fQ8xRxWaHRBWuJew7Q/whatsapp-image-2026-11-03-at-17.41.18.jpeg"
   },
   {
     "site": "UOL",
-    "title": "Mineradora ganha mais dois meses para fechar aquisição de negócio de níquel no Brasil",
-    "url": "https://c-level.folha.uol.com.br/negocios/2026/11/mineradora-ganha-mais-dois-meses-para-fechar-aquisicao-de-negocio-de-niquel-no-brasil.shtml",
-    "image": "https://f.i.uol.com.br/fotografia/2025/11/23/17639501906923be6e3a8e6_1763950190_3x2_rt.jpg"
+    "title": "Vorcaro disse que 'tá muito difícil' em mensagem a Flávio Bolsonaro antes de prisão, diz portal",
+    "url": "https://www1.folha.uol.com.br/poder/2026/11/vorcaro-disse-que-ta-muito-dificil-em-mensagem-a-flavio-bolsonaro-antes-de-prisao-diz-portal.shtml",
+    "image": "https://f.i.uol.com.br/fotografia/2026/03/11/177325578669b1bc6a5c709_1773255786_3x2_rt.jpg"
   },
   {
     "site": "CNN Brasil",
-    "title": "Palácio da realeza britânica onde turistas desmaiavam: como um psicólogo decifrou os ‘fantasmas’ de Hampton Court",
-    "url": "https://www.cnnbrasil.com.br/curiosidades/palacio-da-realeza-britanica-onde-turistas-desmaiavam-como-um-psicologo-decifrou-os-fantasmas-de-hampton-court/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/hampton-court-palace.jpg?w=1200&h=630&crop=1"
+    "title": "Bitcoin sobe com expectativas de avanços diplomáticos no Oriente Médio",
+    "url": "https://www.cnnbrasil.com.br/economia/money/mercado/bitcoin-sobe-com-expectativas-de-avancos-diplomaticos-no-oriente-medio/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/Reuters_Direct_Media/BrazilOnlineReportBusinessNews/tagreuters.com2025binary_LYNXMPELAK0LJ-BASEIMAGE.jpg?w=800&h=533&crop=1"
   },
   {
     "site": "Terra",
-    "title": "5 sinais de que você está passando por um despertar espiritual",
-    "url": "https://www.terra.com.br/vida-e-estilo/5-sinais-de-que-voce-esta-passando-por-um-despertar-espiritual,e2b2a1a3ba8c44aa0fd5198581d57a7awtz3l7oq.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/11/03/787058918-capa-bons-fluidos-2025-11-28t121805045.jpg"
+    "title": "Netflix conclui gravações de 'Melhor do que nos Filmes'; estreia prevista para 2027",
+    "url": "https://www.terra.com.br/diversao/netflix-conclui-gravacoes-de-melhor-do-que-nos-filmes-estreia-prevista-para-2027,b142edc6caaa3b5e7322af60f62f33df2p7mk3em.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/11/03/629735223-filmes.jpg"
   },
   {
     "site": "BBC",
@@ -217,80 +277,26 @@
   },
   {
     "site": "G1",
-    "title": "Projeto Polinizadores gera 16,7 t de mel e apoia apicultura no Centro-Oeste SP",
-    "url": "https://g1.globo.com/sp/bauru-marilia/especial-publicitario/bracell-fazer-a-diferenca-em-cada-detalhe/noticia/2026/11/03/projeto-polinizadores-gera-167-t-de-mel-e-apoia-apicultura-no-centro-oeste-sp.ghtml",
-    "image": "https://s2-g1.glbimg.com/YTyIdpKqzy8alCrfp2OtiUh4ogg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/u/OACpfCQYu8F3fJZwtnYA/foto-1-1-1-.jpg"
+    "title": "VÍDEOS: MG2 de terça-feira, 03 de novembro de 2026",
+    "url": "https://g1.globo.com/mg/minas-gerais/videos-mg2/playlist/videos-mg2-de-terca-feira-03-de-novembro-de-2026.ghtml",
+    "image": "https://s.glbimg.com/jo/g1/static/live/imagens/img_facebook.png?g1"
   },
   {
     "site": "UOL",
-    "title": "Empresas de call center precisam ter atendimento humano das 8h às 20h; veja as novas regras do SAC",
-    "url": "https://www1.folha.uol.com.br/mercado/2026/11/empresas-de-call-center-precisam-ter-atendimento-humano-das-8h-as-20h-veja-as-novas-regras-do-sac.shtml",
-    "image": "https://f.i.uol.com.br/fotografia/2026/11/03/17937073186ae9cd366941a_1793707318_3x2_rt.jpg"
-  },
-  {
-    "site": "CNN Brasil",
-    "title": "Morte em jump rope: Justiça manda Meta informar sobre exclusão de mensagens",
-    "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/morte-em-jump-rope-justica-manda-meta-informar-sobre-exclusao-de-mensagens/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/06/jovem-morta-em-rope-jump-em-SP.jpg?w=1200&h=630&crop=1"
-  },
-  {
-    "site": "Terra",
-    "title": "Indústria brasileira segue em queda em outubro e empresas citam perturbações em razão das eleições",
-    "url": "https://www.terra.com.br/economia/industria-brasileira-segue-em-queda-em-outubro-e-empresas-citam-perturbacoes-em-razao-das-eleicoes,de58bdd20ebeb9a8b096ba54d1885acbd5gvvwby.html",
-    "image": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png"
-  },
-  {
-    "site": "BBC",
-    "title": "Eleições nos EUA: como fortalecimento do socialismo criou dilema para os democratas",
-    "url": "https://www.bbc.com/portuguese/articles/cm87zn0xz155o?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/3efd/live/d12796c0-d479-11f1-8edb-d9fce66588c6.jpg"
-  },
-  {
-    "site": "G1",
-    "title": "SIGA: urnas das midterms abrem em 34 estados dos EUA; eleição é decisiva para Trump",
-    "url": "https://g1.globo.com/mundo/ao-vivo/eleicoes-nos-eua-2026-acompanhe-as-ultimas-noticias-sobre-as-midterms.ghtml",
-    "image": "https://s2-g1.glbimg.com/vv50cPv5jrQP21Pn4HkVsIikR3I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/u/1TAnFkSb29msTUcLJ9ug/2026-10-23t202915z-729126688-rc289oay8dlx-rtrmadp-3-usa-trump.jpg"
-  },
-  {
-    "site": "UOL",
-    "title": "Caso Porsche: MP recorre e pede aumento da pena de Fernando Sastre para até 27 anos de prisão",
-    "url": "https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2026/11/03/caso-porsche-mp-recorre-e-pede-aumento-da-pena-de-fernando-sastre-para-ate-27-anos-de-prisao.htm",
+    "title": "Senado aprova, em 1º turno, PEC da Segurança, por 73 a 0",
+    "url": "https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2026/11/03/senado-aprova-em-1-turno-pec-da-seguranca-por-73-a-0.htm",
     "image": ""
   },
   {
     "site": "CNN Brasil",
-    "title": "Durigan: Vamos prorrogar IPI para setores afetados pelo imposto seletivo",
-    "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/durigan-vamos-prorrogar-ipi-para-setores-afetados-pelo-imposto-seletivo/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/Reuters_Direct_Media/BrazilOnlineReportBusinessNews/tagreuters.com2026binary_LYNXMPEM2P0X1-BASEIMAGE.jpg?w=800&h=533&crop=1"
+    "title": "Senado rejeita incluir redução da maioridade penal na PEC da Segurança",
+    "url": "https://www.cnnbrasil.com.br/politica/senado-rejeita-incluir-reducao-da-maioridade-penal-na-pec-da-seguranca/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/10/senado-federal.jpg?w=1023&h=630&crop=1"
   },
   {
     "site": "Terra",
-    "title": "Brasil encerra presidência da COP, entrega mapas do caminho e cobra ação",
-    "url": "https://www.terra.com.br/noticias/brasil-encerra-presidencia-da-cop-entrega-mapas-do-caminho-e-cobra-acao,82bc9fb0cbeebb37490a6249235250c4iwts60uf.html",
-    "image": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png"
-  },
-  {
-    "site": "BBC",
-    "title": "Como eleições nos EUA devem selar destino de Trump e futuro da relação com o Brasil em 4º mandato de Lula",
-    "url": "https://www.bbc.com/portuguese/articles/cw80z10renkzo?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/575b/live/f31d04c0-d6a1-11f1-93e1-3b657b665bcf.png"
-  },
-  {
-    "site": "G1",
-    "title": "Homem morre após levar facadas no pescoço em Ipuiúna",
-    "url": "https://g1.globo.com/mg/sul-de-minas/noticia/2026/11/03/homem-morre-apos-levar-facadas-no-pescoco-em-ipuiuna.ghtml",
-    "image": "https://s2-g1.glbimg.com/rU254-s30uF1M514xjeOklwbh64=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/A/y2bAIETtq6T1zOQKpkXQ/faca.jpeg"
-  },
-  {
-    "site": "CNN Brasil",
-    "title": "Antes de debate no STF, Lula cobra mobilização da sociedade contra bets",
-    "url": "https://www.cnnbrasil.com.br/politica/antes-de-debate-no-stf-lula-cobra-mobilizacao-da-sociedade-contra-bets/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/10/FTA20261013094.jpg?w=1200&h=630&crop=1"
-  },
-  {
-    "site": "Terra",
-    "title": "Honda City 2027 mantém a mesma dinâmica, tem consumo de híbrido, mas racionalidade 'pode incomodar'",
-    "url": "https://www.terra.com.br/noticias/honda-city-2027-mantem-a-mesma-dinamica-tem-consumo-de-hibrido-mas-racionalidade-pode-incomodar,cd04a2251e893348f5f464f8285dde7dit5jkn2v.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/11/03/601142126-r7jqpqdo7fa6llienqnlw6fwj4.jpg"
+    "title": "Área gourmet perfeita: 7 dicas para criar um espaço bonito e funcional",
+    "url": "https://www.terra.com.br/vida-e-estilo/casa-e-decoracao/area-gourmet-perfeita-7-dicas-para-criar-um-espaco-bonito-e-funcional,0339c9b33b9be0522a2f72180ed25381sfndkj7a.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/11/03/1125569158-capa-bons-fluidos-2026-11-03t181031977.jpg"
   }
 ]
