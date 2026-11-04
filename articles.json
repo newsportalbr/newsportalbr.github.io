@@ -1,213 +1,93 @@
 [
   {
     "site": "BBC",
-    "title": "Eleições nos EUA: economia é principal preocupação dos americanos ao votar, aponta pesquisa; primeiras urnas fecham em breve; siga",
+    "title": "Eleições nos EUA: Democratas conquistam o controle da Câmara e avançam na tentativa de retomar o Senado; veja resultados",
     "url": "https://www.bbc.co.uk/portuguese/live/c6073r14jp7gt?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/480/cpsprodpb/874b/live/20103e10-d7d4-11f1-8cb0-d304936875f3.png"
+    "image": "https://ichef.bbci.co.uk/ace/standard/480/cpsprodpb/1af8/live/c48e9660-d7fe-11f1-9fb7-930561c0a348.jpg"
   },
   {
     "site": "G1",
-    "title": "BR-324 é totalmente fechada após surgimento de buraco na BA; PRF aponta rotas alternativas",
-    "url": "https://g1.globo.com/ba/bahia/noticia/2026/11/03/buraco-na-br-324-na-bahia.ghtml",
-    "image": "https://s2-g1.glbimg.com/GBPqzTZZM6ZitKvsRlwNFy1mKWI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/2/ahSaOlRhmPlKqr2SNfkQ/novo-projeto-2026-11-03t192604.990.jpg"
+    "title": "Previsão do tempo hoje para Londrina (PR): sol com muitas nuvens e períodos de céu nublado; noite com pancadas de chuva",
+    "url": "https://g1.globo.com/pr/parana/previsao-do-tempo/noticia/2026/11/04/previsao-do-tempo-hoje-para-londrina-pr-sol-com-muitas-nuvens-e-periodos-de-ceu-nublado-noite-com-pancadas-de-chuva.ghtml",
+    "image": "https://s2-g1.glbimg.com/C7x1fm1NEupDYTjQ1YMOZGyalbI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/G/Kvjn2AT2i2rpk0Msu6Kg/previsao-tempo-londrina-20261104-011252.jpeg"
   },
   {
     "site": "UOL",
-    "title": "Com sim de Flávio, Senado aprova PEC da Segurança; veja como cada um votou",
-    "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/11/03/como-cada-um-votou-pec-seguranca-publica-senado.ghtm",
+    "title": "Lula passa por exames de rotina em hospital de SP",
+    "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/11/04/lula-faz-exames-de-rotina-em-hospital-de-sp-e-resultados-sao-normais.ghtm",
     "image": ""
   },
   {
     "site": "CNN Brasil",
-    "title": "Morre paciente que cantou Legião Urbana durante cirurgia no cérebro em SP",
-    "url": "https://www.cnnbrasil.com.br/saude/morre-paciente-que-cantou-legiao-urbana-durante-cirurgia-no-cerebro-em-sp/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/Design-sem-nome.jpg?w=1200&h=630&crop=1"
+    "title": "Partida tem 53 expulsos, ameaça de morte, soco, pontapés e recorde mundial",
+    "url": "https://www.cnnbrasil.com.br/esportes/futebol/partida-tem-53-expulsos-ameaca-de-morte-soco-pontapes-e-recorde-mundial/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/briga-e1793763311693.webp?w=660&h=372&crop=1"
   },
   {
     "site": "Terra",
-    "title": "Morre Eliana Rocha, atriz de Pé na Cova, aos 82 anos",
-    "url": "https://www.terra.com.br/diversao/musica/meu-sonora/k-pop/morre-eliana-rocha-atriz-de-pe-na-cova-aos-82-anos,c8e1e7116734556f90978ae318735702xpbvsaus.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/11/03/design-sem-nome-2026-11-03t192156-942-1k1x91ucsw9x0.png"
+    "title": "Eduardo Baptista exalta triunfo do Internacional: \"Hoje foi com a alma\"",
+    "url": "https://www.terra.com.br/esportes/internacional/eduardo-baptista-exalta-triunfo-do-internacional-hoje-foi-com-a-alma,97f6aa00dee2a146a0cf54906eb56b5fj7b70qtv.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/11/04/1000971615-55631080374ed1f7d78e7oeasy-resizecom-610x400.jpg"
   },
   {
     "site": "BBC",
-    "title": "Quando sairão os resultados das eleições de meio de mandato nos EUA?",
-    "url": "https://www.bbc.com/portuguese/articles/cwm26g6x0r72o?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/e286/live/58c44510-d6d2-11f1-b441-2b33b063138f.jpg"
+    "title": "Análise: Partido Democrata toma territórios republicanos com vitórias históricas",
+    "url": "https://www.bbc.com/portuguese/articles/cr1ex57zlqj2o?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/cb44/live/543807b0-d7fa-11f1-a701-fddedf244c16.jpg"
   },
   {
     "site": "G1",
-    "title": "Tráfico e associação para o tráfico são os atos infracionais mais comuns entre adolescentes que aguardam internação no RJ",
-    "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/11/03/atos-infracionais-mais-comuns-entre-adolescentes-que-aguardam-internacao-no-rj.ghtml",
-    "image": "https://s2-g1.glbimg.com/blH1QKpiG2VADFQvciksCyJweqQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/3/TAzIrpTtGZaXNzxxObxQ/whatsapp-image-2026-11-03-at-19.32.37-1-.jpeg"
+    "title": "Previsão do tempo hoje para Curitiba (PR): sol com muitas nuvens e períodos de céu nublado; noite com pancadas de chuva",
+    "url": "https://g1.globo.com/pr/parana/previsao-do-tempo/noticia/2026/11/04/previsao-do-tempo-hoje-para-curitiba-pr-sol-com-muitas-nuvens-e-periodos-de-ceu-nublado-noite-com-pancadas-de-chuva.ghtml",
+    "image": "https://s2-g1.glbimg.com/fHRhqzBj5sP6fUtwNahX7qDJABI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/e/EskISITe6IOTzVKGzUgg/previsao-tempo-curitiba-20261104-011235.jpeg"
   },
   {
     "site": "UOL",
-    "title": "Proibir as bets funciona?",
-    "url": "https://www1.folha.uol.com.br/colunas/marilizpereirajorge/2026/11/proibir-as-bets-funciona.shtml",
-    "image": "https://f.i.uol.com.br/fotografia/2026/09/25/17903524086ab69c18b26b4_1790352408_3x2_rt.jpg"
+    "title": "Em derrota para Trump, 'onda azul' surpreende nas eleições dos EUA",
+    "url": "https://www1.folha.uol.com.br/mundo/2026/11/em-derrota-para-trump-onda-azul-surpreende-nas-eleicoes-dos-eua.shtml",
+    "image": "https://f.i.uol.com.br/fotografia/2026/11/03/17937495506aea722e0811d_1793749550_3x2_rt.jpg"
   },
   {
     "site": "CNN Brasil",
-    "title": "Morre atriz Eliana Rocha, de “Pé na Cova”, aos 82 anos",
-    "url": "https://www.cnnbrasil.com.br/pop/celebridades/morre-atriz-eliana-rocha-de-pe-na-cova-aos-82-anos/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/eliana-rocha-luz-divina-pe-na-cova.jpg?w=1200&h=630&crop=1"
+    "title": "Midterms: Geórgia e Flórida elegem pela 1ª vez governadores negros",
+    "url": "https://www.cnnbrasil.com.br/internacional/midterms-georgia-e-florida-elegem-pela-1a-vez-governadores-negros/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/CNN.png?w=1200&h=630&crop=1"
   },
   {
     "site": "Terra",
-    "title": "Após ameaças a estrangeiros, ICE confirma 14 prisões durante eleições",
-    "url": "https://www.terra.com.br/noticias/mundo/apos-ameacas-a-estrangeiros-ice-confirma-14-prisoes-durante-eleicoes,f8d526fb604b426328d4a3437b1fc97c6qlv2pgz.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/11/03/captura-de-tela-2026-11-03-191831-rl2u7tcomjc5.jpg"
+    "title": "Timemania 2463: América-RN é sorteado e prêmio sobe a R$ 24,7 milhões",
+    "url": "https://www.terra.com.br/noticias/timemania-2463-america-rn-e-sorteado-e-premio-sobe-a-r-247-milhoes,f17e473439d959a107d23fae20f66453qb6qy9y0.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/11/04/458931373-loterias-timemania.jpg"
   },
   {
     "site": "BBC",
-    "title": "A vitória de Lula explicada matematicamente",
-    "url": "https://www.bbc.com/portuguese/articles/cxvgdjneg9g5o?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/0f77/live/9c005980-d6fb-11f1-b983-c357054e4d1e.jpg"
+    "title": "As sete disputas para o Senado que podem definir futuro do governo Trump",
+    "url": "https://www.bbc.com/portuguese/articles/crn8wnw3eq0wo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/879f/live/a452e5f0-d7fd-11f1-afc1-71ff3c391379.jpg"
   },
   {
     "site": "G1",
-    "title": "Prefeitura anuncia criação da Guarda Municipal de Rio Branco e concurso para 80 agentes",
-    "url": "https://g1.globo.com/ac/acre/noticia/2026/11/03/prefeitura-anuncia-criacao-de-guarda-municipal-em-rio-branco-e-concurso-para-80-agentes.ghtml",
-    "image": "https://s2-g1.glbimg.com/rzfPPS1RoqJ02nLyI5jCdnr7od0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/5/EAmB5IShqdMcBBM9cA6g/guarda-municipal-80-vagas-20.jpeg"
+    "title": "Previsão do tempo hoje para São Paulo (SP): sol e aumento de nuvens de manhã; pancadas de chuva à tarde e à noite",
+    "url": "https://g1.globo.com/sp/sao-paulo/previsao-do-tempo/noticia/2026/11/04/previsao-do-tempo-hoje-para-sao-paulo-sp-sol-e-aumento-de-nuvens-de-manha-pancadas-de-chuva-a-tarde-e-a-noite.ghtml",
+    "image": "https://s2-g1.glbimg.com/YpQQn1sllp1sB0Vk5Yivk8umOlo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/x/eelBoSSIiehlSLAvcxNg/previsao-tempo-s-o-paulo-20261104-011219.jpeg"
   },
   {
     "site": "UOL",
-    "title": "Flávio Bolsonaro pode votar no Senado mesmo morando nos EUA? Entenda regras",
-    "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/11/03/nos-eua-flavio-pode-votar-no-senado-entenda-o-que-dizem-as-regras.ghtm",
-    "image": ""
+    "title": "James Talarico se torna 1º democrata eleito senador pelo Texas em quase 40 anos",
+    "url": "https://www1.folha.uol.com.br/mundo/2026/11/james-talarico-se-torna-1o-democrata-eleito-senador-pelo-texas-em-quase-40-anos.shtml",
+    "image": "https://f.i.uol.com.br/fotografia/2026/11/03/17937414976aea52b90819d_1793741497_3x2_rt.jpg"
   },
   {
     "site": "CNN Brasil",
-    "title": "Wagner Moura e Lázaro Ramos se encontram em sessão de “Feito Pipa” em LA",
-    "url": "https://www.cnnbrasil.com.br/pop/cinema/wagner-moura-e-lazaro-ramos-se-encontram-em-sessao-de-feito-pipa-em-la/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/1-Mais-um-soldado-entrou-pra-campanha-de-Feito-Pipa-no-Oscar-%E2%9D%A4%EF%B8%8FAh-e-olha-quem-veio-do-meu-lado-no-1.jpg?w=1200&h=630&crop=1"
+    "title": "Democratas devem conquistar controle da Câmara dos EUA, aponta projeção CNN",
+    "url": "https://www.cnnbrasil.com.br/internacional/midterms-camara-eua/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/Reuters_Direct_Media/BrazilOnlineReportBusinessNews/tagreuters.com2025binary_LYNXMPEL5Q0G0-BASEIMAGE.jpg?w=800&h=534&crop=1"
   },
   {
     "site": "Terra",
-    "title": "Segredo da longevidade: britânica completa 105 anos e revela hábito inusitado",
-    "url": "https://www.terra.com.br/vida-e-estilo/saude/segredo-da-longevidade-britanica-completa-105-anos-e-revela-habito-inusitado,9c076f64ee342e3925b22fb96c413de79ugozjoa.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/11/03/1160900220-abre-perfil-brasil-2026-11-03t155814667.jpg"
-  },
-  {
-    "site": "BBC",
-    "title": "Governo Lula impõe sigilo a documentos do 'pacote de bondades' lançado nas eleições",
-    "url": "https://www.bbc.com/portuguese/articles/cmz654z66gplo?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/58af/live/47baaa50-d7c9-11f1-a719-bf3dc3a3d5b5.jpg"
-  },
-  {
-    "site": "G1",
-    "title": "Em vitória do governo, Senado aprova PEC da Segurança Pública; texto segue para promulgação",
-    "url": "https://g1.globo.com/politica/ao-vivo/pec-seguranca-publica-senado.ghtml",
-    "image": "https://s2-g1.glbimg.com/QCDe4xs61d9cdpABN6JNyye9QOQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/x/rg9TG0SKOtFWAqwCBEMg/55629449422-9300271c3f-k.jpg"
-  },
-  {
-    "site": "UOL",
-    "title": "Alcolumbre: Se Câmara deliberar redução da maioridade penal, pautarei um dia depois no Senado",
-    "url": "https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2026/11/03/alcolumbre-se-camara-deliberar-reducao-da-maioridade-penal-pautarei-um-dia-depois-no-senado.htm",
-    "image": ""
-  },
-  {
-    "site": "CNN Brasil",
-    "title": "A primeira caneta esferográfica do mundo foi vendida por mais de R$ 60, e mais de 30 mil unidades foram comercializadas",
-    "url": "https://www.cnnbrasil.com.br/curiosidades/a-primeira-caneta-esferografica-do-mundo-foi-vendida-por-mais-de-r-60-e-mais-de-30-mil-unidades-foram-comercializadas/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/caneta-esferografica-e1793656738389.jpg?w=1200&h=630&crop=1"
-  },
-  {
-    "site": "Terra",
-    "title": "Babu Santana surge com novo amor e detalhe chama atenção",
-    "url": "https://www.terra.com.br/diversao/gente/babu-santana-surge-com-novo-amor-e-detalhe-chama-atencao,ab5ddf31e2101b1de1b17804eebc44a3031odnih.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/11/03/835081836-babu-santana.jpg"
-  },
-  {
-    "site": "BBC",
-    "title": "Quem eram as 9 vítimas fatais da queda de avião na Flórida",
-    "url": "https://www.bbc.com/portuguese/articles/cmvg7l75y321o?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/c7a9/live/7173e670-d7cb-11f1-a701-fddedf244c16.jpg"
-  },
-  {
-    "site": "G1",
-    "title": "Caso 'Dom Diego': acusado de matar o próprio irmão por disputa de herança em RO tem julgamento marcado",
-    "url": "https://g1.globo.com/ro/rondonia/noticia/2026/11/03/caso-dom-diego-acusado-de-matar-o-proprio-irmao-por-disputa-de-heranca-em-ro-tem-julgamento-marcado.ghtml",
-    "image": "https://s2-g1.glbimg.com/B9LAq7aXfmB5QbjVbRZuGIc5Knk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/F/x/ILzUyrQCuSXE9bl6LCkg/whatsapp-image-2024-12-02-at-14.56.31.jpeg"
-  },
-  {
-    "site": "UOL",
-    "title": "Entenda a PEC da Segurança Pública aprovada em primeiro turno pelo Senado",
-    "url": "https://www1.folha.uol.com.br/cotidiano/2026/11/entenda-a-pec-da-seguranca-publica-aprovada-em-primeiro-turno-pelo-senado.shtml",
-    "image": "https://f.i.uol.com.br/fotografia/2026/10/14/17920275466ad02b9a02d93_1792027546_3x2_rt.jpg"
-  },
-  {
-    "site": "CNN Brasil",
-    "title": "Motorista confunde entrada de rio com pista e avança; um morre e outro some",
-    "url": "https://www.cnnbrasil.com.br/nacional/centro-oeste/ms/motorista-confunde-entrada-de-rio-com-pista-e-avanca-um-morre-e-outro-some/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/APURACAO-CNN-7-1.png?w=1200&h=630&crop=1"
-  },
-  {
-    "site": "Terra",
-    "title": "Inter bate Feyenoord na Champions; Roma abre 2 a 0, mas leva virada do United",
-    "url": "https://www.terra.com.br/esportes/inter-bate-feyenoord-na-champions-roma-abre-2-a-0-mas-leva-virada-do-united,60aa3dc9d380b90b0171564d52b3981axzh5d9hb.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/11/03/902420269-4b04fb94e9d2204ed211f2db8f8ca6b9.jpg"
-  },
-  {
-    "site": "BBC",
-    "title": "3 cenários possíveis para os resultados das eleições de meio de mandato nos EUA",
-    "url": "https://www.bbc.com/portuguese/articles/cwj346dy3kplo?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/50a9/live/ece0d370-d787-11f1-b441-2b33b063138f.jpg"
-  },
-  {
-    "site": "G1",
-    "title": "Calor poder chegar a 40 °C no interior de PE; veja a previsão climática para Agreste e Sertão",
-    "url": "https://g1.globo.com/pe/caruaru-regiao/noticia/2026/11/03/calor-poder-chegar-a-40-c-no-interior-de-pe-veja-a-previsao-climatica-para-agreste-e-sertao.ghtml",
-    "image": "https://s2-g1.glbimg.com/Q6gUG64X4p8pnObW_WAwy8pd25E=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/K/l/RvwwetSuANB5i1wiklzg/tempo-juiz-de-fora-juliana-netto.jpg"
-  },
-  {
-    "site": "UOL",
-    "title": "Ex-de Vorcaro, Martha Graeff é intimada a depor e entregar documentos em processo do Master nos EUA",
-    "url": "https://c-level.folha.uol.com.br/financas/2026/11/ex-de-vorcaro-martha-graeff-e-intimada-a-depor-e-entregar-documentos-em-processo-do-master-nos-eua.shtml",
-    "image": "https://f.i.uol.com.br/fotografia/2026/11/03/17937427606aea57a8544df_1793742760_3x2_lg.jpg"
-  },
-  {
-    "site": "CNN Brasil",
-    "title": "Senado aprova PEC da Segurança Pública sem discutir redução da maioridade",
-    "url": "https://www.cnnbrasil.com.br/politica/senado-aprova-pec-da-seguranca-publica/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/10/senado-federal_c79b93.jpg?w=1200&h=630&crop=1"
-  },
-  {
-    "site": "Terra",
-    "title": "Em noite de Matheus Cunha, United vira contra Roma",
-    "url": "https://www.terra.com.br/esportes/futebol/internacional/em-noite-de-matheus-cunha-united-vira-contra-roma,edc82f61550c0f12c77c2ff5fe290aado9ar4kne.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/11/03/175455363-manchester-united-v-as-roma-uefa-champions-league-2026-27-league-phase-md4-2048x1404.jpg"
-  },
-  {
-    "site": "BBC",
-    "title": "Quem vai ganhar as midterms? Os gráficos que mostram como a eleição dos EUA será decidida",
-    "url": "https://www.bbc.com/portuguese/articles/crlyklw8xxnyo?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/f64c/live/4e58ab20-c552-11f1-bc2e-018d645d8d21.jpg"
-  },
-  {
-    "site": "G1",
-    "title": "Adolescente denuncia estupro coletivo durante encontro em SC; polícia investiga",
-    "url": "https://g1.globo.com/sc/santa-catarina/noticia/2026/11/03/adolescente-denuncia-estupro-coletivo-durante-sc-policia-investiga.ghtml",
-    "image": "https://s2-g1.glbimg.com/K-_ehar6HYYiOa4-qrEvY6EZwBM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/i/UfgAXOTqynyAo4CqS4ug/g1-1-.png"
-  },
-  {
-    "site": "UOL",
-    "title": "Senado aprova, por 38 a 36, que maioridade penal tramite em projeto à parte de PEC da Segurança",
-    "url": "https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2026/11/03/senado-aprova-por-38-a-36-que-maioridade-penal-tramite-em-projeto-a-parte-de-pec-da-seguranca.htm",
-    "image": ""
-  },
-  {
-    "site": "CNN Brasil",
-    "title": "O que está em jogo nas Midterms? Professor avalia as eleições",
-    "url": "https://www.cnnbrasil.com.br/internacional/o-que-esta-em-jogo-nas-midterms-professor-avalia-as-eleicoes/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2024/11/EDC_ARN_051124_IL_GERAL_VOTACAO_EUA_frame_1475.jpeg?w=1200&h=630&crop=1"
-  },
-  {
-    "site": "Terra",
-    "title": "Matheus Cunha comanda virada épica do Manchester United",
-    "url": "https://www.terra.com.br/esportes/futebol/internacional/equipes/manchester-united/matheus-cunha-comanda-virada-epica-do-manchester-united,1720ae90ed76c6c9cb8f0163d55e94a3xjryvsqa.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/11/03/82727222-manchester-united-v-as-roma-uefa-1-610x400.jpg"
+    "title": "Sindicato pede suspensão de jogos na Espanha após morte de atacante",
+    "url": "https://www.terra.com.br/esportes/espanha/sindicato-pede-suspensao-de-jogos-na-espanha-apos-morte-de-atacante,a856c579ba92be509ea8833edbcc9aabrbxr5ydj.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/11/04/1102318582-fo4k6h1xwaipqxk-610x400.jpg"
   },
   {
     "site": "BBC",
@@ -217,57 +97,147 @@
   },
   {
     "site": "G1",
-    "title": "Van apreendida com 174 tabletes de maconha é alugada por prefeitura de cidade na Paraíba com contrato de R$ 261 mil",
-    "url": "https://g1.globo.com/pb/paraiba/noticia/2026/11/03/van-apreendida-com-174-tabletes-de-maconha-e-alugada-pela-prefeitura-de-cidade-na-paraiba-com-contrato-de-r-261-mil.ghtml",
-    "image": "https://s2-g1.glbimg.com/5ic3to2UV35LDWlpoPfntN3KF04=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/1/vb984fSBuBbzM9F1mG8Q/van-maconha-apreendida-jp-011126.png"
+    "title": "Previsão do tempo hoje para São Bernardo do Campo (SP): dia de sol, com nevoeiro ao amanhecer; muitas nuvens à tarde e à noite",
+    "url": "https://g1.globo.com/sp/sao-paulo/previsao-do-tempo/noticia/2026/11/04/previsao-do-tempo-hoje-para-sao-bernardo-do-campo-sp-dia-de-sol-com-nevoeiro-ao-amanhecer-muitas-nuvens-a-tarde-e-a-noite.ghtml",
+    "image": "https://s2-g1.glbimg.com/zkpOeROv2qvmSLog39uy_ws5gPI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/8/ZmCK1GSAKSCImtSUbWqw/previsao-tempo-s-o-bernardo-do-campo-20261104-011202.jpeg"
   },
   {
     "site": "UOL",
-    "title": "Barcelona vence Aston Villa (3-0) e sobe na tabela da Champions",
-    "url": "https://noticias.uol.com.br/ultimas-noticias/afp/2026/11/03/barcelona-vence-aston-villa-3-0-e-sobe-na-tabela-da-champions.htm",
-    "image": ""
+    "title": "Flórida elege 1º governador negro, o republicano Byron Donalds, aliado de Trump",
+    "url": "https://www1.folha.uol.com.br/mundo/2026/11/florida-elege-1o-governador-negro-o-republicano-byron-donalds-aliado-de-trump.shtml",
+    "image": "https://f.i.uol.com.br/fotografia/2026/11/04/17937633016aeaa7e5bc74d_1793763301_3x2_rt.jpg"
   },
   {
     "site": "CNN Brasil",
-    "title": "Mega da Virada: Prêmio é estimado em R$ 1 bilhão; veja quanto rende",
-    "url": "https://www.cnnbrasil.com.br/economia/seu-bolso/meu-dinheiro/mega-da-virada-premio-e-estimado-em-r-1-bilhao-veja-quanto-rende/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2023/12/dsc7957.jpg?w=1200&h=630&crop=1"
+    "title": "Internacional 1 x 0 Coritiba: veja os melhores momentos pelo Brasileirão",
+    "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/internacional-1-x-0-coritiba-veja-os-melhores-momentos-pelo-brasileirao/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/internacional-coritiba-brasileirao-2-e1793760710757.jpg?w=1200&h=630&crop=1"
   },
   {
     "site": "Terra",
-    "title": "Felipe na mira da polícia e segredo horrível sobre pai de Brigitte: reta final de 'Quem Ama Cuida' traz 2 reviravoltas chocantes que deixam dupla em pânico",
-    "url": "https://www.terra.com.br/diversao/tv/felipe-na-mira-da-policia-e-segredo-horrivel-sobre-pai-de-brigitte-reta-final-de-quem-ama-cuida-traz-2-reviravoltas-chocantes-que-deixam-dupla-em-panico,9119c5493add612ebdb4d1240976c6cdvt9q28qw.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/11/03/95849018-fa80feda7957246b-1400x823-2.jpg"
+    "title": "Quina 7158: 43 apostas acertam a quadra; prêmio vai a R$ 12 milhões",
+    "url": "https://www.terra.com.br/noticias/quina-7158-43-apostas-acertam-a-quadra-premio-vai-a-r-12-milhoes,b9bac0a14063b7ab26c69e1212b9bf72cet9sac8.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/11/04/511876935-quina-2.jpg"
+  },
+  {
+    "site": "BBC",
+    "title": "Quem eram as 9 vítimas fatais da queda de avião na Flórida",
+    "url": "https://www.bbc.com/portuguese/articles/cmvg7l75y321o?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/c7a9/live/7173e670-d7cb-11f1-a701-fddedf244c16.jpg"
+  },
+  {
+    "site": "G1",
+    "title": "Previsão do tempo hoje para Santo André (SP): dia de sol, com nevoeiro ao amanhecer; muitas nuvens à tarde e à noite",
+    "url": "https://g1.globo.com/sp/sao-paulo/previsao-do-tempo/noticia/2026/11/04/previsao-do-tempo-hoje-para-santo-andre-sp-dia-de-sol-com-nevoeiro-ao-amanhecer-muitas-nuvens-a-tarde-e-a-noite.ghtml",
+    "image": "https://s2-g1.glbimg.com/gHkfRjJ8op7bJn1M-OqVYi5lNQY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/L/GS6zDASB2XZNKIH490Wg/previsao-tempo-santo-andr-20261104-011142.jpeg"
+  },
+  {
+    "site": "UOL",
+    "title": "Diego Souza é suspenso por um ano por uso de licença falsa de treinador",
+    "url": "https://www1.folha.uol.com.br/esporte/2026/11/diego-souza-e-suspenso-por-um-ano-por-uso-de-licenca-falsa-de-treinador.shtml",
+    "image": "https://f.i.uol.com.br/fotografia/2026/11/03/17937567056aea8e21718cd_1793756705_3x2_lg.jpg"
+  },
+  {
+    "site": "CNN Brasil",
+    "title": "Corinthians perde do Cruzeiro, mas conquista o Brasileirão sub-17",
+    "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/corinthians-perde-do-cruzeiro-mas-conquista-o-brasileirao-sub-17/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/cruzeiro-e1793761258499.jpg?w=660&h=372&crop=1"
+  },
+  {
+    "site": "Terra",
+    "title": "Salário astronômico de Coutinho no Santos é revelado",
+    "url": "https://www.terra.com.br/esportes/santos/salario-astronomico-de-coutinho-no-santos-e-revelado,9bb7ef2210357abec7a6941984c4639a34ulmigk.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/11/04/2110979899-coutinho.jpg"
+  },
+  {
+    "site": "BBC",
+    "title": "3 cenários possíveis para os resultados das eleições de meio de mandato nos EUA",
+    "url": "https://www.bbc.com/portuguese/articles/cwj346dy3kplo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/50a9/live/ece0d370-d787-11f1-b441-2b33b063138f.jpg"
+  },
+  {
+    "site": "G1",
+    "title": "Previsão do tempo hoje para Osasco (SP): sol com muitas nuvens durante o dia e períodos de céu nublado; noite com muitas nuvens",
+    "url": "https://g1.globo.com/sp/sao-paulo/previsao-do-tempo/noticia/2026/11/04/previsao-do-tempo-hoje-para-osasco-sp-sol-com-muitas-nuvens-durante-o-dia-e-periodos-de-ceu-nublado-noite-com-muitas-nuvens.ghtml",
+    "image": "https://s2-g1.glbimg.com/fxCZLyWScJGeVCqlUH5J2Wl4KIs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/4/81BXPjTfaBl9hKk9IohQ/previsao-tempo-osasco-20261104-011117.jpeg"
+  },
+  {
+    "site": "UOL",
+    "title": "Aliados de democrata recrutaram homônimo de senador republicano para disputar eleição no Alasca, diz jornal",
+    "url": "https://www1.folha.uol.com.br/mundo/2026/11/aliados-de-democrata-recrutaram-homonimo-de-senador-republicano-para-disputar-eleicao-no-alasca-diz-jornal.shtml",
+    "image": "https://f.i.uol.com.br/fotografia/2026/11/03/17937587396aea9613b443c_1793758739_3x2_rt.jpg"
+  },
+  {
+    "site": "CNN Brasil",
+    "title": "Justiça proíbe Meta de usar conteúdo jornalístico sem autorização",
+    "url": "https://www.cnnbrasil.com.br/nacional/brasil/justica-proibe-meta-de-usar-conteudo-jornalistico-sem-autorizacao-2/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/Reuters_Direct_Media/BrazilOnlineReportTechnologyNews/tagreuters.com2024binary_LYNXMPEK6O0YW-FILEDIMAGE.jpg?w=1200&h=630&crop=1"
+  },
+  {
+    "site": "Terra",
+    "title": "Lotofácil 3820: dois prêmios de mais de R$ 4,7 milhões saem de uma vez",
+    "url": "https://www.terra.com.br/noticias/lotofacil-3820-dois-premios-de-mais-de-r-47-milhoes-saem-de-uma-vez,c8deb4b35277fe433a2589b65b11294449y9t6ly.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/11/04/65088913-lotofacil.jpg"
+  },
+  {
+    "site": "BBC",
+    "title": "Como eleições nos EUA devem selar relação com o Brasil em 4º mandato de Lula",
+    "url": "https://www.bbc.com/portuguese/articles/cw80z10renkzo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/575b/live/f31d04c0-d6a1-11f1-93e1-3b657b665bcf.png"
+  },
+  {
+    "site": "G1",
+    "title": "Previsão do tempo hoje para Guarulhos (SP): sol e muitas nuvens à tarde; à noite o céu ainda fica com muita nebulosidade, mas não chove",
+    "url": "https://g1.globo.com/sp/sao-paulo/previsao-do-tempo/noticia/2026/11/04/previsao-do-tempo-hoje-para-guarulhos-sp-sol-e-muitas-nuvens-a-tarde-a-noite-o-ceu-ainda-fica-com-muita-nebulosidade-mas-nao-chove.ghtml",
+    "image": "https://s2-g1.glbimg.com/6KIgc8O-eolbtbZrIxo9cEGw-uo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/5/FC4iF2R0GP3bPeuVWRjQ/previsao-tempo-guarulhos-20261104-011100.jpeg"
+  },
+  {
+    "site": "UOL",
+    "title": "New York Times explica investigação sobre suposta manobra de democratas no Alasca às vésperas da eleição",
+    "url": "https://www1.folha.uol.com.br/mundo/2026/11/new-york-times-explica-investigacao-sobre-suposta-manobra-de-democratas-no-alasca-as-vesperas-da-eleicao.shtml",
+    "image": "https://f.i.uol.com.br/fotografia/2026/11/03/17937369666aea4106ccf0b_1793736966_3x2_rt.jpg"
+  },
+  {
+    "site": "CNN Brasil",
+    "title": "Brasileirão: Internacional bate Coritiba, volta a sair do Z4 e embola briga",
+    "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/brasileirao-internacional-bate-coritiba-volta-a-sair-do-z4-e-embola-briga/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/gol-internacional-coritiba-e1793764346191.jpeg?w=1200&h=630&crop=1"
+  },
+  {
+    "site": "Terra",
+    "title": "Promessa de R$ 308 milhões ganha espaço no Flamengo de Leo Jardim",
+    "url": "https://www.terra.com.br/esportes/flamengo/promessa-de-r-308-milhoes-ganha-espaco-no-flamengo-de-leo-jardim,9a9a6b6330605f1f600852af6ef8bbfacct178ad.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/11/04/1875270215-0834155d-4e6e-4e91-b3e0-0c2e980f6add.jpg"
   },
   {
     "site": "BBC",
     "title": "Eleições nos EUA: como apoio a Israel e guerra em Gaza afetam disputa ao Senado",
     "url": "https://www.bbc.com/portuguese/articles/cqx29rkmp87ro?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/3b1c/live/ab230d00-d3ad-11f1-b441-2b33b063138f.jpg"
+    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/ab98/live/556f3d10-d7d7-11f1-8cb0-d304936875f3.jpg"
   },
   {
     "site": "G1",
-    "title": "O que acontece com o navio de petróleo do Amapá após o fim das perfurações no leito marinho",
-    "url": "https://g1.globo.com/ap/amapa/noticia/2026/11/03/o-que-acontece-com-o-navio-de-petroleo-do-amapa-apos-o-fim-das-perfuracoes-no-leito-marinho.ghtml",
-    "image": "https://s2-g1.glbimg.com/MkKMiNj50FaFVe0OGY-2WgkgIRw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/C/T3fQ8xRxWaHRBWuJew7Q/whatsapp-image-2026-11-03-at-17.41.18.jpeg"
+    "title": "Previsão do tempo hoje para São Gonçalo (RJ): sol com muitas nuvens durante o dia e períodos de céu nublado; noite com muitas nuvens",
+    "url": "https://g1.globo.com/rj/rio-de-janeiro/previsao-do-tempo/noticia/2026/11/04/previsao-do-tempo-hoje-para-sao-goncalo-rj-sol-com-muitas-nuvens-durante-o-dia-e-periodos-de-ceu-nublado-noite-com-muitas-nuvens.ghtml",
+    "image": "https://s2-g1.glbimg.com/Nzs45D2P3-oVIVt4M8wWHJiGVq8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/A/5g5KXERp20lzweBuUzuQ/previsao-tempo-s-o-gon-alo-20261104-011042.jpeg"
   },
   {
     "site": "UOL",
-    "title": "Vorcaro disse que 'tá muito difícil' em mensagem a Flávio Bolsonaro antes de prisão, diz portal",
-    "url": "https://www1.folha.uol.com.br/poder/2026/11/vorcaro-disse-que-ta-muito-dificil-em-mensagem-a-flavio-bolsonaro-antes-de-prisao-diz-portal.shtml",
-    "image": "https://f.i.uol.com.br/fotografia/2026/03/11/177325578669b1bc6a5c709_1773255786_3x2_rt.jpg"
+    "title": "Ministério Público do Chile acusa Valdivia de crimes sexuais e pede prisão",
+    "url": "https://www1.folha.uol.com.br/esporte/2026/11/ministerio-publico-do-chile-acusa-valdivia-de-crimes-sexuais-e-pede-prisao.shtml",
+    "image": "https://f.i.uol.com.br/fotografia/2026/11/03/17937548626aea86eed00f7_1793754862_3x2_rt.jpg"
   },
   {
     "site": "CNN Brasil",
-    "title": "Bitcoin sobe com expectativas de avanços diplomáticos no Oriente Médio",
-    "url": "https://www.cnnbrasil.com.br/economia/money/mercado/bitcoin-sobe-com-expectativas-de-avancos-diplomaticos-no-oriente-medio/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/Reuters_Direct_Media/BrazilOnlineReportBusinessNews/tagreuters.com2025binary_LYNXMPELAK0LJ-BASEIMAGE.jpg?w=800&h=533&crop=1"
+    "title": "Projeção: Democratas conquistam senado no primeiro estado-chave dos EUA",
+    "url": "https://www.cnnbrasil.com.br/internacional/resultado-estados-chave-eua/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/Reuters_Direct_Media/BrazilOnlineReportBusinessNews/tagreuters.com2025binary_LYNXMPEL5Q0G0-BASEIMAGE.jpg?w=800&h=534&crop=1"
   },
   {
     "site": "Terra",
-    "title": "Netflix conclui gravações de 'Melhor do que nos Filmes'; estreia prevista para 2027",
-    "url": "https://www.terra.com.br/diversao/netflix-conclui-gravacoes-de-melhor-do-que-nos-filmes-estreia-prevista-para-2027,b142edc6caaa3b5e7322af60f62f33df2p7mk3em.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/11/03/629735223-filmes.jpg"
+    "title": "Volante assina com o Santos até 2027",
+    "url": "https://www.terra.com.br/esportes/santos/volante-assina-com-o-santos-ate-2027,1f0ab21584e39aeec79068e2093bf5eanukuqq8o.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/11/04/787857114-bandeirinha-dia-orgulho-autista-1536x1024-1.jpg"
   },
   {
     "site": "BBC",
@@ -277,26 +247,56 @@
   },
   {
     "site": "G1",
-    "title": "VÍDEOS: MG2 de terça-feira, 03 de novembro de 2026",
-    "url": "https://g1.globo.com/mg/minas-gerais/videos-mg2/playlist/videos-mg2-de-terca-feira-03-de-novembro-de-2026.ghtml",
-    "image": "https://s.glbimg.com/jo/g1/static/live/imagens/img_facebook.png?g1"
+    "title": "Previsão do tempo hoje para o Rio de Janeiro (RJ): sol e aumento de nuvens de manhã; pancadas de chuva à tarde e à noite",
+    "url": "https://g1.globo.com/rj/rio-de-janeiro/previsao-do-tempo/noticia/2026/11/04/previsao-do-tempo-hoje-para-o-rio-de-janeiro-rj-sol-e-aumento-de-nuvens-de-manha-pancadas-de-chuva-a-tarde-e-a-noite.ghtml",
+    "image": "https://s2-g1.glbimg.com/D6TW4mu_7pXTQykers1GwZzowXg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/a/XDka0xQRSGnn8H2oL3eg/previsao-tempo-rio-de-janeiro-20261104-011023.jpeg"
   },
   {
     "site": "UOL",
-    "title": "Senado aprova, em 1º turno, PEC da Segurança, por 73 a 0",
-    "url": "https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2026/11/03/senado-aprova-em-1-turno-pec-da-seguranca-por-73-a-0.htm",
+    "title": "Procurado por dever pensão alimentícia é preso em Arapongas",
+    "url": "https://tnonline.uol.com.br/noticias/arapongas/procurado-por-dever-pensao-alimenticia-e-preso-em-arapongas-1170824",
+    "image": "https://cdn.tnonline.com.br/img/Artigo-Destaque/1170000/1200x630/procurado-por-dever-pensao-alimenticia-e-preso-em--01170824-0-202611040029/ScaleProportionalFillBackground-1.jpg?fallback=https%3A%2F%2Fcdn.tnonline.com.br%2Fimg%2FArtigo-Destaque%2F1170000%2Fprocurado-por-dever-pensao-alimenticia-e-preso-em--01170824-0-202611040029.jpg%3Fxid%3D1861483&xid=1861483"
+  },
+  {
+    "site": "CNN Brasil",
+    "title": "Projeção: Democrata Jamie Ager vence vaga na Câmara pela Carolina do Norte",
+    "url": "https://www.cnnbrasil.com.br/internacional/projecao-democrata-jamie-ager-vence-vaga-na-camara-pela-carolina-do-norte/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/GettyImages-2302440135.jpg?w=1200&h=630&crop=1"
+  },
+  {
+    "site": "Terra",
+    "title": "Maracanã divulga fotos do novo gramado",
+    "url": "https://www.terra.com.br/esportes/flamengo/maracana-divulga-fotos-do-novo-gramado,bd56131d2a371be5850f1796e651bfb1uf6yjy5a.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/11/04/1535862037-52991433518ee42be6e28c.jpg"
+  },
+  {
+    "site": "BBC",
+    "title": "Do espaço, astronauta da Nasa vota nas eleições dos EUA",
+    "url": "https://www.bbc.com/portuguese/watch/c6lyl575z49yo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/2e55/live/13c32cf0-d7fa-11f1-93e1-3b657b665bcf.jpg"
+  },
+  {
+    "site": "G1",
+    "title": "Previsão do tempo hoje para Nova Iguaçu (RJ): sol e muitas nuvens à tarde; à noite o céu ainda fica com muita nebulosidade, mas não chove",
+    "url": "https://g1.globo.com/rj/rio-de-janeiro/previsao-do-tempo/noticia/2026/11/04/previsao-do-tempo-hoje-para-nova-iguacu-rj-sol-e-muitas-nuvens-a-tarde-a-noite-o-ceu-ainda-fica-com-muita-nebulosidade-mas-nao-chove.ghtml",
+    "image": "https://s2-g1.glbimg.com/jGzhdamtkWWkQ00wb1pBIOsNj9k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/e/RxiiQNQ9uivjb9kpERmQ/previsao-tempo-nova-igua-u-20261104-011004.jpeg"
+  },
+  {
+    "site": "UOL",
+    "title": "Eleições nos EUA definem governadores em 36 estados; veja os eleitos",
+    "url": "https://noticias.uol.com.br/internacional/ultimas-noticias/2026/11/04/governadores-estados-eua-eleicoes.ghtm",
     "image": ""
   },
   {
     "site": "CNN Brasil",
-    "title": "Senado rejeita incluir redução da maioridade penal na PEC da Segurança",
-    "url": "https://www.cnnbrasil.com.br/politica/senado-rejeita-incluir-reducao-da-maioridade-penal-na-pec-da-seguranca/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/10/senado-federal.jpg?w=1023&h=630&crop=1"
+    "title": "Exames de Lula estão “dentro da normalidade”, diz hospital",
+    "url": "https://www.cnnbrasil.com.br/politica/exames-de-lula-estao-dentro-da-normalidade-diz-hospital/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/10/presidente-lula_0ed7d4-e1792755501895.jpg?w=1200&h=630&crop=1"
   },
   {
     "site": "Terra",
-    "title": "Área gourmet perfeita: 7 dicas para criar um espaço bonito e funcional",
-    "url": "https://www.terra.com.br/vida-e-estilo/casa-e-decoracao/area-gourmet-perfeita-7-dicas-para-criar-um-espaco-bonito-e-funcional,0339c9b33b9be0522a2f72180ed25381sfndkj7a.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/11/03/1125569158-capa-bons-fluidos-2026-11-03t181031977.jpg"
+    "title": "Alerrandro detalha pênalti decisivo no Internacional: \"Hoje era eu\"",
+    "url": "https://www.terra.com.br/esportes/internacional/alerrandro-detalha-penalti-decisivo-no-internacional-hoje-era-eu,0a80a0b8b81cf67a7dfa03314d8acdbbo12mtzif.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/11/04/166497312-cncfbncnceasy-resizecom-610x400.jpg"
   }
 ]
