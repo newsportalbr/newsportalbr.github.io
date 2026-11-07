@@ -1,33 +1,93 @@
 [
   {
     "site": "BBC",
+    "title": "Santiago Peña é preso em casa após sofrer impeachment no Paraguai",
+    "url": "https://www.bbc.com/portuguese/articles/c5x2vvxw8m04o?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/efcc/live/6b297670-da34-11f1-a701-fddedf244c16.jpg"
+  },
+  {
+    "site": "G1",
+    "title": "Você viu? Ana Elisa homenageada no RJ, tênis de 4 toneladas vira monumento e Gerdau anuncia fim da produção de aço em Divinópolis",
+    "url": "https://g1.globo.com/mg/centro-oeste/noticia/2026/11/07/voce-viu-ana-elisa-homenageada-no-rj-tenis-de-4-toneladas-vira-monumento-e-gerdau-anuncia-fim-da-producao-de-aco-em-divinopolis.ghtml",
+    "image": "https://s2-g1.glbimg.com/btgkUfG1Y1p2zqH-isfYVTWBy4A=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/o/eH6gKTRH2wyj1FpwxXBQ/voce-viu-co-0711.png"
+  },
+  {
+    "site": "UOL",
+    "title": "Idoso morre após bater a cabeça no chão ao ser arrancado de banco por jovens no PR",
+    "url": "https://tnonline.uol.com.br/noticias/parana/idoso-morre-apos-bater-a-cabeca-no-chao-ao-ser-arrancado-de-banco-por-jovens-no-pr-1171943",
+    "image": "https://cdn.tnonline.com.br/img/inline/1170000/1200x630/idoso-morre-apos-bater-a-cabeca-no-chao-ao-ser-arr-01171943-0-202611070002/ScaleProportionalFillBackground-1.jpg?fallback=https%3A%2F%2Fcdn.tnonline.com.br%2Fimg%2Finline%2F1170000%2Fidoso-morre-apos-bater-a-cabeca-no-chao-ao-ser-arr-01171943-0-202611070002.jpg%3Fxid%3D1863691&xid=1863691"
+  },
+  {
+    "site": "CNN Brasil",
+    "title": "Papa Leão conclui primeiro dia na América do Sul com orações no Uruguai",
+    "url": "https://www.cnnbrasil.com.br/internacional/papa-leao-conclui-primeiro-dia-na-america-do-sul-com-oracoes-no-uruguai/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/Papa-Leao-conclui-primeiro-dia-na-America-do-Sul-com-oracoes-no-Uruguai.png?w=1200&h=630&crop=1"
+  },
+  {
+    "site": "Terra",
+    "title": "'A Fazenda 18': Giovanna diz ter sido vítima de golpe e assusta ao revelar saldo bancário: 'Estou perturbada'",
+    "url": "https://www.terra.com.br/diversao/tv/a-fazenda/a-fazenda-18-giovanna-diz-ter-sido-vitima-de-golpe-e-assusta-ao-revelar-saldo-bancario-estou-perturbada,de62b527ec7761c878feb160170fb416rfv42v7m.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/11/07/334668650-giovanna-ex-participante-de-a-fazenda-18.jpg"
+  },
+  {
+    "site": "BBC",
     "title": "'Meu medo é o governo Lula buscar atalhos e brigar com o mercado': por que professor de Cambridge defende ajuste fiscal 'suave'",
     "url": "https://www.bbc.com/portuguese/articles/cqglww4xw40do?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/741b/live/8de61660-d97a-11f1-9f96-47a2c3e0c5f6.jpg"
   },
   {
     "site": "G1",
-    "title": "Justiça derruba decisão que autorizava três bets a voltar a funcionar em SP",
-    "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/11/06/justica-derruba-decisao-que-autorizava-tres-bets-a-voltar-a-funcionar-em-sp.ghtml",
-    "image": "https://s2-g1.glbimg.com/MJjL_MW9Y78hmWy-GmOSBwZARvE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/J/8O2i5ySK2XpgSoKBqOVQ/0d4a2600.jpg"
+    "title": "Estudantes da rede municipal conhecem aeroporto e voam de helicóptero",
+    "url": "https://g1.globo.com/rj/regiao-dos-lagos/especial-publicitario/prefeitura-de-macae/capital-de-energia-e-do-orgulho-de-ser-macaense/noticia/2026/11/07/estudantes-da-rede-municipal-conhecem-aeroporto-e-voam-de-helicoptero.ghtml",
+    "image": "https://s2-g1.glbimg.com/TZXZi5A0-3xcDiUt__7C_y2WJxc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/d/MZrsVSR2en0QcBrjBBfA/foto-1-alunos-aeroporto.jpg"
   },
   {
     "site": "UOL",
-    "title": "Alcaraz vence Fritz e avança às semifinais do Masters 1000 de Paris",
-    "url": "https://noticias.uol.com.br/ultimas-noticias/afp/2026/11/06/alcaraz-vence-fritz-e-avanca-as-semifinais-do-masters-1000-de-paris.htm",
+    "title": "Imigrante venezuelano preso perto da Casa Branca diz que pretendia matar Trump",
+    "url": "https://noticias.uol.com.br/ultimas-noticias/afp/2026/11/06/imigrante-venezuelano-e-preso-perto-da-casa-branca-com-intencao-de-matar-trump.htm",
     "image": ""
   },
   {
     "site": "CNN Brasil",
-    "title": "Com revelação, ATP Finals tem lista de tenistas definida; veja quem disputa",
-    "url": "https://www.cnnbrasil.com.br/esportes/tenis/com-revelacao-atp-finals-tem-lista-de-tenistas-definida-veja-quem-disputa/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/tenistas-atp-finals-2026-e1794003494393.jpeg?w=1080&h=608&crop=1"
+    "title": "Bombeiros suspendem buscas em prédio que desabou no Brás",
+    "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/bombeiros-suspendem-buscas-em-predio-que-desabou-no-bras/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/2-WhatsApp-Image-2026-11-06-at-19.15.32.jpeg?w=960&h=540&crop=1"
   },
   {
     "site": "Terra",
-    "title": "Seedorf surpreende e dá nova oportunidade a jogador do Corinthians",
-    "url": "https://www.terra.com.br/esportes/corinthians/seedorf-surpreende-e-da-nova-oportunidade-a-jogador-do-corinthians,d3137572afe82b3253add30ea98002fcun6134s9.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/11/06/221360059-84776337811041525991473291886485246231545095n.jpg"
+    "title": "Super Sete 919: duas apostas acertam seis colunas e levam R$ 8 mil",
+    "url": "https://www.terra.com.br/noticias/super-sete-919-duas-apostas-acertam-seis-colunas-e-levam-r-8-mil,d27c5a8ef4d3466d7ba57ae31bd58d1bcvn1add7.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/11/07/1680375742-homem-segurando-bilhete-da-loteria-super-sete.jpg"
+  },
+  {
+    "site": "BBC",
+    "title": "Bets voltaram? Entenda as decisões da Justiça sobre as casas de apostas",
+    "url": "https://www.bbc.com/portuguese/articles/cq99zz57d872o?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/da89/live/a145ced0-da33-11f1-a9e1-31b6ce511c3b.jpg"
+  },
+  {
+    "site": "G1",
+    "title": "Você viu? Jovem desiste de ‘plano para casar com Ana Castela’, morre jornalista Roberto Alves e cidade de MG volta às urnas",
+    "url": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/11/07/voce-viu-jovem-desiste-de-plano-para-casar-com-ana-castela-morre-jornalista-roberto-alves-e-cidade-de-mg-volta-as-urnas.ghtml",
+    "image": "https://s2-g1.glbimg.com/pAzFVdsK_CFEt3IdcjelfSTsBzc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/E/Oz0o6XQamrwgChTDigZg/voce-viu-tm-0711.png"
+  },
+  {
+    "site": "UOL",
+    "title": "EUA oferecem US$ 20 milhões por informações sobre programa nuclear iraniano",
+    "url": "https://noticias.uol.com.br/ultimas-noticias/afp/2026/11/06/eua-oferece-us-20-milhoes-por-informacoes-sobre-programa-nuclear-iraniano.htm",
+    "image": ""
+  },
+  {
+    "site": "CNN Brasil",
+    "title": "Loja que desabou no Brás funcionava sem alvará dos bombeiros",
+    "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/loja-que-desabou-no-bras-funcionava-sem-alvara-dos-bombeiros/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/Design-sem-nome-48.jpg?w=1200&h=630&crop=1"
+  },
+  {
+    "site": "Terra",
+    "title": "Fred e Cassierra titulares? Dupla reforça Atlético-MG contra o Grêmio; veja escalação",
+    "url": "https://www.terra.com.br/esportes/atletico-mg/fred-e-cassierra-titulares-dupla-reforca-atletico-mg-contra-o-gremio-veja-escalacao,d8ecc555355a1b5c5897bedb81b00667v6hmb465.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/11/07/1005832151-2026-copa-do-brasil-atletico-mg-x-gremio-tecnico-eduardo-dominguez-escalacao.jpg"
   },
   {
     "site": "BBC",
@@ -37,117 +97,57 @@
   },
   {
     "site": "G1",
-    "title": "Adolescente morre cinco dias após acidente que matou namorado em Vilhena, RO",
-    "url": "https://g1.globo.com/ro/rondonia/noticia/2026/11/06/adolescente-morre-cinco-dias-apos-acidente-que-matou-namorado-em-vilhena-ro.ghtml",
-    "image": "https://s2-g1.glbimg.com/-zn8l09enJnhM0PExcF7ffZ5vo0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/I/ajmYJkSLOUzBBNyg0yHg/design-sem-nome-16-.jpg"
+    "title": "Morte do jogador Bismarck em Natal: o que se sabe e o que falta esclarecer",
+    "url": "https://g1.globo.com/rn/rio-grande-do-norte/noticia/2026/11/07/morte-do-jogador-bismarck-em-natal-o-que-se-sabe-e-o-que-falta-esclarecer.ghtml",
+    "image": "https://s2-g1.glbimg.com/PTUj32NaOvCT_-OqUbs0S2VzYM8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/Y/Eqq33cQEyCfmpPxAterQ/bismarck-jogador-aspect-ratio-512-320.jpg"
   },
   {
     "site": "UOL",
-    "title": "Cadernos inéditos de Karl Marx vão sair em livro no próximo ano pela Ubu",
-    "url": "https://www1.folha.uol.com.br/colunas/walter-porto/2026/11/cadernos-ineditos-de-karl-marx-vao-sair-em-livro-no-proximo-ano-pela-ubu.shtml",
-    "image": "https://f.i.uol.com.br/fotografia/2025/06/07/174930700868444e800ad1d_1749307008_3x2_rt.jpg"
-  },
-  {
-    "site": "CNN Brasil",
-    "title": "Casa onde Marilyn Monroe viveu e morreu vira centro de batalha judicial e donos dizem que imóvel não vale nada",
-    "url": "https://www.cnnbrasil.com.br/curiosidades/casa-onde-marilyn-monroe-viveu-e-morreu-vira-centro-de-batalha-judicial-e-donos-dizem-que-imovel-nao-vale-nada/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/Mel-Bouzad-Getty-Images.jpg?w=1097&h=614&crop=1"
-  },
-  {
-    "site": "Terra",
-    "title": "Salvador une basquete internacional e cultura urbana no AFROPUNK",
-    "url": "https://www.terra.com.br/esportes/sport/salvador-une-basquete-internacional-e-cultura-urbana-no-afropunk,186b84135ed7967858e58ec45e94d5ddd9kjrtio.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/11/06/1696684837-2026-afropunk.jpg"
-  },
-  {
-    "site": "BBC",
-    "title": "Santiago Peña não comparece a sessão sobre impeachment no Congresso do Paraguai",
-    "url": "https://www.bbc.com/portuguese/articles/c5x2vvxw8m04o?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/9d63/live/20377bf0-d9d3-11f1-9e5a-c30c5e3d8c85.jpg"
-  },
-  {
-    "site": "G1",
-    "title": "Policial militar é encontrado morto com ferimentos na cabeça e companheira é presa em MT",
-    "url": "https://g1.globo.com/mt/mato-grosso/noticia/2026/11/06/policial-militar-e-encontrado-morto-com-ferimentos-na-cabeca-e-companheira-e-presa-em-mt.ghtml",
-    "image": "https://s2-g1.glbimg.com/CCEW1tqWxC6JElU-pPZHpMIgouM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/B/j/f0z719RmCXiXWhHNgHQQ/foto-g1-11-.png"
-  },
-  {
-    "site": "UOL",
-    "title": "Fachin homologa delação de fundador da Reag, envolvido no caso do Banco Master",
-    "url": "https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2026/11/06/fachin-homologa-delacao-de-fundador-da-reag-envolvido-no-caso-do-banco-master.htm",
+    "title": "EUA pede que China respeite cláusulas de acordo comercial",
+    "url": "https://noticias.uol.com.br/ultimas-noticias/afp/2026/11/06/eua-pede-que-china-respeite-clausulas-de-acordo-comercial.htm",
     "image": ""
   },
   {
     "site": "CNN Brasil",
-    "title": "Tony Bellotto, do Titãs, é afastado de shows por “recomendação médica”",
-    "url": "https://www.cnnbrasil.com.br/pop/musica/tony-bellotto-do-titas-e-afastado-de-shows-por-recomendacao-medica/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/03/Titas-0-190709784-e1774822809638.jpg?w=1200&h=630&crop=1"
+    "title": "Caso Beatriz: polícia conclui inquérito e indicia casal por morte em MG",
+    "url": "https://www.cnnbrasil.com.br/nacional/sudeste/mg/caso-beatriz-policia-conclui-inquerito-e-indicia-casal-por-morte-em-mg/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/10/ENCONTRA-CORPO-MG.png?w=1200&h=630&crop=1"
   },
   {
     "site": "Terra",
-    "title": "Britney Spears celebra 25º aniversário de 'Britney' com edição comemorativa",
-    "url": "https://www.terra.com.br/diversao/musica/britney-spears-celebra-25-aniversario-de-britney-com-edicao-comemorativa,d731ee397fefefa51c1e365224ab73dc7mp49j0p.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/11/06/1488864811-gettyimages-945559094-britney-spears-foto-alberto-e-rodriguezgetty-images.png"
+    "title": "Dia de Sorte 1341: 110 apostas acertam seis dezenas; prêmio vai a R$ 3,2 milhões",
+    "url": "https://www.terra.com.br/noticias/dia-de-sorte-1341-110-apostas-acertam-seis-dezenas-premio-vai-a-r-32-milhoes,7113b66da4e6ce6c2d91049752190e30uxk80zkn.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/11/07/1650719024-mulher-preenchendo-bilhete-da-lotria-dia-de-sorte.jpg"
   },
   {
     "site": "BBC",
-    "title": "Como cultura machista dos anos 2000 que 'embalou' Russell Brand, agora condenado por estupro",
-    "url": "https://www.bbc.com/portuguese/articles/c63ell03l5wgo?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/c438/live/d83946e0-d87d-11f1-a364-a1fce50dd192.jpg"
+    "title": "Papa no Uruguai, Argentina e Peru: como a Igreja Católica tem se posicionado na América Latina?",
+    "url": "https://www.bbc.com/portuguese/articles/cv0ldd4dj27po?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/2d9e/live/7623e520-d9e8-11f1-bbe5-797ee05bee69.jpg"
   },
   {
     "site": "G1",
-    "title": "Ministério da Saúde envia 100 doses de vacina contra Mpox ao DF; público-alvo é restrito",
-    "url": "https://g1.globo.com/df/distrito-federal/noticia/2026/11/06/ministerio-da-saude-envia-100-doses-de-vacina-contra-mpox-ao-df-publico-alvo-e-restrito.ghtml",
-    "image": "https://s2-g1.glbimg.com/d3-CXBUEakvEC6TWqqedZUHW5G0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/1/uG8quAT4SYIbSWM5W7cQ/mpox5.jpeg"
+    "title": "'Ele tinha muito ódio e intenção de matar alguém', diz vítima agredida por vizinho na Tijuca",
+    "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/11/07/ele-tinha-muito-odio-e-intencao-de-matar-alguem-diz-vitima-agredida-por-vizinho-na-tijuca.ghtml",
+    "image": "https://s2-g1.glbimg.com/XK2Zzy8ka0XE7m9CcncRnGByEb0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/w/OBlwNFQhCsr5gwGqZ2gw/06elevador1.png"
   },
   {
     "site": "UOL",
-    "title": "Senado do Paraguai aprova impeachment do presidente Peña",
-    "url": "https://noticias.uol.com.br/ultimas-noticias/reuters/2026/11/06/senado-do-paraguai-aprova-impeachment-do-presidente-pena.htm",
-    "image": ""
+    "title": "Mega-Sena acumula e prêmio sobe para R$ 60 milhões no concurso 3083",
+    "url": "https://tnonline.uol.com.br/noticias/cotidiano/mega-sena-acumula-e-premio-sobe-para-r-60-milhoes-no-concurso-3083-1171941",
+    "image": "https://cdn.tnonline.com.br/img/Instant-Article/1160000/1200x630/aposta-feita-via-internet-leva-mais-de-r-324-milho-01169211-0-202610282236/ScaleProportionalFillBackground-1.jpg?fallback=https%3A%2F%2Fcdn.tnonline.com.br%2Fimg%2FInstant-Article%2F1160000%2Faposta-feita-via-internet-leva-mais-de-r-324-milho-01169211-0-202610282236.jpg%3Fxid%3D1863680&xid=1863680"
   },
   {
     "site": "CNN Brasil",
-    "title": "Terçol que não cura pode ser sinal de câncer, diz especialista a Kalil",
-    "url": "https://www.cnnbrasil.com.br/saude/tercol-que-nao-cura-pode-ser-sinal-de-cancer-diz-especialista-a-kalil/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/05/coceira-olhos.jpg?w=1200&h=630&crop=1"
+    "title": "Polícia investiga ossada humana encontrada em apartamento no interior de MG",
+    "url": "https://www.cnnbrasil.com.br/nacional/sudeste/mg/policia-investiga-ossada-humana-encontrada-em-apartamento-no-interior-de-mg/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/03/pcmg-e1783109582918.jpg?w=800&h=451&crop=1"
   },
   {
     "site": "Terra",
-    "title": "Senado do Paraguai aprova o impeachment do presidente Peña",
-    "url": "https://www.terra.com.br/noticias/mundo/senado-do-paraguai-aprova-o-impeachment-do-presidente-pena,5b3986c42998b64b63b9e7afd5ddaac9yn74umug.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/11/05/santiago-pena-to2apeba6nvl.png"
-  },
-  {
-    "site": "BBC",
-    "title": "Pai de Meghan Markle é preso sob suspeita de posse de material de abuso sexual infantil",
-    "url": "https://www.bbc.com/portuguese/articles/c34g11eerrpno?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/1fd0/live/b7623720-d9f8-11f1-84c1-dbcae60402d7.jpg"
-  },
-  {
-    "site": "G1",
-    "title": "VÍDEO: Policial militar reformado morre após ser arrastado pela água em represa de Abaeté",
-    "url": "https://g1.globo.com/mg/centro-oeste/noticia/2026/11/06/video-policial-militar-reformado-morre-apos-ser-arrastado-pela-agua-em-represa-de-abaete.ghtml",
-    "image": "https://s2-g1.glbimg.com/TNuiQJFHsxcKUEfB5TNC4OZiD4E=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/I/Sc6oYiQnaJAWFwAghAgg/dida03.jpg"
-  },
-  {
-    "site": "UOL",
-    "title": "Imóvel desaba no Brás e deixa ao menos 20 vítimas, diz Corpo de Bombeiros",
-    "url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/11/06/imovel-desaba-no-bras-diz-corpo-de-bombeiros.ghtm",
-    "image": ""
-  },
-  {
-    "site": "CNN Brasil",
-    "title": "Morre o diretor de televisão Nilton Travesso aos 92 anos",
-    "url": "https://www.cnnbrasil.com.br/pop/celebridades/morre-o-diretor-de-televisao-nilton-travesso-aos-92-anos/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/Teleton-261013-Roberto-Nemanis-SBT-_2_.jpg?w=1200&h=630&crop=1"
-  },
-  {
-    "site": "Terra",
-    "title": "Padrasto de menino encontrado sozinho em mata é agredido por vizinhos e preso em Novo Hamburg",
-    "url": "https://www.terra.com.br/noticias/brasil/padrasto-de-menino-encontrado-sozinho-em-mata-e-agredido-por-vizinhos-e-preso-em-novo-hamburg,e099008deb438a23bf7a5ba6ead72f20fvo4nr9k.html",
-    "image": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png"
+    "title": "Dupla Sena 3029: sena no 2º sorteio rende R$ 121 mil a uma aposta",
+    "url": "https://www.terra.com.br/noticias/dupla-sena-3029-sena-no-2-sorteio-rende-r-121-mil-a-uma-aposta,9bbb039aa27b9ec2b9372ade0280023b2csmohqr.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/11/07/975952348-bilhetes-da-loteria-dupla-sena.jpg"
   },
   {
     "site": "BBC",
@@ -157,27 +157,87 @@
   },
   {
     "site": "G1",
-    "title": "Vítima diz que lutador que espancou vizinhas em prédio na Tijuca fez ameaças: 'Ninguém me ajuda, vou acabar matando todo mundo'",
-    "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/11/06/vitima-diz-que-lutador-que-espancou-vizinhas-em-predio-na-tijuca-fez-ameacas.ghtml",
-    "image": "https://s2-g1.glbimg.com/XK2Zzy8ka0XE7m9CcncRnGByEb0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/w/OBlwNFQhCsr5gwGqZ2gw/06elevador1.png"
+    "title": "Enem 2026: vai chover na hora da prova? Veja a previsão para domingo",
+    "url": "https://g1.globo.com/meio-ambiente/noticia/2026/11/07/enem-2026-veja-a-previsao-para-domingo.ghtml",
+    "image": "https://s2-g1.glbimg.com/jnMFZAaCfsNLz6bCfyKigt_Yg1o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/U/K/ugYQYeQTSac6CNxeUEoQ/age20230418003.jpg"
   },
   {
     "site": "UOL",
-    "title": "Veja onde assistir Operário-PR x Sport ao vivo nesta sexta-feira (06)",
-    "url": "https://tnonline.uol.com.br/noticias/esportes/veja-onde-assistir-operario-pr-x-sport-ao-vivo-nesta-sexta-feira-06-1171723",
-    "image": "https://cdn.tnonline.com.br/img/Artigo-Destaque/1170000/1200x630/o-fantasma-ocupa-a-12-posicao-na-tabela-01171723-0-202611061915/ScaleProportionalFillBackground-1.jpg?fallback=https%3A%2F%2Fcdn.tnonline.com.br%2Fimg%2FArtigo-Destaque%2F1170000%2Fo-fantasma-ocupa-a-12-posicao-na-tabela-01171723-0-202611061915.jpg%3Fxid%3D1863354&xid=1863354"
+    "title": "Líder de seita acusado da morte de 190 crianças é condenado a 200 anos de prisão no Quênia",
+    "url": "https://www1.folha.uol.com.br/mundo/2026/11/lider-de-seita-acusado-da-morte-de-190-criancas-e-condenado-a-200-anos-de-prisao-no-quenia.shtml",
+    "image": "https://f.i.uol.com.br/fotografia/2026/11/06/17940125216aee756953330_1794012521_3x2_xl.jpg"
   },
   {
     "site": "CNN Brasil",
-    "title": "Reta final para o Enem: como estudantes estão se preparando?",
-    "url": "https://www.cnnbrasil.com.br/educacao/reta-final-para-o-enem-como-estudantes-estao-se-preparando/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/10/jovem-fazendo-prova.avif?w=740&h=494&crop=1"
+    "title": "Marcão abre o jogo sobre o futuro e se coloca à disposição para 2027",
+    "url": "https://www.cnnbrasil.com.br/esportes/futebol/fluminense/marcao-abre-o-jogo-sobre-o-futuro-e-se-coloca-a-disposicao-para-2027/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/marcaoo-e1794019751285.webp?w=660&h=372&crop=1"
   },
   {
     "site": "Terra",
-    "title": "F1: assento demarcado sem opção de escolha e falta de água geram reclamações em Interlagos",
-    "url": "https://www.terra.com.br/esportes/automobilismo/f1-assento-demarcado-sem-opcao-de-escolha-e-falta-de-agua-geram-reclamacoes-em-interlagos,74161ee485717c2aabef049c869d1a80jsbayu4z.html",
-    "image": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png"
+    "title": "Filho de Romário, Romarinho se aposenta e disputa presidência do America",
+    "url": "https://www.terra.com.br/esportes/futebol/filho-de-romario-romarinho-se-aposenta-e-disputa-presidencia-do-america,de01f623035a4f8680704d06d6b2227fiymw4rhi.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/11/07/446606870-img1652easy-resizecom-610x400.jpg"
+  },
+  {
+    "site": "BBC",
+    "title": "Como cultura machista dos anos 2000 que 'embalou' Russell Brand, agora condenado por estupro",
+    "url": "https://www.bbc.com/portuguese/articles/c63ell03l5wgo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/c438/live/d83946e0-d87d-11f1-a364-a1fce50dd192.jpg"
+  },
+  {
+    "site": "G1",
+    "title": "Onda de falsas ameaças de bomba na Europa gera suspeitas de 'campanha coordenada'; veja o que se sabe",
+    "url": "https://g1.globo.com/mundo/noticia/2026/11/07/onda-de-falsas-ameacas-de-bomba-na-europa-gera-suspeitas-de-campanha-coordenada-veja-o-que-se-sabe.ghtml",
+    "image": "https://s2-g1.glbimg.com/6Q1lAQderI6UTixYj77ahB5qXq4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/t/2SE5ZPQmeRyGkRhCKBBw/2026-11-06t120024z-1701297565-rc2bioapt3xc-rtrmadp-3-europe-flights-czech.jpg"
+  },
+  {
+    "site": "UOL",
+    "title": "Governo prevê R$ 12 bi para passe livre nos fins de semana, mas setor estima custo maior",
+    "url": "https://www1.folha.uol.com.br/mercado/2026/11/governo-preve-r-12-bi-para-passe-livre-nos-fins-de-semana-mas-setor-estima-custo-maior.shtml",
+    "image": "https://f.i.uol.com.br/fotografia/2025/03/24/174283793867e198b222171_1742837938_3x2_xl.jpg"
+  },
+  {
+    "site": "CNN Brasil",
+    "title": "Vitória 0 x 3 Fluminense: veja os melhores momentos pelo Brasileirão",
+    "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/vitoria-0-x-3-fluminense-veja-os-melhores-momentos-pelo-brasileirao/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/thiagosilva-e1794013817881.jpg?w=799&h=450&crop=1"
+  },
+  {
+    "site": "Terra",
+    "title": "Henrique Fogaça tem restaurante detonado por crítica; Erick Jacquin se manifesta: 'Difícil'",
+    "url": "https://www.terra.com.br/diversao/gente/henrique-fogaca-tem-restaurante-detonado-por-critica-erick-jacquin-se-manifesta-dificil,8eed3791c2988a70669d5a74919f28e3ugbd700g.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/11/07/2140254218-henrique-fogaca-e-erick-jacquin.jpg"
+  },
+  {
+    "site": "BBC",
+    "title": "Pai de Meghan Markle é preso sob suspeita de posse de material de abuso sexual infantil",
+    "url": "https://www.bbc.com/portuguese/articles/c34g11eerrpno?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/1fd0/live/b7623720-d9f8-11f1-84c1-dbcae60402d7.jpg"
+  },
+  {
+    "site": "G1",
+    "title": "Entre 76 países, apenas 8 têm maioridade penal abaixo de 18 anos de idade",
+    "url": "https://g1.globo.com/politica/noticia/2026/11/07/maioridade-penal-mundo.ghtml",
+    "image": "https://s2-g1.glbimg.com/gQr2gBvTjnYTBox6jgrlR61urSo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/G/MpCOJPQki4nQyzBHcn7g/261105-tabela-maioridade-penal-pelo-mundo.jpg"
+  },
+  {
+    "site": "UOL",
+    "title": "Crise do Ueno freia procura de brasileiros por negócios no Paraguai, diz Câmara de Comércio",
+    "url": "https://c-level.folha.uol.com.br/negocios/2026/11/crise-do-ueno-freia-procura-de-brasileiros-por-negocios-no-paraguai-diz-camara-de-comercio.shtml",
+    "image": "https://f.i.uol.com.br/fotografia/2026/11/05/17938948276aeca9ab58f87_1793894827_3x2_rt.jpg"
+  },
+  {
+    "site": "CNN Brasil",
+    "title": "Netflix renova a série “Ninguém Quer” para a quarta temporada",
+    "url": "https://www.cnnbrasil.com.br/pop/streaming/netflix-renova-a-serie-ninguem-quer-para-a-quarta-temporada/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2024/10/ninguem-quer-netflix.jpg?w=1200&h=630&crop=1"
+  },
+  {
+    "site": "Terra",
+    "title": "Musa da Copa de 2010 vê patrimônio congelado com crise bancária no Paraguai",
+    "url": "https://www.terra.com.br/esportes/paraguai/musa-da-copa-de-2010-ve-patrimonio-congelado-com-crise-bancaria-no-paraguai,fbe02d23b8eedfd717a4d02300cdea1eahzjc0ii.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/11/07/1197573453-858088433186445933270012242356334264080708825n-610x400.jpg"
   },
   {
     "site": "BBC",
@@ -187,27 +247,27 @@
   },
   {
     "site": "G1",
-    "title": "Santiago Peña, presidente do Paraguai que sofreu impeachment, é de direita ou esquerda? Entenda a posição política",
-    "url": "https://g1.globo.com/mundo/noticia/2026/11/06/santiago-pena-presidente-do-paraguai-que-sofreu-impeachment-e-de-direita-ou-esquerda-entenda-a-posicao-politica.ghtml",
-    "image": "https://s2-g1.glbimg.com/WdGw-kI7tuoUnGq1V5rSDB8MPFs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/a/7L2FxXQbqAb9fBvBbZFg/fotojet-8-.jpg"
+    "title": "Alíquotas de até 12% para tributo federal sobre consumo e 'imposto do pecado'; compare propostas das gestões Lula e Bolsonaro",
+    "url": "https://g1.globo.com/economia/noticia/2026/11/07/aliquotas-de-ate-12percent-para-tributo-federal-sobre-consumo-e-imposto-do-pecado-compare-propostas-das-gestoes-lula-e-bolsonaro.ghtml",
+    "image": "https://s2-g1.glbimg.com/rf8VZ4xx7kv7Xz1CgURdQO3ZBSM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/x/E/zzrikOT9WqiZuxLoP4Hg/comercio2.jpg"
   },
   {
     "site": "UOL",
-    "title": "Israel veta entrada de palestinos em mesquita durante festa judaica",
-    "url": "https://noticias.uol.com.br/internacional/ultimas-noticias/2026/11/06/israel-veta-entrada-de-palestinos-em-mesquita-durante-festa-judaica.ghtm",
-    "image": ""
+    "title": "Agricultura familiar precisa de apoio que vá além do discurso",
+    "url": "https://www1.folha.uol.com.br/colunas/laura-machado/2026/11/agricultura-familiar-precisa-de-apoio-que-va-alem-do-discurso.shtml",
+    "image": "https://f.i.uol.com.br/fotografia/2025/04/29/1745953334681122361ae8f_1745953334_3x2_rt.jpg"
   },
   {
     "site": "CNN Brasil",
-    "title": "Vitória x Fluminense: escalações e onde assistir ao jogo do Brasileirão",
-    "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/vitoria-x-fluminense-escalacoes-e-onde-assistir-ao-jogo-do-brasileirao/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/11/barradao-vitoria-mirassol-e1764442973284.jpeg?w=820&h=460&crop=1"
+    "title": "Defesa Civil confirma três tornados e duas microexplosões em Santa Catarina",
+    "url": "https://www.cnnbrasil.com.br/nacional/sul/sc/defesa-civil-confirma-tres-tornados-e-duas-microexplosoes-em-santa-catarina/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/Design-sem-nome-49.jpg?w=1200&h=630&crop=1"
   },
   {
     "site": "Terra",
-    "title": "Ivete Sangalo prepara duas músicas para o Carnaval 2027",
-    "url": "https://www.terra.com.br/diversao/ivete-sangalo-prepara-duas-musicas-para-o-carnaval-2027,bd78c578dc7f6ca95305bb599202fe632htar789.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/11/06/img_0303-u7xdblg4isds.jpg"
+    "title": "Decotão, cintura marcada e fenda na saia: Eliana, aos 53 anos, escolhe vestido rosa de mangas longas e arremata produção com salto vinho no Teleton 2026. Fotos do look!",
+    "url": "https://www.terra.com.br/vida-e-estilo/autocuidado/moda/decotao-cintura-marcada-e-fenda-na-saia-eliana-aos-53-anos-escolhe-vestido-rosa-de-mangas-longas-e-arremata-producao-com-salto-vinho-no-teleton-2026-fotos-do-look,898660d9ee64543b76239ad3b111d477z2j2hyp4.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/11/07/1947357415-8a5ab4a41b54d723-1400x823-2.png"
   },
   {
     "site": "BBC",
@@ -217,80 +277,26 @@
   },
   {
     "site": "G1",
-    "title": "Paulo Vinícius Cozzolino é reeleito defensor público-geral do RJ com votação recorde",
-    "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/11/06/paulo-vinicius-cozzolino-e-reeleito-defensor-publico-geral-do-rj.ghtml",
-    "image": "https://s2-g1.glbimg.com/GEIDI3qOdSAaQVZbkF4-hCr42bY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/D/K2U6DvSrKlTYxBcMOyhw/whatsapp-image-2026-11-06-at-19.11.41.jpeg"
+    "title": "Cantor sertanejo que morreu após infarto descobriu filho há quatro anos e se declarou ao menino: 'Melhor abraço'",
+    "url": "https://g1.globo.com/go/goias/noticia/2026/11/07/cantor-sertanejo-que-morreu-apos-infarto-descobriu-filho-ha-quatro-anos-e-se-declarou-ao-menino-melhor-abraco.ghtml",
+    "image": "https://s2-g1.glbimg.com/7qiMDY3cjnx7DJ-pxH8asHFkyQ0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/F/pc3HeAQ0ON3MhBMyiMBQ/copia-de-copia-de-padrao-foto-g1-goias-88-.jpg"
   },
   {
     "site": "UOL",
-    "title": "Alunos de medicina compartilham ofensas e ameaças contra eleitores de Lula em grupos após eleição",
-    "url": "https://www1.folha.uol.com.br/cotidiano/2026/11/alunos-de-medicina-compartilham-ofensas-e-ameacas-contra-eleitores-de-lula-em-grupos-apos-eleicao.shtml",
-    "image": "https://f.i.uol.com.br/fotografia/2026/11/06/17939929886aee291c6dec4_1793992988_3x2_xl.jpg"
+    "title": "Livro questiona discurso de liberdade e privacidade do Telegram",
+    "url": "https://www1.folha.uol.com.br/tec/2026/11/livro-questiona-discurso-de-liberdade-e-privacidade-do-telegram.shtml",
+    "image": "https://f.i.uol.com.br/fotografia/2026/11/06/17940024666aee4e224afa9_1794002466_3x2_xl.jpg"
   },
   {
     "site": "CNN Brasil",
-    "title": "Senado do Paraguai aprova impeachment do presidente Santiago Peña",
-    "url": "https://www.cnnbrasil.com.br/internacional/senado-do-paraguai-aprova-impeachment-do-presidente-santiago-pena/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2023/07/16052023-a81t0626-e1690423949743.jpg?w=1024&h=576&crop=1"
+    "title": "Governo retoma avaliação ambiental de bacias e inicia estudo em Pelotas",
+    "url": "https://www.cnnbrasil.com.br/infra/governo-retoma-avaliacao-ambiental-de-bacias-e-inicia-estudo-em-pelotas/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/Reuters_Direct_Media/BrazilOnlineReportTopNews/tagreuters.com2026binary_LYNXMPEM3717U-BASEIMAGE.jpg?w=800&h=533&crop=1"
   },
   {
     "site": "Terra",
-    "title": "Comer gelatina com frutas ajuda na produção de colágeno? Dermatologistas explicam",
-    "url": "https://www.terra.com.br/vida-e-estilo/degusta/alimentacao-com-saude/comer-gelatina-com-frutas-ajuda-na-producao-de-colageno-dermatologistas-explicam,f332a6a2423cd2374e1d4449ceb681actshzbnqi.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/11/06/544606204-gelatina-com-frutas-estimula-o-colageno-entenda-o-que-diz.jpg"
-  },
-  {
-    "site": "BBC",
-    "title": "'Fiz um teste para saber se minha vida seria curta — e isso me transformou'",
-    "url": "https://www.bbc.com/portuguese/articles/cwe8lekndk1mo?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/76ca/live/3f6e8510-d9bd-11f1-a00c-673f8daaffd9.jpg"
-  },
-  {
-    "site": "G1",
-    "title": "Vice-prefeito de Colina, SP, vai a júri popular por morte de professor de jiu-jitsu",
-    "url": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/11/06/vice-prefeito-de-colina-sp-vai-a-juri-popular-por-morte-de-professor-de-jiu-jitsu.ghtml",
-    "image": "https://s2-g1.glbimg.com/GnHYCiJQYNAWpjNTDjzHpmgcqMY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/9/yLAxHcQ96ouPqnjuFNHg/moldura-padrao-g1-2-.jpg"
-  },
-  {
-    "site": "UOL",
-    "title": "Senado paraguaio aprova impeachment do presidente Peña por escândalo bancário",
-    "url": "https://noticias.uol.com.br/ultimas-noticias/afp/2026/11/06/presidente-do-paraguai-e-destituido-por-escandalo-bancario-senado.htm",
-    "image": ""
-  },
-  {
-    "site": "CNN Brasil",
-    "title": "Conmebol nega novamente licença de Seedorf, e Corinthians busca solução",
-    "url": "https://www.cnnbrasil.com.br/esportes/futebol/corinthians/conmebol-nega-licenca-de-seedorf-corinthians-busca-alternativas/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/clarence-seedorf-tecnico-corinthians-1-e1793656356876.jpeg?w=1200&h=630&crop=1"
-  },
-  {
-    "site": "Terra",
-    "title": "Maya Massafera abre o jogo e dá declaração sincera sobre as suas finanças",
-    "url": "https://www.terra.com.br/diversao/gente/maya-massafera-abre-o-jogo-e-da-declaracao-sincera-sobre-as-suas-financas,b33da309ea109ec2faeafcee1c162b16zasno6pe.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/11/06/782917030-maya-massafera.jpg"
-  },
-  {
-    "site": "BBC",
-    "title": "As novas investigações contra Russell Brand, considerado culpado de estupro e agressão",
-    "url": "https://www.bbc.com/portuguese/articles/cjp3ggky6zgyo?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/0531/live/219d2970-d9b2-11f1-b441-2b33b063138f.jpg"
-  },
-  {
-    "site": "G1",
-    "title": "Homem é morto a tiros no meio da rua ao voltar de padaria em Uberaba",
-    "url": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/11/06/homem-e-morto-a-tiros-no-meio-da-rua-ao-voltar-de-padaria-em-uberaba.ghtml",
-    "image": "https://s2-g1.glbimg.com/KPRV_E-i8p7TXJ4rtBZYqbU48r0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/m/wDZXfcS7SSgLoA8VD0BQ/design-sem-nome-8-.png"
-  },
-  {
-    "site": "CNN Brasil",
-    "title": "Grammy 2027: Pharell Williams e Olivia Dean anunciarão os indicados",
-    "url": "https://www.cnnbrasil.com.br/pop/musica/grammy-2027-pharell-williams-e-olivia-dean-anunciarao-os-indicados/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/02/olivia-dean.jpg?w=1200&h=630&crop=1"
-  },
-  {
-    "site": "Terra",
-    "title": "'A Nobreza do Amor': Público se divide após exibição do último capítulo: 'Sem sentido'",
-    "url": "https://www.terra.com.br/diversao/tv/novelas/a-nobreza-do-amor-publico-se-divide-apos-exibicao-do-ultimo-capitulo-sem-sentido,bc5f3f58f66e3dcbc53ee254390961f1n98ejsfv.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/11/06/695450887-nobreza.jpg"
+    "title": "'Se não fossem os tecidos, a gente morria', diz vítima de queda de prédio no Brás",
+    "url": "https://www.terra.com.br/noticias/brasil/cidades/se-nao-fossem-os-tecidos-a-gente-morria-diz-vitima-de-queda-de-predio-no-bras,3ad6323364625850dae2187d8b4723125axtamfe.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/11/07/1539011505-zrildlcpifdpnigzkycjhe4bra.jpeg"
   }
 ]
