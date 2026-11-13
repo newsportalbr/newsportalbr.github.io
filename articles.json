@@ -1,33 +1,93 @@
 [
   {
     "site": "BBC",
-    "title": "Falha da Microsoft afeta Outlook e outros serviços em 70 países; o que se sabe",
-    "url": "https://www.bbc.com/portuguese/articles/c6wy49w32epwo?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/e7a4/live/9d5fdf40-df5b-11f1-a701-fddedf244c16.jpg"
+    "title": "EUA suspendem todos os voos do país por problema em sistemas de comunicação: o que se sabe",
+    "url": "https://www.bbc.com/portuguese/articles/c54gnly4kzdpo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/1963/live/ba2043a0-dfb4-11f1-b867-af6986834a9f.jpg"
   },
   {
     "site": "G1",
-    "title": "Soldado do Exército de 19 anos morre após moto bater na traseira de carro em rodovia de Pindamonhangaba",
-    "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/11/13/soldado-do-exercito-de-19-anos-morre-apos-moto-bater-na-traseira-de-carro-em-rodovia-de-pindamonhangaba.ghtml",
-    "image": "https://s2-g1.glbimg.com/iN9uyKB_0foOr_B0xgZay3sVWMY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/j/I69JCgTXedB319qjSU0w/texto-do-seu-paragrafo-2026-11-13t103340.202.png"
+    "title": "VÍDEOS: JL2 de sexta-feira, 13 de novembro de 2026",
+    "url": "https://g1.globo.com/pa/para/edicao/2026/11/13/videos-jl2-de-sexta-feira-13-de-novembro-de-2026.ghtml",
+    "image": "https://s2-g1.glbimg.com/gQHJxOJ7Amg0qETFSgHIuYnp18s=/s01.video.glbimg.com/deo/vi/77/70/15187077"
   },
   {
     "site": "UOL",
-    "title": "Iranianas desafiam restrições e escolhem se vestir com mais liberdade",
-    "url": "https://noticias.uol.com.br/ultimas-noticias/afp/2026/11/13/iranianas-desafiam-restricoes-e-escolhem-se-vestir-com-mais-liberdade.htm",
+    "title": "Governo Lula retira subvenção extra de R$ 1,40 por litro de diesel importado",
+    "url": "https://www1.folha.uol.com.br/mercado/2026/11/governo-lula-retira-subvencao-extra-de-r-140-por-litro-de-diesel-importado.shtml",
+    "image": "https://f.i.uol.com.br/fotografia/2026/04/09/177577749569d836d7c6828_1775777495_3x2_rt.jpg"
+  },
+  {
+    "site": "CNN Brasil",
+    "title": "Trump foi informado sobre suspensão de todos os voos nos EUA",
+    "url": "https://www.cnnbrasil.com.br/internacional/trump-foi-informado-sobre-suspensao-de-todos-os-voos-nos-eua/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/10/2026-10-30T131156Z_1_LYNXNPEM9T1AI_RTROPTP_4_USA-TRUMP.jpg?w=1200&h=630&crop=1"
+  },
+  {
+    "site": "Terra",
+    "title": "Suspensão de voos nos EUA: como ficam os aviões do Brasil?",
+    "url": "https://www.terra.com.br/noticias/mundo/estados-unidos/suspensao-de-voos-nos-eua-como-ficam-os-avioes-do-brasil,2b97a8c135b9bc498f4ec8e755e9bd54p84tv6p7.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/09/22/747362235-vyky7lqjs5apdpcs4dzlxti7gy.jpg"
+  },
+  {
+    "site": "BBC",
+    "title": "Apagão do Outlook afetou empresas e até os prazos de ações no Judiciário: dá para pedir indenização à Microsoft?",
+    "url": "https://www.bbc.com/portuguese/articles/cq62pdgrer0po?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/8d17/live/f84f3e20-df95-11f1-a9ad-6774a3284d10.jpg"
+  },
+  {
+    "site": "G1",
+    "title": "Procurado pela Justiça é baleado enquanto trabalhava em oficina mecânica",
+    "url": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/11/13/procurado-pela-justica-e-baleado-enquanto-trabalhava-em-oficina-mecanica.ghtml",
+    "image": "https://s2-g1.glbimg.com/rWeDPXjp3h6CvPTx59oOOXCCzig=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/2/CUGrXwTqWuwfSmUrh6Jg/design-sem-nome-2026-11-13t194854.646.jpg"
+  },
+  {
+    "site": "UOL",
+    "title": "Casa Branca diz não haver indícios de \"ato nefasto\" em pane nos aeroportos",
+    "url": "https://noticias.uol.com.br/internacional/ultimas-noticias/2026/11/13/casa-branca-diz-nao-haver-indicios-de-ato-nefasto-em-pane-nos-aeroportos.ghtm",
     "image": ""
   },
   {
     "site": "CNN Brasil",
-    "title": "Ações de empresas chinesas de IA recuam após renúncia de CEO da Nvidia",
-    "url": "https://www.cnnbrasil.com.br/economia/money/mercado/acoes-de-empresas-chinesas-de-ia-recuam-apos-renuncia-de-ceo-da-nvidia/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/Reuters_Direct_Media/BrazilOnlineReportBusinessNews/tagreuters.com2026binary_LYNXNPEMAC0PH-BASEIMAGE.jpg?w=800&h=533&crop=1"
+    "title": "Inter confia no consignado privado e vê “ganha-ganha”, diz CEO à CNN",
+    "url": "https://www.cnnbrasil.com.br/economia/money/negocios/inter-confia-no-consignado-privado-e-ve-ganha-ganha-diz-ceo-a-cnn/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/WhatsApp-Image-2026-11-13-at-18.53.52.jpeg?w=1200&h=630&crop=1"
   },
   {
     "site": "Terra",
-    "title": "Quem Ama Cuida: Pilar começa aulas de tiro e põe em prática um plano perigoso",
-    "url": "https://www.terra.com.br/diversao/quem-ama-cuida-pilar-comeca-aulas-de-tiro-e-poe-em-pratica-um-plano-perigoso,e973800230470b3c6a7cfcd7923493e9ihvv32gb.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/11/13/1126484332-quem-ama-cuida-pilar-comeca-aulas-de-tiro-e-poe-em-pratica-um-plano-perigoso.jpg"
+    "title": "Fazenda deixa vencer subvenção extra de R$ 1,40 ao diesel, mas cita possibilidade de reavaliação",
+    "url": "https://www.terra.com.br/economia/fazenda-deixa-vencer-subvencao-extra-de-r-140-ao-diesel-mas-cita-possibilidade-de-reavaliacao,91e97e073e6269f85f7b0e4390749c31g2de3rr2.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/11/13/355978071-o7wcnouvwbfsnadnsjvg2bsx5e.jpg"
+  },
+  {
+    "site": "BBC",
+    "title": "Outlook voltou: por que demorou para Microsoft resolver o problema?",
+    "url": "https://www.bbc.com/portuguese/articles/cw808r14nmjgo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/f5a0/live/fab7c790-df72-11f1-93e1-3b657b665bcf.jpg"
+  },
+  {
+    "site": "G1",
+    "title": "Kenya Sade, apresentadora da Globo, está dentro de avião durante paralisação nos EUA: 'temos que esperar'",
+    "url": "https://g1.globo.com/mundo/noticia/2026/11/13/kenya-esta-dentro-de-aviao-durante-paralizacao-nos-eua.ghtml",
+    "image": "https://s2-g1.glbimg.com/SGcRT0lkCmHMamfYg53QDio0ZCs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/1/Xo4qjBQzWoET1vJABUug/imagem-5-.png"
+  },
+  {
+    "site": "UOL",
+    "title": "Dono de centro terapêutico é preso no PI após denúncia de cárcere privado",
+    "url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/11/13/dono-de-clinica-e-preso-apos-17-pacientes-serem-retirados-no-piaui.ghtm",
+    "image": ""
+  },
+  {
+    "site": "CNN Brasil",
+    "title": "Pausa em voos nos EUA e falha da Microsoft não têm relação, diz secretário",
+    "url": "https://www.cnnbrasil.com.br/internacional/pausa-em-voos-nos-eua-e-falha-da-microsoft-nao-tem-relacao-diz-secretario/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/09/avioes-charlie-kirk.jpg?w=1200&h=630&crop=1"
+  },
+  {
+    "site": "Terra",
+    "title": "Rafael é direto ao falar sobre o futuro de Marçal no Botafogo",
+    "url": "https://www.terra.com.br/esportes/botafogo/rafael-e-direto-ao-falar-sobre-o-futuro-de-marcal-no-botafogo,f93d0cddff7ea6d9a62e7b6f1d43dd9deagrkueb.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/11/13/424964640-marcal-do-botafogo.jpg"
   },
   {
     "site": "BBC",
@@ -37,117 +97,57 @@
   },
   {
     "site": "G1",
-    "title": "VÍDEO: Detran persegue homem em moto clandestina e entra até na contramão em Boa Vista",
-    "url": "https://g1.globo.com/rr/roraima/noticia/2026/11/13/video-detran-persegue-homem-em-moto-clandestina-e-entra-ate-na-contramao-em-boa-vista.ghtml",
-    "image": "https://s2-g1.glbimg.com/8DZbTHIH3W126LKOVpNntTAl13c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/9/W2XJmaR3WEyzAPs6PzFQ/perseguicao-1-.png"
+    "title": "SIM-Mulher: entenda projeto de sistema de proteção a mulheres vítimas de violência doméstica aprovado por comissão da Alego",
+    "url": "https://g1.globo.com/go/goias/noticia/2026/11/13/sim-mulher-entenda-projeto-de-sistema-de-protecao-a-mulheres-vitimas-de-violencia-domestica-aprovado-por-comissao-da-alego.ghtml",
+    "image": "https://s2-g1.glbimg.com/CjuM6e4-inlqk-lg-NFqC4j7TWk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/V/K/qbOmm8TICEh8IX2oOvMA/88197f74-9283-4159-bc2c-af923a36e39a.jpg"
   },
   {
     "site": "UOL",
-    "title": "Temporal deixa 150 feridos e corta energia no norte da Argentina",
-    "url": "https://noticias.uol.com.br/internacional/ultimas-noticias/2026/11/13/temporal-deixa-150-feridos-e-corta-energia-no-norte-da-argentina.ghtm",
+    "title": "'Não é um novo 11 de setembro', diz secretário de Segurança dos EUA sobre suspensão de voos",
+    "url": "https://noticias.uol.com.br/internacional/ultimas-noticias/2026/11/13/nao-e-um-novo-11-de-setembro-diz-secretario-de-seguranca-dos-eua-sobre-suspensao-de-voos.ghtm",
     "image": ""
   },
   {
     "site": "CNN Brasil",
-    "title": "Justiça dá 15 dias para Volvo divulgar plano de troca das baterias do EX30",
-    "url": "https://www.cnnbrasil.com.br/auto/justica-da-15-dias-para-volvo-divulgar-plano-de-troca-das-baterias-do-ex30/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/01/WhatsApp-Image-2026-01-30-at-11.31.54-e1769783877299.jpeg?w=900&h=550&crop=1"
+    "title": "Gilmar defende cautela em reforma do Judiciário e critica Lava Jato",
+    "url": "https://www.cnnbrasil.com.br/politica/gilmar-defende-cautela-em-reforma-do-judiciario-e-critica-lava-jato/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/02/gilmar-mendes.jpg?w=1200&h=630&crop=1"
   },
   {
     "site": "Terra",
-    "title": "Médico revela verdade sobre emagrecimento drástico de Luan Santana: 'Tratamento'",
-    "url": "https://www.terra.com.br/diversao/gente/medico-revela-verdade-sobre-emagrecimento-drastico-de-luan-santana-tratamento,92bd49de1c871c1ce219880a435f2c09rs91abzj.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/11/13/175095352-luan-santana.jpg"
+    "title": "Alerta no Tricolor! Grêmio pode perder seis pontos no Brasileirão; entenda",
+    "url": "https://www.terra.com.br/noticias/brasil/alerta-no-tricolor-gremio-pode-perder-seis-pontos-no-brasileirao-entenda,569032c6607f2adc7a6359fe370d0bed8sm2c4hx.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/11/13/225904767-arena-lucas-uebel-gremio.jpg"
   },
   {
     "site": "BBC",
-    "title": "Como Jensen Huang foi de 'visionário da IA' à queda em desgraça por causa de decisões amorosas",
-    "url": "https://www.bbc.com/portuguese/articles/ckwy8vdnwwlyo?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/3345/live/4030f5a0-deea-11f1-9dd5-b5dd10100b88.jpg"
+    "title": "Como crescimento da energia solar 'escandalosamente barata' desafia todas as projeções",
+    "url": "https://www.bbc.com/portuguese/articles/ck98z89d1073o?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/deae/live/be0c4360-dc5d-11f1-8fe6-5becaee5408f.jpg"
   },
   {
     "site": "G1",
-    "title": "Homem é morto a tiros dentro de caminhonete após discussão em MT",
-    "url": "https://g1.globo.com/mt/mato-grosso/noticia/2026/11/13/homem-e-morto-a-tiros-dentro-de-caminhonete-apos-discussao-em-mt.ghtml",
-    "image": "https://s2-g1.glbimg.com/g1U2g9MLFZzRWHPM80lo6nlKg9s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/1/IMvRJGSyOgdb1od8Tnpw/enem-19-.jpg"
+    "title": "VÍDEOS: GR2 de sexta-feira, 13 de novembro de 2026",
+    "url": "https://g1.globo.com/pe/petrolina-regiao/playlist/videos-gr2-de-sexta-feira-13-de-novembro-de-2026.ghtml",
+    "image": "https://s2-g1.glbimg.com/7fci3QBcrHvaObh6S4GjxQG0vo4=/s01.video.glbimg.com/deo/vi/19/70/15187019"
   },
   {
     "site": "UOL",
-    "title": "Doenças respiratórias aumentam em Gaza e pior ainda está por vir com chuvas e inverno, diz OMS",
-    "url": "https://noticias.uol.com.br/ultimas-noticias/reuters/2026/11/13/doencas-respiratorias-aumentam-em-gaza-e-pior-ainda-esta-por-vir-com-chuvas-e-inverno-diz-oms.htm",
-    "image": ""
+    "title": "CEO da Anthropic diz não estar muito preocupado com turbulência no mercado antes do IPO",
+    "url": "https://c-level.folha.uol.com.br/ia/2026/11/ceo-da-anthropic-diz-nao-estar-muito-preocupado-com-turbulencia-no-mercado-antes-do-ipo.shtml",
+    "image": "https://f.i.uol.com.br/fotografia/2026/11/13/17946090156af78f77df3d7_1794609015_3x2_rt.jpg"
   },
   {
     "site": "CNN Brasil",
-    "title": "Falhas da Microsoft afetam farmácias e serviços da polícia no Reino Unido",
-    "url": "https://www.cnnbrasil.com.br/internacional/microsoft-farmacia-policia-reino-unido/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/Reuters_Direct_Media/BrazilOnlineReportTechnologyNews/tagreuters.com2025binary_LYNXMPEL5Q0OH-BASEIMAGE.jpg?w=800&h=450&crop=1"
+    "title": "Fãs do BTS arrecadam mais de R$ 15 mil para projeto de autismo no Brasil",
+    "url": "https://www.cnnbrasil.com.br/pop/celebridades/fas-do-bts-arrecadam-mais-de-r-15-mil-para-projeto-de-autismo-no-brasil/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/K-TUDO-THUMB.jpg?w=1200&h=630&crop=1"
   },
   {
     "site": "Terra",
-    "title": "Narcisa é vista abaladíssima em velório da influenciadora Vivi Motta, de 23 anos",
-    "url": "https://www.terra.com.br/diversao/gente/narcisa-e-vista-abaladissima-em-velorio-da-influenciadora-vivi-motta-de-23-anos,93a5f4500977880e64b2bc93b50ffabfabh4f6ko.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/11/13/1883529969-narcisa.jpg"
-  },
-  {
-    "site": "BBC",
-    "title": "'Rosa e Azul':  a história sombria do quadro mais famoso do Masp — e o fim trágico de uma das meninas",
-    "url": "https://www.bbc.com/portuguese/articles/cmy4xjed4x1ko?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/ad9d/live/f4caa150-df3f-11f1-b441-2b33b063138f.jpg"
-  },
-  {
-    "site": "G1",
-    "title": "Chefe do Comando Vermelho preso no Rio de Janeiro tinha influência em três bairros de Salvador e é investigado por 23 assassinatos",
-    "url": "https://g1.globo.com/ba/bahia/noticia/2026/11/13/chefe-do-comando-vermelho-preso-no-rio-de-janeiro-tinha-influencia-em-tres-bairros-de-salvador-e-e-investigado-por-23-assassinatos.ghtml",
-    "image": "https://s2-g1.glbimg.com/Ey735VIiL7YrtBfsqfX6GEhn-xA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/V/kHquxKSDiDACDJa4AbOQ/foto-no-tamanho-home-64-.png"
-  },
-  {
-    "site": "UOL",
-    "title": "Relatório rejeitado na PF cita suspeita de Moraes antecipar voto a Vorcaro",
-    "url": "https://www1.folha.uol.com.br/poder/2026/11/relatorio-rejeitado-na-pf-cita-suspeita-de-moraes-antecipar-voto-a-vorcaro.shtml",
-    "image": "https://f.i.uol.com.br/fotografia/2022/12/07/16704427856390ef214932f_1670442785_3x2_rt.jpg"
-  },
-  {
-    "site": "CNN Brasil",
-    "title": "PF mira tráfico internacional de armas e drogas que abastece o CV no Brasil",
-    "url": "https://www.cnnbrasil.com.br/nacional/brasil/pf-mira-trafico-internacional-de-armas-e-drogas-que-abastece-o-cv-no-brasil/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/nacional-montagem.jpg?w=1200&h=630&crop=1"
-  },
-  {
-    "site": "Terra",
-    "title": "Vídeo: zagueiro fica só de cueca, sai de campo e vê time sofrer gol decisivo",
-    "url": "https://www.terra.com.br/esportes/futebol/video-zagueiro-fica-so-de-cueca-sai-de-campo-e-ve-time-sofrer-gol-decisivo,515611cf6c245e8f445695f2f9132b737s06b9gu.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/11/13/1155846555-maxime-esteve-do-rb-leipzig-ficou-de-cueca-em-campo-apos-ter-o-short-rasgado-por-adversario-1-610x400.jpg"
-  },
-  {
-    "site": "BBC",
-    "title": "Meta exibe mais de 700 anúncios de bets proibidas, revela levantamento da BBC",
-    "url": "https://www.bbc.com/portuguese/articles/cw4gnvzzdjr7o?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/b172/live/96475800-dede-11f1-a75a-dbf83836672c.png"
-  },
-  {
-    "site": "G1",
-    "title": "Dupla é presa por tráfico de drogas durante operação em Angra dos Reis",
-    "url": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2026/11/13/dupla-e-presa-por-trafico-de-drogas-durante-operacao-em-angra-dos-reis.ghtml",
-    "image": "https://s2-g1.glbimg.com/ZJJPEKr0coX7TyZvK_a8Xsyak4c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/S/LV1ANFTOAtdA2jAwSeHQ/whatsapp-image-2026-11-13-at-09.56.05.jpg"
-  },
-  {
-    "site": "UOL",
-    "title": "Denunciadas por professora, tias e avó são condenadas por sessões de tortura contra menina de 11 anos em SC",
-    "url": "https://tnonline.uol.com.br/noticias/cotidiano/denunciadas-por-professora-tias-e-avo-sao-condenadas-por-sessoes-de-tortura-contra-menina-de-11-anos-em-sc-1173629",
-    "image": "https://cdn.tnonline.com.br/img/Artigo-Destaque/1170000/1200x630/denunciadas-por-professora-tias-e-avo-sao-condenad-01173629-0-202611131029/ScaleProportionalFillBackground-1.jpg?fallback=https%3A%2F%2Fcdn.tnonline.com.br%2Fimg%2FArtigo-Destaque%2F1170000%2Fdenunciadas-por-professora-tias-e-avo-sao-condenad-01173629-0-202611131029.png%3Fxid%3D1867655&xid=1867655"
-  },
-  {
-    "site": "CNN Brasil",
-    "title": "Vendas no varejo do Brasil surpreendem com alta de 0,2% em setembro",
-    "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/vendas-no-varejo-do-brasil-surpreendem-com-alta-de-02-em-setembro/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/Reuters_Direct_Media/BrazilOnlineReportBusinessNews/tagreuters.com2025binary_LYNXNPEL4P0DC-BASEIMAGE.jpg?w=800&h=566&crop=1"
-  },
-  {
-    "site": "Terra",
-    "title": "Thiago Silva pode adiar aposentadoria e ficar no Fluminense em 2027",
-    "url": "https://www.terra.com.br/esportes/fluminense/thiago-silva-pode-adiar-aposentadoria-e-ficar-no-fluminense-em-2027,e1ca0fbd7fb49e560e6c48b6f196971cw6nn2f7k.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/11/13/397880803-553852528834d9f821225k-610x400.jpg"
+    "title": "Carlos Alberto fala sobre \"caneta\" de Arrascaeta: \"No auge, fui melhor\"",
+    "url": "https://www.terra.com.br/esportes/futebol/carlos-alberto-fala-sobre-caneta-de-arrascaeta-no-auge-fui-melhor,0b50904ad2268611e90736316e85857d3wxuhcf0.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/11/13/621902395-2x1carlos-alberto-x-arrascaetaeasy-resizecom-610x400.jpg"
   },
   {
     "site": "BBC",
@@ -157,27 +157,57 @@
   },
   {
     "site": "G1",
-    "title": "Criança que vivia em cárcere em prostíbulo só saia para ir à escola, diz Conselho Tutelar",
-    "url": "https://g1.globo.com/go/goias/noticia/2026/11/13/crianca-que-vivia-em-carcere-em-prostibulo-so-saia-para-ir-a-escola-diz-conselho-tutelar.ghtml",
-    "image": "https://s2-g1.glbimg.com/VVA7Swee5JMovC_WTw4w3f5YcYs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/l/SkP7dhSeeB3dQjeXZcug/padrao-foto-texto-g1-2026-11-12t124730.725.jpg"
+    "title": "Aeroporto Internacional de SP: voos com origem ou destino dos EUA devem permanecer em solo, diz concessionária",
+    "url": "https://g1.globo.com/sp/sao-paulo/noticia/2026/11/13/voos-com-origem-ou-destino-nos-eua-devem-permanecer-em-solo-diz-concessionaria-que-administra-aeroporto-internacional-de-sp.ghtml",
+    "image": "https://s2-g1.glbimg.com/H8O5p7usZgakM4o9EDNVcSAEAHc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2019/x/T/XbdcScSzWyJeCvOTRLnw/aeroporto-foto-sidnei-barros-02.jpg"
   },
   {
     "site": "UOL",
-    "title": "Homem morre após cair de escalada esportiva em academia de BH",
-    "url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/11/13/homem-morre-apos-cair-de-escalada-esportiva-em-academia-de-bh.ghtm",
+    "title": "EUA ordena suspensão das decolagens nos aeroportos por problema de comunicação",
+    "url": "https://noticias.uol.com.br/ultimas-noticias/afp/2026/11/13/eua-ordena-suspensao-das-decolagens-nos-aeroportos-por-problema-de-comunicacao.htm",
     "image": ""
   },
   {
     "site": "CNN Brasil",
-    "title": "Falha na Microsoft interrompe serviço de comunicação do governo do Japão",
-    "url": "https://www.cnnbrasil.com.br/internacional/falha-na-microsoft-interrompe-servico-de-comunicacao-do-governo-do-japao/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/minoru-kihara.jpeg.jpg?w=960&h=540&crop=1"
+    "title": "Governo barra 108,7 mil pedidos do seguro-defeso e poupa R$ 634,8 milhões",
+    "url": "https://www.cnnbrasil.com.br/agro/governo-barra-1087-mil-pedidos-do-seguro-defeso-e-economiza-r-6348-mi/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/MPA.jpeg?w=768&h=512&crop=1"
   },
   {
     "site": "Terra",
-    "title": "Planta e Raiz revisita Cássia Eller, Tim Maia e Cazuza em \"Tranquilize\"",
-    "url": "https://www.terra.com.br/diversao/musica/meu-sonora/reggae/planta-e-raiz-revisita-cassia-eller-tim-maia-e-cazuza-em-tranquilize,15509688a362d6a800fae78736d53ab0306ly3qi.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/11/13/1185928691-1794574731880-xbdltl.jpg"
+    "title": "Serviço de meteorologia dos Estados Unidos fica inoperante por falha de internet",
+    "url": "https://www.terra.com.br/noticias/mundo/servico-de-meteorologia-dos-estados-unidos-fica-inoperante-por-falha-de-internet,cfb3e4d3805f5b40f00501701e448dc871kadga3.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/11/13/falha-1jy28ca0x6re8.png"
+  },
+  {
+    "site": "BBC",
+    "title": "Como Jensen Huang foi de 'visionário da IA' à queda em desgraça por causa de decisões amorosas",
+    "url": "https://www.bbc.com/portuguese/articles/ckwy8vdnwwlyo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/3345/live/4030f5a0-deea-11f1-9dd5-b5dd10100b88.jpg"
+  },
+  {
+    "site": "G1",
+    "title": "SpaceX lança foguete Starship para teste de manobra inédita",
+    "url": "https://g1.globo.com/mundo/noticia/2026/11/13/spacex-lanca-foguete-starship-para-teste-de-manobra-inedita.ghtml",
+    "image": "https://s2-g1.glbimg.com/l48Bpuo4cT2KJ4NcxxrDpdUPJyA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/7/Ib0ZKjRtSmQYsiuM0uxQ/foguete.png"
+  },
+  {
+    "site": "UOL",
+    "title": "VÍDEO: câmera registra capotamento que matou jovem de 24 anos no PR",
+    "url": "https://tnonline.uol.com.br/noticias/parana/video-camera-registra-capotamento-que-matou-jovem-de-24-anos-no-pr-1173747",
+    "image": "https://cdn.tnonline.com.br/img/inline/1170000/1200x630/carlos-henrique-correia-da-silva-era-conhecido-na--01173747-0-202611131944/ScaleProportionalFillBackground-1.jpg?fallback=https%3A%2F%2Fcdn.tnonline.com.br%2Fimg%2Finline%2F1170000%2Fcarlos-henrique-correia-da-silva-era-conhecido-na--01173747-0-202611131944.jpg%3Fxid%3D1867967&xid=1867967"
+  },
+  {
+    "site": "CNN Brasil",
+    "title": "Sítio de Lima Duarte guarda picape de 1 milhão de km e “bosque das saudades” para amigos",
+    "url": "https://www.cnnbrasil.com.br/curiosidades/sitio-de-lima-duarte-guarda-picape-de-1-milhao-de-km-e-bosque-das-saudades-para-amigos/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/Lima-Duarte.jpg?w=1200&h=630&crop=1"
+  },
+  {
+    "site": "Terra",
+    "title": "Governo italiano diz estar monitorando paralisação do tráfego aéreo nos EUA",
+    "url": "https://www.terra.com.br/noticias/mundo/governo-italiano-diz-estar-monitorando-paralisacao-do-trafego-aereo-nos-eua,f4e7bfe8464340a7ddc61c030950cde5ftmx2mfy.html",
+    "image": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png"
   },
   {
     "site": "BBC",
@@ -187,27 +217,27 @@
   },
   {
     "site": "G1",
-    "title": "Filho de secretário do AM morre em acidente de trânsito em Manaus",
-    "url": "https://g1.globo.com/am/amazonas/noticia/2026/11/13/filho-de-secretario-do-am-morre-em-acidente-de-transito-em-manaus.ghtml",
-    "image": "https://s2-g1.glbimg.com/7qTwZPxVvmD4xU2mFdRPz6bD7yU=/1280x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/e/MebJlWQHWSZ803elX3lA/whatsapp-image-2026-11-13-at-09.37.43.jpeg"
+    "title": "VÍDEOS: EPTV 2 Sul de Minas de sexta-feira, 13 de novembro de 2026",
+    "url": "https://g1.globo.com/mg/sul-de-minas/edicao/2026/11/13/videos-eptv-2-sul-de-minas-de-sexta-feira-13-de-novembro-de-2026.ghtml",
+    "image": "https://s2-g1.glbimg.com/ghMX-9ci0TARVinF9N0h4L0UE2A=/s01.video.glbimg.com/deo/vi/25/70/15187025"
   },
   {
     "site": "UOL",
-    "title": "Médico é suspeito de usar energia de UBS para carregar carro elétrico em MG",
-    "url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/11/13/medico-e-suspeito-de-usar-energia-de-ubs-para-carregar-carro-eletrico-em-mg.ghtm",
-    "image": ""
+    "title": "Alexandre Frota torna-se o primeiro brasileiro a dar volta ao mundo sozinho de avião",
+    "url": "https://tnonline.uol.com.br/noticias/cotidiano/alexandre-frota-torna-se-o-primeiro-brasileiro-a-dar-volta-ao-mundo-sozinho-de-aviao-1173746",
+    "image": "https://cdn.tnonline.com.br/img/Artigo-Destaque/1170000/1200x630/alexandre-frota-torna-se-o-primeiro-brasileiro-a-d-01173746-0-202611131943/ScaleProportionalFillBackground-1.jpg?fallback=https%3A%2F%2Fcdn.tnonline.com.br%2Fimg%2FArtigo-Destaque%2F1170000%2Falexandre-frota-torna-se-o-primeiro-brasileiro-a-d-01173746-0-202611131943.jpg%3Fxid%3D1867956&xid=1867956"
   },
   {
     "site": "CNN Brasil",
-    "title": "Randoncorp tem lucro de R$ 19,2 milhões no 3º trimestre",
-    "url": "https://www.cnnbrasil.com.br/economia/money/negocios/randoncorp-tem-lucro-de-r-192-milhoes-no-3o-trimestre/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2021/06/23399_AE06309A4F521549-6.jpeg?w=1200&h=630&crop=1"
+    "title": "Suspensão de voos nos EUA: Secretário diz que não há ameaça ao país",
+    "url": "https://www.cnnbrasil.com.br/internacional/suspensao-de-voos-nos-eua-secretario-diz-que-nao-ha-ameaca-ao-pais/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/Avioes-parados-EUA.png?w=695&h=459&crop=1"
   },
   {
     "site": "Terra",
-    "title": "Chanceler alemão pede a Trump que não haja \"surpresas\" em negociações com Putin",
-    "url": "https://www.terra.com.br/noticias/mundo/chanceler-alemao-pede-a-trump-que-nao-haja-surpresas-em-negociacoes-com-putin,9d62d3edf94a3781b9a606bf7746a708pn9s8wsv.html",
-    "image": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png"
+    "title": "Jelly Nails ou unhas transparentes: a manicure sofisticada, clean e elegante de 2027",
+    "url": "https://www.terra.com.br/vida-e-estilo/autocuidado/jelly-nails-ou-unhas-transparentes-a-manicure-sofisticada-clean-e-elegante-de-2027,24ffe2db4bc6c3e5867bf05a0ec6b3150p0i1k7z.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/11/13/591159145-8f9eec9c790e711c-1400x823-2.png"
   },
   {
     "site": "BBC",
@@ -217,57 +247,27 @@
   },
   {
     "site": "G1",
-    "title": "Homem é condenado a 32 anos de prisão por feminicídio no TO",
-    "url": "https://g1.globo.com/to/tocantins/noticia/2026/11/13/homem-e-condenado-a-32-anos-e-seis-meses-de-prisao-por-feminicidio-no-to.ghtml",
-    "image": "https://s2-g1.glbimg.com/1xP4Aa_qpfIkZCo3ENPM5aHBc68=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/3/uF054bQpOuMP4azAyOYg/forum-da-comarca-de-gurupi.jpg"
+    "title": "Paralisação de voos nos EUA: agência suspende todas as decolagens no país",
+    "url": "https://g1.globo.com/mundo/ao-vivo/paralisacao-de-voos-nos-eua.ghtml",
+    "image": "https://s2-g1.glbimg.com/1uyF2oWPNXIRnnY67IcaW-ZUJfk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/N/TUcJR6R2CTDfrlwKxdGA/captura-de-tela-2026-11-13-182639.png"
   },
   {
     "site": "UOL",
-    "title": "Pane da Microsoft trava fiança online e impede solturas em prisão nos EUA",
-    "url": "https://noticias.uol.com.br/internacional/ultimas-noticias/2026/11/13/pane-trava-fianca-online-e-impede-solturas-em-prisao-nos-eua.ghtm",
-    "image": ""
+    "title": "Polícia de SP abre inquérito para investigar falhas no Smart Sampa",
+    "url": "https://www1.folha.uol.com.br/cotidiano/2026/11/policia-de-sp-abre-inquerito-para-investigar-falhas-no-smart-sampa.shtml",
+    "image": "https://f.i.uol.com.br/fotografia/2026/01/22/1769103622697261065954e_1769103622_3x2_xl.jpg"
   },
   {
     "site": "CNN Brasil",
-    "title": "Conab projeta novo recorde para safra de grãos 2026/2027",
-    "url": "https://www.cnnbrasil.com.br/agro/conab-projeta-novo-recorde-para-safra-de-graos-2026-2027/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/Plantio-soja-safra-soja-colheita-soja-sojicultura-grao-de-soja-5.jpg?w=1200&h=630&crop=1"
+    "title": "Brasil x Peru: escalações e onde assistir ao amistoso da Seleção sub-20",
+    "url": "https://www.cnnbrasil.com.br/esportes/futebol/selecao-brasileira/brasil-x-peru-escalacoes-e-onde-assistir-ao-amistoso-da-selecao-sub-20/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2024/10/Selecao-Brasileira-e1729916009894.jpeg?w=1200&h=630&crop=1"
   },
   {
     "site": "Terra",
-    "title": "Chefe da federação italiana expressa 'orgulho' após vitória sobre França",
-    "url": "https://www.terra.com.br/esportes/chefe-da-federacao-italiana-expressa-orgulho-apos-vitoria-sobre-franca,e99968a7e3696c5d2004dd9ab9fb3d842mpf0485.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/11/13/106395076-b32cc1fc742bb73c5fc0f98c3f958e81.jpg"
-  },
-  {
-    "site": "BBC",
-    "title": "Jensen Huang: como CEO da Nvidia foi de 'rock star' da IA à saída dramática",
-    "url": "https://www.bbc.com/portuguese/articles/cqvg2ll5xgx2o?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/5297/live/47801ac0-de4a-11f1-8eb3-bb386b145647.jpg"
-  },
-  {
-    "site": "G1",
-    "title": "Operação contra roubo de cargas de medicamentos cumpre oito mandados de prisão no MA, PI e TO",
-    "url": "https://g1.globo.com/ma/maranhao/noticia/2026/11/13/operacao-contra-roubo-de-cargas-de-medicamentos-cumpre-oito-mandados-de-prisao-no-ma-pi-e-to.ghtml",
-    "image": "https://s2-g1.glbimg.com/G7S8PoBTAHZwE9D0CYdBcBgNKDw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/5/onJhrNSx6TkN0EQCqTRA/montagens-1920-x-1080-px-27-.jpg"
-  },
-  {
-    "site": "UOL",
-    "title": "Wesley Oliveira, que filmou FHC acamado, ignora Estatuto do Idoso e nega ter cometido 'crime'",
-    "url": "https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2026/11/13/wesley-oliveira-que-filmou-fhc-acamado-ignora-estatuto-do-idoso-e-nega-ter-cometido-crime.htm",
-    "image": ""
-  },
-  {
-    "site": "CNN Brasil",
-    "title": "Líderes partidários esperam volta de Lula ao Brasil para negociar governo",
-    "url": "https://www.cnnbrasil.com.br/politica/lideres-partidarios-esperam-volta-de-lula-ao-brasil-para-negociar-governo/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/10/presidente-lula_0ed7d4-e1792755501895.jpg?w=1200&h=630&crop=1"
-  },
-  {
-    "site": "Terra",
-    "title": "Há 45 anos, Bill Gates criou um dos piores jogos da história, mas faturou milhões de dólares com ele!",
-    "url": "https://www.terra.com.br/byte/ha-45-anos-bill-gates-criou-um-dos-piores-jogos-da-historia-mas-faturou-milhoes-de-dolares-com-ele,df51e32fe662ef5cec66a39466cc116eezhg7zep.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/11/13/2022162544-13662000.jpeg"
+    "title": "Suspensão de voos nos EUA: passageiro relata retirada de bagagens de aeronaves e paralisação",
+    "url": "https://www.terra.com.br/noticias/mundo/estados-unidos/suspensao-de-voos-nos-eua-passageiro-relata-retirada-de-bagagens-de-aeronaves-e-paralisacao,c4934c750999f5ac515b3fb6a8f1025fgwkd5aqx.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/11/13/atlanta-sok6kz4gev5i.jpeg"
   },
   {
     "site": "BBC",
@@ -277,26 +277,20 @@
   },
   {
     "site": "G1",
-    "title": "Torneio de pesca esportiva reúne 70 mulheres no Rio Grande, em Planura (MG)",
-    "url": "https://g1.globo.com/sp/campinas-regiao/terra-da-gente/noticia/2026/11/13/torneio-de-pesca-esportiva-reune-70-mulheres-no-rio-grande-em-planura-mg.ghtml",
-    "image": "https://s2-g1.glbimg.com/ho9VmeyMCqnyhI3hmXCqplT5Jn8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/i/l9uWVATHinOgfGYx5TYw/whatsapp-image-2026-11-13-at-10.26.20.jpeg"
-  },
-  {
-    "site": "UOL",
-    "title": "Maternidades móveis aguardam entrada em Gaza há dois anos; Israel é acusado",
-    "url": "https://noticias.uol.com.br/internacional/ultimas-noticias/2026/11/13/maternidades-moveis-aguardam-entrada-em-gaza-ha-ate-dois-anos.ghtm",
-    "image": ""
+    "title": "Assista aos telejornais da TV Liberal",
+    "url": "https://g1.globo.com/pa/para/ao-vivo/assista-aos-telejornais-da-tv-liberal.ghtml",
+    "image": "https://s2-g1.glbimg.com/WUW0t1oqkmWw5GuWBT43p5z01Tc=/smart/filters:strip_icc()/s2-g1.glbimg.com/kzhjOsZ-ptBZjJIyrcBRNim71Gs%3D/1280x0/filters%3Aformat%28jpeg%29/https%3A//thumbor.globoi.com/unsafe/fit-in/1280x720/s02.video.glbimg.com/deo/vi/77/83/2168377"
   },
   {
     "site": "CNN Brasil",
-    "title": "Linhas de trem relatam atrasos causados por falha na Microsoft",
-    "url": "https://www.cnnbrasil.com.br/internacional/linhas-de-trem-relatam-atrasos-causados-por-falha-na-microsoft/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/Reuters_Direct_Media/BrazilOnlineReportTechnologyNews/tagreuters.com2025binary_LYNXMPEL6K0SC-BASEIMAGE.jpg?w=800&h=532&crop=1"
+    "title": "O que se sabe sobre a suspensão de voos nos Estados Unidos",
+    "url": "https://www.cnnbrasil.com.br/internacional/o-que-se-sabe-sobre-a-suspensao-de-voos-nos-estados-unidos/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/Aeroporto-Internacional-de-Boston-Logan-BOS.jpeg?w=1200&h=630&crop=1"
   },
   {
     "site": "Terra",
-    "title": "Comunicação de riscos alimentares é muito mais do que tirar produtos das prateleiras e gôndolas de supermercados",
-    "url": "https://www.terra.com.br/noticias/comunicacao-de-riscos-alimentares-e-muito-mais-do-que-tirar-produtos-das-prateleiras-e-gondolas-de-supermercados,6d5b5c65e741e827af35d44c89cbfb027upoxwe0.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/11/13/1041400056-file-20261105-64-l2o2bc.jpg"
+    "title": "Após rumores, Nvidia nega ter procurado candidatos para suceder Jensen Huang",
+    "url": "https://www.terra.com.br/byte/ciencia/apos-rumores-nvidia-nega-ter-procurado-candidatos-para-suceder-jensen-huang,0adf3972d86d314cb092ed95d55bdc1efrmmf925.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/11/13/1988397434-9bf2244f9355c3f2df3161e63d8a2862.jpg"
   }
 ]
