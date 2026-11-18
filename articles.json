@@ -1,123 +1,213 @@
 [
   {
     "site": "BBC",
+    "title": "O 'exército das avós': os números que mostram as responsáveis pelo pico de comparecimento nas eleições",
+    "url": "https://www.bbc.com/portuguese/articles/cm9w9lyvv1exo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/d351/live/81324bf0-e1ea-11f1-9f14-b33806cfd783.jpg"
+  },
+  {
+    "site": "G1",
+    "title": "Mulher baleada na cabeça pelo ex que não fim do casamento recebe alta de hospital no Acre",
+    "url": "https://g1.globo.com/ac/acre/noticia/2026/11/17/mulher-baleada-na-cabeca-pelo-ex-que-nao-fim-do-casamento-recebe-alta-de-hospital-no-acre.ghtml",
+    "image": "https://s2-g1.glbimg.com/G8lXaUFtamr-vcnC9UpX3wXLYWg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/K/ZmyaMVRzARa8jmMorQBQ/nao-apagar-montagem-federal-1-.jpg"
+  },
+  {
+    "site": "UOL",
+    "title": "Timemania: Prêmio estimado é de R$ 28 milhões; veja números e time",
+    "url": "https://noticias.uol.com.br/ultimas-noticias/redacao/2026/11/17/timemania-concurso-2469-sorteio-17-de-novembro.htm",
+    "image": ""
+  },
+  {
+    "site": "CNN Brasil",
+    "title": "Ator de novelas de 31 anos mantém haras no Rio Grande do Sul com criação de equinos e já criou pônei avaliado em R$ 120 mil",
+    "url": "https://www.cnnbrasil.com.br/curiosidades/ator-de-novelas-de-31-anos-mantem-haras-no-rio-grande-do-sul-com-criacao-de-equinos-e-ja-criou-ponei-avaliado-em-r-120-mil/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/Ator-Ignacio-Luz-cria-cavalos-e-poneis-em-haras-gaucho.png?w=1200&h=630&crop=1"
+  },
+  {
+    "site": "Terra",
+    "title": "Juliano, da dupla com Henrique, se manifesta sobre boato de Virginia barrada em palco: 'Avisar'",
+    "url": "https://www.terra.com.br/diversao/gente/juliano-da-dupla-com-henrique-se-manifesta-sobre-boato-de-virginia-barrada-em-palco-avisar,5816fcce1e057a017d29293c01c4bf495jruavyi.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/11/17/10749626-henrique-juliano-e-virginia-fonseca.jpg"
+  },
+  {
+    "site": "BBC",
+    "title": "Por que EUA perderam certificado de eliminação do sarampo após 26 anos",
+    "url": "https://www.bbc.com/portuguese/articles/cq78258y8np9o?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/3c30/live/c871e3d0-e2ae-11f1-8226-87dfa5049e9a.jpg"
+  },
+  {
+    "site": "G1",
+    "title": "Especialistas de saúde americanos temem que sarampo seja só o começo de uma crise de saúde pública muito mais ampla",
+    "url": "https://g1.globo.com/jornal-nacional/noticia/2026/11/17/especialistas-de-saude-americanos-temem-que-sarampo-seja-so-o-comeco-de-uma-crise-de-saude-publica-muito-mais-ampla.ghtml",
+    "image": "https://s2-g1.glbimg.com/xvfgJ-kqZLyi2rAC2VbsW0mo3WU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/T/ZQ2gvJTbqZwUUyQOIBcA/globo-canal-4-20261117-2000-frame-71548.jpeg"
+  },
+  {
+    "site": "UOL",
+    "title": "Democratas culpam secretário de Trump por volta do sarampo nos EUA",
+    "url": "https://noticias.uol.com.br/internacional/ultimas-noticias/2026/11/17/democratas-culpam-secretario-de-trump-por-volta-do-sarampo-nos-eua.ghtm",
+    "image": ""
+  },
+  {
+    "site": "CNN Brasil",
+    "title": "Ajuste fiscal aumenta impostos e não contém gastos, diz Fiesp",
+    "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/ajuste-fiscal-aumenta-impostos-e-nao-contem-gastos-diz-fiesp/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2021/08/44659_C3219BFE018960B8.jpg?w=1200&h=630&crop=1"
+  },
+  {
+    "site": "Terra",
+    "title": "Vasco quer buscar seu próximo reforço no México",
+    "url": "https://www.terra.com.br/esportes/vasco/vasco-quer-buscar-seu-proximo-reforco-no-mexico,390b032d485281df831a821d274886c1b5nw1xvw.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/11/17/220113585-brian-rodriguez-em-acao-pelo-america-do-mexico-1024x683.jpg"
+  },
+  {
+    "site": "BBC",
+    "title": "Férias, alistamento militar e 'viagem falsa' à Nova Zelândia: as loucuras que fãs de 'GTA 6' estão fazendo pelo lançamento",
+    "url": "https://www.bbc.com/portuguese/articles/c50mdvd0v0xko?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/eb4c/live/4a003210-e1d0-11f1-b8c8-67fa35f5afdb.jpg"
+  },
+  {
+    "site": "G1",
+    "title": "Imagens da Prefeitura do Rio mostram agressores batendo em homem e mulher antes de espancarem professor no Centro",
+    "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/11/17/imagens-da-prefeitura-do-rio-mostram-homens-batendo-em-homem-e-mulher-antes-de-espancarem-professor-no-centro.ghtml",
+    "image": "https://s2-g1.glbimg.com/4LrAj_GbDA5EnS4xlsSMMWr_s5Y=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/A/610fwjSS63iBegIv9Smw/fotojet-2-.jpg"
+  },
+  {
+    "site": "UOL",
+    "title": "Professores são suspensos após xingarem alunos em videochamada: 'Para a p...'",
+    "url": "https://noticias.uol.com.br/internacional/ultimas-noticias/2026/11/17/professores-sao-suspensos-apos-xingarem-alunos-em-videochamada-para-a-p.ghtm",
+    "image": ""
+  },
+  {
+    "site": "CNN Brasil",
+    "title": "Mercado dobra participação no setor sucroenergético, aponta Itaú BBA",
+    "url": "https://www.cnnbrasil.com.br/agro/mercado-dobra-participacao-no-setor-sucroenergetico-aponta-itau-bba/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/FOTO-3TENTOS-PAN-2026-99.jpg-1.jpeg?w=1200&h=630&crop=1"
+  },
+  {
+    "site": "Terra",
+    "title": "Tal pai, tal filho: aos 20 anos, herdeiro de Wagner Moura estreia nos cinemas ao lado de Marieta Severo",
+    "url": "https://www.terra.com.br/vida-e-estilo/tal-pai-tal-filho-aos-20-anos-herdeiro-de-wagner-moura-estreia-nos-cinemas-ao-lado-de-marieta-severo,2fc2ddc3dbcd6b46e0eac48d52e746aerfmn4c2d.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/11/17/961895241-capa-bons-fluidos-11-8.jpg"
+  },
+  {
+    "site": "BBC",
+    "title": "Drones, carros autônomos e robôs: o que a China vai mostrar a Trump e Putin — e a vida difícil dos trabalhadores fora da 'cidade das maravilhas'",
+    "url": "https://www.bbc.com/portuguese/articles/cmkgk37l1nv0o?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/c637/live/5938bed0-e1b4-11f1-9a3f-99aca912798e.jpg"
+  },
+  {
+    "site": "G1",
+    "title": "Mega-Sena, concurso 3087: confira os números sorteados",
+    "url": "https://g1.globo.com/loterias/mega-sena/noticia/2026/11/17/mega-sena-concurso-3087-confira-os-numeros-sorteados.ghtml",
+    "image": "https://s2-g1.glbimg.com/qy4fKjxagQL_B-wFUYEdO2hUGeg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/j/P/SWmVpCSYe2ZiGlHFWwmQ/mega.jpeg"
+  },
+  {
+    "site": "UOL",
+    "title": "Quina tem prêmio acumulado de R$ 14,5 milhões; veja números sorteados",
+    "url": "https://noticias.uol.com.br/ultimas-noticias/redacao/2026/11/17/quina-concurso-7170-sorteio-17-de-novembro.htm",
+    "image": ""
+  },
+  {
+    "site": "CNN Brasil",
+    "title": "Ana Bruna confessa paixão por Tina em “A Fazenda 18”: “Não tenho vergonha”",
+    "url": "https://www.cnnbrasil.com.br/pop/realities/ana-bruna-confessa-paixao-por-tina-em-a-fazenda-18-nao-tenho-vergonha/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/ana-bruna-tina-calamba-apaixonada-a-fazenda-18.jpg?w=1200&h=630&crop=1"
+  },
+  {
+    "site": "Terra",
+    "title": "A Netflix lança em novembro 'Quasímodo: A Alma de Paris': a história sobre o corcunda que a Disney não se atreveu a contar",
+    "url": "https://www.terra.com.br/diversao/tv/a-netflix-lanca-em-novembro-quasimodo-a-alma-de-paris-a-historia-sobre-o-corcunda-que-a-disney-nao-se-atreveu-a-contar,94a41d0ef531e39e55eea950c259981a8e5ia2vx.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/11/17/1537714600-3184082fb4ed5783-1400x823-2.png"
+  },
+  {
+    "site": "BBC",
+    "title": "De Batman a James Bond: as pistas sobre o que esperar do 007 de Robert Pattinson",
+    "url": "https://www.bbc.com/portuguese/articles/cwm2mlmrn93lo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/457e/live/091e9740-e28a-11f1-99b6-a35a62fa4264.png"
+  },
+  {
+    "site": "G1",
+    "title": "PF prende uma pessoa em Belém em operação contra fraudes de R$ 4,7 milhões no BPC",
+    "url": "https://g1.globo.com/pa/para/noticia/2026/11/17/operacao-da-pf-em-belem-contra-fraudes-de-r-47-milhoes-no-bpc.ghtml",
+    "image": "https://s2-g1.glbimg.com/Cm8inxp33xGAsKapW79TYTbdm_U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/I/YmZpVnRaatMexv7rsPmA/image-2026-11-17t205656.363.png"
+  },
+  {
+    "site": "UOL",
+    "title": "Com prêmio estimado de R$ 2 milhões, confira dezenas sorteadas da Lotofácil",
+    "url": "https://noticias.uol.com.br/ultimas-noticias/redacao/2026/11/17/lotofacil-concurso-3832-sorteio-17-de-novembro.htm",
+    "image": ""
+  },
+  {
+    "site": "CNN Brasil",
+    "title": "Mesmo sob pressão, usinas de cana devem manter liquidez, aponta Itaú BBA",
+    "url": "https://www.cnnbrasil.com.br/agro/mesmo-sob-pressao-usinas-de-cana-devem-manter-liquidez-aponta-itau-bba/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/Reuters_Direct_Media/BrazilOnlineReportAgribusinessNews/tagreuters.com2026binary_LYNXMPEM4B13B-BASEIMAGE.jpg?w=800&h=533&crop=1"
+  },
+  {
+    "site": "Terra",
+    "title": "Sistema Imigrantes-Anchieta começa a operar com pedágio elétrico; veja quando",
+    "url": "https://www.terra.com.br/noticias/brasil/cidades/sistema-imigrantes-anchieta-comeca-a-operar-com-pedagio-eletrico-veja-quando,d427801f87f7665aed7b8c38429aba3114rhxw1v.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/11/17/1534726614-wfvwyfskzven3buiil4fuarssy.png"
+  },
+  {
+    "site": "BBC",
     "title": "O que é o ajuste fiscal que o mercado cobra de Lula? Entenda por que ele desagrada muita gente e divide economistas",
     "url": "https://www.bbc.com/portuguese/articles/cklyw32d9n7vo?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/b911/live/612c1bf0-dedf-11f1-a75a-dbf83836672c.jpg"
   },
   {
     "site": "G1",
-    "title": "Como cinco operações de alimentação atendem às rotinas no Itaipu Parquetec",
-    "url": "https://g1.globo.com/pr/oeste-sudoeste/especial-publicitario/apetit/noticia/2026/11/17/como-cinco-operacoes-de-alimentacao-atendem-as-rotinas-no-itaipu-parquetec.ghtml",
-    "image": "https://s2-g1.glbimg.com/mdakFqs2aprjOhb_Pq5YG6Q-uhM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/R/SRNybtRByEmjBmWCwapg/capa-apetit.jpg"
+    "title": "VÍDEOS: Jornal do Acre 2ª Edição desta terça-feira, 17 de novembro de 2026",
+    "url": "https://g1.globo.com/ac/acre/playlist/videos-jornal-do-acre-2-edicao-desta-terca-feira-17-de-novembro-de-2026.ghtml",
+    "image": "https://s2-g1.glbimg.com/ZKWPVOy9NEfF-CEkH2j1rehloxk=/s01.video.glbimg.com/deo/vi/77/16/15201677"
   },
   {
     "site": "UOL",
-    "title": "Janja cumpre agenda oficial na Itália, após Lula retornar ao Brasil",
-    "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/11/17/janja-italia.ghtm",
-    "image": ""
+    "title": "Prefeitura de SP multa concessionária por corte irregular de árvores ao lado do aeroporto de Congonhas",
+    "url": "https://www1.folha.uol.com.br/cotidiano/2026/11/prefeitura-de-sp-multa-concessionaria-por-corte-irregular-de-arvores-ao-lado-do-aeroporto-de-congonhas.shtml",
+    "image": "https://f.i.uol.com.br/fotografia/2026/11/17/17949508696afcc6d5be9cd_1794950869_3x2_lg.jpg"
   },
   {
     "site": "CNN Brasil",
-    "title": "“Estamos trabalhando para unificar”, diz Guimarães sobre racha na base",
-    "url": "https://www.cnnbrasil.com.br/politica/estamos-trabalhando-para-unificar-diz-guimaraes-sobre-racha-na-base/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/01/GUIMARAES-PLENARIO-16-12-25.jpg?w=1200&h=630&crop=1"
+    "title": "Traficante cai de dez metros ao tentar fugir da polícia no Brás",
+    "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/traficante-cai-de-dez-metros-ao-tentar-fugir-da-policia-no-bras/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/fugitivo-.png?w=883&h=486&crop=1"
   },
   {
     "site": "Terra",
-    "title": "Endrick celebra nascimento de Kendrick e revela curiosidades astrológicas",
-    "url": "https://www.terra.com.br/vida-e-estilo/horoscopo/endrick-celebra-nascimento-de-kendrick-e-revela-curiosidades-astrologicas,0be1409c148513de809b293638f92a5dp3fv5x8q.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/11/17/873821189-1794922412.jpg"
+    "title": "Palmeiras define 'primeiro reforço' para 2027",
+    "url": "https://www.terra.com.br/esportes/palmeiras/palmeiras-define-primeiro-reforco-para-2027,8b36703102c43291d97804b194acb6d881ybizpj.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/11/17/1051998689-54710006005a7788bc994h-1.jpg"
   },
   {
     "site": "BBC",
-    "title": "Até onde o dólar pode subir? Por que o real é a moeda que mais perdeu valor desde a reeleição de Lula",
-    "url": "https://www.bbc.com/portuguese/articles/cmj4r9klkqego?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/c2aa/live/c1bafd90-e27e-11f1-bd1e-f9c53347c5a6.jpg"
+    "title": "'Perturbador': mulher que acusa Russell Brand reage à mensagem que ele enviou de dentro da prisão",
+    "url": "https://www.bbc.com/portuguese/articles/c804w7wppw5ko?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/aec1/live/ed4fb3d0-e2a9-11f1-8226-87dfa5049e9a.jpg"
   },
   {
     "site": "G1",
-    "title": "Coordenador de transporte é preso após ser flagrado dirigindo ambulância sem CNH no Acre",
-    "url": "https://g1.globo.com/ac/acre/noticia/2026/11/17/coordenador-de-transporte-e-preso-apos-ser-flagrado-dirigindo-ambulancia-sem-cnh-no-acre.ghtml",
-    "image": "https://s2-g1.glbimg.com/cvjlhooyzmK7M2JCpbQrg8HX6-8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/W/vtLjKLSmK4mKI6tGPkqw/whatsapp-image-2026-11-17-at-09.53.17.jpeg"
+    "title": "Baixa cobertura vacinal contra sarampo e meningite preocupa autoridades de saúde no Brasil",
+    "url": "https://g1.globo.com/jornal-nacional/noticia/2026/11/17/baixa-cobertura-vacinal-contra-sarampo-e-meningite-preocupa-autoridades-de-saude-no-brasil.ghtml",
+    "image": "https://s2-g1.glbimg.com/fSbcRzzL6v9evCf6Ff2S9XtVUD0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/B/snzEJLTPKDXOwRm7xJDg/globo-canal-4-20261117-2000-frame-70793.jpeg"
   },
   {
     "site": "UOL",
-    "title": "Crianças usam rádio para combater mitos sobre Ebola na República Democrática do Congo",
-    "url": "https://noticias.uol.com.br/internacional/ultimas-noticias/2026/11/17/criancas-usam-radio-para-combater-mitos-sobre-ebola-no-congo.ghtm",
+    "title": "Mega-Sena sorteia prêmio acumulado de R$ 32,1 milhões; confira dezenas",
+    "url": "https://noticias.uol.com.br/ultimas-noticias/redacao/2026/11/17/mega-sena-concurso-3087-sorteio-17-de-novembro.htm",
     "image": ""
   },
   {
     "site": "CNN Brasil",
-    "title": "PF faz operação contra detento que aliciava crianças pela internet no Rio",
-    "url": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/pf-faz-operacao-contra-detento-que-aliciava-criancas-pela-internet-no-rio/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/Operacao-perfil-falso-PF-2025.png?w=1066&h=599&crop=1"
+    "title": "Minerva aprova aumento de capital de R$ 701 após exercício de bônus",
+    "url": "https://www.cnnbrasil.com.br/agro/minerva-aprova-aumento-de-capital-de-r-701-apos-exercicio-de-bonus/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/minerva_site_aerea.jpg?w=1200&h=630&crop=1"
   },
   {
     "site": "Terra",
-    "title": "Can Yaman, galã de novelas turcas, sobre sua rotina: 'Trabalhar na Turquia é bem diferente. Lá, as filmagens duram 16 ou 17 horas por dia e também trabalhamos aos domingos. Na Europa, isso é impossível, porque os direitos humanos não permitem'",
-    "url": "https://www.terra.com.br/diversao/gente/can-yaman-gala-de-novelas-turcas-sobre-sua-rotina-trabalhar-na-turquia-e-bem-diferente-la-as-filmagens-duram-16-ou-17-horas-por-dia-e-tambem-trabalhamos-aos-domingos-na-europa-isso-e-impossivel-porque-os-direitos-humanos-nao-permitem,ff33ac9260e5125b6613e75b528774952gz118xt.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/11/17/665407854-c41520f67a5f6da2-1400x823-2.jpg"
-  },
-  {
-    "site": "BBC",
-    "title": "Por que a Europa pediu a seus cidadãos para fazerem kits de emergência?",
-    "url": "https://www.bbc.com/portuguese/articles/cmkgvnlel7ydo?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/4fef/live/25ecf8b0-e20f-11f1-949a-f7d7fdb21969.jpg"
-  },
-  {
-    "site": "G1",
-    "title": "Homens armados são presos suspeitos de invadir casa em obras e amarrar pedreiro e mulher para roubar",
-    "url": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/11/17/homens-armados-sao-presos-suspeitos-de-invadir-casa-em-obras-e-amarrar-pedreiro-e-mulher-para-roubar.ghtml",
-    "image": "https://s2-g1.glbimg.com/rLBgNHPNfCAg78SJ_ItehKaEYfk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/Y/zOBiauQXGaOzpoJnBJsg/foto-g1-38-.png"
-  },
-  {
-    "site": "UOL",
-    "title": "Menina escapa de tiros após se separar dos pais em ataque na Polônia",
-    "url": "https://noticias.uol.com.br/internacional/ultimas-noticias/2026/11/17/menina-escapa-de-tiros-apos-se-separar-dos-pais-em-ataque-na-polonia.ghtm",
-    "image": ""
-  },
-  {
-    "site": "CNN Brasil",
-    "title": "Brasil gastou R$ 14,5 bi com aplicação da Lei de Drogas em 2024, diz estudo",
-    "url": "https://www.cnnbrasil.com.br/nacional/brasil/brasil-gastou-r-145-bi-com-aplicacao-da-lei-de-drogas-em-2024-diz-estudo/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2022/02/Captura-de-tela-2022-02-23-140757.png?w=878&h=495&crop=1"
-  },
-  {
-    "site": "Terra",
-    "title": "Arminio Fraga: 'Ainda existe uma visão muito atrasada de crescimento a qualquer custo'; assista",
-    "url": "https://www.terra.com.br/economia/arminio-fraga-ainda-existe-uma-visao-muito-atrasada-de-crescimento-a-qualquer-custo-assista,fa16e19caa0745b7a608cf515dd8c7e9hjikk6yd.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/11/17/1669277061-6n7jkesrybby5byo3l4ulbsykm.jpg"
-  },
-  {
-    "site": "BBC",
-    "title": "De onde surgiu a teoria sobre apagão em 17 de novembro - e por que ele é improvável",
-    "url": "https://www.bbc.com/portuguese/articles/c57429m97421o?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/c03b/live/20c62ab0-dfa2-11f1-ab35-8541e0a03fdd.jpg"
-  },
-  {
-    "site": "G1",
-    "title": "Presidente do STJ dá prazo para Buzzi desocupar apartamento funcional e determina devolução de equipamentos",
-    "url": "https://g1.globo.com/politica/noticia/2026/11/17/presidente-do-stj-da-prazo-para-buzzi-desocupar-apartamento-funcional-e-determina-devolucao-de-equipamentos.ghtml",
-    "image": "https://s2-g1.glbimg.com/BjrC3M5atWlKteIIXauB4dlwkMU=/2048x0/filters:format(jpeg)/https://i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/4/BXgZwlTL6WGBsZYO7Mww/marco-buzzi.jpg"
-  },
-  {
-    "site": "UOL",
-    "title": "Irã diz que EUA usam relatos de 'bomba suja' para justificar novos ataques",
-    "url": "https://noticias.uol.com.br/internacional/ultimas-noticias/2026/11/17/ira-diz-que-relatos-sobre-bomba-suja-e-barragens-preparam-novos-ataques.ghtm",
-    "image": ""
-  },
-  {
-    "site": "CNN Brasil",
-    "title": "Análise: Regra dos EUA deve beneficiar empresas tech americanas no Brasil",
-    "url": "https://www.cnnbrasil.com.br/economia/money/inteligencia-artificial/analise-regras-dos-eua-devem-beneficiar-empresas-americanas-no-brasil/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/07/chip-memoria-rotated-e1783019423146.jpg?w=1200&h=630&crop=1"
-  },
-  {
-    "site": "Terra",
-    "title": "Seu dinheiro cresceu, mas seu patrimônio também? Entenda a rentabilidade real",
-    "url": "https://www.terra.com.br/economia/seu-dinheiro-cresceu-mas-seu-patrimonio-tambem-entenda-a-rentabilidade-real,18e40554d783317949f593cdbf533969j9p8wyr3.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/11/17/1782015907-0d93e568-tesouro-direto-imagem-jpg.jpg"
+    "title": "Reino Unido entrega oficial do Exército dos EUA em investigação de espionagem",
+    "url": "https://www.terra.com.br/noticias/mundo/reino-unido-entrega-oficial-do-exercito-dos-eua-em-investigacao-de-espionagem,dc023fb8bee0b6ffc0d383aab8bb6e0cuvb3wh60.html",
+    "image": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png"
   },
   {
     "site": "BBC",
@@ -127,27 +217,27 @@
   },
   {
     "site": "G1",
-    "title": "VÍDEO: Capivara é resgatada pelos bombeiros após ser vista correndo por ruas na Zona Leste de São José dos Campos",
-    "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/11/17/video-capivara-e-resgatada-pelos-bombeiros-apos-ser-vista-correndo-por-ruas-na-zona-leste-de-sao-jose-dos-campos.ghtml",
-    "image": "https://s2-g1.glbimg.com/Rp34QY1pP6ctLkEIOYopreWZiF8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/W/CFZ4DdS3KgKLGzAlLO2Q/texto-do-seu-paragrafo-2026-11-17t120132.616.png"
+    "title": "Resultados das Loterias Caixa",
+    "url": "https://g1.globo.com/loterias/sorteios-caixa/ao-vivo/resultado-loterias-caixa.ghtml",
+    "image": "https://s2-g1.glbimg.com/TYUj5G-ZAz5mYqN0uQwgnihJsmM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/O/HbhSAMTXWWGVQevkl8bQ/captura-de-tela-2026-06-25-205539.png"
   },
   {
     "site": "UOL",
-    "title": "Ex-militar é absolvida pela morte da filha após dois anos presa nos EUA",
-    "url": "https://noticias.uol.com.br/internacional/ultimas-noticias/2026/11/17/ex-guarda-costeira-e-absolvida-em-caso-da-morte-da-filha-apos-2-julgamento.ghtm",
+    "title": "Violência das gangues no Haiti impede chegada de ajuda humanitária, enquanto desnutrição infantil se agrava",
+    "url": "https://noticias.uol.com.br/ultimas-noticias/reuters/2026/11/17/violencia-das-gangues-no-haiti-impede-chegada-de-ajuda-humanitaria-enquanto-desnutricao-infantil-se-agrava.htm",
     "image": ""
   },
   {
     "site": "CNN Brasil",
-    "title": "Da Amazônia ao Sudeste, o caminho da energia vira filme",
-    "url": "https://www.cnnbrasil.com.br/branded-content/noticias/da-amazonia-ao-sudeste-o-caminho-da-energia-vira-filme/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/magic_editTUFIYkxrYkpWMXMjMSM0YzMyNDhiNTRmNmE5OGE0Y2E5NmZmNWYyYThiMDE1MyMxMzMwIyNUUkFOU0ZPUk1BVElPTl9SRVFVRVNU.png?w=1200&h=630&crop=1"
+    "title": "Justiça decreta prisão preventiva de mulher que tentou raptar bebê em BH",
+    "url": "https://www.cnnbrasil.com.br/nacional/sudeste/mg/justica-decreta-prisao-preventiva-de-mulher-que-tentou-raptar-bebe-em-bh/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/MULHER-SEQUESTRO-MATERNIDADE.png?w=1200&h=630&crop=1"
   },
   {
     "site": "Terra",
-    "title": "Gabriely Miranda desabafa e fala motivo de não anunciar o nascimento do filho com Endrick",
-    "url": "https://www.terra.com.br/diversao/gente/gabriely-miranda-desabafa-e-fala-motivo-de-nao-anunciar-o-nascimento-do-filho-com-endrick,4dc174d4c4e8346949d619d0cfc6475eprabcfu4.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/11/17/1203189827-gabriely-2026-11-17t134335000z.jpg"
+    "title": "Meia vai abrir mão de férias no final de ano no São Paulo",
+    "url": "https://www.terra.com.br/esportes/sao-paulo/meia-vai-abrir-mao-de-ferias-no-final-de-ano-no-sao-paulo,d48caec57ce488a49647463b38f66c7cb1wb70zd.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/11/17/1748335197-55618697163fb395f54edk.jpg"
   },
   {
     "site": "BBC",
@@ -157,146 +247,56 @@
   },
   {
     "site": "G1",
-    "title": "Vendedora com renda de R$ 1,5 mil é suspeita de movimentar R$ 2,3 milhões em esquema de tráfico no TO, aponta polícia",
-    "url": "https://g1.globo.com/to/tocantins/noticia/2026/11/17/vendedora-com-renda-de-r-15-mil-movimentou-r-23-milhoes-em-esquema-de-trafico-de-drogas-no-to-aponta-policia.ghtml",
-    "image": "https://s2-g1.glbimg.com/7p-Fd0ua-ra_DE4-TTZPfOCg35Y=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/s/fTah1DRWiglZjAu09DfQ/whatsapp-image-2026-11-17-at-092842jpeg.jpeg"
+    "title": "Suspeitos de matar mulher por engano são apreendidos no PI; alvo seria companheira de membro de facção",
+    "url": "https://g1.globo.com/pi/piaui/noticia/2026/11/17/suspeitos-de-matar-mulher-por-engano.ghtml",
+    "image": "https://s2-g1.glbimg.com/Ni_k9Dlni3Mr4YXYyUNN9n-tGmA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/0/QiqdrTTVSFVBf7gIXxgQ/edicao-imagens-g1-27-.jpg"
   },
   {
     "site": "UOL",
-    "title": "Putin perde força e busca China e EUA para acabar com a guerra na Ucrânia",
-    "url": "https://noticias.uol.com.br/colunas/walter-maierovitch/2026/11/17/putin-perde-forca-e-busca-china-e-eua-para-acabar-com-a-guerra-na-ucrania.htm",
-    "image": ""
+    "title": "O ovo é saudável? Conheça seus benefícios e cuidados no consumo",
+    "url": "https://www1.folha.uol.com.br/equilibrioesaude/2026/11/o-ovo-e-saudavel-conheca-seus-beneficios-e-cuidados-no-consumo.shtml",
+    "image": "https://f.i.uol.com.br/fotografia/2026/11/16/17948613146afb690292525_1794861314_3x2_rt.jpg"
   },
   {
     "site": "CNN Brasil",
-    "title": "Resumo de “Por Você”: veja os capítulos de 23 a 28 de novembro",
-    "url": "https://www.cnnbrasil.com.br/pop/tv/resumo-de-por-voce-veja-os-capitulos-de-23-a-28-de-novembro/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/peixe.jpg?w=1200&h=630&crop=1"
+    "title": "Precatórios: Revisão pelo CNJ pode afetar caixa da União e venda de crédito",
+    "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/precatorios-revisao-pelo-cnj-pode-afetar-caixa-da-uniao-e-venda-de-credito/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/03/ChatGPT-Image-2-de-mar.-de-2026-17_16_39.png?w=1200&h=630&crop=1"
   },
   {
     "site": "Terra",
-    "title": "Vinagre aberto: refrigerar ou guardar no armário?",
-    "url": "https://www.terra.com.br/vida-e-estilo/degusta/receitas/vinagre-aberto-refrigerar-ou-guardar-no-armario,56b78302d9657ba271ad1eb88ecafea8wbumn8ue.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/11/17/854054212-vinagre.jpg"
+    "title": "Após trabalhar 14 anos na Rede Globo, jornalista está trabalhando em novo canal",
+    "url": "https://www.terra.com.br/diversao/apos-trabalhar-14-anos-na-rede-globo-jornalista-esta-trabalhando-em-novo-canal,c5a758c18ec98f95e42f6d5311a14da3h1ybzguv.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/11/17/1731070483-rede-globo.jpg"
   },
   {
     "site": "BBC",
-    "title": "'Meu nome é Pattinson, Robert Pattinson': como o astro de Crepúsculo virou o novo James Bond, o 007",
-    "url": "https://www.bbc.com/portuguese/articles/c8wy53qwzn4no?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/751e/live/b66d5e50-e1e4-11f1-9f14-b33806cfd783.jpg"
+    "title": "Em áudio | O caso da herdeira alemã acusada de encomendar o sequestro dos próprios filhos que levou a um escândalo de espionagem",
+    "url": "https://www.bbc.com/portuguese/listen/cm9w9lw77gw8o?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/5222/live/9e1435e0-e2a2-11f1-99b6-a35a62fa4264.jpg"
   },
   {
     "site": "G1",
-    "title": "EPTV 1 Campinas ao vivo",
-    "url": "https://g1.globo.com/sp/campinas-regiao/ao-vivo/veja-o-eptv-1-ao-vivo.ghtml",
-    "image": "https://s2-g1.glbimg.com/k7wZiPzBi-9kR_ZPsmxuNhVg_vY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/R/Y/fCi2VOQW6Q3ijDF0KB2w/still0418-00003.jpg"
+    "title": "Registro raro: cerca de 15 indígenas que vivem isolados na Amazônia brasileira entram em contato com outro grupo no Maranhão",
+    "url": "https://g1.globo.com/jornal-nacional/noticia/2026/11/17/registro-raro-cerca-de-15-indigenas-que-vivem-isolados-na-amazonia-brasileira-entram-em-contato-com-outro-grupo-no-maranhao.ghtml",
+    "image": "https://s2-g1.glbimg.com/XnlqewLlk-itnl1VmEWWsqlJyZk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/j/ACGTBBT52EiONbAnoYxg/globo-canal-4-20261117-2000-frame-57463.jpeg"
   },
   {
     "site": "UOL",
-    "title": "Nove linhas de ônibus mudam de número em SP no sábado (21); veja quais",
-    "url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/11/17/nove-linhas-da-transwolff-mudam-de-numero-e-empresa-em-sao-paulo.ghtm",
+    "title": "Paquistanês pega 27 anos e meio por trama contra Trump",
+    "url": "https://noticias.uol.com.br/internacional/ultimas-noticias/2026/11/17/paquistanes-pega-27-anos-e-meio-por-trama-contra-trump.ghtm",
     "image": ""
   },
   {
     "site": "CNN Brasil",
-    "title": "Por que não conseguimos parar de pensar no apagão mundial e no fim do mundo? Entenda o ‘laboratório emocional’ por trás do caos",
-    "url": "https://www.cnnbrasil.com.br/curiosidades/por-que-nao-conseguimos-parar-de-pensar-no-apagao-mundial-e-no-fim-do-mundo-entenda-o-laboratorio-emocional-por-tras-do-caos/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/apagao-mundial.jpg?w=1200&h=630&crop=1"
+    "title": "CBF define árbitro para ‘final’ do Brasileirão entre Palmeiras x Flamengo",
+    "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/cbf-define-arbitro-para-final-do-brasileirao-entre-palmeiras-x-flamengo/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/10/juiz-e1792009242232.webp?w=643&h=361&crop=1"
   },
   {
     "site": "Terra",
-    "title": "Com direito a gol de Gustavo Gómez, Paraguai derrota o Japão",
-    "url": "https://www.terra.com.br/esportes/futebol/internacional/com-direito-a-gol-de-gustavo-gomez-paraguai-derrota-o-japao,ba877e86fe2630b25259d52fdb22f322hts5k870.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/11/17/1678727240-japao-e-paraguai-amistoso-internacional-1-610x400.jpg"
-  },
-  {
-    "site": "BBC",
-    "title": "O que aprendi ao passar 14 anos acompanhando famílias que não saem da pobreza:  'Muito além de decisões pessoais'",
-    "url": "https://www.bbc.com/portuguese/articles/cm3eg8e5y0jvo?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/25ad/live/85bcf280-e14d-11f1-b11b-dd14e59ca2da.jpg"
-  },
-  {
-    "site": "G1",
-    "title": "Novo prefeito diz que Natividade vive situação de calamidade e não garante 13º salário",
-    "url": "https://g1.globo.com/rj/norte-fluminense/noticia/2026/11/17/novo-prefeito-diz-que-natividade-vive-situacao-de-calamidade-e-nao-garante-13o-salario.ghtml",
-    "image": "https://s2-g1.glbimg.com/O3b2877bae2cWSd2rGwI95l2VIM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/1/LAQAAZQiKjXBuupVpPXg/claudao.jpg"
-  },
-  {
-    "site": "UOL",
-    "title": "Turbulência forte em voo para os EUA deixa cinco pessoas feridas",
-    "url": "https://noticias.uol.com.br/internacional/ultimas-noticias/2026/11/17/turbulencia-forte-em-voo-da-jetblue-deixa-cinco-pessoas-feridas-nos-eua.ghtm",
-    "image": ""
-  },
-  {
-    "site": "CNN Brasil",
-    "title": "Astro turco, Can Yaman chama atenção em aeroporto de SP",
-    "url": "https://www.cnnbrasil.com.br/pop/celebridades/astro-turco-can-yaman-chama-atencao-em-aeroporto-de-sp/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/can-yaman.png?w=1200&h=630&crop=1"
-  },
-  {
-    "site": "Terra",
-    "title": "'Ideia minha': autor de 'Quem Ama Cuida', Walcyr Carrasco quebra o silêncio sobre cena íntima entre Mau Mau e Felipe e faz revelação surpreendente sobre casal",
-    "url": "https://www.terra.com.br/diversao/tv/ideia-minha-autor-de-quem-ama-cuida-walcyr-carrasco-quebra-o-silencio-sobre-cena-intima-entre-mau-mau-e-felipe-e-faz-revelacao-surpreendente-sobre-casal,da2caf3715a5b50a39e2f7accff7309cgh4w2uvy.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/11/17/807034168-e596561779e73117-1400x823-2.jpg"
-  },
-  {
-    "site": "BBC",
-    "title": "O alerta após vídeo de FHC investigado pela polícia: 'Redes estão cheias de posts feitos por quem deveria proteger os vulneráveis'",
-    "url": "https://www.bbc.com/portuguese/articles/c8p3v923q2y4o?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/5e5d/live/849b8440-df9d-11f1-a9ad-6774a3284d10.jpg"
-  },
-  {
-    "site": "G1",
-    "title": "Carreta atinge homem, derruba poste e deixa imóveis sem energia em avenida de Mogi das Cruzes",
-    "url": "https://g1.globo.com/sp/mogi-das-cruzes-suzano/noticia/2026/11/17/carreta-atinge-homem-derruba-poste-e-deixa-imoveis-sem-energia-em-avenida-de-mogi-das-cruzes.ghtml",
-    "image": "https://s2-g1.glbimg.com/WUYsOVxFUv_LFHLVJDj49DGyytg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/N/iQrHa5QIaa255CqRdApQ/g1-templates.png"
-  },
-  {
-    "site": "UOL",
-    "title": "Operação contra facção prende 21 pessoas e bloqueia R$ 84 milhões",
-    "url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/11/17/operacao-contra-faccao-bloqueia-ate-r-84-milhoes-em-ativos.ghtm",
-    "image": ""
-  },
-  {
-    "site": "CNN Brasil",
-    "title": "Entidade teme que PL das big techs coloque em risco liberdade de expressão",
-    "url": "https://www.cnnbrasil.com.br/politica/entidade-teme-que-pl-das-big-techs-coloque-em-risco-liberdade-de-expressao/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2024/11/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbTNwc2QyazgwMDBrM2I2bTUwMzUzdnhs-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtM3BzOWV3NDAwMXQyNnFqNnNuejkycXE.jpg?w=1200&h=630&crop=1"
-  },
-  {
-    "site": "Terra",
-    "title": "'Lá na Minha Terra': Almerindo pressiona Rosenda sobre amor e recebe resposta inesperada",
-    "url": "https://www.terra.com.br/diversao/tv/novelas/la-na-minha-terra-almerindo-pressiona-rosenda-sobre-amor-e-recebe-resposta-inesperada,fe8f85bb81ba705b7ee170add4a13da9sunefunr.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/11/17/1873317325-contigo-3-14.jpg"
-  },
-  {
-    "site": "BBC",
-    "title": "Por que Lindsay Clancy, acusada de matar os 3 filhos, será julgada novamente no ano que vem",
-    "url": "https://www.bbc.com/portuguese/articles/c6vg29vpwllqo?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/0f3a/live/c50f43d0-e1dd-11f1-99a1-253766e7ad8b.jpg"
-  },
-  {
-    "site": "G1",
-    "title": "Davi Assayag e padre Mauro Maia fazem show com sucessos de Roberto Carlos em Boa Vista",
-    "url": "https://g1.globo.com/rr/roraima/noticia/2026/11/17/davi-assayag-e-padre-mauro-maia-fazem-show-com-sucessos-de-roberto-carlos-em-boa-vista.ghtml",
-    "image": "https://s2-g1.glbimg.com/bPK96swJwNbwSU683BtQA3MyAy0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/c/5jEu3kSRatorkljO1RZQ/davi-e-padre.jpeg"
-  },
-  {
-    "site": "UOL",
-    "title": "É falsa capa da Veja que chama Sergio Moro de juiz ladrão",
-    "url": "https://noticias.uol.com.br/confere/ultimas-noticias/2026/11/17/desinformacao-falso-ia-capa-veja-sergio-moro-juiz-ladrao.ghtm",
-    "image": ""
-  },
-  {
-    "site": "CNN Brasil",
-    "title": "MP do Paraguai cumpre buscas nas casas dos irmãos de Santiago Peña",
-    "url": "https://www.cnnbrasil.com.br/internacional/mp-do-paraguai-cumpre-buscas-nas-casas-dos-irmaos-de-santiago-pena/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/BUSCAS-IRMAOS-PENA-PARAGUAI.png?w=1198&h=630&crop=1"
-  },
-  {
-    "site": "Terra",
-    "title": "Brad Pitt diz que 'gostaria' de interpretar um vilão do James Bond de Robert Pattinson",
-    "url": "https://www.terra.com.br/diversao/entre-telas/brad-pitt-diz-que-gostaria-de-interpretar-um-vilao-do-james-bond-de-robert-pattinson,9c422f57c3a72b2841420ddcc3ef171d9he9ojyf.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/11/17/431474034-brad-pitt-diz-que-gostaria-de-interpretar-um-vilao-do-james-bond-de-robert-pattinson-annalisa-ranzonigetty-images-olivia-wongfilmmagic.jpg"
+    "title": "Grupo de indígenas isolados se aproxima de comunidade no Maranhão e mobiliza Funai",
+    "url": "https://www.terra.com.br/noticias/grupo-de-indigenas-isolados-se-aproxima-de-comunidade-no-maranhao-e-mobiliza-funai,90654dd81af3025e076b1e5c9f10cdd2rqngklhs.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/11/17/2096380212-grupo-de-indigenas-awa-guaja-em-isolamento-voluntario.jpg"
   }
 ]
