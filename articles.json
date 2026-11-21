@@ -1,63 +1,183 @@
 [
   {
     "site": "BBC",
+    "title": "Os cidadãos impedidos pelo governo Ortega de voltar à Nicarágua: 'Sou ilegal no meu próprio país'",
+    "url": "https://www.bbc.com/portuguese/articles/c60rknr0jg4zo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/dcf4/live/923896f0-e296-11f1-8dda-8925a81c3da5.jpg"
+  },
+  {
+    "site": "G1",
+    "title": "Assista ao JAP2 deste sábado (21)",
+    "url": "https://g1.globo.com/ap/ao-vivo/assista-ao-jap2-desta-terca-17.ghtml",
+    "image": "https://s2-g1.glbimg.com/ARJtmJpjzvdlw5th43qSEdSHq2s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/B/gbA5GSTeOWy5nSzZVYqQ/whatsapp-image-2026-11-21-at-19.24.38.jpeg"
+  },
+  {
+    "site": "UOL",
+    "title": "Alcaraz enfrentará Zverev pelo título do ATP Finals",
+    "url": "https://www1.folha.uol.com.br/esporte/2026/11/alcaraz-enfrentara-zverev-pelo-titulo-do-atp-finals.shtml",
+    "image": "https://f.i.uol.com.br/fotografia/2026/11/21/17952997576b0219ad116e0_1795299757_3x2_rt.jpg"
+  },
+  {
+    "site": "CNN Brasil",
+    "title": "Premiê da Espanha pede que eleitores sigam exemplo da vitória de Lula",
+    "url": "https://www.cnnbrasil.com.br/internacional/premie-da-espanha-pede-que-eleitores-sigam-exemplo-da-vitoria-de-lula/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/Primeiro-ministro-espanhol-Pedro-Sanchez-pede-que-eleitores-a-sigam-exemplo-da-vitoria-de-Lula-no-Brasil.jpg?w=960&h=540&crop=1"
+  },
+  {
+    "site": "Terra",
+    "title": "Lucas Paquetá não se cala e fala o que pensa após Flamengo ser campeão contra o Palmeiras",
+    "url": "https://www.terra.com.br/esportes/flamengo/lucas-paqueta-nao-se-cala-e-fala-o-que-pensa-apos-flamengo-ser-campeao-contra-o-palmeiras,c3d20b9e5a60acc67187431f9b943630a2sda0v5.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/11/21/1292605068-paqueta.jpg"
+  },
+  {
+    "site": "BBC",
+    "title": "Por que aplaudir durante o pouso de um avião pode irritar as pessoas, segundo especialistas",
+    "url": "https://www.bbc.com/portuguese/articles/cm5y1xg8xqjqo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/021c/live/404e94e0-e47e-11f1-b740-89b25c3fbde9.jpg"
+  },
+  {
+    "site": "G1",
+    "title": "VÍDEO: Polícia investiga injúria racial após 'blackface' em clínica de bronzeamento no interior de SP",
+    "url": "https://g1.globo.com/sp/sao-carlos-regiao/noticia/2026/11/21/video-policia-investiga-injuria-racial-apos-blackface-em-clinica-de-bronzeamento-no-interior-de-sp.ghtml",
+    "image": "https://s2-g1.glbimg.com/p3ZskxzfXk7Jizt55pG8jivRHSk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/7/J8bE4WRPWTVHWo1Z7aAw/blackface-em-clinica-1-.jpg"
+  },
+  {
+    "site": "UOL",
+    "title": "Desafio de Lula: ajustar contas sem concessões aos 'yuppies'",
+    "url": "https://noticias.uol.com.br/colunas/josias-de-souza/2026/11/21/desafio-de-lula-ajustar-contas-sem-concessoes-aos-yuppies.htm",
+    "image": ""
+  },
+  {
+    "site": "CNN Brasil",
+    "title": "Epilepsia infantil: Genética impacta tratamento, dizem médicos a Dr. Kalil",
+    "url": "https://www.cnnbrasil.com.br/saude/epilepsia-infantil-genetica-impacta-tratamento-dizem-medicos-a-dr-kalil/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2025/08/figura-de-dna-em-fundo-desfocado.jpg?w=1200&h=630&crop=1"
+  },
+  {
+    "site": "Terra",
+    "title": "Leonardo Jardim celebra deca do Flamengo: \"Objetivo está concluído\"",
+    "url": "https://www.terra.com.br/esportes/flamengo/leonardo-jardim-celebra-deca-do-flamengo-objetivo-esta-concluido,f19502c6345531efbe0ffd7966bf4691jehfr012.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/11/21/850165043-2026-flamengo-tecnico-leonardo-jardim-decacampeonato-brasileiro.jpg"
+  },
+  {
+    "site": "BBC",
+    "title": "'O futuro para mulheres na pós-menopausa não é catastrófico, é libertador'",
+    "url": "https://www.bbc.com/portuguese/articles/c94g1gk54e2ro?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/36d4/live/1e771df0-da39-11f1-bde4-c13870167801.png"
+  },
+  {
+    "site": "G1",
+    "title": "PRF apreende carga de cigarros eletrônicos, perfumes e anabolizantes em Salgueiro",
+    "url": "https://g1.globo.com/pe/petrolina-regiao/noticia/2026/11/21/prf-apreende-carga-de-cigarros-eletronicos-perfumes-e-anabolizantes-em-salgueiro.ghtml",
+    "image": "https://s2-g1.glbimg.com/sMVLXoCfzlZLqA4xycXj1E3is1E=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/v/BECiC0RVewiceoknERkw/prf.png"
+  },
+  {
+    "site": "UOL",
+    "title": "Na COP31, embate sobre relatório climático ameaça negociações futuras",
+    "url": "https://noticias.uol.com.br/ultimas-noticias/deutschewelle/2026/11/21/na-cop31-embate-sobre-relatorio-climatico-ameaca-negociacoes-futuras.htm",
+    "image": ""
+  },
+  {
+    "site": "CNN Brasil",
+    "title": "Flamengo contraria CBF, leva taça de 2025 e faz festa na casa do Palmeiras",
+    "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/flamengo-contraria-cbf-leva-taca-de-2025-e-faz-festa-na-casa-do-palmeiras/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/mengo-e1795299279239.webp?w=660&h=372&crop=1"
+  },
+  {
+    "site": "Terra",
+    "title": "Flamengo improvisa taça em festa do título do Brasileirão; veja o momento",
+    "url": "https://www.terra.com.br/esportes/futebol/brasileiro-serie-a/flamengo-improvisa-taca-em-festa-do-titulo-do-brasileirao-veja-o-momento,0c867976fbc26e369352a94fb44fcb83jf8acs54.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/11/21/taca-(2)-s0ugl1kip7ox.jpg"
+  },
+  {
+    "site": "BBC",
+    "title": "'O câncer muda você': princesa Kate fala sobre doença em documentário da BBC",
+    "url": "https://www.bbc.com/portuguese/articles/cr3wgxxzw81xo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/c010/live/8fc02730-e5a7-11f1-8df2-d7de7bfd91b9.jpg"
+  },
+  {
+    "site": "G1",
+    "title": "Assista ao Boa Noite Espírito Santo",
+    "url": "https://g1.globo.com/es/espirito-santo/ao-vivo/ao-vivo-assista-ao-boa-noite-espirito-santo.ghtml",
+    "image": "https://s2-g1.glbimg.com/t6wDTJhkEZH4oGMdnsLLCTXWPgk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/J/E/FWHo3WQAWAXmBOAgYPgA/boa-noite-es.png"
+  },
+  {
+    "site": "UOL",
+    "title": "Governo Trump divulga documentos sobre supostos rastros do Pé-Grande",
+    "url": "https://www1.folha.uol.com.br/mundo/2026/11/governo-trump-divulga-documentos-sobre-supostos-rastros-do-pe-grande.shtml",
+    "image": "https://f.i.uol.com.br/fotografia/2026/11/21/17952963486b020c5c268e3_1795296348_3x2_rt.jpg"
+  },
+  {
+    "site": "CNN Brasil",
+    "title": "Arrascaeta e Bruno Henrique igualam marca de Zico no Flamengo; entenda",
+    "url": "https://www.cnnbrasil.com.br/esportes/futebol/flamengo/arrascaeta-e-bruno-henrique-igualam-marca-de-zico-no-flamengo-entenda/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/palmeiras-flamengo-13-e1795298306562.jpeg?w=990&h=557&crop=1"
+  },
+  {
+    "site": "Terra",
+    "title": "Leonardo Jardim é sincero após ser campeão pelo Flamengo",
+    "url": "https://www.terra.com.br/esportes/flamengo/leonardo-jardim-e-sincero-apos-ser-campeao-pelo-flamengo,ccac644aaaf9bb1d575fee0e07288250ytmj1a53.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/11/21/1875270215-0834155d-4e6e-4e91-b3e0-0c2e980f6add.jpg"
+  },
+  {
+    "site": "BBC",
     "title": "Como governos Lula e Trump pretendem acabar com a 'guerra fria dos vistos diplomáticos'",
     "url": "https://www.bbc.com/portuguese/articles/cwz0k3r4npexo?at_medium=RSS&at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/1680/live/e6327ba0-e42f-11f1-99b6-a35a62fa4264.png"
   },
   {
     "site": "G1",
-    "title": "Comigo oferece mais de 160 vagas com salários de até R$ 10,7 mil em Goiás",
-    "url": "https://g1.globo.com/go/goias/noticia/2026/11/21/comigo-oferece-mais-de-160-vagas-com-salarios-de-ate-r-107-mil-em-goias.ghtml",
-    "image": "https://s2-g1.glbimg.com/-aqrCli-B_2Kc7pLdFtQerT2NkE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/r/hikFu8SKaNnxiwKDb3JQ/padrao-foto-texto-g1-2026-11-21t104953.383.jpg"
+    "title": "Assista aos telejornais da TV Liberal",
+    "url": "https://g1.globo.com/pa/para/ao-vivo/assista-aos-telejornais-da-tv-liberal.ghtml",
+    "image": "https://s2-g1.glbimg.com/WUW0t1oqkmWw5GuWBT43p5z01Tc=/smart/filters:strip_icc()/s2-g1.glbimg.com/kzhjOsZ-ptBZjJIyrcBRNim71Gs%3D/1280x0/filters%3Aformat%28jpeg%29/https%3A//thumbor.globoi.com/unsafe/fit-in/1280x720/s02.video.glbimg.com/deo/vi/77/83/2168377"
   },
   {
     "site": "UOL",
-    "title": "Navio de carga com destino a Kaliningrado, Rússia, é atingido por drones; Finlândia reforça medidas de segurança",
-    "url": "https://noticias.uol.com.br/ultimas-noticias/reuters/2026/11/21/navio-de-carga-com-destino-a-kaliningrado-russia-e-atingido-pordrones-finlandia-reforca-medidas-de-seguranca.htm",
-    "image": ""
+    "title": "Jogadores do Flamengo fazem festa do título com taça não oficial",
+    "url": "https://www1.folha.uol.com.br/esporte/2026/11/jogadores-do-flamengo-fazem-festa-do-titulo-com-taca-nao-oficial.shtml",
+    "image": "https://f.i.uol.com.br/fotografia/2026/11/21/17952990056b0216bda4980_1795299005_3x2_rt.jpg"
   },
   {
     "site": "CNN Brasil",
-    "title": "Sabrina Sato exibe barrigão de oito meses em ensaio da Gaviões da Fiel",
-    "url": "https://www.cnnbrasil.com.br/pop/carnaval/sabrina-sato-exibe-barrigao-de-oito-meses-em-ensaio-da-gavioes-da-fiel/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/Sabrina-Sato-14209432-15-e1795268304361.jpg?w=1065&h=600&crop=1"
+    "title": "Por que a gente continua vendo uma imagem mesmo depois de desviar o olhar?",
+    "url": "https://www.cnnbrasil.com.br/curiosidades/por-que-a-gente-continua-vendo-uma-imagem-mesmo-depois-de-desviar-o-olhar/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/desviar-olhar-e1794832220313.jpg?w=1200&h=630&crop=1"
   },
   {
     "site": "Terra",
-    "title": "Palmeiras x Flamengo vai passar na Rede Globo? Confira onde assistir ao jogo pelo Brasileirão",
-    "url": "https://www.terra.com.br/esportes/flamengo/palmeiras-x-flamengo-vai-passar-na-rede-globo-confira-onde-assistir-ao-jogo-pelo-brasileirao,3be04cb600500f26f0d50b4a4df6dd86qpybsf3y.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/11/21/216183802-23052026cgpalmeiras182539.png"
+    "title": "RS tem alerta de tempestade para este final de semana",
+    "url": "https://www.terra.com.br/noticias/previsao-do-tempo/rs-tem-alerta-de-tempestade-para-este-final-de-semana,5220c10b261ff3abe9c2a1df69763987pmumkqim.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/11/21/263465846-chuva-tempestade-temporal-tempo.jpg"
   },
   {
     "site": "BBC",
-    "title": "Ataques cibernéticos, IA ou atualizações pendentes: o que há por trás da onda de apagões dos últimos dias",
-    "url": "https://www.bbc.com/portuguese/articles/c3grendp775qo?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/8fae/live/2e7fcc60-e367-11f1-9f51-4bfc31543510.jpg"
+    "title": "'A cidade acabou': a destruição causada por temporal que provocou mortes no RS",
+    "url": "https://www.bbc.com/portuguese/articles/cqdr1xmyg3kzo?at_medium=RSS&at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/0843/live/70eea900-e541-11f1-86db-6b65e6759b43.jpg"
   },
   {
     "site": "G1",
-    "title": "Luan Santana celebra 19 anos de carreira com show na Arena da Amazônia neste sábado",
-    "url": "https://g1.globo.com/am/amazonas/noticia/2026/11/21/luan-santana-celebra-19-anos-de-carreira-com-show-na-arena-da-amazonia-neste-sabado.ghtml",
-    "image": "https://s2-g1.glbimg.com/mm-E9TseIYe9wnX78tVUK2YQSu0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/B/Fj5iipSAGnBQtArt45jw/design-sem-nome-2026-11-21t092903.192.png"
+    "title": "Assista ao BATV",
+    "url": "https://g1.globo.com/ba/bahia/ao-vivo/assista-aos-telejornais-da-tv-bahia.ghtml",
+    "image": "https://s2-g1.glbimg.com/GixC-Ts_zKQ-91DnDEsVmaqJ53c=/smart/filters:strip_icc()/s2-g1.glbimg.com/kRGA0vEOpTtOwxXd79EuXwkszck%3D/1280x0/filters%3Aformat%28jpeg%29/https%3A//thumbor.globoi.com/unsafe/fit-in/1280x720/s04.video.glbimg.com/deo/vi/39/40/2134039"
   },
   {
     "site": "UOL",
-    "title": "Seu filho mente? Por que este pode ser um bom sinal",
-    "url": "https://www1.folha.uol.com.br/equilibrio/2026/11/seu-filho-mente-por-que-este-pode-ser-um-bom-sinal.shtml",
-    "image": "https://f.i.uol.com.br/fotografia/2026/11/21/17952664966b0197c036332_1795266496_3x2_xl.jpg"
+    "title": "Apucarana ainda tem 1600 imóveis sem energia 24 horas após temporal",
+    "url": "https://tnonline.uol.com.br/noticias/apucarana/apucarana-ainda-tem-1600-imoveis-sem-energia-24-horas-apos-temporal-1175672",
+    "image": "https://cdn.tnonline.com.br/img/Instant-Article/1170000/1200x630/apucarana-ainda-tem-1600-mil-imoveis-sem-energia-a-01175672-0-202611211911/ScaleProportionalFillBackground-1.jpg?fallback=https%3A%2F%2Fcdn.tnonline.com.br%2Fimg%2FInstant-Article%2F1170000%2Fapucarana-ainda-tem-1600-mil-imoveis-sem-energia-a-01175672-0-202611211911.jpg%3Fxid%3D1872409&xid=1872409"
   },
   {
     "site": "CNN Brasil",
-    "title": "Harry Kane passa por cirurgia e pode desfalcar o Bayern por três meses",
-    "url": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/harry-kane-passa-por-cirurgia-e-pode-desfalcar-o-bayern-por-tres-meses/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/Kane-e1795268257955.jpeg?w=1200&h=630&crop=1"
+    "title": "Palmeiras 1 x 1 Flamengo: veja os melhores momentos pelo Brasileirão",
+    "url": "https://www.cnnbrasil.com.br/esportes/brasileirao/palmeiras-1-x-1-flamengo-veja-os-melhores-momentos-pelo-brasileirao/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/samuel-lino-gol-palmeiras-flamengo-e1795296109224.jpg?w=1200&h=630&crop=1"
   },
   {
     "site": "Terra",
-    "title": "Saiba onde assistir Palmeiras x Flamengo pelo segundo turno do Brasileirão",
-    "url": "https://www.terra.com.br/esportes/palmeiras/saiba-onde-assistir-palmeiras-x-flamengo-pelo-segundo-turno-do-brasileirao,b232752f7e7726704906918a86a15454fvyrit4t.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/11/21/991052834-nubank-parque.jpg"
+    "title": "5 plantas perfeitas para quem passa muito tempo fora de casa",
+    "url": "https://www.terra.com.br/vida-e-estilo/5-plantas-perfeitas-para-quem-passa-muito-tempo-fora-de-casa,ce24c02ed7c9fa6ade53b182a485776eaz6xnw6k.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/11/21/34532350-capa-bons-fluidos-2026-11-20t184141065.jpg"
   },
   {
     "site": "BBC",
@@ -67,26 +187,26 @@
   },
   {
     "site": "G1",
-    "title": "Drones atingem navio de carga russo no Golfo da Finlândia; país reforça segurança",
-    "url": "https://g1.globo.com/mundo/noticia/2026/11/21/drones-atingem-navio-de-carga-russo-no-golfo-da-finlandia-pais-reforca-seguranca.ghtml",
-    "image": "https://s2-g1.glbimg.com/VK_cbVik1VgAEOzOdVzZgHxJ_Tk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/d/S95ACxTHmXe4z2RkrWqA/helsinque-finlandia.jpg"
+    "title": "Criança de 3 anos se perde em mata enquanto avó colhia frutas e é encontrada 2h depois em Divinópolis",
+    "url": "https://g1.globo.com/mg/centro-oeste/noticia/2026/11/21/crianca-de-3-anos-se-perde-em-mata-enquanto-avo-colhia-frutas-e-e-encontrada-2h-depois-em-divinopolis.ghtml",
+    "image": "https://s2-g1.glbimg.com/6qGGklY1Dte1_X3C5dGwFVxQ03U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/u/3MdLr8TeCV5TJrfthyhw/design-sem-nome-5-.png"
   },
   {
     "site": "UOL",
-    "title": "Mulher é baleada em tentativa de feminicídio que terminou com acidente e apreensão de drogas em Londrina",
-    "url": "https://tnonline.uol.com.br/noticias/parana/mulher-e-baleada-em-tentativa-de-feminicidio-que-terminou-com-acidente-e-apreensao-de-drogas-em-londrina-1175629",
-    "image": "https://cdn.tnonline.com.br/img/Artigo-Destaque/1170000/1200x630/mulher-e-baleada-em-tentativa-de-feminicidio-que-t-01175629-0-202611211034/ScaleProportionalFillBackground-1.jpg?fallback=https%3A%2F%2Fcdn.tnonline.com.br%2Fimg%2FArtigo-Destaque%2F1170000%2Fmulher-e-baleada-em-tentativa-de-feminicidio-que-t-01175629-0-202611211034.jpg%3Fxid%3D1872307&xid=1872307"
+    "title": "Flamengo é campeão brasileiro de 2026 após empate com o Palmeiras",
+    "url": "https://tnonline.uol.com.br/noticias/esportes/flamengo-e-campeao-brasileiro-de-2026-apos-empate-com-o-palmeiras-1175670",
+    "image": "https://cdn.tnonline.com.br/img/Artigo-Destaque/1170000/1200x630/flamengo-e-campeao-brasileiro-de-2026-apos-empate--01175670-0-202611211855/ScaleProportionalFillBackground-1.jpg?fallback=https%3A%2F%2Fcdn.tnonline.com.br%2Fimg%2FArtigo-Destaque%2F1170000%2Fflamengo-e-campeao-brasileiro-de-2026-apos-empate--01175670-0-202611211855.jpg%3Fxid%3D1872396&xid=1872396"
   },
   {
     "site": "CNN Brasil",
-    "title": "Temporal atinge o Grupo Vega e paralisa atividades em Tupanciretã no RS",
-    "url": "https://www.cnnbrasil.com.br/agro/temporal-atinge-o-grupo-vega-e-paralisa-atividades-em-tupancireta-no-rs/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/grupo-vega-rs.png?w=900&h=344&crop=1"
+    "title": "Suposto affair de Virginia curte show em camarote com a influenciadora",
+    "url": "https://www.cnnbrasil.com.br/pop/celebridades/suposto-affair-de-virginia-curte-show-em-camarote-com-a-influenciadora/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/virginia-Kaua-Elias.png?w=1200&h=630&crop=1"
   },
   {
     "site": "Terra",
-    "title": "Terremoto de magnitude 6,8 na região andina do Peru leva moradores de Lima às ruas",
-    "url": "https://www.terra.com.br/noticias/mundo/terremoto-de-magnitude-68-na-regiao-andina-do-peru-leva-moradores-de-lima-as-ruas,f54c0f3f26802f0595e699bb6686c580idbr159n.html",
+    "title": "Confira a classificação atualizada do Brasileirão após título do Flamengo",
+    "url": "https://www.terra.com.br/esportes/futebol/confira-a-classificacao-atualizada-do-brasileirao-apos-titulo-do-flamengo,6e8fcfc8fd6a22e8dc50223d3afc451cwicbhw0x.html",
     "image": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png"
   },
   {
@@ -97,57 +217,27 @@
   },
   {
     "site": "G1",
-    "title": "Passageira morre e motociclista fica gravemente ferido após moto atingir canteiro na MG-423",
-    "url": "https://g1.globo.com/mg/centro-oeste/noticia/2026/11/21/passageira-morre-e-motociclista-fica-gravemente-ferido-apos-acidente-na-mg-423.ghtml",
-    "image": "https://s2-g1.glbimg.com/idOCmVW7XgGz7nWaJkno8fiTlHc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/8/31aC35T4KgSQnTPqvSPA/whatsapp-image-2026-11-21-at-10.24.47.jpeg"
+    "title": "Estudante de Psicologia é suspeita de racismo após vídeo com declarações discriminatórias no TO",
+    "url": "https://g1.globo.com/to/tocantins/noticia/2026/11/21/estudante-de-psicologia-e-suspeita-de-racismo-apos-video-com-declaracoes-discriminatorias-no-tocantins.ghtml",
+    "image": "https://s2-g1.glbimg.com/OnpsWPx8TyGKR1h_MxEbZlwSmHs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/g/B8ZfoqSgCD8waSOrhqFg/foto-e-montagem-vertical-2026-11-21t191616.859.jpg"
   },
   {
     "site": "UOL",
-    "title": "Auditoria revela moradia precária de resgatada após 35 anos em situação análoga à escravidão",
-    "url": "https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2026/11/21/auditoria-revela-moradia-precaria-de-resgatada-apos-35-anos-em-situacao-analoga-a-escravidao.htm",
+    "title": "Flamengo empata com Palmeiras e é campeão brasileiro de 2026",
+    "url": "https://noticias.uol.com.br/ultimas-noticias/afp/2026/11/21/flamengo-empata-com-palmeiras-e-e-campeao-brasileiro-de-2026.htm",
     "image": ""
   },
   {
     "site": "CNN Brasil",
-    "title": "Antonelli perde pole e Ferrari fica fora do Q3 pela primeira vez desde 2025",
-    "url": "https://www.cnnbrasil.com.br/esportes/automobilismo/antonelli-perde-pole-e-ferrari-fica-fora-do-q3-pela-primeira-vez-desde-2025/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/Ferrari-e1795267839236.jpeg?w=1200&h=630&crop=1"
+    "title": "Leonardo Jardim: de contestado no Flamengo a campeão brasileiro",
+    "url": "https://www.cnnbrasil.com.br/esportes/futebol/flamengo/leonardo-jardim-de-contestado-no-flamengo-a-campeao-brasileiro/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/leonardo-jardim-flamengo-palmeiras-e1795297882434.jpg?w=1200&h=630&crop=1"
   },
   {
     "site": "Terra",
-    "title": "Médica de 49 anos é encontrada morta dentro de hospital em São Paulo",
-    "url": "https://www.terra.com.br/noticias/brasil/cidades/medica-de-49-anos-e-encontrada-morta-dentro-de-hospital-em-sao-paulo,3c7c4706de7a02226937cd45a4102605i553zh0m.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/11/21/1472035502-yz5qoixeandgbfqkb4pzgj7llu.png"
-  },
-  {
-    "site": "BBC",
-    "title": "'A cidade acabou': a destruição causada por temporal que provocou mortes no RS",
-    "url": "https://www.bbc.com/portuguese/articles/cqdr1xmyg3kzo?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/0843/live/70eea900-e541-11f1-86db-6b65e6759b43.jpg"
-  },
-  {
-    "site": "G1",
-    "title": "Pesquisador da Paraíba produziu relatórios para a NASA na 1ª viagem tripulada à Lua",
-    "url": "https://g1.globo.com/pb/paraiba/noticia/2026/11/21/pesquisador-da-paraiba-produziu-relatorios-para-a-nasa-na-1a-viagem-tripulada-a-lua.ghtml",
-    "image": "https://s2-g1.glbimg.com/lAy1afuCxOs9gK1xmeDOmw5A4NY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/0/sYGybHScOpxCRl9xmgLw/homem-na-lua.png"
-  },
-  {
-    "site": "UOL",
-    "title": "Terremoto de magnitude 6,8 atinge o Mar de Banda, próximo a Timor-Leste, diz GFZ",
-    "url": "https://noticias.uol.com.br/ultimas-noticias/reuters/2026/11/21/terremoto-de-magnitude-68-atinge-o-mar-de-banda-proximo-a-timor-leste-diz-gfz.htm",
-    "image": ""
-  },
-  {
-    "site": "CNN Brasil",
-    "title": "Médica de 49 anos é encontrada morta dentro de hospital na zona Leste de SP",
-    "url": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/medica-de-49-anos-e-encontrada-morta-dentro-de-hospital-na-zona-leste-de-sp/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/Hospital-Salvalus.jpg?w=1200&h=630&crop=1"
-  },
-  {
-    "site": "Terra",
-    "title": "Procon-PE fiscaliza quatro empresas após denúncias de preços abusivos em passagens de ônibus intermunicipais",
-    "url": "https://www.terra.com.br/noticias/brasil/cidades/procon-pe-fiscaliza-quatro-empresas-apos-denuncias-de-precos-abusivos-em-passagens-de-onibus-intermunicipais,4237f7c0172588842fa408dd1eb83427bozeq47r.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/11/21/1524169333-procon-fiscaliza-empresas-que-comercializa-passagens-de-onibus-em-pe.jpg"
+    "title": "Torcedores do Flamengo comemoram campeonato no Brasileirão, veja memes",
+    "url": "https://www.terra.com.br/esportes/futebol/brasileiro-serie-a/torcedores-do-flamengo-comemoram-campeonato-no-brasileirao-veja-memes,367b282c2f0bb61bb7244145b9d253f3bc5gpfpj.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/11/21/377031833-g3bx5b47dzblpky3bix34s6c5u.jpg"
   },
   {
     "site": "BBC",
@@ -157,87 +247,27 @@
   },
   {
     "site": "G1",
-    "title": "VÍDEOS: Bom Dia Sábado, 21 de novembro",
-    "url": "https://g1.globo.com/se/sergipe/edicao/2026/11/21/videos-bom-dia-sabado-21-de-novembro.ghtml",
-    "image": "https://s2-g1.glbimg.com/ZUnF3t8UT16bWDV_yqJusxycAWw=/s01.video.glbimg.com/deo/vi/57/91/15269157"
+    "title": "Idoso é encontrado morto após cair em cisterna dentro de casa, no Recife",
+    "url": "https://g1.globo.com/pe/pernambuco/noticia/2026/11/21/idoso-e-encontrado-morto-apos-se-afogar-em-cisterna.ghtml",
+    "image": "https://s2-g1.glbimg.com/z1T4CsshsKiJaJjFosDrEWRQBL0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/w/qhI8zTQjGt3DkDZasztw/rua-ibirama.jpg"
   },
   {
     "site": "UOL",
-    "title": "Morre E.J. Carroll, ator de 'Law & Order', 'GTA 5' e 'O Lutador', aos 66",
-    "url": "https://www1.folha.uol.com.br/ilustrada/2026/11/morre-ej-carroll-ator-de-law-order-gta-5-e-o-lutador-aos-66.shtml",
-    "image": "https://f.i.uol.com.br/fotografia/2026/11/21/17952664726b0197a80408f_1795266472_3x2_rt.jpg"
+    "title": "Baixe o pôster do Flamengo campeão do Brasileiro de 2026",
+    "url": "https://www1.folha.uol.com.br/esporte/2026/11/baixe-o-poster-do-flamengo-campeao-do-brasileiro-de-2026.shtml",
+    "image": "https://f.i.uol.com.br/fotografia/2026/11/21/17952977286b0211c027f8c_1795297728_3x2_rt.jpg"
   },
   {
     "site": "CNN Brasil",
-    "title": "Fora dos palcos, Sérgio Reis investiu em mais de 2 mil hectares de fazendas, encontrou ouro e abriu mão de 3 mil cabeças de gado",
-    "url": "https://www.cnnbrasil.com.br/curiosidades/fora-dos-palcos-sergio-reis-investiu-em-mais-de-2-mil-hectares-de-fazendas-encontrou-ouro-e-abriu-mao-de-3-mil-cabecas-de-gado/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/Sergio-Reis-teve-3-mil-cabecas-de-gado-e-tres-fazendas-no-auge-de-sua-carreira-na-agropecuaria.png?w=1200&h=630&crop=1"
+    "title": "Sobe para 5 número de mortos em Tupanciretã (RS); 265 ficaram feridos",
+    "url": "https://www.cnnbrasil.com.br/nacional/sul/rs/sobe-para-5-o-numero-de-mortos-em-tupancireta-rs-265-ficaram-feridos/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/ESTRAGOS-TUPANCIRETA-1.png?w=1200&h=630&crop=1"
   },
   {
     "site": "Terra",
-    "title": "Rayssa Leal avança às semifinais da Copa do Mundo de skate street no Japão",
-    "url": "https://www.terra.com.br/esportes/rayssa-leal-avanca-as-semifinais-da-copa-do-mundo-de-skate-street-no-japao,2fe4bb9b6e0abf4934005628904ed44521srwbfl.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/11/21/718212755-wlpxc2cfnjbzfnbzwewco3bjhe.jpg"
-  },
-  {
-    "site": "BBC",
-    "title": "A batalha na Justiça para apagar homenagem a expoente do racismo científico no Brasil",
-    "url": "https://www.bbc.com/portuguese/articles/cm4gn08l5ldeo?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/260c/live/b5b11720-e4ed-11f1-8781-bf15c9202663.jpg"
-  },
-  {
-    "site": "G1",
-    "title": "Carreta tomba na BR-265, outra tenta passar e acaba atolada em manancial; acidentes interditam rodovia",
-    "url": "https://g1.globo.com/mg/zona-da-mata/noticia/2026/11/21/carreta-tomba-na-br-265-outra-tenta-passar-e-acaba-atolada-em-manancial-acidentes-interditam-rodovia.ghtml",
-    "image": "https://s2-g1.glbimg.com/A_J54dWuZ5ibUgXXkGB63fXHdHY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/s/A4ezpCTcWQSSQoSSYrHQ/whatsapp-image-2026-11-21-at-09.18.35.jpeg"
-  },
-  {
-    "site": "UOL",
-    "title": "México captura narcotraficante que está entre os dez mais procurados pelo FBI",
-    "url": "https://noticias.uol.com.br/ultimas-noticias/afp/2026/11/21/mexico-captura-narcotraficante-que-esta-entre-os-dez-mais-procurados-pelo-fbi.htm",
-    "image": ""
-  },
-  {
-    "site": "CNN Brasil",
-    "title": "Decreto do Redata tem impasse sobre gás natural e espera decisão de Lula",
-    "url": "https://www.cnnbrasil.com.br/politica/decreto-do-redata-tem-impasse-sobre-gas-natural-e-espera-decisao-de-lula/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/04/lula-2-e1795267479897.jpg?w=1200&h=630&crop=1"
-  },
-  {
-    "site": "Terra",
-    "title": "Escalação do Flamengo terá novidades no jogo do título",
-    "url": "https://www.terra.com.br/esportes/flamengo/escalacao-do-flamengo-tera-novidades-no-jogo-do-titulo,bea0bdd0dbdb96d2eab1de484c0bb325g72ynwkh.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/11/21/79339193-2026-flamengo-lucas-paqueta-selecao-brasileira-copa-do-mundo.jpg"
-  },
-  {
-    "site": "BBC",
-    "title": "Fiona, hipopótamo que viralizou nas redes por nascimento prematuro, morre após engolir gorro de lã em zoológico",
-    "url": "https://www.bbc.com/portuguese/articles/cjn502p90dzxo?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/ff3b/live/b1a3a370-e464-11f1-99a1-253766e7ad8b.jpg"
-  },
-  {
-    "site": "G1",
-    "title": "México captura narcotraficante que está entre os dez mais procurados pelo FBI",
-    "url": "https://g1.globo.com/mundo/noticia/2026/11/21/mexico-captura-narcotraficante-que-esta-entre-os-dez-mais-procurados-pelo-fbi.ghtml",
-    "image": "https://s2-g1.glbimg.com/Pgppkmln7ShO5pGo728kchVuiA0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/k/zHu1keTlC7G2zHD3UJ6A/captura-de-tela-2026-11-21-103610-1-.png"
-  },
-  {
-    "site": "UOL",
-    "title": "Terremoto de magnitude 6,8 na região andina do Peru leva moradores de Lima às ruas",
-    "url": "https://noticias.uol.com.br/ultimas-noticias/reuters/2026/11/21/terremoto-de-magnitude-68-na-regiao-andina-do-peru-leva-moradores-de-lima-as-ruas.htm",
-    "image": ""
-  },
-  {
-    "site": "CNN Brasil",
-    "title": "Palestinos deslocados em Gaza buscam refúgio em casas destruídas",
-    "url": "https://www.cnnbrasil.com.br/internacional/palestinos-deslocados-em-gaza-buscam-refugio-em-casas-destruidas/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/11/palestinos-deslocados-casas.jpeg.png?w=1200&h=630&crop=1"
-  },
-  {
-    "site": "Terra",
-    "title": "Presidente da marca de luxo Bulgari morre aos 89 anos na Itália",
-    "url": "https://www.terra.com.br/diversao/arte-e-cultura/presidente-da-marca-de-luxo-bulgari-morre-aos-89-anos-na-italia,0f1da158e66dc96e713e4b668612f520ep80minm.html",
-    "image": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png"
+    "title": "Arrascaeta e Bruno Henrique alcançam marca de Zico no Flamengo",
+    "url": "https://www.terra.com.br/esportes/flamengo/arrascaeta-e-bruno-henrique-alcancam-marca-de-zico-no-flamengo,7480d7e942a829a0223ca12081ff73b7j1pu0k2f.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/11/21/991282720-2026-campeonato-brasileiro-flamengo-zico-arrascaeta-bruno-henrique.jpg"
   },
   {
     "site": "BBC",
@@ -247,56 +277,26 @@
   },
   {
     "site": "G1",
-    "title": "Homem de 84 anos é identificado como a terceira vítima da tempestade em Tupanciretã; cidade do RS ficou destruída",
-    "url": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/11/21/tempestade-tupancireta-vitimas-identificadas-rs.ghtml",
-    "image": "https://s2-g1.glbimg.com/doPRY-DoDVDMCZ1umWUOmB6S6hA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/F/XAyXwwTUyKfOL4OKKUug/g1-74-.jpg"
+    "title": "Incêndio atinge funilaria em Campinas",
+    "url": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/11/21/incendio-atinge-funilaria-em-campinas.ghtml",
+    "image": "https://s2-g1.glbimg.com/7SBb7oIYy-AQ1pjmtoaVEsQnOTg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/B/SzzZu5QKOBxnbubtyMlg/captura-de-tela-2026-11-21-191742.png"
   },
   {
     "site": "UOL",
-    "title": "Idosa de 85 anos e ex-vereador estão entre mortos em temporal no RS",
-    "url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/11/21/idosa-e-ex-vereador-estao-entre-mortos-durante-tempestade-em-tupancireta.ghtm",
-    "image": ""
+    "title": "Temporais mudam agenda de cantores sertanejos no Paraná",
+    "url": "https://tnonline.uol.com.br/noticias/parana/temporais-mudam-agenda-de-cantores-sertanejos-no-parana-1175669",
+    "image": "https://cdn.tnonline.com.br/img/Artigo-Destaque/1170000/1200x630/temporais-mudam-agenda-de-cantores-sertanejos-no-p-01175669-0-202611211846/ScaleProportionalFillBackground-1.jpg?fallback=https%3A%2F%2Fcdn.tnonline.com.br%2Fimg%2FArtigo-Destaque%2F1170000%2Ftemporais-mudam-agenda-de-cantores-sertanejos-no-p-01175669-0-202611211846.png%3Fxid%3D1872387&xid=1872387"
   },
   {
     "site": "CNN Brasil",
-    "title": "Planalto estuda fusão de ministérios da Justiça e Direitos Humanos",
-    "url": "https://www.cnnbrasil.com.br/politica/planalto-estuda-fusao-de-ministerios-da-justica-e-direitos-humanos/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/06/55312195013_f36322d3a4_o.jpg?w=1200&h=630&crop=1"
+    "title": "Bolsonaro tem tornozeleira retirada e fica sob custódia 24h no hospital",
+    "url": "https://www.cnnbrasil.com.br/politica/bolsonaro-tem-tornozeleira-retirada-e-fica-sob-custodia-24h-no-hospital/",
+    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/04/jair-bolsonaro-interrogatorio-stf-ton-molina-9-jun-2025-2.jpg?w=1200&h=630&crop=1"
   },
   {
     "site": "Terra",
-    "title": "Ataque hacker atinge sistemas do FBI e do Departamento de Agricultura dos EUA",
-    "url": "https://www.terra.com.br/noticias/ataque-hacker-atinge-sistemas-do-fbi-e-do-departamento-de-agricultura-dos-eua,a9d62c490c81132a18d0f5d491451a46hvk3hc45.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/11/21/dados-hackers-r1id5v6ogy7k.jpg"
-  },
-  {
-    "site": "BBC",
-    "title": "Míssil russo atinge a Polônia e primeiro-ministro fala em 'provocação'",
-    "url": "https://www.bbc.com/portuguese/articles/c699en8vvy34o?at_medium=RSS&at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/news/1200/branded_portuguese/cbb7/live/b5de9720-e4ea-11f1-99b6-a35a62fa4264.jpg"
-  },
-  {
-    "site": "G1",
-    "title": "Ex-vereador de Brejão morre após bater carro contra vaca solta na pista, em Garanhuns",
-    "url": "https://g1.globo.com/pe/caruaru-regiao/noticia/2026/11/21/ex-vereador-de-brejao-morre-apos-bater-carro-contra-vaca-solta-na-pista-em-garanhuns.ghtml",
-    "image": "https://s2-g1.glbimg.com/RNLvXr25w1sNuir12qRBn_p3KSI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/t/0wpGmKRuuxIy8LacfI6Q/design-sem-nome.png"
-  },
-  {
-    "site": "UOL",
-    "title": "Sal Maldon, famoso entre chefs, tem origem questionada após investigação",
-    "url": "https://noticias.uol.com.br/internacional/ultimas-noticias/2026/11/21/sal-maldon-famoso-entre-chefs-tem-origem-questionada-apos-investigacao.htm",
-    "image": ""
-  },
-  {
-    "site": "CNN Brasil",
-    "title": "Nasce bebê de Tati Machado: “Nosso primeiro encontro”",
-    "url": "https://www.cnnbrasil.com.br/pop/celebridades/nasce-bebe-de-tati-machado-nosso-primeiro-encontro/",
-    "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/07/tati-machado_b85ce0-e1783968226129.jpg?w=1080&h=610&crop=1"
-  },
-  {
-    "site": "Terra",
-    "title": "São Paulo tem previsão de tempo abafado e chuva; veja como será o fim de semana",
-    "url": "https://www.terra.com.br/noticias/brasil/cidades/sao-paulo-tem-previsao-de-tempo-abafado-e-chuva-veja-como-sera-o-fim-de-semana,65af821676934668f30e985604b8c582f6hppcy8.html",
-    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/11/21/433574864-ffrq6w3jgzhjbi4vndvnpxoey4.jpg"
+    "title": "Flamengo se torna o maior campeão da era pontos corridos no Brasileirão; veja ranking",
+    "url": "https://www.terra.com.br/esportes/flamengo/flamengo-se-torna-o-maior-campeao-da-era-pontos-corridos-no-brasileirao-veja-ranking,984395b7b806ef2a0c126097689b28c0or0bma22.html",
+    "image": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/11/21/995314560-palmeiras-v-flamengo-brasileirao-2026-2-2048x1365.jpg"
   }
 ]
